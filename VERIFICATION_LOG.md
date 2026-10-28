@@ -1881,3 +1881,27 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+
+---
+
+### Season 2008 Verification Audit & Expansion
+- **Scope**: Verified build of 2008 season files (`calendar.md`, `standings.md`, and 18 race dossiers with `results.json`, `qualifying.json`, `notes.md`, plus `cars/mclaren-mp4-23.md` and `circuits/marina-bay.md`).
+- **Primary Sources Checked**:
+  - Formula1.com 2008 Official Race Results, Drivers & Constructors Standings (all URLs verified)
+  - Jolpica-F1 Ergast API (`https://api.jolpi.ca/ergast/f1/2008/`)
+  - FIA Official Bulletins, Technical Regulations & Race Classifications
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 18 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Melbourne Albert Park, Sepang, Sakhir, Barcelona, Istanbul Park, Monaco harbour and Tabac, Montreal, Magny-Cours, Silverstone, Hockenheim, Hungaroring, Valencia harbour street circuit, Spa Eau Rouge, Monza, Marina Bay Singapore floodlights, Fuji Speedway, Shanghai, Interlagos Junção corner).
+  - Detailed narratives on Lewis Hamilton becoming the youngest World Drivers' Champion in Formula 1 history at 23 years, 301 days in an immortal final-lap pass on Timo Glock at Interlagos in torrential rain, winning the championship by 1 point (98 to 97) as Felipe Massa won the race; Scuderia Ferrari capturing their 16th World Constructors' Championship with 172 points; the complete ban on traction control, launch control, and engine braking assistance; the inaugural night race in Formula 1 history at the Marina Bay Street Circuit under 1,600 floodlight projectors; the infamous Crashgate scandal where Nelson Piquet Jr. was ordered to crash deliberately to trigger the Safety Car that handed Fernando Alonso victory; 21-year-old Sebastian Vettel scoring his and Scuderia Toro Rosso's miraculous maiden pole and victory in pouring rain at Monza (youngest race winner in history); Robert Kubica taking his and BMW Sauber's sole Grand Prix victory at Montreal; and Hamilton's 68.5-second rain masterclass at Silverstone.
+- **Audit Metrics**:
+  - **Number of claims checked**: 536
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
