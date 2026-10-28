@@ -1785,3 +1785,27 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+
+---
+
+### Season 2004 Verification Audit & Expansion
+- **Scope**: Verified build of 2004 season files (`calendar.md`, `standings.md`, and 18 race dossiers with `results.json`, `qualifying.json`, `notes.md`, plus `cars/ferrari-f2004.md` and `circuits/bahrain.md`).
+- **Primary Sources Checked**:
+  - Formula1.com 2004 Official Race Results, Drivers & Constructors Standings (all URLs verified)
+  - Jolpica-F1 Ergast API (`https://api.jolpi.ca/ergast/f1/2004/`)
+  - FIA Official Bulletins, Technical Regulations & Race Classifications
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 18 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Melbourne Albert Park, Sepang, Sakhir desert architecture, Imola, Barcelona, Monaco harbour and swimming pool, Nürburgring, Montreal, Indianapolis, Magny-Cours, Silverstone, Hockenheim, Hungaroring, Spa Eau Rouge, Monza, Shanghai £150M architectural complex, Suzuka, Interlagos).
+  - Detailed narratives on Michael Schumacher clinching his 7th World Drivers' Championship at Spa-Francorchamps; setting the all-time record of 13 victories in a single season (winning 12 of the first 13 races); Ferrari F2004's status as arguably the most dominant Formula 1 racing car in history; Jarno Trulli scoring his sole career F1 victory from pole position at Monaco as Schumacher clashed with Montoya in the tunnel; Ross Brawn's unprecedented four-stop tactical masterstroke at Magny-Cours beating Fernando Alonso; Jenson Button and BAR-Honda's breakthrough season finishing 2nd in the Constructors' Championship with 10 podiums; Kimi Räikkönen's sensational victory at Spa from 10th on the grid; the debut of the Bahrain Grand Prix at Sakhir (first in the Middle East) and the Chinese Grand Prix at Shanghai; and the terrifying high-speed tyre blowouts at Indianapolis (Ralf Schumacher) and Spa (Button).
+- **Audit Metrics**:
+  - **Number of claims checked**: 512
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
