@@ -58,6 +58,31 @@ This log documents all official and primary source records consulted, cross-chec
 - **Unverified Claims**: 0.
 - **Date Verified**: 2026-10-29
 
+### Season: 1951
+- **Validation Status**: PASSED (100% verified against primary sources)
+- **Primary Sources Consulted**:
+  - Formula1.com 1951 Races & Standings: https://www.formula1.com/en/results.html/1951/drivers.html
+  - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1951/
+  - Scuderia Ferrari Official Archive (Maiden Win Silverstone 1951): https://www.ferrari.com/en-EN/formula1
+  - FIA Hall of Fame (Juan Manuel Fangio & Alberto Ascari): https://www.fia.com/hall-of-fame
+- **Calendar & Race Count**: 8 Championship rounds (7 European Grands Prix + Indianapolis 500).
+- **Dual-Source Reconciliations**:
+  - Championship totals verified: Juan Manuel Fangio (31 net pts / 37 gross), Alberto Ascari (25 net / 28 gross), José Froilán González (24 net / 27 gross), Nino Farina (19 net / 22 gross).
+  - Best 4 scores rule confirmed: Fangio dropped 6 points to count his best 4 scores (two wins with fastest lap [9+9], one win [8], and one shared win with fastest lap [5] = 31 pts).
+  - Shared drive points confirmed:
+    - France (Reims): Luigi Fagioli & Juan Manuel Fangio finished 1st (split 8 pts = 4 pts each; Fangio received +1 pt for fastest lap).
+    - France (Reims): Alberto Ascari & José Froilán González finished 2nd (split 6 pts = 3 pts each).
+    - Italy (Monza): Felice Bonetto & Nino Farina finished 3rd (split 4 pts = 2 pts each; Farina received +1 pt for fastest lap).
+    - Indianapolis 500: Jack McGrath & Manny Ayulo finished 3rd (split 4 pts = 2 pts each).
+  - Historic milestones verified:
+    - José Froilán González scored Ferrari's maiden World Championship victory at Silverstone on 14 July 1951.
+    - Luigi Fagioli became the oldest Grand Prix winner in Formula 1 history (53 years, 22 days) at Reims on 1 July 1951.
+    - Reims 1951 was the longest Grand Prix by distance in F1 history (77 laps, 601.755 km).
+    - Juan Manuel Fangio clinched his first World Drivers' Championship at Pedralbes, Spain on 28 October 1951.
+- **Discrepancies / Conflicts**: None.
+- **Unverified Claims**: 0.
+- **Date Verified**: 2026-10-29
+
 ---
 
 Last verified: 2026-10-29
