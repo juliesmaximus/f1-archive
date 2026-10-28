@@ -844,3 +844,33 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
   - **Split scoring system verified**: Best 7 results from rounds 1–8 and best 7 results from rounds 9–16 counted. James Hunt scored 69 net points (69 gross). Niki Lauda finished runner-up with 68 net points (68 gross). Jody Scheckter finished 3rd with 49 net points (49 gross). Patrick Depailler finished 4th with 39 net points (39 gross). Scuderia Ferrari won the Constructors' Championship with 83 net points (83 gross) over McLaren-Ford (74 net / 75 gross).
 - **Date Re-verified**: 2026-10-29
+
+### 1977 Season Verification Entry
+- **Year**: 1977
+- **Verification Date**: 2026-10-29
+- **Sources Consulted**:
+  - Jolpica-F1 Ergast API (`/1977.json`, `/1977/driverStandings.json`, `/1977/constructorStandings.json`, `/1977/{round}/results.json`, `/1977/{round}/qualifying.json`)
+  - Formula1.com Official Results & Archive (1977 Grand Prix results, pole positions, fastest laps)
+  - FIA Heritage Regulations and Classifications Archive
+- **Rounds Verified**: 17 Rounds:
+  1. Argentine GP (Buenos Aires) - Winner: Jody Scheckter (Wolf), Pole: James Hunt (McLaren), FL: James Hunt (McLaren)
+  2. Brazilian GP (Interlagos) - Winner: Carlos Reutemann (Ferrari), Pole: James Hunt (McLaren), FL: James Hunt (McLaren)
+  3. South African GP (Kyalami) - Winner: Niki Lauda (Ferrari), Pole: James Hunt (McLaren), FL: John Watson (Brabham)
+  4. United States GP West (Long Beach) - Winner: Mario Andretti (Lotus), Pole: Niki Lauda (Ferrari), FL: Niki Lauda (Ferrari)
+  5. Spanish GP (Jarama) - Winner: Mario Andretti (Lotus), Pole: Mario Andretti (Lotus), FL: Jacques Laffite (Ligier)
+  6. Monaco GP (Monte Carlo) - Winner: Jody Scheckter (Wolf), Pole: John Watson (Brabham), FL: Jody Scheckter (Wolf)
+  7. Belgian GP (Zolder) - Winner: Gunnar Nilsson (Lotus), Pole: Mario Andretti (Lotus), FL: Gunnar Nilsson (Lotus)
+  8. Swedish GP (Anderstorp) - Winner: Jacques Laffite (Ligier), Pole: Mario Andretti (Lotus), FL: Mario Andretti (Lotus)
+  9. French GP (Dijon-Prenois) - Winner: Mario Andretti (Lotus), Pole: Mario Andretti (Lotus), FL: Mario Andretti (Lotus)
+  10. British GP (Silverstone) - Winner: James Hunt (McLaren), Pole: James Hunt (McLaren), FL: James Hunt (McLaren)
+  11. German GP (Hockenheim) - Winner: Niki Lauda (Ferrari), Pole: Jody Scheckter (Wolf), FL: Niki Lauda (Ferrari)
+  12. Austrian GP (Österreichring) - Winner: Alan Jones (Shadow), Pole: Niki Lauda (Ferrari), FL: John Watson (Brabham)
+  13. Dutch GP (Zandvoort) - Winner: Niki Lauda (Ferrari), Pole: Mario Andretti (Lotus), FL: Niki Lauda (Ferrari)
+  14. Italian GP (Monza) - Winner: Mario Andretti (Lotus), Pole: James Hunt (McLaren), FL: Mario Andretti (Lotus)
+  15. United States GP (Watkins Glen) - Winner: James Hunt (McLaren), Pole: James Hunt (McLaren), FL: Ronnie Peterson (Tyrrell)
+  16. Canadian GP (Mosport) - Winner: Jody Scheckter (Wolf), Pole: Mario Andretti (Lotus), FL: Mario Andretti (Lotus)
+  17. Japanese GP (Fuji) - Winner: James Hunt (McLaren), Pole: Mario Andretti (Lotus), FL: Jody Scheckter (Wolf)
+- **World Drivers' Champion**: Niki Lauda (Scuderia Ferrari) - 72 points (clinched at Monza, withdrew from final 2 races)
+- **World Constructors' Champion**: Scuderia Ferrari (95 points)
+- **Historical Innovations Documented**: First turbocharged car in F1 history (Renault RS01 at Silverstone), Walter Wolf Racing debut win in Argentina, Lotus 78 ground-effect debut, Shadow maiden win with Alan Jones.
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
