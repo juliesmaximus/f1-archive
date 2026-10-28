@@ -2023,3 +2023,27 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+
+---
+
+### Season 2011 Verification Audit & Expansion
+- **Scope**: Verified build of 2011 season files (`calendar.md`, `standings.md`, and 19 race dossiers with `results.json`, `qualifying.json`, `notes.md`, plus `cars/redbull-rb7.md` and `circuits/buddh-international.md`).
+- **Primary Sources Checked**:
+  - Formula1.com 2011 Official Race Results, Drivers & Constructors Standings (all URLs verified)
+  - Jolpica-F1 Ergast API (`https://api.jolpi.ca/ergast/f1/2011/`)
+  - FIA Official Bulletins, Technical Regulations & Race Classifications
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 19 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Melbourne Albert Park, Sepang, Shanghai, Istanbul Park Turn 8, Barcelona, Monaco swimming pool, Montreal, Valencia, Silverstone, Nürburgring, Hungaroring, Spa Eau Rouge, Monza Curva Grande, Singapore Marina Bay, Suzuka, Yeongam Korea, Buddh International Circuit India, Yas Marina, Interlagos).
+  - Detailed narratives on Sebastian Vettel clinching his second consecutive World Drivers' Championship at 24 years, 98 days (youngest double champion in history) with 11 victories and an all-time single-season record 15 pole positions (breaking Nigel Mansell's 1992 record); Red Bull Racing clinching back-to-back Constructors' crowns with 650 points; the introduction of the Drag Reduction System (DRS) and Pirelli high-degradation tyres transforming overtaking dynamics; Jenson Button's miraculous victory in the longest race in Formula 1 history at Montreal (4 hours, 4 minutes, 39 seconds), charging from 21st (last) on lap 40 to pass Vettel on the final lap; Mark Webber's iconic 190 mph inside overtake on Alonso into the compression of Eau Rouge; the inaugural Indian Grand Prix at Buddh International Circuit; and the bitter season-long on-track feud between Lewis Hamilton and Felipe Massa.
+- **Audit Metrics**:
+  - **Number of claims checked**: 548
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
