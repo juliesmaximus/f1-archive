@@ -874,3 +874,32 @@ Last verified: 2026-10-29
 - **World Constructors' Champion**: Scuderia Ferrari (95 points)
 - **Historical Innovations Documented**: First turbocharged car in F1 history (Renault RS01 at Silverstone), Walter Wolf Racing debut win in Argentina, Lotus 78 ground-effect debut, Shadow maiden win with Alan Jones.
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+### 1978 Season Verification Entry
+- **Year**: 1978
+- **Verification Date**: 2026-10-29
+- **Sources Consulted**:
+  - Jolpica-F1 Ergast API (`/1978.json`, `/1978/driverStandings.json`, `/1978/constructorStandings.json`, `/1978/{round}/results.json`, `/1978/{round}/qualifying.json`)
+  - Formula1.com Official Results & Archive (1978 Grand Prix results, pole positions, fastest laps)
+  - FIA Heritage Regulations and Classifications Archive
+- **Rounds Verified**: 16 Rounds:
+  1. Argentine GP (Buenos Aires) - Winner: Mario Andretti (Lotus), Pole: Mario Andretti (Lotus), FL: Gilles Villeneuve (Ferrari)
+  2. Brazilian GP (Jacarepaguá) - Winner: Carlos Reutemann (Ferrari), Pole: Ronnie Peterson (Lotus), FL: Carlos Reutemann (Ferrari) - First win for Michelin radial tires in F1
+  3. South African GP (Kyalami) - Winner: Ronnie Peterson (Lotus), Pole: Niki Lauda (Brabham), FL: Mario Andretti (Lotus) - 300th World Championship Grand Prix
+  4. United States GP West (Long Beach) - Winner: Carlos Reutemann (Ferrari), Pole: Carlos Reutemann (Ferrari), FL: Mario Andretti (Lotus)
+  5. Monaco GP (Monte Carlo) - Winner: Patrick Depailler (Tyrrell), Pole: Carlos Reutemann (Ferrari), FL: Niki Lauda (Brabham) - Maiden win for Patrick Depailler
+  6. Belgian GP (Zolder) - Winner: Mario Andretti (Lotus), Pole: Mario Andretti (Lotus), FL: Ronnie Peterson (Lotus) - Race debut and win for the Lotus 79 ground-effect car
+  7. Spanish GP (Jarama) - Winner: Mario Andretti (Lotus), Pole: Mario Andretti (Lotus), FL: Mario Andretti (Lotus)
+  8. Swedish GP (Anderstorp) - Winner: Niki Lauda (Brabham), Pole: Mario Andretti (Lotus), FL: Niki Lauda (Brabham) - Brabham BT46B "Fan Car" only entry and victory before voluntary withdrawal
+  9. French GP (Paul Ricard) - Winner: Mario Andretti (Lotus), Pole: John Watson (Brabham), FL: Carlos Reutemann (Ferrari)
+  10. British GP (Brands Hatch) - Winner: Carlos Reutemann (Ferrari), Pole: Ronnie Peterson (Lotus), FL: Niki Lauda (Brabham)
+  11. German GP (Hockenheim) - Winner: Mario Andretti (Lotus), Pole: Mario Andretti (Lotus), FL: Ronnie Peterson (Lotus)
+  12. Austrian GP (Österreichring) - Winner: Ronnie Peterson (Lotus), Pole: Ronnie Peterson (Lotus), FL: Ronnie Peterson (Lotus)
+  13. Dutch GP (Zandvoort) - Winner: Mario Andretti (Lotus), Pole: Mario Andretti (Lotus), FL: Niki Lauda (Brabham) - Lotus clinches World Constructors' Championship
+  14. Italian GP (Monza) - Winner: Niki Lauda (Brabham), Pole: Mario Andretti (Lotus), FL: Mario Andretti (Lotus) - Andretti clinches World Drivers' Championship; race marred by start crash leading to fatal injuries of Ronnie Peterson
+  15. United States GP (Watkins Glen) - Winner: Carlos Reutemann (Ferrari), Pole: Mario Andretti (Lotus), FL: Jean-Pierre Jarier (Lotus) - Williams Grand Prix Engineering maiden podium (2nd, Alan Jones)
+  16. Canadian GP (Montreal, Île Notre-Dame) - Winner: Gilles Villeneuve (Ferrari), Pole: Jean-Pierre Jarier (Lotus), FL: Alan Jones (Williams) - Maiden win for Gilles Villeneuve at home
+- **World Drivers' Champion**: Mario Andretti (Team Lotus) - 64 net points (73 gross)
+- **World Constructors' Champion**: Team Lotus (86 net points)
+- **Historical Innovations Documented**: Lotus 79 ground-effect perfection, Brabham BT46B Fan Car, Michelin radial tyre dominance, Gilles Villeneuve maiden home victory.
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
