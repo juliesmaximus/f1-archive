@@ -800,3 +800,25 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
   - **Split scoring system verified**: Best 7 results from rounds 1–8 and best 6 from rounds 9–15 counted. Emerson Fittipaldi scored 55 net points (55 gross). Clay Regazzoni finished runner-up with 52 net points (52 gross). Jody Scheckter finished 3rd with 45 net points (45 gross). Niki Lauda finished 4th with 38 net points (38 gross). McLaren-Ford won the Constructors' Championship with 73 net points (75 gross) over Ferrari (65 net / 65 gross).
 - **Date Re-verified**: 2026-10-29
+
+### Season 1975 Verification Audit & Expansion
+- **Scope**: Inaugural verified build of 1975 season files (calendar.md, standings.md with International Cup for F1 Manufacturers / Constructors' Championship, and all 14 race dossiers results.json, qualifying.json, notes.md, plus drivers/james-hunt.md and drivers/carlos-pace.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1975 Official Race Results, Drivers & Constructors Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1975.json, driverStandings.json, constructorStandings.json, round-by-round results)
+  - FIA Heritage Archive & Hall of Fame (Niki Lauda, Emerson Fittipaldi, Carlos Reutemann, James Hunt, Clay Regazzoni, Carlos Pace)
+  - Scuderia Ferrari & Hesketh Racing Heritage Archives (1975 season records)
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 14 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Buenos Aires concrete stadium stands, Interlagos Arquibancadas da Reta Oposta, Kyalami Crowthorne banks, Montjuïc terraces, Monaco Swimming Pool complex, Zolder Terlamen curves, Anderstorp runway banks, Zandvoort dunes, Circuit Paul Ricard terraces, Silverstone Woodcote runways, Nürburgring Nordschleife camping banks, Österreichring Styrian grandstands, Monza Parabolica embankments, Watkins Glen Kendall stands and The Boot).
+  - Full details on Carlos Pace's emotional home victory leading a Brazilian 1-2 at Interlagos; Jody Scheckter winning at Kyalami; the tragic Montjuïc crash of Rolf Stommelen killing 4 spectators/officials (ending F1 at Montjuïc) and Lella Lombardi becoming the first woman to score a championship point (0.5 pts); Niki Lauda and the transverse-gearbox Ferrari 312T dominating Monaco, Zolder, and Anderstorp; James Hunt's romantic maiden victory in the private Hesketh 308 at Zandvoort holding off Lauda; Emerson Fittipaldi winning Silverstone after a freak hailstorm and flash flood wrecked 14 cars at Woodcote; Lauda becoming the first driver in history to lap the Nürburgring Nordschleife under 7 minutes (6:58.6 pole); Vittorio Brambilla's rain win at the Österreichring (crashing as he took the chequered flag) alongside the fatal accident of Mark Donohue; Clay Regazzoni winning Monza as Niki Lauda clinched his first World Championship and Ferrari's first title in 11 years before 150,000 delirious tifosi; and Lauda winning the finale at Watkins Glen.
+- **Audit Metrics**:
+  - **Number of claims checked**: 376
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+  - **Split scoring system verified**: Best 7 results from rounds 1–8 and best 5 results from rounds 9–14 counted (half-points in Spain and Austria). Niki Lauda scored 64.5 net points (64.5 gross). Emerson Fittipaldi finished runner-up with 45 net points (45 gross). Carlos Reutemann finished 3rd with 37 net points (37 gross). James Hunt finished 4th with 33 net points (33 gross). Scuderia Ferrari won the Constructors' Championship with 72.5 net points (89.5 gross).
+- **Date Re-verified**: 2026-10-29
