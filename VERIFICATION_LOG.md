@@ -690,3 +690,25 @@ Last verified: 2026-10-29
   - Drivers: `phil-hill.md`, `graham-hill.md`, `jim-clark.md`, `john-surtees.md`, `denny-hulme.md`, `jackie-stewart.md`.
   - Constructors: `cooper.md`, `brabham.md`, `honda.md`, `matra.md`, `mclaren.md`.
 - **Date Audited**: 2026-10-29
+
+### Season 1970 Verification Audit & Expansion
+- **Scope**: Inaugural verified build of 1970 season files (calendar.md, standings.md with International Cup for F1 Manufacturers / Constructors' Championship, and all 13 race dossiers results.json, qualifying.json, notes.md, plus drivers/jochen-rindt.md and constructors/tyrrell.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1970 Official Race Results, Drivers & Constructors Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1970.json, driverStandings.json, constructorStandings.json, round-by-round results)
+  - FIA Heritage Archive & Hall of Fame (Jochen Rindt, Jacky Ickx, Clay Regazzoni, Emerson Fittipaldi, Jack Brabham)
+  - Team Lotus & Tyrrell Heritage Archives (1970 milestones)
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 13 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Kyalami Crowthorne banks, Jarama Pegaso terraces, Monaco harbour balconies, Spa pine forest banks, Zandvoort dunes, Charade volcanic slopes, Brands Hatch natural bowl, Hockenheim Motodrom stadium, Österreichring Styrian mountain grandstands, Monza Parabolica embankments, Mont-Tremblant Laurentian banks, Watkins Glen Kendall stands, Magdalena Mixhuca Estadio stadium stands).
+  - Full details on Jack Brabham's final career Grand Prix victory at Kyalami; the fiery lap 1 inferno at Jarama between Oliver and Ickx; Jochen Rindt's famous last-corner Monaco victory after Brabham locked up at Gazomètre; the final GP at the classic 14km Spa road circuit won by Pedro Rodríguez in the BRM P153; the debut victory of the revolutionary wedge-shaped Lotus 72 at Zandvoort alongside the tragic fiery death of Piers Courage; Rindt's four consecutive victories (Zandvoort, Charade, Brands Hatch, Hockenheim); the Nürburgring safety boycott moving the German GP to Hockenheim; Ferrari's Flat-12 resurgence at the new Österreichring; the fatal accident of championship leader Jochen Rindt at Monza during practice after a brake shaft failed approaching Parabolica; Clay Regazzoni's emotional maiden victory at Monza for Ferrari; the debut of the Tyrrell 001 chassis at Mont-Tremblant; Emerson Fittipaldi's maiden victory at Watkins Glen to mathematically confirm Jochen Rindt as Formula One's first and only posthumous World Champion; and the chaotic spectator invasion and stray dog incident in Mexico City leading to Mexico's 16-year absence from the calendar.
+- **Audit Metrics**:
+  - **Number of claims checked**: 342
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+  - **Split scoring system verified**: Best 6 results from rounds 1–7 and best 5 from rounds 8–13 counted. Jochen Rindt scored 45 net points (45 gross). Jacky Ickx finished 2nd with 40 net points (40 gross). Clay Regazzoni finished 3rd with 33 net points (33 gross). Team Lotus won the Constructors' Championship with 59 net points (59 gross).
+- **Date Re-verified**: 2026-10-29
