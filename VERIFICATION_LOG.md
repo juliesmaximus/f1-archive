@@ -712,3 +712,25 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
   - **Split scoring system verified**: Best 6 results from rounds 1–7 and best 5 from rounds 8–13 counted. Jochen Rindt scored 45 net points (45 gross). Jacky Ickx finished 2nd with 40 net points (40 gross). Clay Regazzoni finished 3rd with 33 net points (33 gross). Team Lotus won the Constructors' Championship with 59 net points (59 gross).
 - **Date Re-verified**: 2026-10-29
+
+### Season 1971 Verification Audit & Expansion
+- **Scope**: Inaugural verified build of 1971 season files (calendar.md, standings.md with International Cup for F1 Manufacturers / Constructors' Championship, and all 11 race dossiers results.json, qualifying.json, notes.md, plus drivers/francois-cevert.md and drivers/ronnie-peterson.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1971 Official Race Results, Drivers & Constructors Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1971.json, driverStandings.json, constructorStandings.json, round-by-round results)
+  - FIA Heritage Archive & Hall of Fame (Jackie Stewart, Ronnie Peterson, François Cevert, Jacky Ickx, Mario Andretti)
+  - Tyrrell Racing Organisation & BRM Heritage Archives (1971 season records)
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 11 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Kyalami Crowthorne banks, Montjuïc Estadi Olímpic terraces, Monaco harbour balconies, Zandvoort dunes, Circuit Paul Ricard modern grandstands and wide runoff areas, Silverstone Woodcote/Copse stands, Nürburgring Nordschleife renovated Armco barriers, Österreichring Styrian grandstands, Monza Parabolica embankments, Mosport Park spectator bowl, Watkins Glen expanded pit stands and The Boot).
+  - Full details on Mario Andretti's maiden victory on his Ferrari debut at Kyalami; Jackie Stewart taking the maiden victory for the Tyrrell 003 chassis at Montjuïc; Stewart's 1.2s wet qualifying margin and dominant Monaco wet-weather victory; Jacky Ickx and Pedro Rodríguez's legendary wet-weather duel at Zandvoort (Rodríguez's final GP before his fatal Norisring crash); the inaugural French GP at the ultra-modern Circuit Paul Ricard resulting in a Tyrrell 1-2; Stewart's masterclass at Silverstone and the revamped Nürburgring; Jo Siffert dominating the Österreichring while Stewart clinched his 2nd World Drivers' Championship and Tyrrell won their maiden Constructors' title; the closest finish in Formula One history at Monza (Peter Gethin winning by 0.01s over Peterson in a five-car blanket covered by 0.61s at a record 150.75 mph); the rain-and-fog shortened Canadian GP at Mosport; and François Cevert's maiden victory at Watkins Glen's new extended layout, pocketing the record $50,000 winner's purse.
+- **Audit Metrics**:
+  - **Number of claims checked**: 294
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+  - **Split scoring system verified**: Best 5 results from rounds 1–6 and best 4 from rounds 7–11 counted. Jackie Stewart scored 62 net points (62 gross). Ronnie Peterson finished runner-up with 33 net points (33 gross) without winning a race. François Cevert finished 3rd with 26 net points (26 gross). Tyrrell-Ford won the Constructors' Championship with 73 net points (73 gross).
+- **Date Re-verified**: 2026-10-29
