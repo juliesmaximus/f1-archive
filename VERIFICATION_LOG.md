@@ -1325,3 +1325,34 @@ Last verified: 2026-10-29
 - **1980s Decade (1980–1989)**: 156 rounds - 100% verified & pushed
 - **Decade Audit Total (1950–1989)**: **484 consecutive World Championship rounds fully verified, cross-checked against primary sources, and committed.**
 - **Decade Status**: **1980s DECADE COMPLETE - AUDIT VERIFIED AND PASSED.**
+
+
+### 1990 Season Verification Entry
+- **Year**: 1990
+- **Verification Date**: 2026-10-29
+- **Sources Consulted**:
+  - Jolpica-F1 Ergast API (`/1990.json`, `/1990/driverStandings.json`, `/1990/constructorStandings.json`, `/1990/{round}/results.json`, `/1990/{round}/qualifying.json`)
+  - Formula1.com Official Results & Archive (1990 Grand Prix results, pole positions, fastest laps)
+  - FIA Heritage Regulations and Classifications Archive
+- **Rounds Verified**: 16 Rounds:
+  1. United States GP (Phoenix) - Winner: Ayrton Senna (McLaren-Honda), Pole: Gerhard Berger (McLaren), FL: Gerhard Berger (McLaren) - Epic duel between Senna and Jean Alesi (Tyrrell-Ford)
+  2. Brazilian GP (Interlagos) - Winner: Alain Prost (Ferrari), Pole: Ayrton Senna (McLaren), FL: Gerhard Berger (McLaren) - First win for Prost at Ferrari; return to shortened Interlagos
+  3. San Marino GP (Imola) - Winner: Riccardo Patrese (Williams-Renault), Pole: Ayrton Senna (McLaren), FL: Alessandro Nannini (Benetton)
+  4. Monaco GP (Monte Carlo) - Winner: Ayrton Senna (McLaren-Honda), Pole: Ayrton Senna (McLaren), FL: Ayrton Senna (McLaren) - Senna 3rd Monaco win; Jean Alesi 2nd for Tyrrell
+  5. Canadian GP (Montreal) - Winner: Ayrton Senna (McLaren-Honda), Pole: Ayrton Senna (McLaren), FL: Gerhard Berger (McLaren) - Berger 1-minute jump start penalty
+  6. Mexican GP (Mexico City) - Winner: Alain Prost (Ferrari), Pole: Gerhard Berger (McLaren), FL: Alain Prost (Ferrari) - Prost wins from 13th on grid; Mansell legendary outside pass on Berger at Peraltada at 180 mph
+  7. French GP (Paul Ricard) - Winner: Alain Prost (Ferrari), Pole: Nigel Mansell (Ferrari), FL: Nigel Mansell (Ferrari) - Ferrari's 100th World Championship win; Ivan Capelli leads 45 laps in Leyton House March
+  8. British GP (Silverstone) - Winner: Alain Prost (Ferrari), Pole: Nigel Mansell (Ferrari), FL: Nigel Mansell (Ferrari) - Mansell gearbox failure and brief retirement announcement
+  9. German GP (Hockenheim) - Winner: Ayrton Senna (McLaren-Honda), Pole: Ayrton Senna (McLaren), FL: Thierry Boutsen (Williams)
+  10. Hungarian GP (Hungaroring) - Winner: Thierry Boutsen (Williams-Renault), Pole: Thierry Boutsen (Williams), FL: Riccardo Patrese (Williams) - Boutsen heroic defense against Senna to win by 0.288s
+  11. Belgian GP (Spa-Francorchamps) - Winner: Ayrton Senna (McLaren-Honda), Pole: Ayrton Senna (McLaren), FL: Alain Prost (Ferrari)
+  12. Italian GP (Monza) - Winner: Ayrton Senna (McLaren-Honda), Pole: Ayrton Senna (McLaren), FL: Ayrton Senna (McLaren) - Derek Warwick horrific 160 mph Parabolica crash; Senna Grand Slam
+  13. Portuguese GP (Estoril) - Winner: Nigel Mansell (Ferrari), Pole: Nigel Mansell (Ferrari), FL: Riccardo Patrese (Williams) - Mansell wheelspin blocks Prost at start; Mansell final Ferrari win
+  14. Spanish GP (Jerez) - Winner: Alain Prost (Ferrari), Pole: Ayrton Senna (McLaren), FL: Riccardo Patrese (Williams) - Martin Donnelly horrific practice crash; Ferrari 1-2
+  15. Japanese GP (Suzuka) - Winner: Nelson Piquet (Benetton-Ford), Pole: Ayrton Senna (McLaren), FL: Riccardo Patrese (Williams) - Senna collides intentionally with Prost at 160 mph into Turn 1, clinching 2nd World Championship; Benetton 1-2 (Piquet, Moreno); Aguri Suzuki first Japanese podium
+  16. Australian GP (Adelaide) - Winner: Nelson Piquet (Benetton-Ford), Pole: Ayrton Senna (McLaren), FL: Nigel Mansell (Ferrari) - 500th World Championship Grand Prix; Piquet holds off Mansell
+- **World Drivers' Champion**: Ayrton Senna (McLaren-Honda) - 78 net points (6 wins) - 2-time World Champion
+- **World Drivers' Championship Runner-up**: Alain Prost (Ferrari) - 71 net points (73 gross, 5 wins)
+- **World Constructors' Champion**: McLaren International - 121 net points (6 wins)
+- **Historical Innovations Documented**: Harvey Postlethwaite / Jean-Claude Migeot Tyrrell 019 high-nose concept, Suzuka Turn 1 collision clinching Senna title, Ferrari 641 aesthetic and mechanical refinement, 500th World Championship GP at Adelaide, final year of dropped scores rule.
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
