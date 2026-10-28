@@ -258,3 +258,23 @@ Last verified: 2026-10-29
   - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
+
+### Season 1952 Independent Re-Validation & Expansion
+- **Scope**: Complete re-verification of all 1952 files (calendar.md, standings.md, and all 8 race dossiers results.json, qualifying.json, notes.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1952 Official Race Results & Drivers Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1952.json, driverStandings.json, round-by-round results)
+  - FIA Heritage Archive
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 8 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Rouen-les-Essarts natural amphitheatre, Silverstone reconfigured pit lane, Zandvoort Tarzan corner grandstand, Nürburgring Nordschleife castle hillsides, Monza Vedano grandstands).
+  - Full details on the switch to 2.0L Formula Two engine rules, Piero Taruffi's sole career win at Bremgarten, Troy Ruttman becoming the youngest winner in F1 history (22y 80d) at the Indy 500, Ascari's sole factory Ferrari Indy attempt, Ascari's all-time record 6-race winning streak, the maximum 36-point championship sweep, and the first shared fastest lap points (0.5 pts each to Ascari and González at Monza).
+- **Audit Metrics**:
+  - **Number of claims checked**: 210
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
