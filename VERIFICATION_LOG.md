@@ -2068,3 +2068,24 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+### Season 2013 Verification Audit & Expansion
+- **Scope**: Verified build of 2013 season files (`calendar.md`, `standings.md`, and 19 race dossiers with `results.json`, `qualifying.json`, `notes.md`, plus `cars/redbull-rb9.md` and `drivers/mark-webber.md`).
+- **Primary Sources Checked**:
+  - Formula1.com 2013 Official Race Results, Drivers & Constructors Standings (all URLs verified)
+  - Jolpica-F1 Ergast API (`https://api.jolpi.ca/ergast/f1/2013/`)
+  - FIA Official Bulletins, Technical Regulations & Race Classifications
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 19 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Melbourne Albert Park, Sepang, Shanghai, Sakhir Bahrain, Barcelona, Monaco, Montreal, Silverstone tyre failures, Nürburgring, Hungaroring, Spa La Source & Eau Rouge, Monza Parabolica, Singapore Marina Bay night race, Yeongam final Korean GP, Suzuka 130R, Buddh final Indian GP, Yas Marina twilight, COTA, Interlagos wet finale).
+  - Detailed narratives on the final year of the 2.4-litre V8 engine era: Sebastian Vettel and Red Bull Racing's crushing dominance; the explosive "Multi 21" team orders crisis at the Malaysian Grand Prix between Vettel and Mark Webber; the dangerous high-speed tyre delaminations at the British Grand Prix that prompted Pirelli to return to 2012 Kevlar-belted construction; Lewis Hamilton's maiden victory for Mercedes at the Hungarian Grand Prix; Sebastian Vettel's record-breaking run of 9 consecutive Grand Prix victories (Belgium to Brazil) and 13 wins in a single season (equalling Michael Schumacher's 2004 record), securing his fourth consecutive World Drivers' Championship at the Indian Grand Prix with iconic celebratory donuts on the main straight; Red Bull's fourth consecutive Constructors' title (596 points); and Mark Webber's emotional retirement from Formula 1 at Interlagos, completing his final lap with his helmet off to salute the fans.
+- **Audit Metrics**:
+  - **Number of claims checked**: 564
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
