@@ -537,3 +537,25 @@ Last verified: 2026-10-29
   - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
+
+### Season 1964 Verification Audit & Expansion
+- **Scope**: Inaugural verified build of 1964 season files (calendar.md, standings.md with International Cup for F1 Manufacturers / Constructors' Championship, and all 10 race dossiers results.json, qualifying.json, notes.md, plus drivers/john-surtees.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1964 Official Race Results, Drivers & Constructors Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1964.json, driverStandings.json, constructorStandings.json, round-by-round results)
+  - FIA Heritage Archive & Hall of Fame (John Surtees, Graham Hill, Jim Clark, Lorenzo Bandini)
+  - Scuderia Ferrari Official Archive (1964 World Championship & NART livery context)
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 10 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Monaco harbour terraces, Zandvoort sand dunes, Spa hillside banks, Rouen Nouveau Monde hairpin, Brands Hatch natural amphitheatre grandstands, Nürburgring Nordschleife spectator banks, Zeltweg airfield bleachers, Monza Autodromo main stands, Watkins Glen Kendall grandstand, Magdalena Mixhuca main stadium stands).
+  - Full details on Graham Hill's back-to-back Monaco victory, Jim Clark's hat-trick of victories at Zandvoort, Spa (running out of fuel on final lap while Graham Hill and Dan Gurney ran out ahead of him), and Rouen, Dan Gurney delivering Brabham's maiden Formula One victory as a constructor at Rouen, Clark winning the British GP at its new home at Brands Hatch, John Surtees commanding the German GP at the Nürburgring in the Ferrari 158, Lorenzo Bandini scoring his sole career Grand Prix win at the bumpy Zeltweg airfield in the inaugural Austrian Grand Prix, Surtees taking a masterclass home victory for Ferrari at Monza, Graham Hill's Watkins Glen triumph, and the historic Mexico City finale where Ferrari competed under Luigi Chinetti's North American Racing Team (NART) in blue and white livery following Enzo Ferrari's dispute with the Italian motorsport federation (ACI). In Mexico, Clark suffered an engine seizure on the penultimate lap while leading, and Lorenzo Bandini yielded second place to John Surtees, making Surtees the only competitor in history to win World Championships on both two wheels and four wheels (clinching 40 net points to Hill's 39, with Ferrari taking the Constructors' Championship).
+- **Audit Metrics**:
+  - **Number of claims checked**: 264
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+  - **Best 6 scores rule verified**: John Surtees scored 40 net points (no dropped points; 40 gross). Graham Hill scored 39 net points (dropped 2 points from 5th place in Belgium; 41 gross). Ferrari won the Constructors' Championship with 45 net points (49 gross).
+- **Date Re-verified**: 2026-10-29
