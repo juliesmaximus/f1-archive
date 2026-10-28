@@ -1,0 +1,76 @@
+name: Update current season from Jolpica
+
+on:
+  schedule:
+    # Every Monday at 06:00 UTC (after typical Jolpica Monday update)
+    - cron: '0 6 * * 1'
+  workflow_dispatch:  # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch current season data
+        run: |
+          python - << 'PY'
+          import json, urllib.request, os
+          from datetime import datetime
+
+          BASE = "https://api.jolpi.ca/ergast/f1"
+          year = datetime.now().year
+
+          def get(url):
+              req = urllib.request.Request(url, headers={"User-Agent": "f1-archive-bot/1.0"})
+              with urllib.request.urlopen(req, timeout=30) as r:
+                  return json.load(r)
+
+          # Calendar
+          races = get(f"{BASE}/{year}.json")
+          # Driver standings
+          drivers = get(f"{BASE}/{year}/driverstandings.json")
+          # Constructor standings
+          constructors = get(f"{BASE}/{year}/constructorstandings.json")
+
+          os.makedirs(f"seasons/{year}", exist_ok=True)
+
+          with open(f"seasons/{year}/calendar.json", "w") as f:
+              json.dump(races, f, indent=2)
+          with open(f"seasons/{year}/driver_standings.json", "w") as f:
+              json.dump(drivers, f, indent=2)
+          with open(f"seasons/{year}/constructor_standings.json", "w") as f:
+              json.dump(constructors, f, indent=2)
+
+          # Simple markdown summary
+          md = f"# {year} Season\n\nLast pulled from Jolpica: {datetime.utcnow().isoformat()}Z\n\n"
+          md += "## Driver Standings\n\n"
+          for s in drivers["MRData"]["StandingsTable"]["StandingsLists"][0]["DriverStandings"]:
+              md += f"- {s['position']}. {s['Driver']['givenName']} {s['Driver']['familyName']} ({s['Constructors'][0]['name']}) — {s['points']} pts\n"
+          md += "\n## Constructor Standings\n\n"
+          for s in constructors["MRData"]["StandingsTable"]["StandingsLists"][0]["ConstructorStandings"]:
+              md += f"- {s['position']}. {s['Constructor']['name']} — {s['points']} pts\n"
+          md += "\nSource: https://api.jolpi.ca/ergast/f1/\nVerify critical numbers against https://www.formula1.com/en/results before use.\n"
+
+          with open(f"seasons/{year}/standings.md", "w") as f:
+              f.write(md)
+
+          print(f"Updated seasons/{year}/")
+          PY
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add seasons/
+          git diff --staged --quiet || git commit -m "Update $(date +%Y) season from Jolpica"
+          git push
