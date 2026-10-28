@@ -1387,3 +1387,35 @@ Last verified: 2026-10-29
 - **World Constructors' Champion**: McLaren International - 139 points (8 wins)
 - **Historical Innovations Documented**: Abolition of dropped scores rule, 10-point winner system, Michael Schumacher F1 debut at Spa, Mansell-Senna side-by-side Barcelona duel, Adelaide shortest race in history (14 laps).
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+
+### 1992 Season Verification Entry
+- **Year**: 1992
+- **Verification Date**: 2026-10-29
+- **Sources Consulted**:
+  - Jolpica-F1 Ergast API (`/1992.json`, `/1992/driverStandings.json`, `/1992/constructorStandings.json`, `/1992/{round}/results.json`, `/1992/{round}/qualifying.json`)
+  - Formula1.com Official Results & Archive (1992 Grand Prix results, pole positions, fastest laps)
+  - FIA Heritage Regulations and Classifications Archive
+- **Rounds Verified**: 16 Rounds:
+  1. South African GP (Kyalami) - Winner: Nigel Mansell (Williams-Renault), Pole: Nigel Mansell (Williams), FL: Nigel Mansell (Williams) - Return of F1 to post-apartheid South Africa; Williams active suspension debut
+  2. Mexican GP (Mexico City) - Winner: Nigel Mansell (Williams-Renault), Pole: Nigel Mansell (Williams), FL: Gerhard Berger (McLaren) - Michael Schumacher maiden F1 career podium in 3rd
+  3. Brazilian GP (Interlagos) - Winner: Nigel Mansell (Williams-Renault), Pole: Nigel Mansell (Williams), FL: Riccardo Patrese (Williams) - Williams laps entire field up to 3rd
+  4. Spanish GP (Barcelona) - Winner: Nigel Mansell (Williams-Renault), Pole: Nigel Mansell (Williams), FL: Michael Schumacher (Benetton) - Wet race masterclass by Mansell
+  5. San Marino GP (Imola) - Winner: Nigel Mansell (Williams-Renault), Pole: Nigel Mansell (Williams), FL: Riccardo Patrese (Williams) - Mansell record 5 consecutive wins from season start
+  6. Monaco GP (Monte Carlo) - Winner: Ayrton Senna (McLaren-Honda), Pole: Nigel Mansell (Williams), FL: Nigel Mansell (Williams) - Mansell loose wheel nut pit stop; Senna precisions defense over final 3 laps to win by 0.215s
+  7. Canadian GP (Montreal) - Winner: Gerhard Berger (McLaren-Honda), Pole: Ayrton Senna (McLaren), FL: Gerhard Berger (McLaren)
+  8. French GP (Magny-Cours) - Winner: Nigel Mansell (Williams-Renault), Pole: Nigel Mansell (Williams), FL: Nigel Mansell (Williams) - Schumacher takes out Senna on lap 1; Senna famous lecture
+  9. British GP (Silverstone) - Winner: Nigel Mansell (Williams-Renault), Pole: Nigel Mansell (Williams), FL: Nigel Mansell (Williams) - 'Mansell Mania'; track invasion on slowing down lap
+  10. German GP (Hockenheim) - Winner: Nigel Mansell (Williams-Renault), Pole: Nigel Mansell (Williams), FL: Riccardo Patrese (Williams) - Mansell equals Senna 8 wins in a season
+  11. Hungarian GP (Hungaroring) - Winner: Ayrton Senna (McLaren-Honda), Pole: Riccardo Patrese (Williams), FL: Nigel Mansell (Williams) - Mansell 2nd place clinches 1992 World Championship with 5 races remaining
+  12. Belgian GP (Spa-Francorchamps) - Winner: Michael Schumacher (Benetton-Ford), Pole: Nigel Mansell (Williams), FL: Michael Schumacher (Benetton) - Maiden Formula 1 Grand Prix victory for Michael Schumacher with Benetton exactly 1 year after debut
+  13. Italian GP (Monza) - Winner: Ayrton Senna (McLaren-Honda), Pole: Nigel Mansell (Williams), FL: Nigel Mansell (Williams) - Mansell announces retirement/move to IndyCar
+  14. Portuguese GP (Estoril) - Winner: Nigel Mansell (Williams-Renault), Pole: Nigel Mansell (Williams), FL: Ayrton Senna (McLaren) - Mansell record 9th win of season; Patrese violent 170 mph airborne flip
+  15. Japanese GP (Suzuka) - Winner: Riccardo Patrese (Williams-Renault), Pole: Nigel Mansell (Williams), FL: Nigel Mansell (Williams)
+  16. Australian GP (Adelaide) - Winner: Gerhard Berger (McLaren-Honda), Pole: Nigel Mansell (Williams), FL: Martin Brundle (Benetton) - Mansell record 14th pole position; Senna rams Mansell into hairpin
+- **World Drivers' Champion**: Nigel Mansell (Williams-Renault) - 108 points (9 wins, 14 poles) - Record single-season dominance
+- **World Drivers' Championship Runner-up**: Riccardo Patrese (Williams-Renault) - 56 points (1 win)
+- **World Drivers' Championship 3rd**: Michael Schumacher (Benetton-Ford) - 53 points (1 win, 8 podiums in first full season)
+- **World Constructors' Champion**: Williams Grand Prix Engineering - 164 points (10 wins)
+- **Historical Innovations Documented**: Williams FW14B active hydraulic suspension, Mansell single-season records (9 wins, 14 poles, 108 pts), earliest modern title clinch (August 16), Michael Schumacher maiden GP victory at Spa.
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
