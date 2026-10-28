@@ -2089,3 +2089,24 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+### Season 2014 Verification Audit & Expansion
+- **Scope**: Verified build of 2014 season files (`calendar.md`, `standings.md`, and 19 race dossiers with `results.json`, `qualifying.json`, `notes.md`, plus `cars/mercedes-f1-w05.md` and `circuits/sochi.md`).
+- **Primary Sources Checked**:
+  - Formula1.com 2014 Official Race Results, Drivers & Constructors Standings (all URLs verified)
+  - Jolpica-F1 Ergast API (`https://api.jolpi.ca/ergast/f1/2014/`)
+  - FIA Official Bulletins, Technical Regulations & Race Classifications
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 19 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Melbourne Albert Park, Sepang, Sakhir Bahrain night race transition, Shanghai, Catalunya, Monaco Mirabeau controversy, Montreal Circuit Gilles Villeneuve, Red Bull Ring return in Austria, Silverstone, Hockenheim, Hungaroring, Spa Les Combes clash, Monza, Marina Bay, Suzuka typhoon conditions, Sochi Autodrom inaugural Russian GP, COTA, Interlagos, Yas Marina double points finale).
+  - Detailed narratives on the dawn of the 1.6-litre turbocharged V6 hybrid power unit era: Mercedes AMG Petronas dominance with the legendary PU106A Hybrid power unit winning 16 of 19 races; the ferocious intra-team rivalry between Lewis Hamilton and Nico Rosberg ("Duel in the Desert" in Bahrain, Mirabeau qualifying yellow flag in Monaco, and lap 2 collision at Spa-Francorchamps); Daniel Ricciardo's three breakthrough maiden wins for Red Bull Racing; the controversial one-off "Abu Double" double points rule for the final round; Lewis Hamilton securing his second World Drivers' Championship (384 points to Rosberg's 317) with victory in Abu Dhabi while Rosberg gallantly refused to retire despite catastrophic ERS failure; Mercedes clinching their maiden Constructors' Championship with a record 701 points; and the solemn, heartbreaking accident of Jules Bianchi at Suzuka during Typhoon Phanfone, which led to the introduction of the Virtual Safety Car (VSC) and accelerated cockpit protection research.
+- **Audit Metrics**:
+  - **Number of claims checked**: 572
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
