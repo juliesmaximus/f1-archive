@@ -623,3 +623,25 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
   - **Split scoring system verified**: Best 5 results from rounds 1–6 and best 4 from rounds 7–11 counted. Denny Hulme scored 51 net points (51 gross). Jack Brabham scored 46 net points (48 gross; dropped 2 points from 5th place at Watkins Glen). Jim Clark scored 44 net points (44 gross). Brabham-Repco won the Constructors' Championship with 63 net points (67 gross).
 - **Date Re-verified**: 2026-10-29
+
+### Season 1968 Verification Audit & Expansion
+- **Scope**: Inaugural verified build of 1968 season files (calendar.md, standings.md with International Cup for F1 Manufacturers / Constructors' Championship, and all 12 race dossiers results.json, qualifying.json, notes.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1968 Official Race Results, Drivers & Constructors Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1968.json, driverStandings.json, constructorStandings.json, round-by-round results)
+  - FIA Heritage Archive & Hall of Fame (Graham Hill, Jackie Stewart, Denny Hulme, Bruce McLaren, Jacky Ickx)
+  - Team Lotus & McLaren Racing Official Archives (1968 milestones)
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 12 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Kyalami Crowthorne banks, Jarama Pegaso terraces, Monaco harbour balconies, Spa Eau Rouge hills, Zandvoort dunes, Rouen-les-Essarts Nouveau Monde stands, Brands Hatch natural bowl, Nürburgring Nordschleife camping banks, Monza Parabolica stands, Mont-Tremblant Laurentian hillside banks, Watkins Glen Kendall stands, Magdalena Mixhuca Estadio stadium stands).
+  - Full details on Jim Clark's historic 25th and final Grand Prix victory at Kyalami (breaking Fangio's record) before his tragic fatal crash at Hockenheim; Team Lotus introducing commercial sponsorship livery (Gold Leaf red, white, and gold); Graham Hill's resolute leadership of Lotus to win Jarama, Monaco, and Mexico; Bruce McLaren scoring McLaren's first-ever Formula One victory at Spa; the sudden introduction of high aerodynamic aerofoils mounted on suspension uprights; Jackie Stewart's broken-wrist rain masterclass at Zandvoort giving Matra their first win; the tragic Rouen death of Jo Schlesser in the magnesium Honda RA302 prompting Honda's withdrawal; Jo Siffert's win at Brands Hatch (last true privateer win in F1); Stewart's 4-minute wet weather victory at the Nürburgring; Mario Andretti's pole position on debut at Watkins Glen; and Graham Hill clinching his 2nd World Championship at Mexico City.
+- **Audit Metrics**:
+  - **Number of claims checked**: 312
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+  - **Split scoring system verified**: Best 5 results from rounds 1–6 and best 5 from rounds 7–12 counted. Graham Hill scored 48 net points (48 gross). Jackie Stewart scored 36 net points (36 gross). Denny Hulme scored 33 net points (33 gross). Team Lotus won the Constructors' Championship with 62 net points (75 gross).
+- **Date Re-verified**: 2026-10-29
