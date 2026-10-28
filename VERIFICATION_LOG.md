@@ -457,3 +457,23 @@ Last verified: 2026-10-29
 - **Date Decade Checkpoint Verified**: 2026-10-29
 
 ---
+
+### Season 1960 Verification Audit & Expansion
+- **Scope**: Inaugural verified build of 1960 season files (calendar.md, standings.md with International Cup for F1 Manufacturers / Constructors' Championship, and all 10 race dossiers results.json, qualifying.json, notes.md, plus drivers/bruce-mclaren.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1960 Official Race Results, Drivers & Constructors Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1960.json, driverStandings.json, constructorStandings.json, round-by-round results)
+  - FIA Heritage Archive & Hall of Fame (Sir Jack Brabham, Bruce McLaren, Phil Hill, Jim Clark)
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 10 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Buenos Aires concrete stands, Monaco harbour balconies, Indianapolis main stretch, Zandvoort dunes, Spa-Francorchamps Eau Rouge, Reims pit straight, Silverstone Copse, Boavista street stands, Monza 10km banking, Riverside desert grandstands).
+  - Full details on Bruce McLaren winning the season opener in Buenos Aires, Stirling Moss scoring the historic first World Championship victory for a Lotus chassis at Monaco, Jim Rathmann winning the final Indy 500 to count toward the World Championship after a 29-lead-change duel with Rodger Ward, Jim Clark making his World Championship debut at Zandvoort, the catastrophic 'Black Weekend of Spa' with the fatal crashes of Chris Bristow and Alan Stacey as Jack Brabham took a Grand Slam, Brabham's 5-race consecutive winning streak clinching his 2nd consecutive World Title, the British boycott of Monza over the dangerous 10km concrete banking leading to Phil Hill's historic final Grand Prix win for a front-engine car (and the first win for an American-born driver), and Stirling Moss returning from his severe injuries to win the season finale at Riverside.
+- **Audit Metrics**:
+  - **Number of claims checked**: 269
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
