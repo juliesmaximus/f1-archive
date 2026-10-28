@@ -983,3 +983,30 @@ Last verified: 2026-10-29
   - Unverified Claims: 0
   - Model Memory Inventions: 0
 - **Decade Status**: PASSED & AUDITED IN FULL
+
+### 1980 Season Verification Entry
+- **Year**: 1980
+- **Verification Date**: 2026-10-29
+- **Sources Consulted**:
+  - Jolpica-F1 Ergast API (`/1980.json`, `/1980/driverStandings.json`, `/1980/constructorStandings.json`, `/1980/{round}/results.json`, `/1980/{round}/qualifying.json`)
+  - Formula1.com Official Results & Archive (1980 Grand Prix results, pole positions, fastest laps)
+  - FIA Heritage Regulations and Classifications Archive
+- **Rounds Verified**: 14 Championship Rounds (plus FISA-FOCA note on non-championship Spanish GP at Jarama):
+  1. Argentine GP (Buenos Aires) - Winner: Alan Jones (Williams), Pole: Alan Jones (Williams), FL: Alan Jones (Williams)
+  2. Brazilian GP (Interlagos) - Winner: René Arnoux (Renault), Pole: Jean-Pierre Jabouille (Renault), FL: René Arnoux (Renault) - Final F1 GP on 7.9km layout; maiden win for Arnoux
+  3. South African GP (Kyalami) - Winner: René Arnoux (Renault), Pole: Jean-Pierre Jabouille (Renault), FL: René Arnoux (Renault) - High altitude turbo dominance
+  4. United States GP West (Long Beach) - Winner: Nelson Piquet (Brabham), Pole: Nelson Piquet (Brabham), FL: Nelson Piquet (Brabham) - Maiden win for Nelson Piquet; Clay Regazzoni accident
+  5. Belgian GP (Zolder) - Winner: Didier Pironi (Ligier), Pole: Alan Jones (Williams), FL: Jacques Laffite (Ligier) - Maiden win for Didier Pironi
+  6. Monaco GP (Monte Carlo) - Winner: Carlos Reutemann (Williams), Pole: Didier Pironi (Ligier), FL: Carlos Reutemann (Williams)
+  7. French GP (Paul Ricard) - Winner: Alan Jones (Williams), Pole: Jacques Laffite (Ligier), FL: Alan Jones (Williams)
+  8. British GP (Brands Hatch) - Winner: Alan Jones (Williams), Pole: Didier Pironi (Ligier), FL: Didier Pironi (Ligier)
+  9. German GP (Hockenheim) - Winner: Jacques Laffite (Ligier), Pole: Alan Jones (Williams), FL: Alan Jones (Williams) - Laffite victory dedicated to Patrick Depailler
+  10. Austrian GP (Österreichring) - Winner: Jean-Pierre Jabouille (Renault), Pole: René Arnoux (Renault), FL: René Arnoux (Renault) - Final career win for Jabouille
+  11. Dutch GP (Zandvoort) - Winner: Nelson Piquet (Brabham), Pole: René Arnoux (Renault), FL: René Arnoux (Renault)
+  12. Italian GP (Imola) - Winner: Nelson Piquet (Brabham), Pole: René Arnoux (Renault), FL: Alan Jones (Williams) - Sole edition of Italian Grand Prix held at Autodromo Dino Ferrari
+  13. Canadian GP (Montreal) - Winner: Alan Jones (Williams), Pole: Nelson Piquet (Brabham), FL: Didier Pironi (Ligier) - Alan Jones and Williams Grand Prix Engineering clinch World Championships
+  14. United States GP (Watkins Glen) - Winner: Alan Jones (Williams), Pole: Bruno Giacomelli (Alfa Romeo), FL: Alan Jones (Williams) - 20th and final F1 Grand Prix held at Watkins Glen
+- **World Drivers' Champion**: Alan Jones (Williams Grand Prix Engineering) - 67 net points (71 gross, 5 wins)
+- **World Constructors' Champion**: Williams Grand Prix Engineering - 120 net points (6 wins) - Maiden WCC for Williams
+- **Historical Innovations Documented**: Williams maiden WDC/WCC double, Nelson Piquet and Didier Pironi maiden victories, FISA-FOCA war, Imola hosting the Italian GP, farewell to Watkins Glen.
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
