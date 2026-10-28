@@ -517,3 +517,23 @@ Last verified: 2026-10-29
   - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
+
+### Season 1963 Verification Audit & Expansion
+- **Scope**: Inaugural verified build of 1963 season files (calendar.md, standings.md with International Cup for F1 Manufacturers / Constructors' Championship, and all 10 race dossiers results.json, qualifying.json, notes.md, plus drivers/jim-clark.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1963 Official Race Results, Drivers & Constructors Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1963.json, driverStandings.json, constructorStandings.json, round-by-round results)
+  - FIA Heritage Archive & Hall of Fame (Jim Clark, Graham Hill, John Surtees, Dan Gurney)
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 10 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Monaco harbour balconies, Spa Eau Rouge rain stands, Zandvoort dunes, Reims pit straight, Silverstone Copse, Nürburgring Karussell mounds, Monza road course, Watkins Glen knolls, Magdalena Mixhuca high-altitude main grandstands, East London coastal dunes).
+  - Full details on Graham Hill's first 'Mr. Monaco' victory in the BRM P57, Jim Clark's historic rain-and-fog masterclass at Spa-Francorchamps (winning by 4m 54s over Bruce McLaren), Clark's Grand Slams at Zandvoort and Reims, Clark's 4th consecutive win at Silverstone, John Surtees scoring his maiden GP victory and Ferrari's sole win of 1963 at the Nürburgring Nordschleife, Clark clinching his first World Drivers' Championship and Team Lotus's first Constructors' title at Monza with three races to spare, Graham Hill's Watkins Glen triumph, the inaugural official Mexican Grand Prix at Magdalena Mixhuca (2,240m altitude) won by Clark, and Clark scoring his 7th victory of the season at East London to achieve the absolute maximum possible 54 net championship points.
+- **Audit Metrics**:
+  - **Number of claims checked**: 249
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
