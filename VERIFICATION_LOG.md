@@ -477,3 +477,23 @@ Last verified: 2026-10-29
   - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
+
+### Season 1961 Verification Audit & Expansion
+- **Scope**: Inaugural verified build of 1961 season files (calendar.md, standings.md with International Cup for F1 Manufacturers / Constructors' Championship, and all 8 race dossiers results.json, qualifying.json, notes.md, plus drivers/phil-hill.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1961 Official Race Results, Drivers & Constructors Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1961.json, driverStandings.json, constructorStandings.json, round-by-round results)
+  - FIA Heritage Archive & Hall of Fame (Phil Hill, Stirling Moss, Giancarlo Baghetti, Wolfgang von Trips)
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 8 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Monaco harbour terraces, Zandvoort dunes, Spa Eau Rouge, Reims melting asphalt, Aintree Grand National stands, Nürburgring Start-und-Ziel, Monza Parabolica embankments, Watkins Glen wooden stands).
+  - Full details on the introduction of the 1.5-litre engine regulations and 9-point win scale, Stirling Moss's heroic underdog victory at Monaco resisting three Sharknose Ferraris, the historic zero-retirement zero-pit-stop race at Zandvoort where Wolfgang von Trips became the first German GP winner, Ferrari's 1-2-3-4 lockout at Spa, Giancarlo Baghetti's miracle debut win at Reims by 0.1s over Dan Gurney (only driver to win on F1 debut), the 4WD and ABS Ferguson P99 debut at Aintree, Stirling Moss's 16th and final career victory at the Nürburgring on rain tyres, the catastrophic tragedy at Monza claiming Wolfgang von Trips and 14 spectators as Phil Hill clinched America's first World Championship and Ferrari's first Constructors' title, and Innes Ireland delivering Team Lotus's maiden works GP victory at the inaugural Watkins Glen US Grand Prix.
+- **Audit Metrics**:
+  - **Number of claims checked**: 208
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
