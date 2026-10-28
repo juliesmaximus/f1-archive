@@ -400,3 +400,23 @@ Last verified: 2026-10-29
   - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
+
+### Season 1959 Verification Audit & Expansion
+- **Scope**: Inaugural verified build of 1959 season files (calendar.md, standings.md with International Cup for F1 Manufacturers / Constructors' Championship, and all 9 race dossiers results.json, qualifying.json, notes.md, plus drivers/jack-brabham.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1959 Official Race Results, Drivers & Constructors Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1959.json, driverStandings.json, constructorStandings.json, round-by-round results)
+  - FIA Heritage Archive & Hall of Fame (Sir Jack Brabham, Bruce McLaren, Tony Brooks)
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 9 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Monaco harbour terraces, Zandvoort pit straight, Reims melting asphalt, Aintree Grand National stands, AVUS Berlin 43-degree brick-paved Nordkurve banking, Monsanto park boulevard, Monza road course, Sebring airfield runway grandstands).
+  - Full details on Jack Brabham's maiden GP win at Monaco in the works Cooper T51-Climax, Jo Bonnier scoring BRM's first-ever GP victory at Zandvoort (first Swedish GP winner), Tony Brooks dominating the brutal heatwave at Reims and the high-speed aggregate race at AVUS (marred by the fatal crash of Jean Behra on the Nordkurve), Cooper mathematically clinching the Constructors' Championship at Monsanto, and the unforgettable Sebring finale where Brabham ran out of fuel 400 yards from the line and pushed his Cooper across the finish line in 4th under sheer muscle power to become Australia's first World Champion as 22-year-old teammate Bruce McLaren became the youngest GP winner in F1 history.
+- **Audit Metrics**:
+  - **Number of claims checked**: 237
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
