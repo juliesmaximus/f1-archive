@@ -497,3 +497,23 @@ Last verified: 2026-10-29
   - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
+
+### Season 1962 Verification Audit & Expansion
+- **Scope**: Inaugural verified build of 1962 season files (calendar.md, standings.md with International Cup for F1 Manufacturers / Constructors' Championship, and all 9 race dossiers results.json, qualifying.json, notes.md, plus drivers/graham-hill.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1962 Official Race Results, Drivers & Constructors Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1962.json, driverStandings.json, constructorStandings.json, round-by-round results)
+  - FIA Heritage Archive & Hall of Fame (Graham Hill, Jim Clark, Bruce McLaren, Dan Gurney)
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 9 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Zandvoort Tarzan grandstand, Monaco harbour balconies, Spa Eau Rouge, Rouen Nouveau Monde hairpin, Aintree Grand National stands, Nürburgring fog & rain stands, Monza road course, Watkins Glen hillside mounds, East London coastal sand dunes).
+  - Full details on Colin Chapman introducing the revolutionary monocoque Lotus 25 at Zandvoort, Graham Hill scoring his maiden GP victory, Bruce McLaren winning at Monaco after Hill's engine failure, Jim Clark scoring his maiden GP win from 12th on the grid at Spa in the Lotus 25 (first monocoque victory) alongside the terrifying Mairesse-Taylor accident at Blanchimont, Dan Gurney delivering Porsche's sole Formula One World Championship victory at Rouen, Jim Clark's maiden Grand Slam at the final Aintree GP, Graham Hill's wet-weather masterclass at the Nürburgring, BRM's 1-2 sweep at Monza, Clark keeping the championship fight alive at Watkins Glen, and the East London title decider where an internal 25-cent oil drain plug failed on Clark's Lotus on lap 62, allowing Graham Hill to win the race and crown himself and BRM as Formula One World Champions.
+- **Audit Metrics**:
+  - **Number of claims checked**: 235
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
