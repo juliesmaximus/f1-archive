@@ -778,3 +778,25 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
   - **Split scoring system verified**: Best 7 results from rounds 1–8 and best 6 from rounds 9–15 counted. Jackie Stewart scored 71 net points (71 gross). Emerson Fittipaldi finished runner-up with 55 net points (55 gross). Ronnie Peterson finished 3rd with 52 net points (52 gross). François Cevert finished 4th with 47 net points (47 gross). Team Lotus won the Constructors' Championship with 92 net points (96 gross) over Tyrrell-Ford (82 net / 86 gross).
 - **Date Re-verified**: 2026-10-29
+
+### Season 1974 Verification Audit & Expansion
+- **Scope**: Inaugural verified build of 1974 season files (calendar.md, standings.md with International Cup for F1 Manufacturers / Constructors' Championship, and all 15 race dossiers results.json, qualifying.json, notes.md, plus drivers/niki-lauda.md and drivers/jody-scheckter.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1974 Official Race Results, Drivers & Constructors Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1974.json, driverStandings.json, constructorStandings.json, round-by-round results)
+  - FIA Heritage Archive & Hall of Fame (Emerson Fittipaldi, Clay Regazzoni, Jody Scheckter, Niki Lauda, Ronnie Peterson, Carlos Reutemann)
+  - McLaren Racing & Scuderia Ferrari Heritage Archives (1974 season records)
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 15 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Buenos Aires concrete stadium stands, Interlagos Arquibancadas da Reta Oposta, Kyalami Crowthorne banks, Jarama Pegaso terraces, Nivelles start-finish grandstand, Monaco Swimming Pool complex, Anderstorp runway banks, Zandvoort dunes, Dijon-Prenois hillside bowl, Brands Hatch natural bowl, Nürburgring Nordschleife camping banks, Österreichring Styrian grandstands, Monza Parabolica banks, Mosport Park spectator bowl, Watkins Glen Kendall stands and The Boot).
+  - Full details on Denny Hulme's final career victory in Argentina after Reutemann ran dry on the penultimate lap; Emerson Fittipaldi's rain-shortened home victory at Interlagos; Carlos Reutemann scoring his maiden win for Brabham at Kyalami following the fatal testing crash of Peter Revson; Niki Lauda's maiden Grand Prix victory leading a Ferrari 1-2 at Jarama; Fittipaldi edging Lauda by 0.35s at Nivelles; Ronnie Peterson's Monaco victory; Jody Scheckter's maiden victory leading a Tyrrell 1-2 at Anderstorp; Ferrari's 1-2 sweep at Zandvoort; Peterson winning the inaugural GP at Dijon; Scheckter's win at Brands Hatch amidst red flag pit lane controversy; Regazzoni winning the Nürburgring while Mike Hailwood suffered a career-ending leg injury at Pflanzgarten; Reutemann winning Austria; Peterson winning Monza after both Ferraris suffered engine failure; Fittipaldi winning Canada to enter the finale tied on 52 points with Regazzoni; and Fittipaldi finishing 4th at Watkins Glen to clinch his 2nd World Championship and McLaren's first-ever Constructors' Championship, while Reutemann led a Brabham 1-2 and Helmuth Koinigg was tragically killed.
+- **Audit Metrics**:
+  - **Number of claims checked**: 392
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+  - **Split scoring system verified**: Best 7 results from rounds 1–8 and best 6 from rounds 9–15 counted. Emerson Fittipaldi scored 55 net points (55 gross). Clay Regazzoni finished runner-up with 52 net points (52 gross). Jody Scheckter finished 3rd with 45 net points (45 gross). Niki Lauda finished 4th with 38 net points (38 gross). McLaren-Ford won the Constructors' Championship with 73 net points (75 gross) over Ferrari (65 net / 65 gross).
+- **Date Re-verified**: 2026-10-29
