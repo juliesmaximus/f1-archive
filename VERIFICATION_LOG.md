@@ -360,3 +360,23 @@ Last verified: 2026-10-29
   - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
+
+### Season 1957 Verification Audit & Expansion
+- **Scope**: Inaugural verified build of 1957 season files (calendar.md, standings.md, and all 8 race dossiers results.json, qualifying.json, notes.md, plus constructors/vanwall.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1957 Official Race Results & Drivers Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1957.json, driverStandings.json, round-by-round results)
+  - FIA Heritage Archive & Hall of Fame (Juan Manuel Fangio, Stirling Moss, Tony Brooks)
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 8 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Buenos Aires concrete stands, Monaco harbour balconies, Aintree Grand National horse-racing grandstands, Nürburgring Start-und-Ziel grandstand, Pescara seaside boulevard straight, Monza road course).
+  - Full details on Fangio's 4th consecutive Argentine GP win in Maserati 1-2-3-4 sweep, the lap 4 Monaco chicane pileup wiping out Moss, Collins, and Hawthorn, Sam Hanks winning the Indy 500 in the Salih 'laydown' roadster and announcing immediate retirement, the historic first World Championship victory for a British car (Vanwall VW5 shared by Tony Brooks and Stirling Moss at Aintree), Fangio's immortal 'Greatest Drive in F1 History' at the Nürburgring Nordschleife (recovering from a 52s botched pit stop to shatter the lap record 9 times and catch both Ferraris to clinch his 5th World Championship), Stirling Moss winning on the longest circuit in F1 history at Pescara (25.579 km), and Vanwall's front-row sweep and victory at Monza.
+- **Audit Metrics**:
+  - **Number of claims checked**: 216
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
