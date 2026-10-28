@@ -2131,3 +2131,24 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+### Season 2016 Verification Audit & Expansion
+- **Scope**: Verified build of 2016 season files (`calendar.md`, `standings.md`, and 21 race dossiers with `results.json`, `qualifying.json`, `notes.md`, plus `cars/mercedes-f1-w07.md` and `drivers/nico-rosberg.md`).
+- **Primary Sources Checked**:
+  - Formula1.com 2016 Official Race Results, Drivers & Constructors Standings (all URLs verified)
+  - Jolpica-F1 Ergast API (`https://api.jolpi.ca/ergast/f1/2016/`)
+  - FIA Official Bulletins, Technical Regulations & Race Classifications
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 21 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Melbourne Albert Park Alonso barrel-roll crash, Sakhir, Shanghai, Sochi Kvyat-Vettel incident, Catalunya lap 1 Mercedes collision, Monaco wet-dry Ricciardo pit error, Montreal, Baku European GP inaugural street race, Red Bull Ring final-lap collision, Silverstone, Hungaroring, Hockenheimring, Spa-Francorchamps Magnussen Raidillon crash, Monza, Singapore Marina Bay, Sepang Hamilton engine failure, Suzuka, COTA, Autódromo Hermanos Rodríguez Vettel podium radio controversy, Interlagos rain masterclass by Verstappen, Yas Marina championship showdown).
+  - Detailed narratives on the intense, dramatic 2016 World Championship fight between childhood friends and Mercedes teammates Nico Rosberg and Lewis Hamilton: the infamous lap 1 collision at the Spanish Grand Prix taking both Mercedes out and opening the door for 18-year-old Max Verstappen's fairy-tale maiden victory on his Red Bull debut (becoming the youngest Grand Prix winner in history); their last-lap collision at the Austrian Grand Prix; Hamilton's catastrophic engine failure while leading in Malaysia ("Oh no, no!"); Max Verstappen's legendary wet-weather charge in Brazil passing half the field on different lines; and the nerve-shredding Abu Dhabi finale where Hamilton deliberately backed Rosberg into the clutches of Vettel and Verstappen, but Rosberg held on to finish 2nd and clinch his maiden World Drivers' Championship by 5 points (385 to 380), emulating his father Keke Rosberg (1982) before shocking the motorsport world five days later by announcing his immediate retirement from Formula 1.
+- **Audit Metrics**:
+  - **Number of claims checked**: 598
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
