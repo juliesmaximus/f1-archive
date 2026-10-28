@@ -1010,3 +1010,31 @@ Last verified: 2026-10-29
 - **World Constructors' Champion**: Williams Grand Prix Engineering - 120 net points (6 wins) - Maiden WCC for Williams
 - **Historical Innovations Documented**: Williams maiden WDC/WCC double, Nelson Piquet and Didier Pironi maiden victories, FISA-FOCA war, Imola hosting the Italian GP, farewell to Watkins Glen.
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+### 1981 Season Verification Entry
+- **Year**: 1981
+- **Verification Date**: 2026-10-29
+- **Sources Consulted**:
+  - Jolpica-F1 Ergast API (`/1981.json`, `/1981/driverStandings.json`, `/1981/constructorStandings.json`, `/1981/{round}/results.json`, `/1981/{round}/qualifying.json`)
+  - Formula1.com Official Results & Archive (1981 Grand Prix results, pole positions, fastest laps)
+  - FIA Heritage Regulations and Classifications Archive
+- **Rounds Verified**: 15 Rounds:
+  1. United States GP West (Long Beach) - Winner: Alan Jones (Williams), Pole: Riccardo Patrese (Arrows), FL: Alan Jones (Williams)
+  2. Brazilian GP (Jacarepaguá) - Winner: Carlos Reutemann (Williams), Pole: Nelson Piquet (Brabham), FL: Marc Surer (Ensign) - Reutemann defies 'JONES-REUT' pit orders in deluge
+  3. Argentine GP (Buenos Aires) - Winner: Nelson Piquet (Brabham), Pole: Nelson Piquet (Brabham), FL: Nelson Piquet (Brabham) - Gordon Murray hydropneumatic suspension trick
+  4. San Marino GP (Imola) - Winner: Nelson Piquet (Brabham), Pole: Gilles Villeneuve (Ferrari), FL: Gilles Villeneuve (Ferrari) - Inaugural San Marino Grand Prix
+  5. Belgian GP (Zolder) - Winner: Carlos Reutemann (Williams), Pole: Carlos Reutemann (Williams), FL: Carlos Reutemann (Williams) - Final career win for Reutemann; tragic pit lane incidents
+  6. Monaco GP (Monte Carlo) - Winner: Gilles Villeneuve (Ferrari), Pole: Nelson Piquet (Brabham), FL: Alan Jones (Williams) - Historic first turbo victory for Ferrari
+  7. Spanish GP (Jarama) - Winner: Gilles Villeneuve (Ferrari), Pole: Jacques Laffite (Ligier), FL: Alan Jones (Williams) - Historic 5-car train finish (0.22s margin, top 5 within 1.24s); final career win for Villeneuve
+  8. French GP (Dijon-Prenois) - Winner: Alain Prost (Renault), Pole: René Arnoux (Renault), FL: Alain Prost (Renault) - Maiden Grand Prix victory for Alain Prost
+  9. British GP (Silverstone) - Winner: John Watson (McLaren), Pole: René Arnoux (Renault), FL: René Arnoux (Renault) - Historic FIRST VICTORY FOR A CARBON-FIBRE CHASSIS (McLaren MP4/1)
+  10. German GP (Hockenheim) - Winner: Nelson Piquet (Brabham), Pole: Alain Prost (Renault), FL: Alan Jones (Williams)
+  11. Austrian GP (Österreichring) - Winner: Jacques Laffite (Ligier), Pole: René Arnoux (Renault), FL: Jacques Laffite (Ligier)
+  12. Dutch GP (Zandvoort) - Winner: Alain Prost (Renault), Pole: Alain Prost (Renault), FL: Alan Jones (Williams)
+  13. Italian GP (Monza) - Winner: Alain Prost (Renault), Pole: René Arnoux (Renault), FL: Carlos Reutemann (Williams) - John Watson survives 150mph crash in carbon monocoque; Williams clinches Constructors' Championship
+  14. Canadian GP (Montreal) - Winner: Jacques Laffite (Ligier), Pole: Nelson Piquet (Brabham), FL: John Watson (McLaren) - Gilles Villeneuve blind drive with broken front wing
+  15. Caesars Palace GP (Las Vegas) - Winner: Alan Jones (Williams), Pole: Carlos Reutemann (Williams), FL: Didier Pironi (Ferrari) - Piquet finishes 5th through physical collapse to clinch maiden World Championship by 1 point (50 to 49)
+- **World Drivers' Champion**: Nelson Piquet (Brabham-Ford) - 50 net points (3 wins)
+- **World Constructors' Champion**: Williams Grand Prix Engineering - 95 net points (4 wins)
+- **Historical Innovations Documented**: First carbon-fibre monocoque victory (McLaren MP4/1), Alain Prost maiden win, Ferrari turbo maiden win, Jarama 5-car train finish, Caesars Palace inaugural GP.
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
