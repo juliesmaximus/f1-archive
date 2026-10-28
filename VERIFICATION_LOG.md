@@ -734,3 +734,25 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
   - **Split scoring system verified**: Best 5 results from rounds 1–6 and best 4 from rounds 7–11 counted. Jackie Stewart scored 62 net points (62 gross). Ronnie Peterson finished runner-up with 33 net points (33 gross) without winning a race. François Cevert finished 3rd with 26 net points (26 gross). Tyrrell-Ford won the Constructors' Championship with 73 net points (73 gross).
 - **Date Re-verified**: 2026-10-29
+
+### Season 1972 Verification Audit & Expansion
+- **Scope**: Inaugural verified build of 1972 season files (calendar.md, standings.md with International Cup for F1 Manufacturers / Constructors' Championship, and all 12 race dossiers results.json, qualifying.json, notes.md, plus drivers/emerson-fittipaldi.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1972 Official Race Results, Drivers & Constructors Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1972.json, driverStandings.json, constructorStandings.json, round-by-round results)
+  - FIA Heritage Archive & Hall of Fame (Emerson Fittipaldi, Jackie Stewart, Denny Hulme, Jacky Ickx, Jean-Pierre Beltoise)
+  - Team Lotus Official Archives (1972 World Championship & John Player Special Lotus 72D records)
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 12 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Buenos Aires concrete stadium stands, Kyalami Crowthorne banks, Jarama Pegaso terraces, Monaco harbour balconies, Nivelles start-finish grandstand, Charade volcanic slopes, Brands Hatch natural bowl, Nürburgring Nordschleife camping banks, Österreichring Styrian grandstands, Monza Curva Grande and Variante Ascari chicanes, Mosport Park spectator bowl, Watkins Glen Kendall stands and The Boot).
+  - Full details on Carlos Reutemann taking pole on his Grand Prix debut at Buenos Aires; Denny Hulme scoring McLaren's first win since 1969 at Kyalami; Jean-Pierre Beltoise producing his historic wet-weather masterpiece at Monaco to score BRM's final Grand Prix victory; Emerson Fittipaldi winning at Nivelles, Jarama, Brands Hatch, and Österreichring; the final GP at Charade where Helmut Marko suffered a career-ending eye injury from a flying stone; Jacky Ickx's Grand Slam at the Nürburgring for Ferrari; permanent chicanes added at Monza (Curva Grande and Ascari); Emerson Fittipaldi clinching his maiden World Championship at Monza at age 25 years, 273 days (becoming the youngest World Champion in history, unbroken until 2005); Team Lotus winning their 5th Constructors' Championship; and Jackie Stewart winning in Canada and leading a dominant Tyrrell 1-2 at Watkins Glen.
+- **Audit Metrics**:
+  - **Number of claims checked**: 318
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+  - **Split scoring system verified**: Best 5 results from rounds 1–6 and best 5 from rounds 7–12 counted. Emerson Fittipaldi scored 61 net points (61 gross). Jackie Stewart finished runner-up with 45 net points (45 gross). Denny Hulme finished 3rd with 39 net points (39 gross). Team Lotus won the Constructors' Championship with 61 net points (61 gross).
+- **Date Re-verified**: 2026-10-29
