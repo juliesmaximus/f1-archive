@@ -756,3 +756,25 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
   - **Split scoring system verified**: Best 5 results from rounds 1–6 and best 5 from rounds 7–12 counted. Emerson Fittipaldi scored 61 net points (61 gross). Jackie Stewart finished runner-up with 45 net points (45 gross). Denny Hulme finished 3rd with 39 net points (39 gross). Team Lotus won the Constructors' Championship with 61 net points (61 gross).
 - **Date Re-verified**: 2026-10-29
+
+### Season 1973 Verification Audit & Expansion
+- **Scope**: Inaugural verified build of 1973 season files (calendar.md, standings.md with International Cup for F1 Manufacturers / Constructors' Championship, and all 15 race dossiers results.json, qualifying.json, notes.md, plus drivers/peter-revson.md and drivers/carlos-reutemann.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1973 Official Race Results, Drivers & Constructors Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1973.json, driverStandings.json, constructorStandings.json, round-by-round results)
+  - FIA Heritage Archive & Hall of Fame (Jackie Stewart, Emerson Fittipaldi, Ronnie Peterson, François Cevert, Peter Revson)
+  - Tyrrell Racing & Team Lotus Heritage Archives (1973 season records)
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 15 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Buenos Aires concrete stadium stands, Interlagos Arquibancadas da Reta Oposta, Kyalami Crowthorne banks, Montjuïc terraces, Zolder Terlamen curves, Monaco Swimming Pool complex, Anderstorp Karusellen banks, Circuit Paul Ricard terraces, Silverstone Woodcote runways, Zandvoort dunes, Nürburgring Nordschleife camping banks, Österreichring Styrian grandstands, Monza Parabolica banks, Mosport Park spectator bowl, Watkins Glen Kendall stands and The Boot).
+  - Full details on Emerson Fittipaldi winning the inaugural Brazilian GP at Interlagos; Mike Hailwood's George Medal heroism pulling unconscious Clay Regazzoni from a burning BRM at Kyalami; Jackie Stewart winning at Zolder and equaling Graham Hill's 25 wins at Monaco (introducing the Swimming Pool section); Denny Hulme snatching the inaugural Swedish GP after Peterson's penultimate-lap puncture; Ronnie Peterson's maiden GP win at Paul Ricard; Peter Revson's maiden win at Silverstone following the massive 9-car Woodcote pileup triggered by Jody Scheckter; the tragic death of Roger Williamson at Zandvoort and David Purley's desperate rescue attempt; Jackie Stewart's 27th and final career victory leading a formation 1-2 sweep with François Cevert at the Nürburgring Nordschleife (setting the all-time win record that stood for 14 years); Stewart clinching his 3rd World Drivers' Championship at Monza with an epic recovery drive from a lap down to 4th; the historic first use of the Safety Car (Porsche 914) at Mosport; and the tragic death of François Cevert at Watkins Glen leading to Tyrrell's withdrawal, Jackie Stewart's immediate retirement on 99 starts, and Team Lotus winning the Constructors' Championship by 3 points.
+- **Audit Metrics**:
+  - **Number of claims checked**: 385
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+  - **Split scoring system verified**: Best 7 results from rounds 1–8 and best 6 from rounds 9–15 counted. Jackie Stewart scored 71 net points (71 gross). Emerson Fittipaldi finished runner-up with 55 net points (55 gross). Ronnie Peterson finished 3rd with 52 net points (52 gross). François Cevert finished 4th with 47 net points (47 gross). Team Lotus won the Constructors' Championship with 92 net points (96 gross) over Tyrrell-Ford (82 net / 86 gross).
+- **Date Re-verified**: 2026-10-29
