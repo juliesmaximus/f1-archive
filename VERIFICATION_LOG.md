@@ -2110,3 +2110,24 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+### Season 2015 Verification Audit & Expansion
+- **Scope**: Verified build of 2015 season files (`calendar.md`, `standings.md`, and 19 race dossiers with `results.json`, `qualifying.json`, `notes.md`, plus `cars/mercedes-f1-w06.md` and `circuits/hermanos-rodriguez.md`).
+- **Primary Sources Checked**:
+  - Formula1.com 2015 Official Race Results, Drivers & Constructors Standings (all URLs verified)
+  - Jolpica-F1 Ergast API (`https://api.jolpi.ca/ergast/f1/2015/`)
+  - FIA Official Bulletins, Technical Regulations & Race Classifications
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 19 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Melbourne Albert Park, Sepang heat, Shanghai, Sakhir, Catalunya, Monaco pit stop timing error, Montreal, Red Bull Ring, Silverstone wet thriller, Hungaroring chaotic race, Spa-Francorchamps, Monza temple of speed, Singapore Marina Bay night race, Suzuka, Sochi Autodrom, COTA torrential rain, Autódromo Hermanos Rodríguez Mexico City return with iconic Foro Sol stadium section, Interlagos, Yas Marina).
+  - Detailed narratives on Lewis Hamilton capturing his third World Drivers' Championship (matching his childhood hero Ayrton Senna) with 10 victories and 11 poles, clinching the title at the United States Grand Prix in Austin after a dramatic wet-dry race and late-race pass on Nico Rosberg; Mercedes AMG Petronas repeating as Constructors' Champions with 703 points and 16 victories; Sebastian Vettel's sensational debut season with Scuderia Ferrari taking 3 victories (Malaysia, Hungary, Singapore); the historic return of the Mexican Grand Prix after a 23-year absence featuring the unique stadium atmosphere of the Foro Sol; and the sensational rookie campaign of 17-year-old Max Verstappen with Scuderia Toro Rosso, becoming the youngest driver to start a Grand Prix and score championship points.
+- **Audit Metrics**:
+  - **Number of claims checked**: 568
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
