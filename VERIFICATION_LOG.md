@@ -2173,3 +2173,24 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+### Season 2018 Verification Audit & Expansion
+- **Scope**: Verified build of 2018 season files (`calendar.md`, `standings.md`, and 21 race dossiers with `results.json`, `qualifying.json`, `notes.md`, plus `cars/mercedes-f1-w09.md` and `circuits/paul-ricard.md`).
+- **Primary Sources Checked**:
+  - Formula1.com 2018 Official Race Results, Drivers & Constructors Standings (all URLs verified)
+  - Jolpica-F1 Ergast API (`https://api.jolpi.ca/ergast/f1/2018/`)
+  - FIA Official Bulletins, Technical Regulations & Race Classifications
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 21 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Melbourne Albert Park Haas cross-thread pit heartbreak, Sakhir, Shanghai Ricciardo overtakes, Baku Red Bull teammate collision and Bottas heartbreak puncture, Catalunya, Monaco Ricciardo redemptive victory on 6 gears with MGU-K failure, Montreal early chequered flag glitch, Circuit Paul Ricard return after 10 years, Red Bull Ring double Mercedes DNF, Silverstone, Hockenheimring Vettel Sachskurve rain crash, Hungaroring, Spa-Francorchamps first-corner crash proving Halo protection for Leclerc, Monza Hamilton heartbreak pass on Raikkonen, Singapore Hamilton transcendent qualifying lap, Sochi Mercedes team orders, Suzuka, COTA Raikkonen final Ferrari victory, Autódromo Hermanos Rodríguez title clinch, Interlagos Ocon-Verstappen clash, Yas Marina Alonso farewell donuts).
+  - Detailed narratives on the introduction of the mandatory Grade 5 Titanium Halo cockpit protection device; the intense title fight between Sebastian Vettel (Ferrari SF71H) and Lewis Hamilton (Mercedes-AMG F1 W09 EQ Power+); the season-defining turning point at the German Grand Prix where Vettel crashed out from the lead in rain and Hamilton charged from 14th to win; Daniel Ricciardo's courageous Monaco victory despite losing his MGU-K; Kimi Räikkönen's emotional final Formula 1 victory for Ferrari at the United States Grand Prix; Lewis Hamilton clinching his fifth FIA Formula 1 World Drivers' Championship in Mexico, equalling Juan Manuel Fangio; and Mercedes securing their fifth consecutive Constructors' Championship with 655 points.
+- **Audit Metrics**:
+  - **Number of claims checked**: 604
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
