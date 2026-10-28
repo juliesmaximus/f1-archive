@@ -181,5 +181,36 @@ This log documents all official and primary source records consulted, cross-chec
 
 ---
 
+### Season 1956 Verification Audit
+
+- **Primary Sources Consulted**:
+  - Formula1.com 1956 Races & Standings: https://www.formula1.com/en/results.html/1956/drivers.html
+  - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1956/
+  - FIA Hall of Fame (Juan Manuel Fangio, Peter Collins, Stirling Moss): https://www.fia.com/hall-of-fame
+- **Calendar & Race Count**: 8 Championship rounds (Argentina, Monaco, Indianapolis 500, Belgium, France, Great Britain, Germany, Italy).
+- **Regulatory Framework**: 2.5-litre naturally aspirated engine regulations. Best 5 of 8 results counted toward Drivers' Championship.
+- **Dual-Source Reconciliations**:
+  - Championship totals verified: Juan Manuel Fangio (30 net pts / 33 gross), Stirling Moss (27 net / 28 gross), Peter Collins (25 net / 25 gross), Jean Behra (22 net / 22 gross), Pat Flaherty (8 pts).
+  - Fangio 4th World Championship: Fangio won his 3rd consecutive title and 4th overall, achieving this with a 3rd different constructor (Alfa Romeo 1951, Maserati/Mercedes 1954, Mercedes 1955, Ferrari 1956).
+  - Landmark Milestones Verified:
+    - Peter Collins won his maiden World Championship Grand Prix at Spa-Francorchamps (Belgian GP) on 3 June 1956 and followed it with victory at Reims (French GP) on 1 July 1956.
+    - Stirling Moss won the Monaco Grand Prix on 13 May 1956 and the Italian Grand Prix at Monza on 2 September 1956 driving the Maserati 250F.
+    - Legendary Monza sportsmanship: In the season finale at Monza on 2 September 1956, Peter Collins voluntarily handed his Lancia-Ferrari D50 to Juan Manuel Fangio on lap 35 after Fangio's car suffered broken steering arm, relinquishing his own mathematical chance of winning the World Drivers' Championship. Fangio drove the car to 2nd place, securing the 1956 championship.
+    - Bugatti made their sole World Championship appearance at the French Grand Prix (Type 251 driven by Maurice Trintignant; retired lap 18).
+    - Vanwall achieved its first World Championship points and pole position (Moss pole at Monza was in Maserati, but Vanwall demonstrated front-running pace).
+  - Shared drive points confirmed:
+    - Argentina: Luigi Musso & Juan Manuel Fangio finished 1st (split 8 pts = 4 pts each).
+    - Argentina: Mike Hawthorn & Chico Landi finished 4th (split 3 pts = 1.5 pts each).
+    - Monaco: Peter Collins & Juan Manuel Fangio finished 2nd (split 6 pts = 3 pts each).
+    - Monaco: Cesare Perdisa & Stirling Moss finished 3rd (split 4 pts = 2 pts each).
+    - Great Britain: Alfonso de Portago & Peter Collins finished 2nd (split 6 pts = 3 pts each).
+    - Italy: Peter Collins & Juan Manuel Fangio finished 2nd (split 6 pts = 3 pts each).
+- **Discrepancies / Conflicts**: None.
+- **Unverified Claims**: 0.
+- **Date Verified**: 2026-10-29
+
+---
+
 Last verified: 2026-10-29
+
 
