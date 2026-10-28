@@ -1,28 +1,43 @@
-# 1953 Round 2: Indianapolis 500 Verified Race Record
+# 1953 Round 2: XXXVII Indianapolis International Motor Sweepstakes / 37th International 500-Mile Sweepstakes - Verified Race Record
 
-- **Official Race Title**: 37th International 500-Mile Sweepstakes
-- **Circuit**: Indianapolis Motor Speedway (Speedway, Indiana, USA)
-- **Track Length**: 4.023 km (2.500 mi) oval | **Race Distance**: 200 laps (804.672 km (500.000 mi))
-- **Date**: 1953-05-30
-- **Weather & Track Conditions**: Extreme heat (ambient temperature reached 100°F / 38°C, track temp >130°F)
+## Circuit & Geographic Metadata
+- **Official Race Title**: XXXVII Indianapolis International Motor Sweepstakes / 37th International 500-Mile Sweepstakes
+- **Historic Name Notes**: Round 2 of the 1953 FIA World Championship; known in motor racing history as 'The Hottest 500'.
+- **Circuit Full Name**: Indianapolis Motor Speedway
+- **Location**: Speedway, Indiana, United States
+- **Host Country**: United States
+- **Track Length**: 4.023 km (2.500 mi)
+- **Track Altitude**: 218 m (715 ft) above sea level
+- **Race Distance**: 200 laps / 804.672 km (500.000 mi)
+- **Official Race Date**: 1953-05-30
 
-## Verified Key Results
-- **Winner**: Bill Vukovich (Kurtis Kraft-Offenhauser #14) - 3:53:01.69 (207.163 km/h)
-- **Pole Position**: Bill Vukovich (Kurtis Kraft-Offenhauser #14) - 4:20.13 (138.392 mph)
-- **Official Fastest Lap**: Bill Vukovich (Kurtis Kraft-Offenhauser #14) - 1:06.24 [1 point]
+## Weather, Environment & Spectators
+- **Weather & Track Conditions**: Extreme oppressive heatwave; ambient temperature 38°C (100°F), track surface temperature 54°C (130°F).
+- **Spectator Attendance**: Estimated 175,000 spectators.
+- **Grandstand & Infrastructure Notes**: Paddock and main grandstands overwhelmed by severe heat casualties among spectators.
 
-## Podium Finishers & Points
-- 1st: Bill Vukovich (Kurtis Kraft-Offenhauser) - 200 laps, 3:53:01.69 (9 pts)
-- 2nd: Art Cross (Kurtis Kraft-Offenhauser) - 200 laps, +3:30.87 (6 pts)
-- 3rd: Sam Hanks & Duane Carter (Kurtis Kraft-Offenhauser) - 200 laps, +4:11.50 (2 pts each)
+## Verified Key Race Results
+- **Pole Position**: Bill Vukovich (Kurtis Kraft-Offenhauser) - 4:20.13 (4-lap avg: 138.392 mph)
+- **Fastest Race Lap**: Bill Vukovich (Kurtis Kraft-Offenhauser) - 1:06.24 (135.870 mph) [Lap 27, 1 pt]
+- **Race Winner**: Bill Vukovich (Kurtis Kraft) - 3:53:01.690 (9 pts)
+
+## Official Podium Finishers
+- **1st** : Bill Vukovich (Kurtis Kraft) — 3:53:01.690 [9 pts]
+- **2nd** : Art Cross (Kurtis Kraft) — +3:30.870 [6 pts]
+- **3rd** : Duane Carter (Kurtis Kraft) — +4:11.500 [2 pts]
 
 ## Verified Race Scenarios, Anomalies & Controversies
-- 'The Hottest 500': Oppressive heat caused severe heat exhaustion among drivers and crews. Driver Carl Scarborough died of heat exhaustion after retiring from the race.
-- Vukovich Masterclass: Bill Vukovich drove the entire 500 miles solo without a relief driver, leading 195 of the 200 laps.
-- Widespread Driver Reliefs: At least 16 driver relief changes took place among competitors attempting to cope with the heat.
+- The Hottest 500 Heat Attrition: Extreme temperatures caused widespread driver collapse and heat exhaustion. Half the field required relief drivers, with 16 driver substitutions during the race.
+- Carl Scarborough Tragedy: Driver Carl Scarborough pulled into the pits suffering from acute heat stroke and tragically died in the track hospital shortly after being extricated from his car.
+- Vukovich 'The Iron Man': Bill Vukovich refused any relief driver, drank ice water during pit stops, and drove all 200 laps solo to win in dominant fashion, leading 195 of 200 laps.
+- Art Cross finished 2nd, running solo for the full 500 miles despite severe blistering and dehydration.
 
-## Primary Sources
-- https://www.formula1.com/en/results.html/1953/races/118/indianapolis-500/race-result.html
-- https://api.jolpi.ca/ergast/f1/1953/2/results.json
+## Records Set or Equalled
+- Bill Vukovich led 195 of 200 laps, setting the modern Indianapolis 500 laps led record in a single race.
 
-Last verified: 2026-10-29
+## Primary & Official Sources
+- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1953/races/118/indianapolis-500/race-result.html
+- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1953/2/results.json
+- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
+
+*Last verified: 2026-10-29*

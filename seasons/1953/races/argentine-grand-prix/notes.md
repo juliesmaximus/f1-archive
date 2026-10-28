@@ -1,29 +1,43 @@
-# 1953 Round 1: Argentine Grand Prix Verified Race Record
+# 1953 Round 1: I Gran Premio de la República Argentina - Verified Race Record
 
-- **Official Race Title**: I Gran Premio de la Republica Argentina
-- **Circuit**: Autódromo 17 de Octubre (Buenos Aires, Argentina)
-- **Track Length**: 3.912 km (2.431 mi) | **Race Distance**: 97 laps (379.464 km (235.788 mi))
-- **Date**: 1953-01-18
-- **Weather & Track Conditions**: Intense heat and humidity
+## Circuit & Geographic Metadata
+- **Official Race Title**: I Gran Premio de la República Argentina
+- **Historic Name Notes**: First Argentine Grand Prix in World Championship history; inaugural World Championship race held outside Europe or North America.
+- **Circuit Full Name**: Autódromo 17 de Octubre
+- **Location**: Buenos Aires, Argentina
+- **Host Country**: Argentina
+- **Track Length**: 3.912 km (2.431 mi)
+- **Track Altitude**: 10 m (33 ft) above sea level
+- **Race Distance**: 97 laps / 379.464 km (235.788 mi)
+- **Official Race Date**: 1953-01-18
 
-## Verified Key Results
-- **Winner**: Alberto Ascari (Ferrari 500) - 3:01:04.6 (125.748 km/h)
+## Weather, Environment & Spectators
+- **Weather & Track Conditions**: Intense tropical summer heat, track temperature exceeding 45°C.
+- **Spectator Attendance**: Estimated over 300,000 fanatical Argentine spectators (free admission ordered by President Juan Perón).
+- **Grandstand & Infrastructure Notes**: Overwhelming crowd spillover; spectators broke trackside barriers and sat on kerbs and perimeter grass.
+
+## Verified Key Race Results
 - **Pole Position**: Alberto Ascari (Ferrari 500) - 1:55.4
-- **Official Fastest Lap**: Alberto Ascari (Ferrari 500) - 1:48.4 (Lap 73) [1 point]
+- **Fastest Race Lap**: Alberto Ascari (Ferrari 500) - 1:48.4 (Lap 73) [1 pt]
+- **Race Winner**: Alberto Ascari (Ferrari) - 3:01:04.600 (9 pts)
 
-## Podium Finishers & Points
-- 1st: Alberto Ascari (Ferrari 500) - 97 laps, 3:01:04.6 (9 pts)
-- 2nd: Luigi Villoresi (Ferrari 500) - 96 laps, +1 Lap (6 pts)
-- 3rd: José Froilán González (Maserati A6GCM) - 96 laps, +1 Lap (4 pts)
+## Official Podium Finishers
+- **1st** : Alberto Ascari (Ferrari) — 3:01:04.600 [9 pts]
+- **2nd** : Luigi Villoresi (Ferrari) — +1 Lap [6 pts]
+- **3rd** : José Froilán González (Maserati) — +1 Lap [4 pts]
 
 ## Verified Race Scenarios, Anomalies & Controversies
+- Crowd Incursion Tragedy: With over 300,000 spectators allowed free entry, crowd control collapsed. On lap 31, a young boy ran across the track directly in front of Nino Farina's Ferrari. Farina swerved violently, crashed into the spectator embankment, killing several spectators and injuring dozens. The race was not stopped.
+- Ascari 7th Consecutive GP Start Win: Alberto Ascari won the race, establishing the all-time record of 7 consecutive World Championship Grand Prix victories (excluding Indy 500 which he did not enter).
+- Maserati Threat: Juan Manuel Fangio returned to Grand Prix racing following his 1952 recovery, running 2nd in the new Maserati A6GCM before his transmission failed on lap 36.
+
+## Records Set or Equalled
+- All-time record: 7 consecutive World Championship Grand Prix race wins by Alberto Ascari.
 - First World Championship Grand Prix held in South America.
-- Ascari 7th Consecutive Win: Grand Slam performance (pole, win, fastest lap, led all 97 laps).
-- Spectator Tragedy: Massive uncontrolled crowds (>300,000) lined the track verges. On lap 31, Nino Farina swerved to avoid a spectator crossing the track, spun into the crowd, causing multiple spectator fatalities.
-- Fangio Home Disappointment: Local hero Juan Manuel Fangio retired on lap 36 with transmission failure on his Maserati.
 
-## Primary Sources
-- https://www.formula1.com/en/results.html/1953/races/117/argentina/race-result.html
-- https://api.jolpi.ca/ergast/f1/1953/1/results.json
+## Primary & Official Sources
+- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1953/races/117/argentina/race-result.html
+- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1953/1/results.json
+- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
 
-Last verified: 2026-10-29
+*Last verified: 2026-10-29*

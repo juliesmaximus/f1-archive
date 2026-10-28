@@ -1,28 +1,42 @@
-# 1953 Round 3: Dutch Grand Prix Verified Race Record
+# 1953 Round 3: IV Grote Prijs van Nederland - Verified Race Record
 
+## Circuit & Geographic Metadata
 - **Official Race Title**: IV Grote Prijs van Nederland
-- **Circuit**: Circuit Park Zandvoort (Zandvoort, Netherlands)
-- **Track Length**: 4.193 km (2.605 mi) | **Race Distance**: 90 laps (377.370 km (234.487 mi))
-- **Date**: 1953-06-07
-- **Weather & Track Conditions**: Warm and windy with blowing coastal sand
+- **Historic Name Notes**: 4th Dutch Grand Prix at Zandvoort.
+- **Circuit Full Name**: Circuit Park Zandvoort
+- **Location**: Zandvoort, North Holland, Netherlands
+- **Host Country**: Netherlands
+- **Track Length**: 4.193 km (2.605 mi)
+- **Track Altitude**: 8 m (26 ft) above sea level
+- **Race Distance**: 90 laps / 377.370 km (234.487 mi)
+- **Official Race Date**: 1953-06-07
 
-## Verified Key Results
-- **Winner**: Alberto Ascari (Ferrari 500) - 2:53:35.8 (130.430 km/h)
+## Weather, Environment & Spectators
+- **Weather & Track Conditions**: Cool, sunny, blustery seaside weather.
+- **Spectator Attendance**: Estimated 60,000 spectators.
+- **Grandstand & Infrastructure Notes**: Main grandstand opposite pits and natural sand dune viewing areas packed.
+
+## Verified Key Race Results
 - **Pole Position**: Alberto Ascari (Ferrari 500) - 1:51.1
-- **Official Fastest Lap**: Luigi Villoresi (Ferrari 500) - 1:52.8 (Lap 59) [1 point]
+- **Fastest Race Lap**: Luigi Villoresi (Ferrari 500) - 1:52.8 (Lap 59) [1 pt]
+- **Race Winner**: Alberto Ascari (Ferrari) - 2:53:35.800 (8 pts)
 
-## Podium Finishers & Points
-- 1st: Alberto Ascari (Ferrari 500) - 90 laps, 2:53:35.8 (8 pts)
-- 2nd: Nino Farina (Ferrari 500) - 90 laps, +40.4s (6 pts)
-- 3rd: José Froilán González & Felice Bonetto (Maserati A6GCM) - 89 laps, +1 Lap (2 pts each)
+## Official Podium Finishers
+- **1st** : Alberto Ascari (Ferrari) — 2:53:35.800 [8 pts]
+- **2nd** : Nino Farina (Ferrari) — +10.400 [6 pts]
+- **3rd** : José Froilán González (Maserati) — +1 Lap [2 pts]
 
 ## Verified Race Scenarios, Anomalies & Controversies
-- Ascari 8th Consecutive Win (European Championship): Ascari led all 90 laps to score another commanding victory.
-- Maserati Shared Drive: González suffered overheating and surrendered his Maserati on lap 34 to Felice Bonetto, who charged to 3rd place (sharing 4 points, 2 each).
-- Fangio Rear Axle DNF: Fangio retired from 2nd on lap 36 with a broken rear axle.
+- Ascari 8th Consecutive European GP Victory: Ascari took the win by a full lap over Ferrari teammate Farina.
+- Fangio & González Shared Drive: Fangio retired on lap 36 with rear axle failure, took over teammate José Froilán González's Maserati on lap 37, and charged to 3rd place, sharing the 4 points (2 points each).
+- Villoresi Fastest Lap: Luigi Villoresi scored his first official fastest lap point of the season.
 
-## Primary Sources
-- https://www.formula1.com/en/results.html/1953/races/119/netherlands/race-result.html
-- https://api.jolpi.ca/ergast/f1/1953/3/results.json
+## Records Set or Equalled
+- Ascari extended his European World Championship race winning streak to 8 consecutive victories.
 
-Last verified: 2026-10-29
+## Primary & Official Sources
+- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1953/races/119/netherlands/race-result.html
+- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1953/3/results.json
+- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
+
+*Last verified: 2026-10-29*

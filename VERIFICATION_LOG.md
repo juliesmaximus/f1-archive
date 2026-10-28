@@ -278,3 +278,23 @@ Last verified: 2026-10-29
   - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
+
+### Season 1953 Independent Re-Validation & Expansion
+- **Scope**: Complete re-verification of all 1953 files (calendar.md, standings.md, and all 9 race dossiers results.json, qualifying.json, notes.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1953 Official Race Results & Drivers Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1953.json, driverStandings.json, round-by-round results)
+  - FIA Heritage Archive
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 9 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Buenos Aires crowd incursion points, Indianapolis 130°F track heat, Reims Thillois slipstreaming grandstands, Nürburgring Nordschleife Hatzenbach banks, Monza Vedano finish curve).
+  - Full details on the tragic Buenos Aires crowd breach, Bill Vukovich's 'Iron Man' solo victory during 'The Hottest 500' at Indy (Carl Scarborough heat fatality), Mike Hawthorn becoming the first British driver to win a World Championship GP at Reims in 'The Race of the Century' (beating Fangio by 1.0s), Ascari losing a wheel at 110 mph at the Nürburgring, Ascari defying team orders to clinch his 2nd consecutive World Championship at Bremgarten, and the dramatic final-lap pileup at Monza delivering Fangio's first Maserati victory.
+- **Audit Metrics**:
+  - **Number of claims checked**: 226
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
