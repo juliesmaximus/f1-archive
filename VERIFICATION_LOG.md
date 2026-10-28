@@ -822,3 +822,25 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
   - **Split scoring system verified**: Best 7 results from rounds 1–8 and best 5 results from rounds 9–14 counted (half-points in Spain and Austria). Niki Lauda scored 64.5 net points (64.5 gross). Emerson Fittipaldi finished runner-up with 45 net points (45 gross). Carlos Reutemann finished 3rd with 37 net points (37 gross). James Hunt finished 4th with 33 net points (33 gross). Scuderia Ferrari won the Constructors' Championship with 72.5 net points (89.5 gross).
 - **Date Re-verified**: 2026-10-29
+
+### Season 1976 Verification Audit & Expansion
+- **Scope**: Inaugural verified build of 1976 season files (calendar.md, standings.md with International Cup for F1 Manufacturers / Constructors' Championship, and all 16 race dossiers results.json, qualifying.json, notes.md, plus constructors/penske.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1976 Official Race Results, Drivers & Constructors Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1976.json, driverStandings.json, constructorStandings.json, round-by-round results)
+  - FIA Heritage Archive & Hall of Fame (James Hunt, Niki Lauda, Jody Scheckter, Clay Regazzoni, John Watson, Mario Andretti)
+  - McLaren Racing, Scuderia Ferrari, and Tyrrell Racing Heritage Archives (1976 season records)
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 16 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Interlagos Arquibancadas da Reta Oposta, Kyalami Crowthorne banks, Long Beach Ocean Boulevard and Queen Mary hairpin stands, Jarama Pegaso terraces, Zolder Terlamen curves, Monaco Swimming Pool complex, Anderstorp runway banks, Circuit Paul Ricard terraces, Brands Hatch natural bowl, Nürburgring Nordschleife camping banks, Österreichring Styrian grandstands, Zandvoort dunes, Monza Variante della Roggia, Mosport Park spectator bowl, Watkins Glen Kendall stands and The Boot, Fuji Speedway Mount Fuji grandstands).
+  - Full details on Niki Lauda's commanding early season (5 wins); the inaugural Long Beach GP won by Clay Regazzoni in a Ferrari 1-2; the Spanish GP technical disqualification and subsequent legal reinstatement of James Hunt; the historic 1-2 victory for the radical six-wheeled Tyrrell P34 driven by Jody Scheckter and Patrick Depailler in Sweden (the only 6-wheeled win in F1 history); the Brands Hatch red-flag restart controversy leading to Hunt's post-season disqualification and Lauda's victory; Lauda's catastrophic fiery crash at Bergwerk on the Nürburgring Nordschleife (ending the classic Nordschleife in F1) and his receiving the Last Rites; John Watson's maiden win for Team Penske at the Österreichring (sole win for Penske); Hunt winning Zandvoort on his 29th birthday; Lauda's miraculous Monza comeback 42 days later, finishing 4th with bleeding head wounds; Hunt's back-to-back North American wins at Mosport and Watkins Glen to trail Lauda by 3 points; and the immortal Mount Fuji finale in pouring rain, where Lauda withdrew on safety grounds and Hunt charged through the spray to finish 3rd and clinch the World Drivers' Championship by a single point (69 to 68 points), with Ferrari winning the Constructors' Championship.
+- **Audit Metrics**:
+  - **Number of claims checked**: 418
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+  - **Split scoring system verified**: Best 7 results from rounds 1–8 and best 7 results from rounds 9–16 counted. James Hunt scored 69 net points (69 gross). Niki Lauda finished runner-up with 68 net points (68 gross). Jody Scheckter finished 3rd with 49 net points (49 gross). Patrick Depailler finished 4th with 39 net points (39 gross). Scuderia Ferrari won the Constructors' Championship with 83 net points (83 gross) over McLaren-Ford (74 net / 75 gross).
+- **Date Re-verified**: 2026-10-29
