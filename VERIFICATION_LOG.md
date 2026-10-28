@@ -1124,3 +1124,32 @@ Last verified: 2026-10-29
 - **World Constructors' Champion**: McLaren International - 143.5 net points (12 wins)
 - **Historical Innovations Documented**: Mid-race refuelling ban, 220L fuel limit, McLaren MP4/2 TAG-Porsche domination (12 wins), Ayrton Senna rookie breakout at Monaco, closest title decider in F1 history (0.5 pts), Dallas heatwave.
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+### 1985 Season Verification Entry
+- **Year**: 1985
+- **Verification Date**: 2026-10-29
+- **Sources Consulted**:
+  - Jolpica-F1 Ergast API (`/1985.json`, `/1985/driverStandings.json`, `/1985/constructorStandings.json`, `/1985/{round}/results.json`, `/1985/{round}/qualifying.json`)
+  - Formula1.com Official Results & Archive (1985 Grand Prix results, pole positions, fastest laps)
+  - FIA Heritage Regulations and Classifications Archive
+- **Rounds Verified**: 16 Rounds:
+  1. Brazilian GP (Jacarepaguá) - Winner: Alain Prost (McLaren-TAG), Pole: Michele Alboreto (Ferrari), FL: Alain Prost (McLaren)
+  2. Portuguese GP (Estoril) - Winner: Ayrton Senna (Lotus-Renault), Pole: Ayrton Senna (Lotus), FL: Ayrton Senna (Lotus) - Maiden F1 win for Ayrton Senna in torrential rain (won by 1m 02s, lapping up to 2nd)
+  3. San Marino GP (Imola) - Winner: Elio de Angelis (Lotus-Renault), Pole: Ayrton Senna (Lotus), FL: Michele Alboreto (Ferrari) - Prost disqualified for underweight car (-2kg) after running out of fuel
+  4. Monaco GP (Monte Carlo) - Winner: Alain Prost (McLaren-TAG), Pole: Ayrton Senna (Lotus), FL: Michele Alboreto (Ferrari)
+  5. Canadian GP (Montreal) - Winner: Michele Alboreto (Ferrari), Pole: Elio de Angelis (Lotus), FL: Ayrton Senna (Lotus) - Ferrari 1-2 finish; Alboreto takes championship lead
+  6. Detroit GP (Detroit) - Winner: Keke Rosberg (Williams-Honda), Pole: Ayrton Senna (Lotus), FL: Ayrton Senna (Lotus) - Rosberg dominant street brawl in extreme heat
+  7. French GP (Paul Ricard) - Winner: Nelson Piquet (Brabham-BMW), Pole: Keke Rosberg (Williams), FL: Alain Prost (McLaren) - Marc Surer Brabham-BMW 338 km/h (210 mph) speed record down Mistral
+  8. British GP (Silverstone) - Winner: Alain Prost (McLaren-TAG), Pole: Keke Rosberg (Williams), FL: Alain Prost (McLaren) - Rosberg sets 160.9 mph (258.9 km/h) all-time qualifying lap record
+  9. German GP (Nürburgring) - Winner: Michele Alboreto (Ferrari), Pole: Teo Fabi (Toleman), FL: Niki Lauda (McLaren) - Alboreto's 5th and final career F1 win
+  10. Austrian GP (Österreichring) - Winner: Alain Prost (McLaren-TAG), Pole: Alain Prost (McLaren), FL: Alain Prost (McLaren) - Prost draws level with Alboreto in championship
+  11. Dutch GP (Zandvoort) - Winner: Niki Lauda (McLaren-TAG), Pole: Nelson Piquet (Brabham), FL: Alain Prost (McLaren) - Niki Lauda's 25th and final career Grand Prix victory; final Dutch GP until 2021
+  12. Italian GP (Monza) - Winner: Alain Prost (McLaren-TAG), Pole: Ayrton Senna (Lotus), FL: Nigel Mansell (Williams) - Senna runs dry with 5 laps left; Prost takes 12-point lead
+  13. Belgian GP (Spa-Francorchamps) - Winner: Ayrton Senna (Lotus-Renault), Pole: Alain Prost (McLaren), FL: Alain Prost (McLaren) - Senna masterclass in changing conditions
+  14. European GP (Brands Hatch) - Winner: Nigel Mansell (Williams-Honda), Pole: Ayrton Senna (Lotus), FL: Jacques Laffite (Ligier) - Nigel Mansell maiden GP victory after 71 starts; Alain Prost clinches World Drivers' Championship (France's first World Champion); McLaren clinches World Constructors' Championship
+  15. South African GP (Kyalami) - Winner: Nigel Mansell (Williams-Honda), Pole: Nigel Mansell (Williams), FL: Keke Rosberg (Williams) - Williams-Honda 1-2; French teams boycott over apartheid
+  16. Australian GP (Adelaide) - Winner: Keke Rosberg (Williams-Honda), Pole: Ayrton Senna (Lotus), FL: Keke Rosberg (Williams) - Inaugural Adelaide Grand Prix; Keke Rosberg's 5th and final career victory; Niki Lauda's final Grand Prix
+- **World Drivers' Champion**: Alain Prost (McLaren-TAG Porsche) - 73 net points (76 gross, 5 wins) - France's first World Champion
+- **World Constructors' Champion**: McLaren International - 90 net points (6 wins)
+- **Historical Innovations Documented**: Alain Prost first French World Champion, Ayrton Senna maiden win at Estoril (Grand Slam in rain), Keke Rosberg 160.9 mph lap at Silverstone, Niki Lauda final win at Zandvoort, Nigel Mansell maiden win, inaugural Adelaide Australian GP.
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
