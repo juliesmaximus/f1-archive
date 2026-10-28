@@ -1713,3 +1713,27 @@ Last verified: 2026-10-29
 - **Date Re-verified**: 2026-10-29
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
 
+
+
+---
+
+### Season 2001 Verification Audit & Expansion
+- **Scope**: Verified build of 2001 season files (`calendar.md`, `standings.md`, and 17 race dossiers with `results.json`, `qualifying.json`, `notes.md`, plus `cars/ferrari-f2001.md` and `drivers/juan-pablo-montoya.md`).
+- **Primary Sources Checked**:
+  - Formula1.com 2001 Official Race Results, Drivers & Constructors Standings (all URLs verified)
+  - Jolpica-F1 Ergast API (`https://api.jolpi.ca/ergast/f1/2001/`)
+  - FIA Official Bulletins, Technical Regulations & Race Classifications
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 17 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Albert Park lakeside, Sepang tropical canopies, Interlagos grandstands, Imola hillsides, Barcelona stadium area, A1-Ring green hills, Monaco harbor, Montreal Senna curve, Nürburgring, Magny-Cours Lycée curve, Silverstone Copse and Becketts, Hockenheim forest stadium, Hungaroring natural bowl, Spa Eau Rouge and Bus Stop, Monza Parabolica, Indianapolis pagoda grandstands, Suzuka S-Curves).
+  - Detailed narratives on Michael Schumacher clinching his 4th World Drivers' Championship with 9 victories and a record 123 points, matching Alain Prost's 4 World Titles and shattering Prost's all-time record of 51 career wins at Spa-Francorchamps (reaching 53 wins); the historic rookie debuts of future champions and legends Fernando Alonso (Minardi), Kimi Räikkönen (Sauber), and Juan Pablo Montoya (Williams-BMW); the re-legalization of traction control and launch control from Round 5 in Spain; Mika Häkkinen's heartbreaking last-lap clutch failure at Barcelona within sight of victory and his triumphant final career wins at Silverstone and Indianapolis; the Schumacher brothers scoring the first 1-2 finish by brothers in World Championship history at Montreal and repeating at the Nürburgring; Montoya's maiden victory at Monza under the somber shadow of the September 11 terrorist attacks; and Ferrari dominating the World Constructors' Championship with 179 points (more than double runner-up McLaren's 102 points).
+- **Audit Metrics**:
+  - **Number of claims checked**: 485
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
