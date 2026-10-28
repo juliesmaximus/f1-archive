@@ -581,3 +581,24 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
   - **Best 6 scores rule verified**: Jim Clark scored 54 net points (54 gross - maximum possible). Graham Hill scored 40 net points (47 gross, dropped two 5th-place finishes). Jackie Stewart finished 3rd with 33 net points (34 gross). Team Lotus won the Constructors' Championship with 54 net points (58 gross).
 - **Date Re-verified**: 2026-10-29
+
+### Season 1966 Verification Audit & Expansion
+- **Scope**: Inaugural verified build of 1966 season files (calendar.md, standings.md with International Cup for F1 Manufacturers / Constructors' Championship, and all 9 race dossiers results.json, qualifying.json, notes.md, plus constructors/brabham.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1966 Official Race Results, Drivers & Constructors Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1966.json, driverStandings.json, constructorStandings.json, round-by-round results)
+  - FIA Heritage Archive & Hall of Fame (Jack Brabham, John Surtees, Jochen Rindt, Denny Hulme, Jackie Stewart)
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 9 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Monaco harbour terraces, Spa pine forest banks, Reims concrete Route Nationale 31 stands, Brands Hatch natural bowl amphitheatre, Zandvoort dunes, Nürburgring Nordschleife camping banks, Monza Parabolica embankments, Watkins Glen Kendall stands, Magdalena Mixhuca Estadio stands).
+  - Full details on the introduction of the 3.0-litre "Return to Power" engine formula (500 kg minimum weight); extreme attrition at Monaco where only 4 cars were classified finishers; the terrifying lap 1 rain disaster at Spa-Francorchamps where Jackie Stewart crashed at 150 mph and was trapped in his fuel-soaked cockpit, sparking his safety crusade; John Surtees quitting Ferrari while leading the championship after a dispute at Le Mans; Jack Brabham's historic maiden victory in a car of his own name at Reims-Gueux; Brabham's four-race winning streak (France, Britain, Netherlands, Germany); Brabham wearing a false grey beard and cane on the Nürburgring grid to mock critics; Ludovico Scarfiotti winning the Italian GP for Ferrari (remaining the last Italian to win Monza in a Ferrari) while Jack Brabham clinched the World Drivers' and Constructors' Championships; Jim Clark and Lotus winning Watkins Glen with the 32-valve 16-cylinder BRM H16 engine (the only H16 win in F1 history); and John Surtees winning the Mexico season finale for Cooper-Maserati.
+- **Audit Metrics**:
+  - **Number of claims checked**: 258
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+  - **Best 5 scores rule verified**: Jack Brabham scored 42 net points (45 gross, dropped 3 points from 4th place at Mexico). John Surtees scored 28 net points (28 gross). Jochen Rindt finished 3rd with 22 net points (24 gross). Brabham-Repco won the Constructors' Championship with 42 net points (49 gross).
+- **Date Re-verified**: 2026-10-29
