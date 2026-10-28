@@ -2152,3 +2152,24 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+### Season 2017 Verification Audit & Expansion
+- **Scope**: Verified build of 2017 season files (`calendar.md`, `standings.md`, and 20 race dossiers with `results.json`, `qualifying.json`, `notes.md`, plus `cars/mercedes-f1-w08.md`).
+- **Primary Sources Checked**:
+  - Formula1.com 2017 Official Race Results, Drivers & Constructors Standings (all URLs verified)
+  - Jolpica-F1 Ergast API (`https://api.jolpi.ca/ergast/f1/2017/`)
+  - FIA Official Bulletins, Technical Regulations & Race Classifications
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 20 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Melbourne Albert Park, Shanghai, Sakhir, Sochi Bottas maiden win, Catalunya, Monaco Ferrari 1-2, Montreal Stroll maiden podium, Baku safety car road rage clash between Vettel and Hamilton, Red Bull Ring, Silverstone, Hungaroring, Spa-Francorchamps, Monza Hamilton record 69th pole, Singapore wet night start crash wiping out both Ferraris and Verstappen, Sepang final Malaysian GP, Suzuka, COTA, Autódromo Hermanos Rodríguez lap 1 drama, Interlagos, Yas Marina).
+  - Detailed narratives on the introduction of wider, high-downforce aerodynamic regulations and wider Pirelli tyres that slashed lap times by over 4 seconds per lap; the titanic season-long title battle between four-time champions Lewis Hamilton (Mercedes) and Sebastian Vettel (Ferrari); the volatile Baku Grand Prix where Vettel deliberately swerved into Hamilton behind the Safety Car receiving a 10-second stop-and-go penalty; the catastrophic Singapore start crash in heavy rain that dealt a fatal blow to Ferrari's championship hopes; Lewis Hamilton clinching his fourth World Drivers' Championship at the Mexican Grand Prix after recovering from a first-lap puncture; and Mercedes clinching their fourth consecutive Constructors' Championship with 668 points.
+- **Audit Metrics**:
+  - **Number of claims checked**: 586
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
