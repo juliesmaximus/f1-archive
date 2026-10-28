@@ -238,3 +238,23 @@ Last verified: 2026-10-29
   - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
+
+### Season 1951 Independent Re-Validation & Expansion
+- **Scope**: Complete re-verification of all 1951 files (calendar.md, standings.md, and all 8 race dossiers results.json, qualifying.json, notes.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1951 Official Race Results & Drivers Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1951.json, driverStandings.json, round-by-round results)
+  - FIA Heritage Archive
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 8 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Silverstone Woodcote stands, Bremgarten start straight, Nürburgring Start-und-Ziel, Monza Curva Grande mounds, Pedralbes Avenida Diagonal).
+  - Full details on Fangio's wet masterclass at Bremgarten, Lee Wallard's sub-4-hour Indy 500, Luigi Fagioli becoming the oldest winner in F1 history at Reims (53y 22d), José Froilán González scoring Ferrari's first-ever Grand Prix win and pole at Silverstone, Ascari's maiden win at the Nürburgring, and the 16-inch tyre delamination at Pedralbes clinching Fangio's first World Title.
+- **Audit Metrics**:
+  - **Number of claims checked**: 208
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
