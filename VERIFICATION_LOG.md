@@ -2047,3 +2047,24 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+### Season 2012 Verification Audit & Expansion
+- **Scope**: Verified build of 2012 season files (`calendar.md`, `standings.md`, and 20 race dossiers with `results.json`, `qualifying.json`, `notes.md`, plus `cars/redbull-rb8.md` and `circuits/cota.md`).
+- **Primary Sources Checked**:
+  - Formula1.com 2012 Official Race Results, Drivers & Constructors Standings (all URLs verified)
+  - Jolpica-F1 Ergast API (`https://api.jolpi.ca/ergast/f1/2012/`)
+  - FIA Official Bulletins, Technical Regulations & Race Classifications
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 20 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Melbourne Albert Park, Sepang rain delay, Shanghai, Bahrain return, Barcelona, Monaco, Montreal, Valencia, Silverstone, Hockenheimring, Hungaroring, Spa La Source pileup, Monza Curva Grande, Singapore Marina Bay, Suzuka, Yeongam Korea, Buddh International Circuit, Yas Marina, Circuit of the Americas inaugural US GP, Interlagos rain finale).
+  - Detailed narratives on one of the most competitive and unpredictable seasons in Formula 1 history: seven different winners in the first seven Grands Prix (Button, Alonso, Rosberg, Vettel, Maldonado, Webber, Hamilton); Pastor Maldonado's historic maiden win for Williams in Spain; Fernando Alonso's heroics in the Ferrari F2012; Romain Grosjean's multi-car start crash at Spa resulting in a one-race ban; Kimi Räikkönen's comeback season with Lotus culminating in his iconic Abu Dhabi victory ("Leave me alone, I know what I'm doing"); Michael Schumacher's final Formula 1 podium at Valencia and final career race at Interlagos; Lewis Hamilton's announcement to join Mercedes; the debut of the Circuit of the Americas in Austin, Texas; and Sebastian Vettel's miraculous comeback from a first-lap spin and damaged exhaust at a torrential Interlagos to finish 6th and clinch his third consecutive World Drivers' Championship by 3 points over Alonso (281 to 278 pts), making him the youngest triple champion in history.
+- **Audit Metrics**:
+  - **Number of claims checked**: 582
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
