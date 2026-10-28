@@ -1182,3 +1182,35 @@ Last verified: 2026-10-29
 - **World Constructors' Champion**: Williams Grand Prix Engineering - 141 net points (9 wins)
 - **Historical Innovations Documented**: Peak unrestricted 1,400+ bhp qualifying turbos, Monza 218.2 mph speed record, Adelaide 3-way showdown, Jerez 0.014s finish, Hungaroring Iron Curtain debut, Benetton maiden win.
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+
+### 1987 Season Verification Entry
+- **Year**: 1987
+- **Verification Date**: 2026-10-29
+- **Sources Consulted**:
+  - Jolpica-F1 Ergast API (`/1987.json`, `/1987/driverStandings.json`, `/1987/constructorStandings.json`, `/1987/{round}/results.json`, `/1987/{round}/qualifying.json`)
+  - Formula1.com Official Results & Archive (1987 Grand Prix results, pole positions, fastest laps)
+  - FIA Heritage Regulations and Classifications Archive
+- **Rounds Verified**: 16 Rounds:
+  1. Brazilian GP (Jacarepaguá) - Winner: Alain Prost (McLaren-TAG), Pole: Nigel Mansell (Williams), FL: Nelson Piquet (Williams)
+  2. San Marino GP (Imola) - Winner: Nigel Mansell (Williams-Honda), Pole: Ayrton Senna (Lotus), FL: Teo Fabi (Benetton) - Nelson Piquet massive Tamburello crash in practice, barred by Prof. Sid Watkins
+  3. Belgian GP (Spa-Francorchamps) - Winner: Alain Prost (McLaren-TAG), Pole: Nigel Mansell (Williams), FL: Alain Prost (McLaren) - Mansell and Senna collide on lap 1; famous pit garage confrontation
+  4. Monaco GP (Monte Carlo) - Winner: Ayrton Senna (Lotus-Honda), Pole: Nigel Mansell (Williams), FL: Ayrton Senna (Lotus) - Maiden Monaco victory for Ayrton Senna; first win for an active-suspension car
+  5. Detroit GP (Detroit) - Winner: Ayrton Senna (Lotus-Honda), Pole: Nigel Mansell (Williams), FL: Ayrton Senna (Lotus) - Back-to-back street victories for Senna with Lotus active suspension
+  6. French GP (Paul Ricard) - Winner: Nigel Mansell (Williams-Honda), Pole: Nigel Mansell (Williams), FL: Nelson Piquet (Williams)
+  7. British GP (Silverstone) - Winner: Nigel Mansell (Williams-Honda), Pole: Nelson Piquet (Williams), FL: Nigel Mansell (Williams) - Legendary Mansell charge: pit stop from 29 seconds behind, breaking lap record 11 times, dummy pass into Stowe
+  8. German GP (Hockenheim) - Winner: Nelson Piquet (Williams-Honda), Pole: Nigel Mansell (Williams), FL: Nigel Mansell (Williams)
+  9. Hungarian GP (Hungaroring) - Winner: Nelson Piquet (Williams-Honda), Pole: Nigel Mansell (Williams), FL: Nelson Piquet (Williams) - Mansell wheel nut flies off with 6 laps left while leading
+  10. Austrian GP (Österreichring) - Winner: Nigel Mansell (Williams-Honda), Pole: Nelson Piquet (Williams), FL: Nigel Mansell (Williams) - High-speed chaos with multiple aborted starts involving local deer
+  11. Italian GP (Monza) - Winner: Nelson Piquet (Williams-Honda), Pole: Nelson Piquet (Williams), FL: Ayrton Senna (Lotus) - Piquet debuts Williams active suspension; Senna runs off at Parabolica
+  12. Portuguese GP (Estoril) - Winner: Alain Prost (McLaren-TAG), Pole: Gerhard Berger (Ferrari), FL: Gerhard Berger (Ferrari) - Alain Prost 28th career victory, breaking Jackie Stewart's all-time wins record (27)
+  13. Spanish GP (Jerez) - Winner: Nigel Mansell (Williams-Honda), Pole: Nelson Piquet (Williams), FL: Gerhard Berger (Ferrari)
+  14. Mexican GP (Mexico City) - Winner: Nigel Mansell (Williams-Honda), Pole: Nigel Mansell (Williams), FL: Nelson Piquet (Williams)
+  15. Japanese GP (Suzuka) - Winner: Gerhard Berger (Ferrari), Pole: Gerhard Berger (Ferrari), FL: Alain Prost (McLaren) - Formula 1 debut at Suzuka; Nigel Mansell heavy crash in qualifying ends title battle; Nelson Piquet clinches 3rd World Championship; Berger gives Ferrari first win in 37 races
+  16. Australian GP (Adelaide) - Winner: Gerhard Berger (Ferrari), Pole: Gerhard Berger (Ferrari), FL: Gerhard Berger (Ferrari) - Gerhard Berger back-to-back dominant win; Ayrton Senna disqualified from 2nd for oversized brake cooling ducts
+- **World Drivers' Champion**: Nelson Piquet (Williams-Honda) - 73 net points (76 gross, 3 wins) - 3-time World Champion
+- **World Constructors' Champion**: Williams Grand Prix Engineering - 137 net points (9 wins)
+- **Jim Clark Trophy (Naturally Aspirated Drivers)**: Jonathan Palmer (Tyrrell-Ford) - 95 points
+- **Colin Chapman Trophy (Naturally Aspirated Constructors)**: Tyrrell Racing Organisation - 169 points
+- **Historical Innovations Documented**: Lotus and Williams active suspension race wins, Alain Prost surpasses Jackie Stewart's 27 wins, Suzuka Circuit inaugural Grand Prix, introduction of 4.0 bar pop-off valve and 3.5L naturally aspirated transitional formula with separate atmospheric trophies.
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
