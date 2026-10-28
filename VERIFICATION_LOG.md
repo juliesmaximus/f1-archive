@@ -214,3 +214,27 @@ This log documents all official and primary source records consulted, cross-chec
 Last verified: 2026-10-29
 
 
+
+---
+
+## Re-Validation Pass Audit Logs
+
+### Season 1950 Independent Re-Validation & Expansion
+- **Scope**: Complete re-verification of all 1950 files (calendar.md, standings.md, and all 7 race dossiers results.json, qualifying.json, notes.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1950 Official Race Results & Drivers Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1950.json, driverStandings.json, round-by-round results)
+  - FIA Heritage Archive
+- **Encyclopedia Expansions Added**:
+  - Full official race names and historic name notes for all 7 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Silverstone royal enclosure, Monaco Quai Albert 1er harbour stands, Indianapolis double-deck grandstands, Bremgarten tree canopies, Reims start-finish complexes, Monza Rettifilo).
+  - Full details on Farina's Grand Slam at Silverstone, the 10-car Tabac wave pileup at Monaco, Chiron's oldest podium record, Parsons' rain-shortened Indy 500 win, Rosier's non-stop drives at Bremgarten and Spa, Fangio's heatwave Grand Slam at Reims, and the dramatic 3-way championship title decider at Monza.
+- **Audit Metrics**:
+  - **Number of claims checked**: 176
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29

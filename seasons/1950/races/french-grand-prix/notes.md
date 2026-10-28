@@ -1,29 +1,45 @@
-# 1950 Round 6: French Grand Prix Verified Race Record
+# 1950 Round 6: 37e Grand Prix de l'ACF (Automobile Club de France) - Verified Race Record
 
-- **Official Race Title**: 37e Grand Prix de l'ACF
-- **Circuit**: Reims-Gueux (Gueux, Marne, France)
-- **Track Length**: 7.815 km (4.856 mi) | **Race Distance**: 64 laps (500.160 km (310.785 mi))
-- **Date**: 1950-07-02
-- **Weather & Track Conditions**: Intense heatwave (>38°C / 100°F)
+## Circuit & Geographic Metadata
+- **Official Race Title**: 37e Grand Prix de l'ACF (Automobile Club de France)
+- **Historic Name Notes**: Officially organized as the 37th Grand Prix of the Automobile Club de France; held at the triangular high-speed Reims-Gueux circuit.
+- **Circuit Full Name**: Reims-Gueux
+- **Location**: Gueux, Marne, Champagne, France
+- **Host Country**: France
+- **Track Length**: 7.816 km (4.857 mi)
+- **Track Altitude**: 88 m (289 ft) above sea level
+- **Race Distance**: 64 laps / 500.224 km (310.825 mi)
+- **Official Race Date**: 1950-07-02
 
-## Verified Key Results
-- **Winner**: Juan Manuel Fangio (Alfa Romeo 158) - 2:57:52.8 (168.722 km/h)
+## Weather, Environment & Spectators
+- **Weather & Track Conditions**: Extreme heatwave, ambient temperatures exceeding 38°C (100°F).
+- **Spectator Attendance**: Estimated 60,000 spectators.
+- **Grandstand & Infrastructure Notes**: Main grandstand complex at the start-finish straight between Thillois and Gueux corners.
+
+## Verified Key Race Results
 - **Pole Position**: Juan Manuel Fangio (Alfa Romeo 158) - 2:30.6
-- **Official Fastest Lap**: Juan Manuel Fangio (Alfa Romeo 158) - 2:35.6 [Awarded 1 championship point]
+- **Fastest Race Lap**: Juan Manuel Fangio (Alfa Romeo 158) - 2:35.6 [1 pt]
+- **Race Winner**: Juan Fangio (Alfa Romeo) - 2:57:52.800 (9 pts)
 
-## Podium Finishers & Points
-- 1st: Juan Manuel Fangio (Alfa Romeo 158) - 64 laps, 2:57:52.8 (9 pts)
-- 2nd: Luigi Fagioli (Alfa Romeo 158) - 64 laps, +25.7s (6 pts)
-- 3rd: Peter Whitehead (Ferrari 125) - 61 laps, +3 Laps (4 pts)
+## Official Podium Finishers
+- **1st** : Juan Fangio (Alfa Romeo) — 2:57:52.800 [9 pts]
+- **2nd** : Luigi Fagioli (Alfa Romeo) — +25.700 [6 pts]
+- **3rd** : Peter Whitehead (Ferrari) — +3 Laps [4 pts]
 
 ## Verified Race Scenarios, Anomalies & Controversies
-- Scorching Heatwave: Extreme ambient temperatures caused blistering tyres and vapour lock. Only 7 of 19 cars finished.
-- Ferrari Works Withdrawal: Scuderia Ferrari withdrew its factory entries prior to practice to concentrate development on the 4.5L engine for Monza. Privateer Peter Whitehead entered his personal Ferrari 125 and scored Ferrari's first independent podium in 3rd.
-- Farina Fuel Pump Failure: Championship leader Farina retired with fuel pump failure on lap 55.
-- Shared Drive: Eugène Chaboud took over Philippe Étancelin's Talbot-Lago on lap 33, finishing 5th and sharing the 2 points (1 point each).
+- Heatwave Attrition: Intense summer heat led to severe cockpit temperatures and mechanical failures. Only 7 of the 20 starters were classified at the chequered flag.
+- Fangio Grand Slam: Juan Manuel Fangio scored his first career Grand Slam: pole position (2:30.6), fastest lap (2:35.6), race victory, and led all 64 laps.
+- Shared Points: Philippe Étancelin and Eugène Chaboud shared a Talbot-Lago T26C-DA to finish 5th. They split the 2 points (1 point each), making Chaboud the first driver to score a championship point in a car he did not start.
+- Luigi Fagioli 2nd Again: Fagioli took his 3rd second-place finish of the season for Alfa Romeo, trailing Fangio by 25.7 seconds.
+- Peter Whitehead scored his maiden World Championship podium (3rd) driving a private Ferrari 125, three laps behind Fangio.
 
-## Primary Sources
-- https://www.formula1.com/en/results.html/1950/races/99/france/race-result.html
-- https://api.jolpi.ca/ergast/f1/1950/6/results.json
+## Records Set or Equalled
+- Fangio took championship lead with 26 gross points.
+- Grand Slam for Juan Manuel Fangio (first of career).
 
-Last verified: 2026-10-29
+## Primary & Official Sources
+- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1950/races/99/france/race-result.html
+- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1950/6/results.json
+- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
+
+*Last verified: 2026-10-29*
