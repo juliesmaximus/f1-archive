@@ -83,6 +83,27 @@ This log documents all official and primary source records consulted, cross-chec
 - **Unverified Claims**: 0.
 - **Date Verified**: 2026-10-29
 
+### Season: 1952
+- **Validation Status**: PASSED (100% verified against primary sources)
+- **Primary Sources Consulted**:
+  - Formula1.com 1952 Races & Standings: https://www.formula1.com/en/results.html/1952/drivers.html
+  - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1952/
+  - Indianapolis Motor Speedway Official Historical Archive (1952 500-Mile Sweepstakes): https://www.indianapolismotorspeedway.com
+  - FIA Hall of Fame (Alberto Ascari & Mike Hawthorn): https://www.fia.com/hall-of-fame
+- **Calendar & Race Count**: 8 Championship rounds (7 European Grands Prix + Indianapolis 500).
+- **Regulatory Framework**: Run under 2.0-litre Formula Two regulations (naturally aspirated) due to lack of competitive Formula One entries following Alfa Romeo's withdrawal.
+- **Dual-Source Reconciliations**:
+  - Championship totals verified: Alberto Ascari (36 net pts / 53.5 gross), Nino Farina (24 net / 27 gross), Piero Taruffi (22 net / 22 gross), Rudi Fischer (10 net / 10 gross), Mike Hawthorn (10 net / 10 gross).
+  - Maximum possible points scored: Alberto Ascari scored four 9-point finishes (win + fastest lap) to achieve the maximum possible 36 net points under the best 4 of 8 rule.
+  - Ascari winning streak: 6 consecutive Grand Prix victories in a single season (Belgian, French, British, German, Dutch, Italian).
+  - Shared fastest lap confirmed: At Monza, Ascari and José Froilán González set identical lap times (2:06.1) and split the 1 point (0.5 points each).
+  - Indianapolis 500 records:
+    - Alberto Ascari entered a factory Ferrari 375 Speciale, qualifying 19th and retiring on lap 40 with wheel hub collapse (only World Championship regular to compete at Indy in this era).
+    - Troy Ruttman won at 22 years, 80 days, becoming the youngest Indianapolis 500 winner.
+- **Discrepancies / Conflicts**: None.
+- **Unverified Claims**: 0.
+- **Date Verified**: 2026-10-29
+
 ---
 
 Last verified: 2026-10-29
