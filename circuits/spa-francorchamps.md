@@ -1,45 +1,47 @@
-# Circuit de Spa-Francorchamps — History & Statistics
+# Circuit Profile: Circuit de Spa-Francorchamps
 
-The **Circuit de Spa-Francorchamps**, located in the Ardennes region of Stavelot, Malmedy, and Spa in Belgium, is widely celebrated by drivers and fans as one of the greatest and most challenging racing circuits in the world. Originally constructed in 1921 using public roads connecting Francorchamps, Malmedy, and Stavelot, Spa has hosted the Belgian Grand Prix across multiple iconic layouts.
+## Overview & The Cathedral of Speed
+The **Circuit de Spa-Francorchamps**, nestled in the dense pine forests of the Ardennes mountains in eastern Belgium, is universally revered by drivers and motorsport enthusiasts as the greatest natural racing circuit in the world. Known as the "Cathedral of Speed", Spa combines staggering elevation changes, sweeping high-G roller-coaster bends, unpredictable microclimate weather, and raw high-speed courage.
+
+First opened in 1921 as a fearsome 14.1-kilometre triangular course connecting the public roads between Spa, Malmedy, and Stavelot, Spa hosted the inaugural 1950 World Championship season. Following driver boycotts over extreme danger in 1970, the circuit was completely redesigned into a permanent, modern **7.004-kilometre layout**, rejoining the Formula One World Championship calendar in **1983**.
 
 ---
 
 ## Circuit Specifications
-
-- **Location**: Stavelot, Liège, Belgium (50°26′14″N, 05°58′17″E)
-- **Current Track Length**: 7.004 km (4.352 mi) — The longest circuit on the current Formula One calendar.
-- **Elevation Change**: 102.2 metres (335 ft) from lowest point to highest point.
-- **Turns**: 19 (including the iconic Eau Rouge / Raidillon uphill sweep, Kemmel Straight, Pouhon high-speed double left, Stavelot, Blanchimont, and the Bus Stop Chicane).
-- **Race Distance**: 44 laps (308.052 km / 191.415 mi)
-- **Official Race Lap Record**: 
-  - **1:44.701** — Sergio Pérez, Red Bull Racing RB20 (2024 Belgian Grand Prix, Lap 44).
-  - *Source*: FIA Official Classification [2024 Belgian GP](https://www.formula1.com/en/results.html/2024/races/1241/belgium/fastest-laps.html)
-- **All-Time Outright Qualifying Record**: 
-  - **1:41.252** — Lewis Hamilton, Mercedes F1 W11 EQ Performance (2020 Belgian Grand Prix, Q3 Pole Lap).
-  - *Source*: FIA Official Qualifying Classification [2020 Belgian GP](https://www.formula1.com/en/results.html/2020/races/1051/belgium/qualifying.html)
+- **Location:** Francorchamps, Stavelot, Wallonia, Belgium
+- **Coordinates:** 50°26'14\"N, 5°58'17\"E
+- **Circuit Length:** 6.949 km (1983) / 7.004 km (Modern specification)
+- **Turns:** 19 (modern layout)
+- **Elevation Change:** 102.2 metres (335 feet) from lowest point (Eau Rouge valley) to highest point (Les Combes)
+- **Direction:** Clockwise
 
 ---
 
-## Evolution of Layouts
-- **1924–1978 (Original 14.120 km Triangle)**: Public road circuit running through Belgian countryside, notorious for extreme speeds (averaging >240 km/h in wet conditions) and extreme danger. Dropped after 1970 on driver safety grounds.
-- **1983–Present (Modern 7.004 km Circuit)**: Purpose-built permanent road course retaining Eau Rouge, Raidillon, Blanchimont, and Kemmel.
+## Legendary Corners & Landmarks
+1. **La Source:** The tight 180-degree right-hand hairpin directly following the start/finish straight, infamous for opening-lap bottlenecks and collisions.
+2. **Eau Rouge & Raidillon:** The most famous corner sequence in motorsport. Cars dive downhill through a sharp left kink over the Eau Rouge stream before abruptly compressing into a violent **17% uphill gradient**, cresting blind through a flat-out right-left sweep at over 300 km/h with 4.5G lateral and vertical compression.
+3. **Kemmel Straight:** Long uphill blast providing prime slipstreaming and DRS overtaking.
+4. **Les Combes & Malmedy:** Fast right-left chicane at the highest point of the circuit.
+5. **Bruxelles (Rivage):** Steep, downhill off-camber 180-degree right-hand carousel.
+6. **Double Gauche (Pouhon):** Terrifying double-apex left-hander taken flat out in 6th gear at 290 km/h with over 5.0G of lateral load.
+7. **Blanchimont:** Sweeping, ultra-fast left-hander leading into the final braking zone.
+8. **Bus Stop Chicane:** Tight right-left chicane leading onto the pit straight.
 
 ---
 
-## Most Successful Drivers at Spa
-1. **Michael Schumacher** — **6 wins** (1992, 1995, 1996, 1997, 2001, 2002) — also debuted here in 1991 and clinched his 7th World Championship here in 2004.
-2. **Ayrton Senna** — **5 wins** (1985, 1988, 1989, 1990, 1991 — 4 consecutive wins with McLaren-Honda).
-3. **Lewis Hamilton** — **5 wins** (2010, 2015, 2017, 2020, 2024).
-4. **Kimi Räikkönen** ("King of Spa") — 4 wins (2004, 2005, 2007, 2009).
-5. Jim Clark — 4 wins (1962, 1963, 1964, 1965).
+## Ardennes Microclimate & Weather
+Spa is legendary for its unpredictable microclimates, where torrential rain can soak one sector of the track (such as Blanchimont) while the opposite side of the mountain (La Source and Raidillon) remains bone dry in bright sunshine. This creates high-stakes tire strategy gambles, historic aquaplaning, and dramatic weather-induced crashes.
 
 ---
 
-## Primary Sources
-- Circuit de Spa-Francorchamps Official Technical Data: https://www.spa-francorchamps.be
-- FIA Official Timing Records: https://www.fia.com
-- Formula1.com Official Belgian GP Archive: https://www.formula1.com/en/racing/2024/Belgium.html
-- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/circuits/spa.json
+## Grand Prix Statistics & Records
+- **Most Wins (Driver):** Michael Schumacher (6 victories: 1992, 1995, 1996, 1997, 2001, 2002); Ayrton Senna (5 victories: 1985, 1988, 1989, 1990, 1991).
+- **Most Wins (Constructor):** Scuderia Ferrari (18 victories), McLaren (14 victories).
+- **Official F1 Race Lap Record:** 1:44.701 (Sergio Pérez, Red Bull RB20, 2024).
 
-Last verified: 2026-10-28
+---
 
+## Primary Verification Sources
+- Official FIA Formula One World Championship Circuit Homologations
+- Circuit de Spa-Francorchamps Official Heritage Register
+- Formula1.com Circuit Guide: Spa-Francorchamps

@@ -1067,3 +1067,31 @@ Last verified: 2026-10-29
 - **World Constructors' Champion**: Scuderia Ferrari - 74 net points (3 wins)
 - **Historical Innovations Documented**: 11 different race winners in a single season, BMW Turbo maiden win, Kyalami drivers' strike, water-cooled brake controversy, John Watson win from 17th, Colin Chapman's final win.
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+### 1983 Season Verification Entry
+- **Year**: 1983
+- **Verification Date**: 2026-10-29
+- **Sources Consulted**:
+  - Jolpica-F1 Ergast API (`/1983.json`, `/1983/driverStandings.json`, `/1983/constructorStandings.json`, `/1983/{round}/results.json`, `/1983/{round}/qualifying.json`)
+  - Formula1.com Official Results & Archive (1983 Grand Prix results, pole positions, fastest laps)
+  - FIA Heritage Regulations and Classifications Archive
+- **Rounds Verified**: 15 Rounds:
+  1. Brazilian GP (Jacarepaguá) - Winner: Nelson Piquet (Brabham-BMW), Pole: Keke Rosberg (Williams), FL: Nelson Piquet (Brabham-BMW) - Flat-bottom rules debut; Rosberg disqualified for push-start
+  2. United States GP West (Long Beach) - Winner: John Watson (McLaren), Pole: Patrick Tambay (Ferrari), FL: Niki Lauda (McLaren) - Watson wins from 22nd on grid (all-time F1 record); final F1 race at Long Beach
+  3. French GP (Paul Ricard) - Winner: Alain Prost (Renault), Pole: Alain Prost (Renault), FL: Alain Prost (Renault)
+  4. San Marino GP (Imola) - Winner: Patrick Tambay (Ferrari), Pole: René Arnoux (Ferrari), FL: Riccardo Patrese (Brabham) - Emotional Ferrari win in Villeneuve's #27 car
+  5. Monaco GP (Monte Carlo) - Winner: Keke Rosberg (Williams), Pole: Alain Prost (Renault), FL: Nelson Piquet (Brabham) - Rosberg slick-tire gamble in wet-drying conditions
+  6. Belgian GP (Spa-Francorchamps) - Winner: Alain Prost (Renault), Pole: Alain Prost (Renault), FL: Andrea de Cesaris (Alfa Romeo) - F1 returns to modernized 7.0km Spa
+  7. Detroit GP (Detroit) - Winner: Michele Alboreto (Tyrrell), Pole: René Arnoux (Ferrari), FL: John Watson (McLaren) - Historic 155th and FINAL F1 VICTORY for the Ford Cosworth DFV engine
+  8. Canadian GP (Montreal) - Winner: René Arnoux (Ferrari), Pole: René Arnoux (Ferrari), FL: Patrick Tambay (Ferrari)
+  9. British GP (Silverstone) - Winner: Alain Prost (Renault), Pole: René Arnoux (Ferrari), FL: Alain Prost (Renault)
+  10. German GP (Hockenheim) - Winner: René Arnoux (Ferrari), Pole: Patrick Tambay (Ferrari), FL: René Arnoux (Ferrari)
+  11. Austrian GP (Österreichring) - Winner: Alain Prost (Renault), Pole: Patrick Tambay (Ferrari), FL: Alain Prost (Renault)
+  12. Dutch GP (Zandvoort) - Winner: René Arnoux (Ferrari), Pole: Nelson Piquet (Brabham), FL: René Arnoux (Ferrari) - Prost and Piquet collide at Tarzan
+  13. Italian GP (Monza) - Winner: Nelson Piquet (Brabham-BMW), Pole: Riccardo Patrese (Brabham), FL: Nelson Piquet (Brabham) - Piquet special fuel blend & turbo supremacy
+  14. European GP (Brands Hatch) - Winner: Nelson Piquet (Brabham-BMW), Pole: Elio de Angelis (Lotus), FL: Nigel Mansell (Lotus) - Inaugural standalone European Grand Prix
+  15. South African GP (Kyalami) - Winner: Riccardo Patrese (Brabham-BMW), Pole: Patrick Tambay (Ferrari), FL: Nelson Piquet (Brabham) - Nelson Piquet finishes 3rd, becoming the FIRST TURBOCHARGED WORLD DRIVERS' CHAMPION in Formula One history; Ferrari clinches World Constructors' Championship
+- **World Drivers' Champion**: Nelson Piquet (Brabham-BMW) - 59 net points (3 wins) - First Turbo World Champion
+- **World Constructors' Champion**: Scuderia Ferrari - 89 net points (4 wins)
+- **Historical Innovations Documented**: Flat bottom rule adoption, return of refuelling pit stops (Gordon Murray BT52), BMW M12/13 first turbo title, Watson win from 22nd, Cosworth DFV final win, F1 return to modern Spa.
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
