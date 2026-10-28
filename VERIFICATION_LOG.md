@@ -1857,3 +1857,27 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+
+---
+
+### Season 2007 Verification Audit & Expansion
+- **Scope**: Verified build of 2007 season files (`calendar.md`, `standings.md`, and 17 race dossiers with `results.json`, `qualifying.json`, `notes.md`, plus `cars/ferrari-f2007.md` and `drivers/kimi-raikkonen.md`).
+- **Primary Sources Checked**:
+  - Formula1.com 2007 Official Race Results, Drivers & Constructors Standings (all URLs verified)
+  - Jolpica-F1 Ergast API (`https://api.jolpi.ca/ergast/f1/2007/`)
+  - FIA Official Bulletins, Technical Regulations & Race Classifications
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 17 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Melbourne Albert Park, Sepang, Sakhir, Barcelona, Monaco harbour, Montreal, Indianapolis, Magny-Cours, Silverstone, Nürburgring, Hungaroring, Istanbul Park, Monza, Spa Eau Rouge, Fuji Speedway mist and mountain, Shanghai, Interlagos).
+  - Detailed narratives on Kimi Räikkönen clinching the World Drivers' Championship by 1 point (110 to Lewis Hamilton's 109 and Fernando Alonso's 109) after overturning a 17-point deficit with two rounds remaining; Lewis Hamilton's historic rookie season (9 consecutive podiums from debut, 4 wins, 6 poles); the explosive Spygate scandal resulting in Vodafone McLaren Mercedes being excluded from the Constructors' Championship and fined an unprecedented $100 million for possessing 780 pages of confidential Ferrari technical data; the pit-lane qualifying blocking feud between Alonso and Hamilton in Hungary; Robert Kubica's violent 300 km/h airborne crash and miracle survival at Montreal; Sebastian Vettel's point-scoring F1 debut at Indianapolis at 19 years old; the monsoon chaos at Nürburgring (Markus Winkelhock leading for Spyker); and Hamilton's pit-entry gravel retirement at Shanghai.
+- **Audit Metrics**:
+  - **Number of claims checked**: 496
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
