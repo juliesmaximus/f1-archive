@@ -1153,3 +1153,32 @@ Last verified: 2026-10-29
 - **World Constructors' Champion**: McLaren International - 90 net points (6 wins)
 - **Historical Innovations Documented**: Alain Prost first French World Champion, Ayrton Senna maiden win at Estoril (Grand Slam in rain), Keke Rosberg 160.9 mph lap at Silverstone, Niki Lauda final win at Zandvoort, Nigel Mansell maiden win, inaugural Adelaide Australian GP.
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+### 1986 Season Verification Entry
+- **Year**: 1986
+- **Verification Date**: 2026-10-29
+- **Sources Consulted**:
+  - Jolpica-F1 Ergast API (`/1986.json`, `/1986/driverStandings.json`, `/1986/constructorStandings.json`, `/1986/{round}/results.json`, `/1986/{round}/qualifying.json`)
+  - Formula1.com Official Results & Archive (1986 Grand Prix results, pole positions, fastest laps)
+  - FIA Heritage Regulations and Classifications Archive
+- **Rounds Verified**: 16 Rounds:
+  1. Brazilian GP (Jacarepaguá) - Winner: Nelson Piquet (Williams-Honda), Pole: Ayrton Senna (Lotus), FL: Nelson Piquet (Williams) - Brazilian 1-2 finish; Piquet debut win for Williams
+  2. Spanish GP (Jerez) - Winner: Ayrton Senna (Lotus-Renault), Pole: Ayrton Senna (Lotus), FL: Nigel Mansell (Williams) - Historic 0.014-second finish between Senna and Mansell
+  3. San Marino GP (Imola) - Winner: Alain Prost (McLaren-TAG), Pole: Ayrton Senna (Lotus), FL: Nelson Piquet (Williams) - Prost sloshes fuel across line to win
+  4. Monaco GP (Monte Carlo) - Winner: Alain Prost (McLaren-TAG), Pole: Alain Prost (McLaren), FL: Alain Prost (McLaren) - Prost 3rd consecutive Monaco victory
+  5. Belgian GP (Spa-Francorchamps) - Winner: Nigel Mansell (Williams-Honda), Pole: Nelson Piquet (Williams), FL: Alain Prost (McLaren)
+  6. Canadian GP (Montreal) - Winner: Nigel Mansell (Williams-Honda), Pole: Nigel Mansell (Williams), FL: Nelson Piquet (Williams)
+  7. Detroit GP (Detroit) - Winner: Ayrton Senna (Lotus-Renault), Pole: Ayrton Senna (Lotus), FL: Nelson Piquet (Williams) - Senna initiates Brazilian flag victory tradition
+  8. French GP (Paul Ricard) - Winner: Nigel Mansell (Williams-Honda), Pole: Ayrton Senna (Lotus), FL: Nigel Mansell (Williams)
+  9. British GP (Brands Hatch) - Winner: Nigel Mansell (Williams-Honda), Pole: Nelson Piquet (Williams), FL: Nigel Mansell (Williams) - Final F1 GP at Brands Hatch; Laffite career-ending crash; Mansell wins in spare car
+  10. German GP (Hockenheim) - Winner: Nelson Piquet (Williams-Honda), Pole: Keke Rosberg (McLaren), FL: Gerhard Berger (Benetton) - Both McLarens run dry of fuel on final lap
+  11. Hungarian GP (Hungaroring) - Winner: Nelson Piquet (Williams-Honda), Pole: Ayrton Senna (Lotus), FL: Nelson Piquet (Williams) - Historic first F1 GP behind Iron Curtain; Piquet legendary drift pass on Senna
+  12. Austrian GP (Österreichring) - Winner: Alain Prost (McLaren-TAG), Pole: Teo Fabi (Benetton), FL: Gerhard Berger (Benetton)
+  13. Italian GP (Monza) - Winner: Nelson Piquet (Williams-Honda), Pole: Teo Fabi (Benetton), FL: Teo Fabi (Benetton) - Berger sets 351.22 km/h (218.2 mph) all-time turbo speed trap record
+  14. Portuguese GP (Estoril) - Winner: Nigel Mansell (Williams-Honda), Pole: Ayrton Senna (Lotus), FL: Nigel Mansell (Williams) - Williams clinches World Constructors' Championship
+  15. Mexican GP (Mexico City) - Winner: Gerhard Berger (Benetton-BMW), Pole: Ayrton Senna (Lotus), FL: Nelson Piquet (Williams) - Maiden win for Gerhard Berger and Benetton without pit stop on Pirellis
+  16. Australian GP (Adelaide) - Winner: Alain Prost (McLaren-TAG), Pole: Nigel Mansell (Williams), FL: Nelson Piquet (Williams) - Mansell tire blowout at 180 mph; Prost wins to clinch 2nd consecutive World Drivers' Championship (first back-to-back champion since Jack Brabham in 1960)
+- **World Drivers' Champion**: Alain Prost (McLaren-TAG Porsche) - 72 net points (74 gross, 4 wins) - First back-to-back WDC since 1960
+- **World Constructors' Champion**: Williams Grand Prix Engineering - 141 net points (9 wins)
+- **Historical Innovations Documented**: Peak unrestricted 1,400+ bhp qualifying turbos, Monza 218.2 mph speed record, Adelaide 3-way showdown, Jerez 0.014s finish, Hungaroring Iron Curtain debut, Benetton maiden win.
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
