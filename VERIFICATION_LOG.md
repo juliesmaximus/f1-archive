@@ -1356,3 +1356,34 @@ Last verified: 2026-10-29
 - **World Constructors' Champion**: McLaren International - 121 net points (6 wins)
 - **Historical Innovations Documented**: Harvey Postlethwaite / Jean-Claude Migeot Tyrrell 019 high-nose concept, Suzuka Turn 1 collision clinching Senna title, Ferrari 641 aesthetic and mechanical refinement, 500th World Championship GP at Adelaide, final year of dropped scores rule.
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+
+### 1991 Season Verification Entry
+- **Year**: 1991
+- **Verification Date**: 2026-10-29
+- **Sources Consulted**:
+  - Jolpica-F1 Ergast API (`/1991.json`, `/1991/driverStandings.json`, `/1991/constructorStandings.json`, `/1991/{round}/results.json`, `/1991/{round}/qualifying.json`)
+  - Formula1.com Official Results & Archive (1991 Grand Prix results, pole positions, fastest laps)
+  - FIA Heritage Regulations and Classifications Archive
+- **Rounds Verified**: 16 Rounds:
+  1. United States GP (Phoenix) - Winner: Ayrton Senna (McLaren-Honda), Pole: Ayrton Senna (McLaren), FL: Jean Alesi (Ferrari) - First race under revised 10-6-4-3-2-1 points system without dropped scores
+  2. Brazilian GP (Interlagos) - Winner: Ayrton Senna (McLaren-Honda), Pole: Ayrton Senna (McLaren), FL: Nigel Mansell (Williams) - Senna's legendary home win stuck in 6th gear through rain; severe physical exhaustion
+  3. San Marino GP (Imola) - Winner: Ayrton Senna (McLaren-Honda), Pole: Ayrton Senna (McLaren), FL: Gerhard Berger (McLaren) - Prost spins off on wet formation lap; McLaren 1-2
+  4. Monaco GP (Monte Carlo) - Winner: Ayrton Senna (McLaren-Honda), Pole: Ayrton Senna (McLaren), FL: Alain Prost (Ferrari) - Senna 4th consecutive victory from season start
+  5. Canadian GP (Montreal) - Winner: Nelson Piquet (Benetton-Ford), Pole: Riccardo Patrese (Williams), FL: Nigel Mansell (Williams) - Mansell waves to crowd on final lap and stalls engine at hairpin; Piquet steals victory
+  6. Mexican GP (Mexico City) - Winner: Riccardo Patrese (Williams-Renault), Pole: Riccardo Patrese (Williams), FL: Nigel Mansell (Williams) - Williams-Renault 1-2
+  7. French GP (Magny-Cours) - Winner: Nigel Mansell (Williams-Renault), Pole: Riccardo Patrese (Williams), FL: Nigel Mansell (Williams) - Inaugural Magny-Cours GP; Mansell passes Prost into Adelaide hairpin
+  8. British GP (Silverstone) - Winner: Nigel Mansell (Williams-Renault), Pole: Nigel Mansell (Williams), FL: Nigel Mansell (Williams) - Redesigned track; Mansell taxi ride for Senna on sidepod
+  9. German GP (Hockenheim) - Winner: Nigel Mansell (Williams-Renault), Pole: Nigel Mansell (Williams), FL: Riccardo Patrese (Williams) - Williams 1-2; Senna runs out of fuel on final lap
+  10. Hungarian GP (Hungaroring) - Winner: Ayrton Senna (McLaren-Honda), Pole: Ayrton Senna (McLaren), FL: Bertrand Gachot (Jordan) - Senna arrests Williams momentum
+  11. Belgian GP (Spa-Francorchamps) - Winner: Ayrton Senna (McLaren-Honda), Pole: Ayrton Senna (McLaren), FL: Roberto Moreno (Benetton) - Michael Schumacher sensational debut for Jordan-Ford, qualifying 7th
+  12. Italian GP (Monza) - Winner: Nigel Mansell (Williams-Renault), Pole: Ayrton Senna (McLaren), FL: Ayrton Senna (McLaren) - Schumacher Benetton debut in 5th; Mansell overtakes Senna for win
+  13. Portuguese GP (Estoril) - Winner: Riccardo Patrese (Williams-Renault), Pole: Riccardo Patrese (Williams), FL: Nigel Mansell (Williams) - Mansell wheel falls off in pits, disqualified by black flag
+  14. Spanish GP (Barcelona) - Winner: Nigel Mansell (Williams-Renault), Pole: Gerhard Berger (McLaren), FL: Riccardo Patrese (Williams) - Inaugural Circuit de Barcelona-Catalunya; Mansell-Senna 190 mph side-by-side sparks duel down main straight
+  15. Japanese GP (Suzuka) - Winner: Gerhard Berger (McLaren-Honda), Pole: Gerhard Berger (McLaren), FL: Ayrton Senna (McLaren) - Mansell spins off on lap 10; Ayrton Senna clinches 3rd World Championship; Senna gifts win to Berger on final corner
+  16. Australian GP (Adelaide) - Winner: Ayrton Senna (McLaren-Honda), Pole: Ayrton Senna (McLaren), FL: Gerhard Berger (McLaren) - Shortest race in F1 history (14 laps / 52.92 km, 24m34s) stopped due to monsoonal deluge; half points awarded
+- **World Drivers' Champion**: Ayrton Senna (McLaren-Honda) - 96 points (7 wins) - Youngest 3-time World Champion
+- **World Drivers' Championship Runner-up**: Nigel Mansell (Williams-Renault) - 72 points (5 wins)
+- **World Constructors' Champion**: McLaren International - 139 points (8 wins)
+- **Historical Innovations Documented**: Abolition of dropped scores rule, 10-point winner system, Michael Schumacher F1 debut at Spa, Mansell-Senna side-by-side Barcelona duel, Adelaide shortest race in history (14 laps).
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
