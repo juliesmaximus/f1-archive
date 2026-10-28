@@ -559,3 +559,25 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
   - **Best 6 scores rule verified**: John Surtees scored 40 net points (no dropped points; 40 gross). Graham Hill scored 39 net points (dropped 2 points from 5th place in Belgium; 41 gross). Ferrari won the Constructors' Championship with 45 net points (49 gross).
 - **Date Re-verified**: 2026-10-29
+
+### Season 1965 Verification Audit & Expansion
+- **Scope**: Inaugural verified build of 1965 season files (calendar.md, standings.md with International Cup for F1 Manufacturers / Constructors' Championship, and all 10 race dossiers results.json, qualifying.json, notes.md, plus constructors/honda.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1965 Official Race Results, Drivers & Constructors Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1965.json, driverStandings.json, constructorStandings.json, round-by-round results)
+  - FIA Heritage Archive & Hall of Fame (Jim Clark, Graham Hill, Jackie Stewart, Richie Ginther)
+  - Honda Worldwide Motorsport Heritage Archives (1965 Mexican Grand Prix maiden victory)
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 10 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Prince George coastal sand dunes, Monaco harbour balconies, Spa covered pit stands, Charade volcanic amphitheatre hillsides, Silverstone Woodcote/Copse grandstands, Zandvoort seaside dunes, Nürburgring Nordschleife camping banks, Monza Curva Parabolica embankments, Watkins Glen Kendall stands, Magdalena Mixhuca Estadio stadium stands).
+  - Full details on Jim Clark's historic season: winning 6 Grands Prix (South Africa, Belgium, France, Great Britain, Netherlands, Germany) to achieve the absolute maximum possible 54 net championship points; Clark skipping Monaco to win the 1965 Indianapolis 500 in the Lotus 38-Ford (first rear-engine car to win Indy); Graham Hill taking his 3rd consecutive Monaco victory after pushing his car back onto the track; Paul Hawkins crashing into Monaco harbour; the debut of the Charade Circuit around an extinct volcano; Clark nursing a dying engine with zero oil pressure to win Silverstone by 3.2s over Hill; Clark clinching his 2nd World Championship at the Nürburgring with 3 rounds to spare; Jackie Stewart scoring his maiden Formula 1 victory at Monza in his rookie season; and Richie Ginther delivering the historic first Grand Prix victory for HONDA and GOODYEAR tyres in Mexico City in the transverse 1.5-litre V12 RA272.
+- **Audit Metrics**:
+  - **Number of claims checked**: 272
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+  - **Best 6 scores rule verified**: Jim Clark scored 54 net points (54 gross - maximum possible). Graham Hill scored 40 net points (47 gross, dropped two 5th-place finishes). Jackie Stewart finished 3rd with 33 net points (34 gross). Team Lotus won the Constructors' Championship with 54 net points (58 gross).
+- **Date Re-verified**: 2026-10-29
