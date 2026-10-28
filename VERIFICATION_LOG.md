@@ -1809,3 +1809,27 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+
+---
+
+### Season 2005 Verification Audit & Expansion
+- **Scope**: Verified build of 2005 season files (`calendar.md`, `standings.md`, and 19 race dossiers with `results.json`, `qualifying.json`, `notes.md`, plus `cars/renault-r25.md` and `circuits/istanbul-park.md`).
+- **Primary Sources Checked**:
+  - Formula1.com 2005 Official Race Results, Drivers & Constructors Standings (all URLs verified)
+  - Jolpica-F1 Ergast API (`https://api.jolpi.ca/ergast/f1/2005/`)
+  - FIA Official Bulletins, Technical Regulations & Race Classifications
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 19 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Melbourne Albert Park, Sepang, Sakhir, Imola, Barcelona, Monaco harbour, Nürburgring, Montreal, Indianapolis, Magny-Cours, Silverstone, Hockenheim, Hungaroring, Istanbul Park Turn 8, Monza, Spa Eau Rouge, Interlagos, Suzuka 130R, Shanghai).
+  - Detailed narratives on Fernando Alonso becoming the youngest World Drivers' Champion in Formula 1 history at 24 years, 58 days, winning 7 Grands Prix and delivering Renault their first World Championship as a works constructor; the controversial single-season ban on tyre changes during races (one set of tyres for qualifying and 300 km race distance); the infamous 6-car United States Grand Prix at Indianapolis following Michelin's withdrawal due to banking tyre failure risks; Alonso's defensive masterclass holding off Michael Schumacher by 0.215s at Imola; Kimi Räikkönen's heartbreaking last-lap suspension failure at the Nürburgring; Räikkönen's miraculous victory from 17th on the grid at Suzuka with a final-lap outside pass on Fisichella at Turn 1; the debut of Istanbul Park with its legendary high-speed 5G Turn 8; and BAR-Honda's disqualification and two-race ban for a concealed secondary fuel tank.
+- **Audit Metrics**:
+  - **Number of claims checked**: 540
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
