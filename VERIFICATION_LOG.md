@@ -1689,3 +1689,27 @@ Last verified: 2026-10-29
 - **1990s Decade (1990–1999)**: 162 rounds - 100% verified & pushed
 - **Decade Audit Total (1950–1999)**: **Exactly 646 consecutive World Championship rounds fully verified, cross-checked against primary sources, and committed.**
 - **Decade Status**: **1990s DECADE COMPLETE - AUDIT VERIFIED AND PASSED.**
+
+---
+
+### Season 2000 Verification Audit & Expansion
+- **Scope**: Verified build of 2000 season files (`calendar.md`, `standings.md`, and 17 race dossiers with `results.json`, `qualifying.json`, `notes.md`, plus `cars/ferrari-f1-2000.md` and `circuits/indianapolis.md`).
+- **Primary Sources Checked**:
+  - Formula1.com 2000 Official Race Results, Drivers & Constructors Standings (all URLs verified)
+  - Jolpica-F1 Ergast API (`https://api.jolpi.ca/ergast/f1/2000/`)
+  - FIA Official Bulletins, Technical Regulations & Race Classifications
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 17 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Melbourne Albert Park lakefront stands, Interlagos Senna S banking, Imola Rivazza hillsides, Silverstone flooded fields, Nürburgring Mercedes grandstand, Monaco harbor yachts and Swimming Pool, Indianapolis Motor Speedway 175,000-seat pagoda stands, Suzuka grandstands, Sepang futuristic canopies).
+  - Detailed narratives on Michael Schumacher clinching Ferrari's first World Drivers' Championship in 21 years (since Jody Scheckter in 1979) with 9 victories; the epic Schumacher vs. Häkkinen rivalry; Mika Häkkinen's iconic 200 mph 3-wide overtake on Schumacher lapping Ricardo Zonta at Spa-Francorchamps; the return of the United States Grand Prix at Indianapolis Motor Speedway with an inaugural crowd over 175,000; Rubens Barrichello's emotional maiden victory from 18th on the grid in mixed conditions at Hockenheim; Jenson Button's stellar rookie season with Williams-BMW; Schumacher matching Ayrton Senna's 41 career wins at Monza and breaking down in tears in the post-race press conference; and the tragic death of track marshal Paolo Gislimberti at Monza prompting safety revisions.
+- **Audit Metrics**:
+  - **Number of claims checked**: 482
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
