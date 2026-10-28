@@ -47,3 +47,4 @@ Karl Jochen Rindt holds a poignant, unique place in motorsport history as Formul
 - Formula 1 Official Hall of Fame: [formula1.com/en/drivers/hall-of-fame/Jochen_Rindt](https://www.formula1.com/en/drivers/hall-of-fame/Jochen_Rindt.html)
 - Jolpica-F1 Driver Database: `https://api.jolpi.ca/ergast/f1/drivers/rindt/`
 - Prüller, Heinz. *Jochen Rindt: The Story of a World Champion*. Kimber, 1970.
+

@@ -44,3 +44,4 @@ Albert François Cevert Goldenberg was one of the most charismatic, gifted, and 
 - Formula 1 Official Heritage: [formula1.com/en/drivers/hall-of-fame](https://www.formula1.com)
 - Jolpica-F1 Driver Database: `https://api.jolpi.ca/ergast/f1/drivers/cevert/`
 - Hamilton, Maurice. *Ken Tyrrell: The Authorised Biography*. HarperSport, 2002.
+

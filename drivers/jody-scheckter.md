@@ -42,3 +42,4 @@ Jody David Scheckter is the **first and only driver from the continent of Africa
 ## Primary Sources & Verification
 - Formula 1 Official Hall of Fame: [formula1.com/en/drivers/hall-of-fame/Jody_Scheckter](https://www.formula1.com/en/drivers/hall-of-fame/Jody_Scheckter.html)
 - Jolpica-F1 Driver Database: `https://api.jolpi.ca/ergast/f1/drivers/scheckter/`
+

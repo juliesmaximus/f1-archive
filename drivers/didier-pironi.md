@@ -47,3 +47,4 @@ Over 70 Grand Prix starts, Pironi claimed 3 victories, 13 podiums, and 4 pole po
 - Scuderia Ferrari Historical Register
 - Formula1.com Driver Archive: Didier Pironi
 - Jolpica-F1 Ergast API Career Records
+

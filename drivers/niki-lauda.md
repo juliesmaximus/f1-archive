@@ -45,3 +45,4 @@ Andreas Nikolaus "Niki" Lauda is an immortal titan of Formula One. A triple Worl
 - Formula 1 Official Hall of Fame: [formula1.com/en/drivers/hall-of-fame/Niki_Lauda](https://www.formula1.com/en/drivers/hall-of-fame/Niki_Lauda.html)
 - Jolpica-F1 Driver Database: `https://api.jolpi.ca/ergast/f1/drivers/lauda/`
 - Lauda, Niki. *To Hell and Back: An Autobiography*. Stanley Paul, 1986.
+

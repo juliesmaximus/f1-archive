@@ -42,3 +42,4 @@ De Angelis achieved 2 Grand Prix victories and 9 podiums, notably scoring the **
 - Classic Team Lotus Heritage Register (Hethel, Norfolk)
 - Formula1.com Driver Archive: Elio de Angelis
 - Jolpica-F1 Ergast API Career Records
+

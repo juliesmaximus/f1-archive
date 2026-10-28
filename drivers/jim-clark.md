@@ -72,3 +72,4 @@ Tragically, on 7 April 1968, during a minor Formula Two race at the Hockenheimri
 - FIA Heritage Archive: https://www.fia.com/hall-of-fame
 
 *Last verified: 2026-10-29*
+

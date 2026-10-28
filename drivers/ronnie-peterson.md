@@ -46,3 +46,4 @@ Bengt Ronnie Peterson, universally revered by fans and peers as *"SuperSwede"*, 
 - Formula 1 Official Hall of Fame: [formula1.com/en/drivers/hall-of-fame](https://www.formula1.com)
 - Jolpica-F1 Driver Database: `https://api.jolpi.ca/ergast/f1/drivers/peterson/`
 - Tipler, Johnny. *Ronnie Peterson: A Photographic Portrait*. Coterie Press, 2003.
+

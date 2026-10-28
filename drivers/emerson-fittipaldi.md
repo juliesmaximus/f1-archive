@@ -41,3 +41,4 @@ Emerson "Emmo" Fittipaldi is one of the most decorated and celebrated drivers in
 - Formula 1 Official Hall of Fame: [formula1.com/en/drivers/hall-of-fame/Emerson_Fittipaldi](https://www.formula1.com/en/drivers/hall-of-fame/Emerson_Fittipaldi.html)
 - Jolpica-F1 Driver Database: `https://api.jolpi.ca/ergast/f1/drivers/fittipaldi/`
 - Fittipaldi, Emerson. *Flying on the Ground: An Autobiography*. Kimber, 1973.
+

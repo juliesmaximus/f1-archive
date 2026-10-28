@@ -44,3 +44,4 @@ In 1978, Andretti became the second American to win the Formula One World Driver
 - Official FIA Formula One World Championship Archives
 - Formula1.com Driver Hall of Fame: Mario Andretti
 - Jolpica-F1 Ergast API Career Records
+

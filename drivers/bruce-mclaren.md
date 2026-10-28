@@ -57,3 +57,4 @@ Bruce McLaren's famous words written in memory of teammate Timmy Mayer serve as 
 - FIA Heritage Archive: https://www.fia.com/hall-of-fame
 
 *Last verified: 2026-10-29*
+

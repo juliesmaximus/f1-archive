@@ -45,3 +45,4 @@ Over a 14-season career spanning 204 starts, Piquet claimed 23 victories, 60 pod
 - Official FIA Formula One World Championship Archives
 - Formula1.com Driver Hall of Fame: Nelson Piquet
 - Jolpica-F1 Ergast API Career Statistics
+

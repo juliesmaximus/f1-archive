@@ -74,3 +74,4 @@ Cooper continued racing through the 1.5L and 3.0L eras with drivers such as Bruc
 - FIA Heritage Archive: https://www.fia.com/hall-of-fame
 
 *Last verified: 2026-10-29*
+

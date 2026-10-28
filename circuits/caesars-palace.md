@@ -53,3 +53,4 @@ Formula One did not return to Las Vegas until the 2023 Las Vegas Grand Prix, whi
 - Official FIA Formula One World Championship Archives (1981–1982)
 - Formula1.com Historical Race Annals
 - Jolpica-F1 Ergast API Circuit Records
+

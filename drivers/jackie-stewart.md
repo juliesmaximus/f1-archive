@@ -42,3 +42,4 @@ Sir Jackie Stewart is widely regarded as one of the greatest, most influential f
 - Formula 1 Official Hall of Fame: [formula1.com/en/drivers/hall-of-fame/Jackie_Stewart](https://www.formula1.com/en/drivers/hall-of-fame/Jackie_Stewart.html)
 - Jolpica-F1 Driver Database: `https://api.jolpi.ca/ergast/f1/drivers/stewart/`
 - Stewart, Jackie. *Winning Is Not Enough: The Autobiography*. Headline, 2007.
+

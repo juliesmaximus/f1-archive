@@ -1,0 +1,29 @@
+# Formula 1 World Championship Season 1984 - Calendar
+
+The 1984 Formula One season was the 35th season of FIA Formula One motor racing. It consisted of 16 championship rounds between March 25 and October 21, 1984.
+
+The 1984 season is etched in Formula One history as the year of absolute team domination and the closest title decider of all time:
+- **The Closest Title Decider in F1 History (0.5 Points):** Double World Champion Niki Lauda won his **third World Drivers' Championship**, edging McLaren teammate Alain Prost by a mere **0.5 points** (72 to 71.5). Despite Prost winning 7 races to Lauda's 5, Lauda's cerebral racecraft, race setup skills, and consistency carried him to the title in the Estoril finale.
+- **The McLaren-TAG Porsche MP4/2 Steamroller:** John Barnard's sculpted carbon-composite chassis powered by Hans Mezger's Porsche-engineered 1.5-litre twin-turbo V6 (funded by Mansour Ojjeh's TAG) won 12 of the 16 races, shattering all existing records to claim the **World Constructors' Championship** with 143.5 points.
+- **The Arrival of Ayrton Senna:** Brazilian rookie sensation Ayrton Senna burst onto the global stage in the humble Toleman TG184 Hart turbo. In torrential rain at the Monaco Grand Prix, Senna scythed from 13th on the grid, carving into Prost's lead by three seconds per lap before clerk of the course Jacky Ickx red-flagged the race on lap 31. Because the race was stopped before 75% distance, half-points were awarded (4.5 points to winner Prost), an irony that ultimately cost Prost the World Championship by half a point!
+- **The Dallas Heatwave:** Formula One's sole visit to Fair Park in Dallas was run in punishing 100°F (38°C) heat on disintegrating asphalt, won by Keke Rosberg wearing a water-cooled skullcap, while Nigel Mansell collapsed from heat exhaustion attempting to push his stricken Lotus across the finish line.
+- **Refuelling Ban & Fuel Efficiency Era:** FISA banned mid-race refuelling and capped fuel capacity at 220 litres, ushering in the era of electronic boost management and fuel readout consumption strategy.
+
+| Round | Official Grand Prix Name | Circuit | Location | Date | Laps | Distance | Winner | Pole Position | Fastest Lap |
+|:---:|:---|:---|:---|:---|:---:|:---:|:---|:---|:---|
+| 1 | [XIII Grande Prêmio do Brasil](races/brazilian-grand-prix/notes.md) | Autódromo de Jacarepaguá | Rio de Janeiro, Brazil | 1984-03-25 | 61 | 5.031 km | Alain Prost (McLaren) | Elio de Angelis | N/A |
+| 2 | [XXX Grand Prix of South Africa](races/south-african-grand-prix/notes.md) | Kyalami Grand Prix Circuit | Midrand, Gauteng, South Africa | 1984-04-07 | 75 | 4.104 km | Niki Lauda (McLaren) | Nelson Piquet | N/A |
+| 3 | [XLII Grote Prijs van Belgie](races/belgian-grand-prix/notes.md) | Circuit Zolder | Heusden-Zolder, Limburg, Belgium | 1984-04-29 | 70 | 4.262 km | Michele Alboreto (Ferrari) | Michele Alboreto | N/A |
+| 4 | [IV Gran Premio di San Marino](races/san-marino-grand-prix/notes.md) | Autodromo Dino Ferrari | Imola, Emilia-Romagna, Italy | 1984-05-06 | 60 | 5.04 km | Alain Prost (McLaren) | Nelson Piquet | N/A |
+| 5 | [LXX Grand Prix de France](races/french-grand-prix/notes.md) | Circuit de Dijon-Prenois | Prenois, Côte-d'Or, France | 1984-05-20 | 79 | 3.8 km | Niki Lauda (McLaren) | Patrick Tambay | N/A |
+| 6 | [XLII Grand Prix de Monaco](races/monaco-grand-prix/notes.md) | Circuit de Monaco | Monte Carlo, Monaco | 1984-06-03 | 31 | 3.312 km | Alain Prost (McLaren) | Alain Prost | N/A |
+| 7 | [XXIV Grand Prix du Canada](races/canadian-grand-prix/notes.md) | Circuit Gilles Villeneuve | Montreal, Quebec, Canada | 1984-06-17 | 70 | 4.41 km | Nelson Piquet (Brabham) | Nelson Piquet | N/A |
+| 8 | [III Detroit Grand Prix](races/detroit-grand-prix/notes.md) | Detroit Street Circuit | Detroit, Michigan, United States | 1984-06-24 | 63 | 4.023 km | Nelson Piquet (Brabham) | Nelson Piquet | N/A |
+| 9 | [I Dallas Grand Prix](races/dallas-grand-prix/notes.md) | Fair Park Street Circuit | Dallas, Texas, United States | 1984-07-08 | 67 | 3.901 km | Keke Rosberg (Williams) | Nigel Mansell | N/A |
+| 10 | [XXXVII Marlboro British Grand Prix](races/british-grand-prix/notes.md) | Brands Hatch | West Kingsdown, Kent, England | 1984-07-22 | 71 | 4.207 km | Niki Lauda (McLaren) | Nelson Piquet | N/A |
+| 11 | [XLVI Großer Preis von Deutschland](races/german-grand-prix/notes.md) | Hockenheimring | Hockenheim, Baden-Württemberg, West Germany | 1984-08-05 | 44 | 6.797 km | Alain Prost (McLaren) | Alain Prost | N/A |
+| 12 | [XXII Großer Preis von Österreich](races/austrian-grand-prix/notes.md) | Österreichring | Spielberg, Styria, Austria | 1984-08-19 | 51 | 5.942 km | Niki Lauda (McLaren) | Nelson Piquet | N/A |
+| 13 | [XXXIII Grote Prijs van Nederland](races/dutch-grand-prix/notes.md) | Circuit Park Zandvoort | Zandvoort, North Holland, Netherlands | 1984-08-26 | 71 | 4.252 km | Alain Prost (McLaren) | Alain Prost | N/A |
+| 14 | [LV Gran Premio d'Italia](races/italian-grand-prix/notes.md) | Autodromo Nazionale di Monza | Monza, Lombardy, Italy | 1984-09-09 | 51 | 5.8 km | Niki Lauda (McLaren) | Nelson Piquet | N/A |
+| 15 | [XXX Grand Prix of Europe](races/european-grand-prix/notes.md) | Nürburgring (Modern GP-Strecke) | Nürburg, Rhineland-Palatinate, West Germany | 1984-10-07 | 67 | 4.542 km | Alain Prost (McLaren) | Alain Prost | Michele Alboreto |
+| 16 | [IX Grande Prémio de Portugal](races/portuguese-grand-prix/notes.md) | Autódromo do Estoril | Alcabideche, Cascais, Portugal | 1984-10-21 | 70 | 4.35 km | Alain Prost (McLaren) | Nelson Piquet | Niki Lauda |

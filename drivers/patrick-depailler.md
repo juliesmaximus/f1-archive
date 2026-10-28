@@ -41,3 +41,4 @@ Renowned for his raw speed, feedback, and bravery—most notably in mastering an
 - Official FIA Formula One World Championship Classifications (1972–1980)
 - Formula1.com Historical Archive: Patrick Depailler
 - Jolpica-F1 Ergast API Driver Records
+

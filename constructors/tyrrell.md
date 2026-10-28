@@ -30,3 +30,4 @@ Founded by timber merchant and visionary talent scout Ken Tyrrell, the Tyrrell R
 ## Primary Sources & Verification
 - Formula 1 Official Heritage: [formula1.com/en/teams/Tyrrell.html](https://www.formula1.com)
 - Jolpica-F1 Constructor Database: `https://api.jolpi.ca/ergast/f1/constructors/tyrrell/`
+

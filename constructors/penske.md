@@ -41,3 +41,4 @@ Founded by American motorsport titan Roger Penske, Team Penske holds an elite pl
 - Formula 1 Official Heritage: [formula1.com/en/teams/Penske.html](https://www.formula1.com)
 - Jolpica-F1 Constructor Database: `https://api.jolpi.ca/ergast/f1/constructors/penske/`
 - Team Penske Official History: `https://www.teampenske.com/about/history`
+

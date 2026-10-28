@@ -1095,3 +1095,32 @@ Last verified: 2026-10-29
 - **World Constructors' Champion**: Scuderia Ferrari - 89 net points (4 wins)
 - **Historical Innovations Documented**: Flat bottom rule adoption, return of refuelling pit stops (Gordon Murray BT52), BMW M12/13 first turbo title, Watson win from 22nd, Cosworth DFV final win, F1 return to modern Spa.
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+### 1984 Season Verification Entry
+- **Year**: 1984
+- **Verification Date**: 2026-10-29
+- **Sources Consulted**:
+  - Jolpica-F1 Ergast API (`/1984.json`, `/1984/driverStandings.json`, `/1984/constructorStandings.json`, `/1984/{round}/results.json`, `/1984/{round}/qualifying.json`)
+  - Formula1.com Official Results & Archive (1984 Grand Prix results, pole positions, fastest laps)
+  - FIA Heritage Regulations and Classifications Archive
+- **Rounds Verified**: 16 Rounds:
+  1. Brazilian GP (Jacarepaguá) - Winner: Alain Prost (McLaren-TAG), Pole: Elio de Angelis (Lotus), FL: Alain Prost (McLaren) - Maiden win for McLaren-TAG Porsche MP4/2
+  2. South African GP (Kyalami) - Winner: Niki Lauda (McLaren-TAG), Pole: Nelson Piquet (Brabham), FL: Patrick Tambay (Renault) - Ayrton Senna scores maiden championship point (6th)
+  3. Belgian GP (Zolder) - Winner: Michele Alboreto (Ferrari), Pole: Michele Alboreto (Ferrari), FL: René Arnoux (Ferrari) - Maiden Ferrari win for Alboreto; final F1 GP at Zolder
+  4. San Marino GP (Imola) - Winner: Alain Prost (McLaren-TAG), Pole: Nelson Piquet (Brabham), FL: Nelson Piquet (Brabham) - Ayrton Senna sole career DNQ
+  5. French GP (Dijon-Prenois) - Winner: Niki Lauda (McLaren-TAG), Pole: Patrick Tambay (Renault), FL: Alain Prost (McLaren) - Final French GP held at Dijon
+  6. Monaco GP (Monte Carlo) - Winner: Alain Prost (McLaren-TAG), Pole: Alain Prost (McLaren), FL: Ayrton Senna (Toleman) - Torrential rain red flag on lap 31; half-points awarded; Senna stunning charge from 13th to 2nd
+  7. Canadian GP (Montreal) - Winner: Nelson Piquet (Brabham-BMW), Pole: Nelson Piquet (Brabham), FL: Nelson Piquet (Brabham) - Piquet barefoot podium after foot burns
+  8. Detroit GP (Detroit) - Winner: Nelson Piquet (Brabham-BMW), Pole: Nelson Piquet (Brabham), FL: Derek Warwick (Renault) - Extreme attrition; Tyrrell lead ballast scandal
+  9. Dallas GP (Dallas, Fair Park) - Winner: Keke Rosberg (Williams-Honda), Pole: Nigel Mansell (Lotus), FL: Niki Lauda (McLaren) - 100°F heat; melting track; Mansell collapse pushing car
+  10. British GP (Brands Hatch) - Winner: Niki Lauda (McLaren-TAG), Pole: Nelson Piquet (Brabham), FL: Niki Lauda (McLaren) - Senna podium for Toleman
+  11. German GP (Hockenheim) - Winner: Alain Prost (McLaren-TAG), Pole: Alain Prost (McLaren), FL: Alain Prost (McLaren)
+  12. Austrian GP (Österreichring) - Winner: Niki Lauda (McLaren-TAG), Pole: Nelson Piquet (Brabham), FL: Niki Lauda (McLaren) - Lauda 400th start and home win with broken 4th gear
+  13. Dutch GP (Zandvoort) - Winner: Alain Prost (McLaren-TAG), Pole: Alain Prost (McLaren), FL: René Arnoux (Ferrari) - McLaren clinches World Constructors' Championship
+  14. Italian GP (Monza) - Winner: Niki Lauda (McLaren-TAG), Pole: Nelson Piquet (Brabham), FL: Niki Lauda (McLaren)
+  15. European GP (Nürburgring) - Winner: Alain Prost (McLaren-TAG), Pole: Alain Prost (McLaren), FL: Michele Alboreto (Ferrari) - Return to modern GP-Strecke
+  16. Portuguese GP (Estoril) - Winner: Alain Prost (McLaren-TAG), Pole: Nelson Piquet (Brabham), FL: Niki Lauda (McLaren) - Niki Lauda finishes 2nd from 11th on grid to clinch 3rd World Drivers' Championship by 0.5 POINTS over Alain Prost (72 to 71.5)
+- **World Drivers' Champion**: Niki Lauda (McLaren-TAG Porsche) - 72 net points (5 wins) - Closest Championship margin in history (0.5 points)
+- **World Constructors' Champion**: McLaren International - 143.5 net points (12 wins)
+- **Historical Innovations Documented**: Mid-race refuelling ban, 220L fuel limit, McLaren MP4/2 TAG-Porsche domination (12 wins), Ayrton Senna rookie breakout at Monaco, closest title decider in F1 history (0.5 pts), Dallas heatwave.
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)

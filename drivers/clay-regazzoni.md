@@ -48,3 +48,4 @@ Regazzoni won 5 World Championship Grands Prix, secured 28 podiums, and finished
 - Scuderia Ferrari Historical Heritage Register
 - Williams Racing Heritage Collection
 - Jolpica-F1 Ergast API Driver Records
+

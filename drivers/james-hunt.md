@@ -44,3 +44,4 @@ James Simon Wallis Hunt was the definitive charismatic, non-conformist rockstar 
 - Formula 1 Official Hall of Fame: [formula1.com/en/drivers/hall-of-fame/James_Hunt](https://www.formula1.com/en/drivers/hall-of-fame/James_Hunt.html)
 - Jolpica-F1 Driver Database: `https://api.jolpi.ca/ergast/f1/drivers/hunt/`
 - Donaldson, Gerald. *James Hunt: The Biography*. Virgin Books, 1994.
+
