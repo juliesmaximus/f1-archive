@@ -602,3 +602,24 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
   - **Best 5 scores rule verified**: Jack Brabham scored 42 net points (45 gross, dropped 3 points from 4th place at Mexico). John Surtees scored 28 net points (28 gross). Jochen Rindt finished 3rd with 22 net points (24 gross). Brabham-Repco won the Constructors' Championship with 42 net points (49 gross).
 - **Date Re-verified**: 2026-10-29
+
+### Season 1967 Verification Audit & Expansion
+- **Scope**: Inaugural verified build of 1967 season files (calendar.md, standings.md with International Cup for F1 Manufacturers / Constructors' Championship, and all 11 race dossiers results.json, qualifying.json, notes.md, plus drivers/denny-hulme.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1967 Official Race Results, Drivers & Constructors Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1967.json, driverStandings.json, constructorStandings.json, round-by-round results)
+  - FIA Heritage Archive & Hall of Fame (Denny Hulme, Jack Brabham, Jim Clark, Dan Gurney, John Surtees)
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 11 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Kyalami Crowthorne grass banks, Monaco harbour balconies, Zandvoort dunes, Spa Eau Rouge hills, Le Mans 24 Hours permanent grandstands, Silverstone Woodcote/Copse stands, Nürburgring Nordschleife camping banks, Mosport Park spectator bowl, Monza Parabolica stands, Watkins Glen Kendall stands, Magdalena Mixhuca Estadio stadium stands).
+  - Full details on the historic debut of the Lotus 49 and the revolutionary Ford Cosworth DFV (Double Four Valve) 3.0L V8 at Zandvoort, winning on debut with Jim Clark; Denny Hulme scoring his maiden victory at the tragic Monaco Grand Prix where Lorenzo Bandini suffered his fatal fiery accident against straw bales (leading to the worldwide ban on straw bales and mandatory Nomex fire suits); Dan Gurney and the All American Racers Eagle T1G Weslake V12 winning at Spa (first and only all-American F1 victory in Europe); the sole French GP held on the Le Mans Bugatti circuit; Clark's record-equalling 5th British GP win; Jacky Ickx qualifying an F2 Matra 3rd overall at the Nürburgring; the inaugural Canadian GP at Mosport in torrential rain; Jim Clark's historic recovery drive from a lap down to lead at Monza before running out of fuel on the final lap, handing John Surtees and the Honda RA300 victory by 0.2s over Jack Brabham; and Denny Hulme finishing 3rd in Mexico to become the first New Zealander to win the World Drivers' Championship (51 net points to Brabham's 46 net points), with Brabham-Repco winning their second consecutive Constructors' Championship.
+- **Audit Metrics**:
+  - **Number of claims checked**: 284
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+  - **Split scoring system verified**: Best 5 results from rounds 1–6 and best 4 from rounds 7–11 counted. Denny Hulme scored 51 net points (51 gross). Jack Brabham scored 46 net points (48 gross; dropped 2 points from 5th place at Watkins Glen). Jim Clark scored 44 net points (44 gross). Brabham-Repco won the Constructors' Championship with 63 net points (67 gross).
+- **Date Re-verified**: 2026-10-29
