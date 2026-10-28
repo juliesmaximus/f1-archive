@@ -1544,3 +1544,36 @@ Last verified: 2026-10-29
 - **World Constructors' Champion**: Williams Grand Prix Engineering - 175 points (12 wins)
 - **Historical Innovations Documented**: 107% qualifying rule introduced, raised cockpit head protection sides (550 mm), Melbourne Albert Park inaugural GP, Schumacher rain masterclass in Barcelona, Panis historic 3-car Monaco finish.
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+
+### 1997 Season Verification Entry
+- **Year**: 1997
+- **Verification Date**: 2026-10-29
+- **Sources Consulted**:
+  - Jolpica-F1 Ergast API (`/1997.json`, `/1997/driverStandings.json`, `/1997/constructorStandings.json`, `/1997/{round}/results.json`, `/1997/{round}/qualifying.json`)
+  - Formula1.com Official Results & Archive (1997 Grand Prix results, pole positions, fastest laps)
+  - FIA Heritage Regulations and Classifications Archive
+- **Rounds Verified**: 17 Rounds:
+  1. Australian GP (Melbourne) - Winner: David Coulthard (McLaren-Mercedes), Pole: Jacques Villeneuve (Williams), FL: Heinz-Harald Frentzen (Williams) - McLaren ends 50-race win drought
+  2. Brazilian GP (Interlagos) - Winner: Jacques Villeneuve (Williams-Renault), Pole: Jacques Villeneuve (Williams), FL: Jacques Villeneuve (Williams)
+  3. Argentine GP (Buenos Aires) - Winner: Jacques Villeneuve (Williams-Renault), Pole: Jacques Villeneuve (Williams), FL: Gerhard Berger (Benetton) - Ralf Schumacher maiden podium
+  4. San Marino GP (Imola) - Winner: Heinz-Harald Frentzen (Williams-Renault), Pole: Jacques Villeneuve (Williams), FL: Heinz-Harald Frentzen (Williams) - Maiden career win for Frentzen
+  5. Monaco GP (Monte Carlo) - Winner: Michael Schumacher (Ferrari), Pole: Heinz-Harald Frentzen (Williams), FL: Michael Schumacher (Ferrari) - Torrential rain; Schumacher pulls out 22-second lead on lap 1
+  6. Spanish GP (Barcelona) - Winner: Jacques Villeneuve (Williams-Renault), Pole: Jacques Villeneuve (Williams), FL: Giancarlo Fisichella (Jordan) - Panis 2nd for Prost Grand Prix
+  7. Canadian GP (Montreal) - Winner: Michael Schumacher (Ferrari), Pole: Michael Schumacher (Ferrari), FL: David Coulthard (McLaren) - Panis leg-breaking crash
+  8. French GP (Magny-Cours) - Winner: Michael Schumacher (Ferrari), Pole: Michael Schumacher (Ferrari), FL: Michael Schumacher (Ferrari)
+  9. British GP (Silverstone) - Winner: Jacques Villeneuve (Williams-Renault), Pole: Jacques Villeneuve (Williams), FL: Michael Schumacher (Ferrari) - Wurz maiden podium in 3rd race
+  10. German GP (Hockenheim) - Winner: Gerhard Berger (Benetton-Renault), Pole: Gerhard Berger (Benetton), FL: Gerhard Berger (Benetton) - Berger emotional return win following father's death; 10th and final career win (final Benetton win)
+  11. Hungarian GP (Hungaroring) - Winner: Jacques Villeneuve (Williams-Renault), Pole: Michael Schumacher (Ferrari), FL: Heinz-Harald Frentzen (Williams) - Damon Hill heroic near-win in Arrows-Yamaha, leading by 35s until throttle valve failure on penultimate lap
+  12. Belgian GP (Spa-Francorchamps) - Winner: Michael Schumacher (Ferrari), Pole: Jacques Villeneuve (Williams), FL: Jacques Villeneuve (Williams) - Schumacher wet clinic
+  13. Italian GP (Monza) - Winner: David Coulthard (McLaren-Mercedes), Pole: Jean Alesi (Benetton), FL: Mika Häkkinen (McLaren)
+  14. Austrian GP (A1-Ring) - Winner: Jacques Villeneuve (Williams-Renault), Pole: Jacques Villeneuve (Williams), FL: Jacques Villeneuve (Williams) - Return of Austrian GP at A1-Ring
+  15. Luxembourg GP (Nürburgring) - Winner: Jacques Villeneuve (Williams-Renault), Pole: Mika Häkkinen (McLaren), FL: Heinz-Harald Frentzen (Williams) - Both McLarens blow engines from 1-2 lead
+  16. Japanese GP (Suzuka) - Winner: Michael Schumacher (Ferrari), Pole: Jacques Villeneuve (Williams), FL: Heinz-Harald Frentzen (Williams) - Irvine team tactics hold up Villeneuve
+  17. European GP (Jerez) - Winner: Mika Häkkinen (McLaren-Mercedes), Pole: Jacques Villeneuve (Williams), FL: Heinz-Harald Frentzen (Williams) - Historic 3-way qualifying dead heat (Villeneuve, Schumacher, Frentzen all set 1:21.072); Schumacher turns into Villeneuve at Dry Sac hairpin on lap 48, beaching in gravel; Villeneuve 3rd clinches World Championship; Mika Häkkinen maiden F1 win; Schumacher disqualified from 1997 WDC by FIA
+- **World Drivers' Champion**: Jacques Villeneuve (Williams-Renault) - 81 points (7 wins, 10 poles) - Canada's first World Champion
+- **World Drivers' Championship Disqualification**: Michael Schumacher (Ferrari) - 78 points, 5 wins (disqualified from final championship classification for deliberate collision)
+- **World Drivers' Championship Runner-up**: Heinz-Harald Frentzen (Williams-Renault) - 42 points (1 win)
+- **World Constructors' Champion**: Williams Grand Prix Engineering - 123 points (8 wins) - Final title of Renault factory partnership
+- **Historical Innovations Documented**: Jerez 3-way qualifying dead heat (1:21.072), Dry Sac collision and Schumacher disqualification from WDC, Damon Hill Hungaroring drive in Arrows-Yamaha, Berger final win at Hockenheim, Mika Häkkinen maiden Grand Prix win.
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
