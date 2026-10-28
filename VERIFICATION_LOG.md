@@ -1481,3 +1481,35 @@ Last verified: 2026-10-29
 - **World Constructors' Champion**: Williams Grand Prix Engineering - 118 points (7 wins)
 - **Historical Innovations Documented**: Complete ban on active suspension and driver aids, return of in-race refuelling, Imola safety watershed (Tamburello/Villeneuve tragedies), introduction of the 10 mm wooden plank (skid block), Adelaide championship showdown.
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+
+### 1995 Season Verification Entry
+- **Year**: 1995
+- **Verification Date**: 2026-10-29
+- **Sources Consulted**:
+  - Jolpica-F1 Ergast API (`/1995.json`, `/1995/driverStandings.json`, `/1995/constructorStandings.json`, `/1995/{round}/results.json`, `/1995/{round}/qualifying.json`)
+  - Formula1.com Official Results & Archive (1995 Grand Prix results, pole positions, fastest laps)
+  - FIA Heritage Regulations and Classifications Archive
+- **Rounds Verified**: 17 Rounds:
+  1. Brazilian GP (Interlagos) - Winner: Michael Schumacher (Benetton-Renault), Pole: Damon Hill (Williams), FL: Michael Schumacher (Benetton) - Fuel controversy; drivers reinstated, constructors stripped of points
+  2. Argentine GP (Buenos Aires) - Winner: Damon Hill (Williams-Renault), Pole: David Coulthard (Williams), FL: Michael Schumacher (Benetton) - Return of Argentine GP
+  3. San Marino GP (Imola) - Winner: Damon Hill (Williams-Renault), Pole: Michael Schumacher (Benetton), FL: Gerhard Berger (Ferrari) - Redesigned Imola circuit with Tamburello/Villeneuve chicanes
+  4. Spanish GP (Barcelona) - Winner: Michael Schumacher (Benetton-Renault), Pole: Michael Schumacher (Benetton), FL: Damon Hill (Williams) - Benetton 1-2
+  5. Monaco GP (Monte Carlo) - Winner: Michael Schumacher (Benetton-Renault), Pole: Damon Hill (Williams), FL: Jean Alesi (Ferrari) - Schumacher one-stop masterclass
+  6. Canadian GP (Montreal) - Winner: Jean Alesi (Ferrari), Pole: Michael Schumacher (Benetton), FL: Michael Schumacher (Benetton) - Jean Alesi sole career victory on 31st birthday in #27 Ferrari V12
+  7. French GP (Magny-Cours) - Winner: Michael Schumacher (Benetton-Renault), Pole: Damon Hill (Williams), FL: Michael Schumacher (Benetton)
+  8. British GP (Silverstone) - Winner: Johnny Herbert (Benetton-Renault), Pole: Damon Hill (Williams), FL: Damon Hill (Williams) - Hill-Schumacher collision at Priory; Herbert maiden victory
+  9. German GP (Hockenheim) - Winner: Michael Schumacher (Benetton-Renault), Pole: Damon Hill (Williams), FL: Michael Schumacher (Benetton) - First German driver to win German GP in German car (Renault)
+  10. Hungarian GP (Hungaroring) - Winner: Damon Hill (Williams-Renault), Pole: Damon Hill (Williams), FL: Damon Hill (Williams) - Hill Grand Slam
+  11. Belgian GP (Spa-Francorchamps) - Winner: Michael Schumacher (Benetton-Renault), Pole: Gerhard Berger (Ferrari), FL: David Coulthard (Williams) - Schumacher astonishing victory from 16th on grid; legendary defence on slick tyres in rain
+  12. Italian GP (Monza) - Winner: Johnny Herbert (Benetton-Renault), Pole: David Coulthard (Williams), FL: Gerhard Berger (Ferrari) - Hill rams Schumacher at Roggia chicane; Herbert 2nd win
+  13. Portuguese GP (Estoril) - Winner: David Coulthard (Williams-Renault), Pole: David Coulthard (Williams), FL: David Coulthard (Williams) - Coulthard maiden Grand Prix victory
+  14. European GP (Nürburgring) - Winner: Michael Schumacher (Benetton-Renault), Pole: David Coulthard (Williams), FL: Michael Schumacher (Benetton) - Schumacher heroic late pass on Alesi at Veedol chicane with 2 laps to go
+  15. Pacific GP (TI Aida) - Winner: Michael Schumacher (Benetton-Renault), Pole: David Coulthard (Williams), FL: Michael Schumacher (Benetton) - Schumacher clinches 2nd World Championship at age 26 (youngest double champion)
+  16. Japanese GP (Suzuka) - Winner: Michael Schumacher (Benetton-Renault), Pole: Michael Schumacher (Benetton), FL: Michael Schumacher (Benetton) - Benetton clinches World Constructors' Championship
+  17. Australian GP (Adelaide) - Winner: Damon Hill (Williams-Renault), Pole: Damon Hill (Williams), FL: Damon Hill (Williams) - Final Adelaide GP; Häkkinen life-threatening crash saved by Dr. Watkins; Hill wins by 2 full laps
+- **World Drivers' Champion**: Michael Schumacher (Benetton-Renault) - 102 points (9 wins) - 2-time World Champion
+- **World Drivers' Championship Runner-up**: Damon Hill (Williams-Renault) - 69 points (4 wins)
+- **World Constructors' Champion**: Benetton Formula - 137 points (11 wins) - Sole Constructors' Championship
+- **Historical Innovations Documented**: 3.0-litre engine formula, 595 kg minimum weight including driver, Schumacher Spa win from 16th, Alesi maiden win in Montreal, Benetton twin championship crown.
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)

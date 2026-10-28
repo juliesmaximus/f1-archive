@@ -1,0 +1,30 @@
+# 1995 French Grand Prix - Verified Dossier
+
+## Round Overview
+- **Round:** 7 of 17
+- **Date:** 1995-07-02
+- **Official Race Name:** French Grand Prix
+- **Circuit:** Circuit de Nevers Magny-Cours
+- **Location:** Magny-Cours, France
+- **Circuit Length:** 4.25 km
+- **Altitude:** 220 m above sea level
+- **Weather Conditions:** Sunny and warm (26°C)
+
+---
+
+## Key Race Results & Milestones
+- **Pole Position:** Damon Hill (Williams-Renault) - 1:17.225
+- **Fastest Lap:** Michael Schumacher (Benetton-Renault) - 1:20.218 (Lap 51)
+- **Race Winner:** Michael Schumacher (Benetton-Renault)
+
+---
+
+## Historical Context & Narrative Summary
+Williams locked out the front row with Hill on pole and Coulthard 2nd. Schumacher qualified 3rd but jumped Coulthard at the start and overtook Hill through superior pit strategy to win by 31 seconds. Hill finished 2nd and Coulthard 3rd.
+
+---
+
+## Verification & Sources
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1995/races/7/french-grand-prix/race-result.html
+- **FIA Official Sporting Archives & Yearbooks (1995)**
+- **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1995/7/results.json`
