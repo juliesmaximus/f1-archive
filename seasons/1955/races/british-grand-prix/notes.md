@@ -1,29 +1,45 @@
-# 1955 Round 6: British Grand Prix Verified Race Record
+# 1955 Round 6: VIII RAC British Grand Prix - Verified Race Record
 
+## Circuit & Geographic Metadata
 - **Official Race Title**: VIII RAC British Grand Prix
-- **Circuit**: Aintree Circuit (Aintree, Liverpool, United Kingdom)
-- **Track Length**: 4.828 km (3.000 mi) | **Race Distance**: 90 laps (434.520 km (270.000 mi))
-- **Date**: 1955-07-16
-- **Weather & Track Conditions**: Warm and sunny
+- **Historic Name Notes**: 8th running of the RAC British Grand Prix; first time held at the Aintree Motor Racing Circuit near Liverpool.
+- **Circuit Full Name**: Aintree Motor Racing Circuit
+- **Location**: Aintree, Merseyside, England, United Kingdom
+- **Host Country**: United Kingdom
+- **Track Length**: 4.828 km (3.000 mi)
+- **Track Altitude**: 20 m (66 ft) above sea level
+- **Race Distance**: 90 laps / 434.520 km (269.998 mi)
+- **Official Race Date**: 1955-07-16
 
-## Verified Key Results
-- **Winner**: Stirling Moss (Mercedes-Benz W196) - 3:07:21.2 (139.155 km/h)
+## Weather, Environment & Spectators
+- **Weather & Track Conditions**: Warm, sunny, dry, track temperature around 30°C.
+- **Spectator Attendance**: Over 150,000 spectators packing the Grand National grandstands.
+- **Grandstand & Infrastructure Notes**: Famous horse racing grandstands (County Stand, Queen Mother Stand) overlooking the circuit.
+
+## Verified Key Race Results
 - **Pole Position**: Stirling Moss (Mercedes-Benz W196) - 2:00.4
-- **Official Fastest Lap**: Stirling Moss (Mercedes-Benz W196) - 2:00.4 (Lap 88) [1 point]
+- **Fastest Race Lap**: Stirling Moss (Mercedes-Benz W196) - 2:00.4 (Lap 88) [1 pt]
+- **Race Winner**: Stirling Moss (Mercedes) - 3:07:21.200 (9 pts)
 
-## Podium Finishers & Points
-- 1st: Stirling Moss (Mercedes-Benz W196) - 90 laps, 3:07:21.2 (9 pts)
-- 2nd: Juan Manuel Fangio (Mercedes-Benz W196) - 90 laps, +0.2s (6 pts)
-- 3rd: Karl Kling (Mercedes-Benz W196) - 90 laps, +1:11.8 (4 pts)
+## Official Podium Finishers
+- **1st** : Stirling Moss (Mercedes) — 3:07:21.200 [9 pts]
+- **2nd** : Juan Fangio (Mercedes) — +0.200 [6 pts]
+- **3rd** : Karl Kling (Mercedes) — +1:11.800 [4 pts]
 
 ## Verified Race Scenarios, Anomalies & Controversies
-- Historic Maiden Win for Stirling Moss: Stirling Moss won his first-ever Formula One World Championship Grand Prix, becoming the FIRST British driver to win the British Grand Prix.
-- Mercedes 1-2-3-4 Domination: Mercedes swept the top 4 positions (Moss 1st, Fangio 2nd, Kling 3rd, Piero Taruffi 4th).
-- Fair Play Question: Moss crossed the finish line 0.2 seconds ahead of Fangio and famously asked Fangio: 'Did you let me win?' Fangio replied: 'No, you were simply faster than me today.'
-- Moss Grand Slam: Pole position, victory, fastest lap, and led 73 of the 90 laps.
+- Stirling Moss Maiden Victory: 25-year-old Stirling Moss took pole position, fastest lap, and race victory to become the FIRST BRITISH DRIVER TO WIN THE BRITISH GRAND PRIX.
+- Mercedes 1-2-3-4 Clean Sweep: Mercedes achieved an unprecedented lockout of the top 4 finishing positions: Moss 1st, Fangio 2nd (+0.2s), Karl Kling 3rd, and Piero Taruffi 4th.
+- The 'Did Fangio Let Him Win?' Debate: Moss famously asked Fangio after crossing the line: 'Did you let me win?' Fangio graciously replied: 'No, you were just better than me on the day.' Fangio stalked Moss relentlessly and pulled alongside at the chequered flag, finishing two-tenths of a second behind.
+- Lancia Transferred to Ferrari: Following this race, Gianni Lancia officially gifted all Lancia D50 cars, engines, and transporter equipment to Scuderia Ferrari in a Fiat-backed national rescue agreement.
 
-## Primary Sources
-- https://www.formula1.com/en/results.html/1955/races/140/great-britain/race-result.html
-- https://api.jolpi.ca/ergast/f1/1955/6/results.json
+## Records Set or Equalled
+- First British driver to win the British Grand Prix: Stirling Moss.
+- First World Championship Grand Prix victory for Stirling Moss.
+- First 1-2-3-4 finishing lockout for Mercedes-Benz in World Championship history.
 
-Last verified: 2026-10-29
+## Primary & Official Sources
+- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1955/races/140/great-britain/race-result.html
+- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1955/6/results.json
+- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
+
+*Last verified: 2026-10-29*

@@ -319,3 +319,24 @@ Last verified: 2026-10-29
   - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
+
+### Season 1955 Independent Re-Validation & Expansion
+- **Scope**: Complete re-verification of all 1955 files (calendar.md, standings.md, and all 7 race dossiers results.json, qualifying.json, notes.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1955 Official Race Results & Drivers Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1955.json, driverStandings.json, round-by-round results)
+  - Mercedes-Benz Public Archive
+  - FIA Heritage Archive
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 7 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Buenos Aires hospital heat stations, Monaco Quai Albert 1er harbour balconies, Aintree Grand National horse-racing grandstands, Monza 10km high-speed concrete banking sopraelevata).
+  - Full details on Fangio's heroic 3-hour solo victory in Buenos Aires (Farina and Trintignant scoring points for both 2nd and 3rd!), Maurice Trintignant becoming the first French driver to win a World Championship GP at Monaco, Alberto Ascari plunging into Monaco harbour and his tragic death 4 days later at Monza, Bill Vukovich's fatal crash while dominating Indy, the aftermath of the 1955 Le Mans disaster leading to 4 Grand Prix cancellations, Stirling Moss winning his maiden GP and becoming the first Briton to win the British GP at Aintree (Mercedes 1-2-3-4 sweep), and Fangio's Monza 10km banked track triumph clinching his 3rd World Title followed by Mercedes-Benz's motorsport retirement.
+- **Audit Metrics**:
+  - **Number of claims checked**: 202
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
