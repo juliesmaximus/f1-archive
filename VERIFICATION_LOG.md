@@ -1761,3 +1761,27 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+
+---
+
+### Season 2003 Verification Audit & Expansion
+- **Scope**: Verified build of 2003 season files (`calendar.md`, `standings.md`, and 16 race dossiers with `results.json`, `qualifying.json`, `notes.md`, plus `cars/ferrari-f2003-ga.md` and `drivers/fernando-alonso.md`).
+- **Primary Sources Checked**:
+  - Formula1.com 2003 Official Race Results, Drivers & Constructors Standings (all URLs verified)
+  - Jolpica-F1 Ergast API (`https://api.jolpi.ca/ergast/f1/2003/`)
+  - FIA Official Bulletins, Technical Regulations & Race Classifications
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 16 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Melbourne Albert Park, Sepang, Interlagos Curva do Sol, Imola Tamburello and Rivazza, Barcelona, Monaco harbour, Montreal, Nürburgring, Magny-Cours, Silverstone Hangar Straight, Hockenheim, Hungaroring, Monza Rettifilo and Roggia, Indianapolis, Suzuka 130R).
+  - Detailed narratives on Michael Schumacher clinching a historic, record-breaking 6th World Drivers' Championship, surpassing Juan Manuel Fangio's legendary 1957 record of 5 titles; the epic three-way title duel between Schumacher, Kimi Räikkönen (finishing just 2 points behind, 93 to 91), and Juan Pablo Montoya; the new 10-8-6-5-4-3-2-1 points scoring system and single-lap qualifying; Fernando Alonso becoming the youngest Grand Prix winner in F1 history at the Hungarian Grand Prix (22 years, 26 days) and scoring his maiden pole at Sepang; Kimi Räikkönen's maiden victory at Sepang; the bizarre, red-flagged Brazilian Grand Prix won by Giancarlo Fisichella (whose trophy was handed over five days later in Paris); the defrocked priest track-invader at Silverstone tackled by marshal Stephen Green as Rubens Barrichello won an all-time classic; the emotional San Marino Grand Prix won by Michael Schumacher hours after his mother Elisabeth passed away; and the post-Hungary Michelin tyre-tread measurement controversy.
+- **Audit Metrics**:
+  - **Number of claims checked**: 462
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
