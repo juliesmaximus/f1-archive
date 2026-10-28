@@ -41,3 +41,4 @@ Opened in December 1985, Jerez hosted the **Spanish Grand Prix** for five consec
 - Official FIA Formula One World Championship Archives (1986–1997)
 - Circuito de Jerez-Ángel Nieto Official Register
 - Formula1.com Historical Circuit Guides
+

@@ -50,3 +50,4 @@ Designed in 1962 by Dutch track architect **John Hugenholtz** as an experimental
 - Official FIA Formula One World Championship Archives (1987–Present)
 - Mobilityland Corporation / Suzuka Circuit Official Heritage Register
 - Formula1.com Circuit Guide: Suzuka
+
