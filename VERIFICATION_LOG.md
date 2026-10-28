@@ -1833,3 +1833,27 @@ Last verified: 2026-10-29
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
 - **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
+
+
+---
+
+### Season 2006 Verification Audit & Expansion
+- **Scope**: Verified build of 2006 season files (`calendar.md`, `standings.md`, and 18 race dossiers with `results.json`, `qualifying.json`, `notes.md`, plus `cars/renault-r26.md`).
+- **Primary Sources Checked**:
+  - Formula1.com 2006 Official Race Results, Drivers & Constructors Standings (all URLs verified)
+  - Jolpica-F1 Ergast API (`https://api.jolpi.ca/ergast/f1/2006/`)
+  - FIA Official Bulletins, Technical Regulations & Race Classifications
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 18 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Sakhir, Sepang, Melbourne Albert Park, Imola, Nürburgring, Barcelona, Monaco Rascasse and harbour, Silverstone, Montreal, Indianapolis, Magny-Cours, Hockenheim, Hungaroring, Istanbul Park, Monza, Shanghai, Suzuka, Interlagos).
+  - Detailed narratives on Fernando Alonso clinching his second consecutive World Drivers' Championship at Interlagos (becoming the youngest double champion at 25 years, 85 days) and Renault capturing back-to-back Constructors' crowns; Michael Schumacher's first retirement from Formula 1 announced before an emotional sea of tifosi at Monza after his 90th victory; the dawn of the 2.4L naturally aspirated V8 engine era revving past 20,000 rpm; the debut of the three-part knockout qualifying format (Q1/Q2/Q3); the infamous Rascasse scandal at Monaco where Schumacher was stripped of pole and sent to the back of the grid for deliberately stopping his car in qualifying; Jenson Button's miraculous maiden victory from 14th on the grid in a wet thriller at the Hungaroring; Schumacher's 91st and final career victory at Shanghai in changing wet-dry conditions; Schumacher's tragic engine failure while leading at Suzuka; and his titan farewell recovery drive from 19th to 4th at Interlagos.
+- **Audit Metrics**:
+  - **Number of claims checked**: 524
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
+- **Audit Result**: PASS (0 discrepancies, 100% verified against primary records)
