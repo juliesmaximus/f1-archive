@@ -1,29 +1,43 @@
-# 1954 Round 6: German Grand Prix Verified Race Record
+# 1954 Round 6: XVII Großer Preis von Deutschland / Grand Prix d'Europe - Verified Race Record
 
+## Circuit & Geographic Metadata
 - **Official Race Title**: XVII Großer Preis von Deutschland / Grand Prix d'Europe
-- **Circuit**: Nürburgring Nordschleife (Nürburg, Germany)
-- **Track Length**: 22.810 km (14.173 mi) | **Race Distance**: 22 laps (501.820 km (311.817 mi))
-- **Date**: 1954-08-01
-- **Weather & Track Conditions**: Overcast and dry
+- **Historic Name Notes**: 17th German Grand Prix; designated the honorary 'Grand Prix d'Europe' for 1954.
+- **Circuit Full Name**: Nürburgring Nordschleife
+- **Location**: Nürburg, Eifel Mountains, Rhineland-Palatinate, West Germany
+- **Host Country**: West Germany
+- **Track Length**: 22.810 km (14.173 mi)
+- **Track Altitude**: 620 m (2034 ft) above sea level
+- **Race Distance**: 22 laps / 501.820 km (311.816 mi)
+- **Official Race Date**: 1954-08-01
 
-## Verified Key Results
-- **Winner**: Juan Manuel Fangio (Mercedes-Benz W196) - 3:45:45.8 (133.364 km/h)
+## Weather, Environment & Spectators
+- **Weather & Track Conditions**: Warm, sunny, dry across the Eifel mountains; sombre atmosphere following practice fatality.
+- **Spectator Attendance**: Over 250,000 spectators.
+- **Grandstand & Infrastructure Notes**: Start-und-Ziel grandstand draped in quiet respect for Onofre Marimón.
+
+## Verified Key Race Results
 - **Pole Position**: Juan Manuel Fangio (Mercedes-Benz W196) - 9:50.1
-- **Official Fastest Lap**: Karl Kling (Mercedes-Benz W196) - 9:55.1 (Lap 16) [1 point]
+- **Fastest Race Lap**: Karl Kling (Mercedes-Benz W196) - 9:55.1 (Lap 16) [1 pt]
+- **Race Winner**: Juan Fangio (Mercedes) - 3:45:45.800 (8 pts)
 
-## Podium Finishers & Points
-- 1st: Juan Manuel Fangio (Mercedes-Benz W196) - 22 laps, 3:45:45.8 (8 pts)
-- 2nd: José Froilán González & Mike Hawthorn (Ferrari 625) - 22 laps, +1:36.5 (3 pts each)
-- 3rd: Maurice Trintignant (Ferrari 625) - 22 laps, +5:08.6 (4 pts)
+## Official Podium Finishers
+- **1st** : Juan Fangio (Mercedes) — 3:45:45.800 [8 pts]
+- **2nd** : Mike Hawthorn (Ferrari) — +1:36.500 [3 pts]
+- **3rd** : José Froilán González (Ferrari) — +1:36.500 [3 pts]
 
 ## Verified Race Scenarios, Anomalies & Controversies
-- Onofre Marimón Tragedy: During Saturday practice on 31 July, 30-year-old Argentine driver Onofre Marimón (Maserati 250F) suffered braking failure plunging downhill toward the Wehrseifen corner, crashed through hedges, and died instantly. He became the first driver fatality at an official World Championship Grand Prix weekend. A grief-stricken Fangio and González were devastated but raced in his honour.
-- Debut of the Open-Wheel Mercedes W196: In response to Silverstone handling issues, Mercedes built new open-wheeled chassis (*Monoposto*) for Fangio, Kling, and Lang.
-- Fangio led 20 of 22 laps of the gruelling 3-hour 45-minute race to take victory.
-- González and Hawthorn shared 2nd place in the Ferrari 625 (3 points each).
+- Onofre Marimón Fatal Crash: During Saturday morning practice on 31 July 1954, 30-year-old Argentine driver Onofre Marimón suffered a brake failure approaching the downhill Wehrseifen corner in his Maserati 250F. The car plunged through a hedge, rolled down an embankment, and trapped Marimón, killing him instantly. He became the FIRST DRIVER FATALLY INJURED DURING A FORMULA ONE WORLD CHAMPIONSHIP GRAND PRIX WEEKEND.
+- Grief-Stricken Compatriots: Juan Manuel Fangio and José Froilán González were devastated by the death of their protégé Marimón. González gave up his race to Mike Hawthorn mid-event; Fangio drove through grief to win the 501 km marathon in the new open-wheel W196.
+- Open-Wheel Mercedes Debut: Following Silverstone difficulties, Mercedes introduced the open-wheel (monoposto) version of the W196 for the twisting Nürburgring circuit.
 
-## Primary Sources
-- https://www.formula1.com/en/results.html/1954/races/131/germany/race-result.html
-- https://api.jolpi.ca/ergast/f1/1954/6/results.json
+## Records Set or Equalled
+- First driver fatality during an official Formula One World Championship Grand Prix event (Onofre Marimón).
+- First victory for the open-wheel configuration of the Mercedes-Benz W196.
 
-Last verified: 2026-10-29
+## Primary & Official Sources
+- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1954/races/131/germany/race-result.html
+- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1954/6/results.json
+- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
+
+*Last verified: 2026-10-29*

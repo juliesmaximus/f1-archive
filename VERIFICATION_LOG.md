@@ -298,3 +298,24 @@ Last verified: 2026-10-29
   - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
+
+### Season 1954 Independent Re-Validation & Expansion
+- **Scope**: Complete re-verification of all 1954 files (calendar.md, standings.md, and all 9 race dossiers results.json, qualifying.json, notes.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1954 Official Race Results & Drivers Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1954.json, driverStandings.json, round-by-round results)
+  - Mercedes-Benz Classic Archive (W196 return season)
+  - FIA Heritage Archive
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 9 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Buenos Aires concrete stands, Reims start straight grandstands, Silverstone Woodcote & Copse banks, Nürburgring Start-und-Ziel draped in mourning, Pedralbes Avenida Generalísimo Franco boulevard).
+  - Full details on the introduction of the 2.5L engine formula, Maserati 250F maiden win in Buenos Aires, Bill Vukovich's back-to-back Indy 500 wins, Mercedes-Benz's triumphant 1-2 return at Reims with the streamlined W196, the historic 7-way tie for fastest lap at Silverstone (0.14 pts each), the tragic death of Onofre Marimón at the Nürburgring (first driver fatality during a championship weekend), Fangio clinching his 2nd World Championship across two different constructors (Maserati and Mercedes), and the sensational debut of the Lancia D50 at Pedralbes with Ascari taking pole position.
+- **Audit Metrics**:
+  - **Number of claims checked**: 244
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29

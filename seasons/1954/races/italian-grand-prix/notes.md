@@ -1,29 +1,44 @@
-# 1954 Round 8: Italian Grand Prix Verified Race Record
+# 1954 Round 8: XXV Gran Premio d'Italia - Verified Race Record
 
+## Circuit & Geographic Metadata
 - **Official Race Title**: XXV Gran Premio d'Italia
-- **Circuit**: Autodromo Nazionale di Monza (Monza, Italy)
-- **Track Length**: 6.300 km (3.915 mi) | **Race Distance**: 80 laps (504.000 km (313.171 mi))
-- **Date**: 1954-09-05
-- **Weather & Track Conditions**: Hot and sunny
+- **Historic Name Notes**: 25th running of the Italian Grand Prix at Monza.
+- **Circuit Full Name**: Autodromo Nazionale di Monza
+- **Location**: Monza, Lombardy, Italy
+- **Host Country**: Italy
+- **Track Length**: 6.300 km (3.915 mi)
+- **Track Altitude**: 162 m (531 ft) above sea level
+- **Race Distance**: 80 laps / 504.000 km (313.171 mi)
+- **Official Race Date**: 1954-09-05
 
-## Verified Key Results
-- **Winner**: Juan Manuel Fangio (Mercedes-Benz W196) - 2:47:47.9 (180.216 km/h)
+## Weather, Environment & Spectators
+- **Weather & Track Conditions**: Warm, sunny, dry autumn conditions.
+- **Spectator Attendance**: Over 90,000 spectators.
+- **Grandstand & Infrastructure Notes**: Centrale and Vedano grandstands packed.
+
+## Verified Key Race Results
 - **Pole Position**: Juan Manuel Fangio (Mercedes-Benz W196) - 1:59.0
-- **Official Fastest Lap**: José Froilán González (Ferrari 553) - 2:00.8 (Lap 2) [1 point]
+- **Fastest Race Lap**: José Froilán González (Ferrari 625) - 2:00.8 (Lap 2) [1 pt]
+- **Race Winner**: Juan Fangio (Mercedes) - 2:47:47.900 (8 pts)
 
-## Podium Finishers & Points
-- 1st: Juan Manuel Fangio (Mercedes-Benz W196) - 80 laps, 2:47:47.9 (8 pts)
-- 2nd: Mike Hawthorn & José Froilán González (Ferrari 625) - 79 laps, +1 Lap (3 pts each)
-- 3rd: Umberto Maglioli & José Froilán González (Ferrari 625) - 78 laps, +2 Laps (2 pts each)
+## Official Podium Finishers
+- **1st** : Juan Fangio (Mercedes) — 2:47:47.900 [8 pts]
+- **2nd** : Mike Hawthorn (Ferrari) — +1 Lap [6 pts]
+- **3rd** : José Froilán González (Ferrari) — +2 Laps [3 pts]
 
 ## Verified Race Scenarios, Anomalies & Controversies
-- Streamliners Return at Monza: Mercedes ran streamlined bodies to exploit Monza's high-speed straights.
-- Stirling Moss Heroics: Driving his private green Maserati 250F, young Stirling Moss passed both Fangio and Ascari to lead the race for 21 laps, humiliating the factory teams until an oil tank split on lap 68.
-- Ascari Lead Battle: Alberto Ascari led for Ferrari in a guest appearance before his valve failed on lap 48.
-- Triple Points Scorer: José Froilán González retired his own car on lap 16, took over Maglioli's car, and later Hawthorn's car, sharing points for both 2nd place and 3rd place!
+- Ascari's Ferrari One-Off: Lancia was not yet ready to race, so Alberto Ascari agreed to drive a factory Ferrari 750 Monza. Ascari surged into the lead, delighting the tifosi, before valve failure forced his retirement on lap 48.
+- Moss Shines in Maserati: Stirling Moss passed Fangio and Ascari to lead the Italian Grand Prix in a private Maserati 250F until an oil pipe split on lap 68, forcing him to push his car to the pits in tears.
+- Fangio Victory: Fangio inherited the lead and won by a full lap over Mike Hawthorn's Ferrari.
+- Streamliner Return: Mercedes re-introduced the streamlined W196 bodywork for Monza's long high-speed straights, vindicating its top-speed advantage.
 
-## Primary Sources
-- https://www.formula1.com/en/results.html/1954/races/133/italy/race-result.html
-- https://api.jolpi.ca/ergast/f1/1954/8/results.json
+## Records Set or Equalled
+- Fangio's 6th win of the 1954 season (tied Ascari's 1952 single-season record).
+- Maserati privateer Stirling Moss led a World Championship Grand Prix for the first time.
 
-Last verified: 2026-10-29
+## Primary & Official Sources
+- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1954/races/133/italy/race-result.html
+- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1954/8/results.json
+- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
+
+*Last verified: 2026-10-29*

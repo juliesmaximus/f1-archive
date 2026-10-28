@@ -1,29 +1,45 @@
-# 1954 Round 4: French Grand Prix Verified Race Record
+# 1954 Round 4: 41e Grand Prix de l'ACF - Verified Race Record
 
+## Circuit & Geographic Metadata
 - **Official Race Title**: 41e Grand Prix de l'ACF
-- **Circuit**: Reims-Gueux (Gueux, France)
-- **Track Length**: 8.347 km (5.187 mi) | **Race Distance**: 61 laps (509.167 km (316.382 mi))
-- **Date**: 1954-07-04
-- **Weather & Track Conditions**: Warm and breezy
+- **Historic Name Notes**: 41st French Grand Prix; marked the return of Daimler-Benz / Mercedes-Benz to Grand Prix racing.
+- **Circuit Full Name**: Reims-Gueux
+- **Location**: Gueux, Marne, Champagne, France
+- **Host Country**: France
+- **Track Length**: 7.152 km (4.444 mi)
+- **Track Altitude**: 88 m (289 ft) above sea level
+- **Race Distance**: 61 laps / 436.272 km (271.087 mi)
+- **Official Race Date**: 1954-07-04
 
-## Verified Key Results
-- **Winner**: Juan Manuel Fangio (Mercedes-Benz W196) - 2:42:47.9 (187.669 km/h)
+## Weather, Environment & Spectators
+- **Weather & Track Conditions**: Warm, sunny, calm conditions across Champagne vineyards.
+- **Spectator Attendance**: Over 120,000 spectators.
+- **Grandstand & Infrastructure Notes**: Start-finish straight grandstands electrified by the Mercedes return.
+
+## Verified Key Race Results
 - **Pole Position**: Juan Manuel Fangio (Mercedes-Benz W196) - 2:29.4
-- **Official Fastest Lap**: Hans Herrmann (Mercedes-Benz W196) - 2:32.9 (Lap 32) [1 point]
+- **Fastest Race Lap**: Hans Herrmann (Mercedes-Benz W196) - 2:32.9 (Lap 3) [1 pt]
+- **Race Winner**: Juan Fangio (Mercedes) - 2:42:47.900 (8 pts)
 
-## Podium Finishers & Points
-- 1st: Juan Manuel Fangio (Mercedes-Benz W196) - 61 laps, 2:42:47.9 (8 pts)
-- 2nd: Karl Kling (Mercedes-Benz W196) - 61 laps, +0.1s (6 pts)
-- 3rd: Robert Manzon (Ferrari 625) - 60 laps, +1 Lap (4 pts)
+## Official Podium Finishers
+- **1st** : Juan Fangio (Mercedes) — 2:42:47.900 [8 pts]
+- **2nd** : Karl Kling (Mercedes) — +0.100 [6 pts]
+- **3rd** : Robert Manzon (Ferrari) — +1 Lap [4 pts]
 
 ## Verified Race Scenarios, Anomalies & Controversies
-- Sensational Mercedes Return & 1-2 on Debut: 40 years to the day after Christian Lautenschlager won the 1914 French GP for Mercedes, the 'Silver Arrows' returned with the enclosed-wheel streamlined W196 ('Stromlinienwagen').
-- Fangio and Kling dominated the race from start to finish, staging a staged photo finish with Fangio winning by 0.1 seconds.
-- Engine Mastery: The desmodromic valve, mechanical fuel-injected straight-8 Mercedes engines ran reliably at 8,200 RPM, rendering the opposition uncompetitive on the high-speed Reims straights.
-- Hans Herrmann set fastest lap before retiring with engine failure.
+- The Silver Arrows Return: Exactly 40 years to the day after Christian Lautenschlager's famous 1-2-3 victory for Mercedes at the 1914 French Grand Prix, Mercedes-Benz made their triumphant return with the revolutionary W196 'Stromlinienwagen' (streamlined fully enclosed bodywork).
+- Mercedes 1-2 Debut: Fangio and Karl Kling ran in close formation, lapping the entire field to deliver a stunning 1-2 finish on debut for the Silver Arrows.
+- Desmo Valve System: The W196 introduced direct mechanical fuel injection (Bosch) and desmodromic valve actuation, eliminating valve float at high engine RPM.
+- Fastest Lap for Hans Herrmann: Young German teammate Hans Herrmann set the fastest lap (2:32.9) before retiring with engine failure on lap 16, earning his maiden World Championship point.
 
-## Primary Sources
-- https://www.formula1.com/en/results.html/1954/races/129/france/race-result.html
-- https://api.jolpi.ca/ergast/f1/1954/4/results.json
+## Records Set or Equalled
+- First World Championship victory and 1-2 finish for Mercedes-Benz.
+- First World Championship pole position for Mercedes-Benz (Fangio).
+- Maiden World Championship point and fastest lap for Hans Herrmann.
 
-Last verified: 2026-10-29
+## Primary & Official Sources
+- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1954/races/129/france/race-result.html
+- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1954/4/results.json
+- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
+
+*Last verified: 2026-10-29*

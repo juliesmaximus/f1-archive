@@ -1,28 +1,44 @@
-# 1954 Round 1: Argentine Grand Prix Verified Race Record
+# 1954 Round 1: II Gran Premio de la República Argentina - Verified Race Record
 
-- **Official Race Title**: II Gran Premio de la Republica Argentina
-- **Circuit**: Autódromo 17 de Octubre (Buenos Aires, Argentina)
-- **Track Length**: 3.912 km (2.431 mi) | **Race Distance**: 87 laps (340.344 km (211.480 mi))
-- **Date**: 1954-01-17
-- **Weather & Track Conditions**: Rain shower during mid-race
+## Circuit & Geographic Metadata
+- **Official Race Title**: II Gran Premio de la República Argentina
+- **Historic Name Notes**: 2nd Argentine Grand Prix; debut of the 2.5-litre naturally aspirated engine regulations and the legendary Maserati 250F.
+- **Circuit Full Name**: Autódromo 17 de Octubre
+- **Location**: Buenos Aires, Argentina
+- **Host Country**: Argentina
+- **Track Length**: 3.912 km (2.431 mi)
+- **Track Altitude**: 10 m (33 ft) above sea level
+- **Race Distance**: 87 laps / 340.344 km (211.480 mi)
+- **Official Race Date**: 1954-01-17
 
-## Verified Key Results
-- **Winner**: Juan Manuel Fangio (Maserati 250F) - 3:00:55.8 (112.865 km/h)
+## Weather, Environment & Spectators
+- **Weather & Track Conditions**: Oppressive summer heat, sudden torrential rain shower on lap 30, track rapidly drying.
+- **Spectator Attendance**: Estimated over 200,000 spectators.
+- **Grandstand & Infrastructure Notes**: Main concrete grandstands and perimeter mounds packed with Argentine fans.
+
+## Verified Key Race Results
 - **Pole Position**: Giuseppe 'Nino' Farina (Ferrari 625) - 1:44.8
-- **Official Fastest Lap**: José Froilán González (Ferrari 625) - 1:48.2 (Lap 46) [1 point]
+- **Fastest Race Lap**: José Froilán González (Ferrari 625) - 1:48.2 (Lap 46) [1 pt]
+- **Race Winner**: Juan Fangio (Maserati) - 3:00:55.800 (8 pts)
 
-## Podium Finishers & Points
-- 1st: Juan Manuel Fangio (Maserati 250F) - 87 laps, 3:00:55.8 (8 pts)
-- 2nd: Nino Farina (Ferrari 625) - 87 laps, +1:19.0 (6 pts)
-- 3rd: José Froilán González & Maurice Trintignant (Ferrari 625) - 86 laps, +1 Lap (2 pts each + 1 pt FL to González)
+## Official Podium Finishers
+- **1st** : Juan Fangio (Maserati) — 3:00:55.800 [8 pts]
+- **2nd** : Nino Farina (Ferrari) — +1:19.000 [6 pts]
+- **3rd** : José Froilán González (Ferrari) — +2:01.000 [5 pts]
 
 ## Verified Race Scenarios, Anomalies & Controversies
-- Inauguration of 2.5-Litre Formula: First race run under the new 2.5-litre naturally aspirated engine regulations.
-- Debut of the Maserati 250F: Juan Manuel Fangio drove the new Maserati 250F to victory on its debut, winning his home Grand Prix.
-- Tyre Protest Controversy: Ferrari lodged a protest alleging that more than the permitted 3 mechanics worked on Fangio's car during his tyre change in the rain. Stewards initially penalized Fangio, then overturned the penalty, confirming Fangio as winner.
+- 2.5-Litre Formula One Era Begins: The new engine regulations came into effect: 2,500cc atmospheric or 750cc supercharged, abandoning the 2.0L Formula Two interim rules.
+- Maserati 250F Maiden Victory: Juan Manuel Fangio delivered a debut win for the iconic Maserati 250F, mastering mixed dry-wet-dry conditions.
+- Ferrari Protest Drama: When rain struck on lap 30, Fangio pitted for treaded tyres. Ferrari protested that five Maserati mechanics had serviced Fangio's car instead of the permitted three. Race stewards initially upheld the protest, but subsequent review dismissed it, confirming Fangio's win.
+- Farina Finished 2nd: Nino Farina brought his Ferrari 625 home in 2nd, 1 minute 19 seconds behind Fangio.
 
-## Primary Sources
-- https://www.formula1.com/en/results.html/1954/races/126/argentina/race-result.html
-- https://api.jolpi.ca/ergast/f1/1954/1/results.json
+## Records Set or Equalled
+- Maiden victory for the Maserati 250F chassis in Formula One history.
+- First race conducted under the 2.5-litre Formula One regulations.
 
-Last verified: 2026-10-29
+## Primary & Official Sources
+- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1954/races/126/argentina/race-result.html
+- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1954/1/results.json
+- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
+
+*Last verified: 2026-10-29*
