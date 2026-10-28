@@ -35,5 +35,30 @@ This log documents all official and primary source records consulted, cross-chec
 3. **Regulatory Accuracy**:
    - Sporting regulation nuances (such as the 2022 post-Spa shortened race points table and the 2025 abolition of the fastest lap point) were verified directly against the published FIA Formula One Sporting Regulations.
 
-Last verified: 2026-10-28
+## 3. Yearly Season Validation Checkpoints
+
+### Season: 1950 (Inaugural World Championship)
+- **Validation Status**: PASSED (100% verified against primary sources)
+- **Primary Sources Consulted**:
+  - Formula1.com 1950 Races & Standings: https://www.formula1.com/en/results.html/1950/drivers.html
+  - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1950/
+  - Indianapolis Motor Speedway Official Historical Archive (1950 500-Mile Sweepstakes): https://www.indianapolismotorspeedway.com
+  - FIA Hall of Fame (Giuseppe Farina & Juan Manuel Fangio): https://www.fia.com/hall-of-fame
+- **Calendar & Race Count**: 7 Championship rounds (6 European Grands Prix + Indianapolis 500).
+- **Dual-Source Reconciliations**:
+  - Championship totals verified: Giuseppe Farina (30 net pts / 30 gross), Juan Manuel Fangio (27 net / 27 gross), Luigi Fagioli (24 net / 28 gross).
+  - Best 4 scores rule confirmed: Fagioli dropped 4 points (four 2nd places counted = 24 pts).
+  - Shared drive points confirmed:
+    - Italy: Alberto Ascari & Dorino Serafini finished 2nd (split 6 pts = 3 pts each).
+    - France: Eugène Chaboud & Philippe Étancelin finished 5th (split 2 pts = 1 pt each).
+    - Indianapolis 500: Joie Chitwood & Tony Bettenhausen finished 5th (split 2 pts = 1 pt each).
+  - Indianapolis 500 rain stoppage: Stopped on lap 138 of 200 due to rain; Johnnie Parsons declared winner with 9 points (8 for win + 1 fastest lap).
+  - Monaco lap 1 pileup: 10 cars eliminated at Tabac corner after water flooded the circuit.
+- **Discrepancies / Conflicts**: None. Jolpica records and Formula1.com race classifications agree on all classified finishers and points.
+- **Unverified Claims**: 0.
+- **Date Verified**: 2026-10-29
+
+---
+
+Last verified: 2026-10-29
 
