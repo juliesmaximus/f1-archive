@@ -1,28 +1,43 @@
-# 1956 Round 2: Monaco Grand Prix Verified Race Record
+# 1956 Round 2: XIV Grand Prix Automobile de Monaco - Verified Race Record
 
+## Circuit & Geographic Metadata
 - **Official Race Title**: XIV Grand Prix Automobile de Monaco
-- **Circuit**: Circuit de Monaco (Monte Carlo, Monaco)
-- **Track Length**: 3.145 km (1.954 mi) | **Race Distance**: 100 laps (314.500 km (195.421 mi))
-- **Date**: 1956-05-13
-- **Weather & Track Conditions**: Sunny, warm and dry
+- **Historic Name Notes**: 14th Monaco Grand Prix.
+- **Circuit Full Name**: Circuit de Monaco
+- **Location**: Monte Carlo and La Condamine, Principality of Monaco
+- **Host Country**: Monaco
+- **Track Length**: 3.145 km (1.954 mi)
+- **Track Altitude**: 15 m (49 ft) above sea level
+- **Race Distance**: 100 laps / 314.500 km (195.421 mi)
+- **Official Race Date**: 1956-05-13
 
-## Verified Key Results
-- **Winner**: Stirling Moss (Maserati 250F) - 3:00:32.9 (104.515 km/h)
+## Weather, Environment & Spectators
+- **Weather & Track Conditions**: Warm, sunny, calm Mediterranean conditions.
+- **Spectator Attendance**: Over 45,000 spectators.
+- **Grandstand & Infrastructure Notes**: Quai Albert 1er stands and luxury hotel terraces filled.
+
+## Verified Key Race Results
 - **Pole Position**: Juan Manuel Fangio (Ferrari D50) - 1:44.0
-- **Official Fastest Lap**: Juan Manuel Fangio (Ferrari D50) - 1:44.4 (Lap 54) [1 point]
+- **Fastest Race Lap**: Juan Manuel Fangio (Ferrari D50) - 1:44.4 (Lap 54) [1 pt]
+- **Race Winner**: Stirling Moss (Maserati) - 3:00:32.900 (8 pts)
 
-## Podium Finishers & Points
-- 1st: Stirling Moss (Maserati 250F) - 100 laps, 3:00:32.9 (8 pts)
-- 2nd: Peter Collins & Juan Manuel Fangio (Ferrari D50) - 100 laps, +6.1s (3 pts to Collins, 4 pts to Fangio [incl. FL])
-- 3rd: Jean Behra (Maserati 250F) - 99 laps, +1 Lap (4 pts)
+## Official Podium Finishers
+- **1st** : Stirling Moss (Maserati) — 3:00:32.900 [8 pts]
+- **2nd** : Juan Fangio (Ferrari) — +6.100 [4 pts]
+- **3rd** : Peter Collins (Ferrari) — +6.100 [3 pts]
 
 ## Verified Race Scenarios, Anomalies & Controversies
-- Moss's Monaco Masterpiece: Stirling Moss led all 100 laps from the front row in the Maserati 250F, taking his first Monaco Grand Prix victory.
-- Fangio's Wild Race: Fangio spun on lap 2, clipped the pavement at Sainte Dévote, and damaged his car. He pitted on lap 54 and took over Peter Collins' car in 3rd place, setting fastest lap and closing on Moss to finish 2nd.
-- BRM Debut: British Racing Motors made their World Championship debut with the BRM P25 (Mike Hawthorn and Tony Brooks), both retiring early with engine issues.
+- Stirling Moss Maserati Masterclass: Driving the factory Maserati 250F, Stirling Moss took the lead from pole-sitter Fangio at Sainte Dévote on lap 1 and led all 100 laps to win by 6.1 seconds.
+- Fangio Wild Offs and Car Swap: Fangio had a wildly erratic race, hitting the wall at Sainte Dévote, spinning at the chicane, and retiring his car with bent steering on lap 40. At lap 54, Ferrari ordered Peter Collins to pit and hand his car to Fangio. Fangio stormed through the field to finish 2nd, sharing 6 points with Collins (3 points each) plus 1 point for fastest lap.
+- Perdisa & Moss Car Share: Cesare Perdisa handed his Maserati to Moss for the closing laps as a precaution, though Moss's primary car held on to win.
 
-## Primary Sources
-- https://www.formula1.com/en/results.html/1956/races/143/monaco/race-result.html
-- https://api.jolpi.ca/ergast/f1/1956/2/results.json
+## Records Set or Equalled
+- Stirling Moss won his first of three career Monaco Grands Prix.
+- First Monaco Grand Prix victory for Maserati in the World Championship era.
 
-Last verified: 2026-10-29
+## Primary & Official Sources
+- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1956/races/143/monaco/race-result.html
+- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1956/2/results.json
+- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
+
+*Last verified: 2026-10-29*

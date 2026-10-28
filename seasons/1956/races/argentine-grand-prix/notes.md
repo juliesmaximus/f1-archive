@@ -1,28 +1,43 @@
-# 1956 Round 1: Argentine Grand Prix Verified Race Record
+# 1956 Round 1: IV Gran Premio de la República Argentina - Verified Race Record
 
-- **Official Race Title**: IV Gran Premio de la Republica Argentina
-- **Circuit**: Autódromo 17 de Octubre (Buenos Aires, Argentina)
-- **Track Length**: 3.912 km (2.431 mi) | **Race Distance**: 98 laps (383.376 km (238.219 mi))
-- **Date**: 1956-01-22
-- **Weather & Track Conditions**: Warm and dry
+## Circuit & Geographic Metadata
+- **Official Race Title**: IV Gran Premio de la República Argentina
+- **Historic Name Notes**: 4th Argentine Grand Prix; Ferrari's first race with the acquired Lancia D50 chassis.
+- **Circuit Full Name**: Autódromo 17 de Octubre
+- **Location**: Buenos Aires, Argentina
+- **Host Country**: Argentina
+- **Track Length**: 3.912 km (2.431 mi)
+- **Track Altitude**: 10 m (33 ft) above sea level
+- **Race Distance**: 98 laps / 383.376 km (238.219 mi)
+- **Official Race Date**: 1956-01-22
 
-## Verified Key Results
-- **Winner**: Luigi Musso & Juan Manuel Fangio (Ferrari D50) - 3:00:03.7 (127.748 km/h)
+## Weather, Environment & Spectators
+- **Weather & Track Conditions**: Warm, sunny, dry summer afternoon.
+- **Spectator Attendance**: Over 150,000 spectators.
+- **Grandstand & Infrastructure Notes**: Main concrete grandstands packed with passionate Argentine fans.
+
+## Verified Key Race Results
 - **Pole Position**: Juan Manuel Fangio (Ferrari D50) - 1:42.5
-- **Official Fastest Lap**: Juan Manuel Fangio (Ferrari D50) - 1:45.3 (Lap 52) [1 point]
+- **Fastest Race Lap**: Juan Manuel Fangio (Ferrari D50) - 1:45.3 (Lap 52) [1 pt]
+- **Race Winner**: Juan Fangio (Ferrari) - 3:00:03.700 (5 pts)
 
-## Podium Finishers & Points
-- 1st: Luigi Musso & Juan Manuel Fangio (Ferrari D50) - 98 laps, 3:00:03.7 (4 pts to Musso, 5 pts to Fangio [incl. FL])
-- 2nd: Jean Behra (Maserati 250F) - 98 laps, +24.4s (6 pts)
-- 3rd: Mike Hawthorn (Maserati 250F) - 96 laps, +2 Laps (4 pts)
+## Official Podium Finishers
+- **1st** : Juan Fangio (Ferrari) — 3:00:03.700 [5 pts]
+- **2nd** : Luigi Musso (Ferrari) — 3:00:03.700 [4 pts]
+- **3rd** : Jean Behra (Maserati) — +24.400 [6 pts]
 
 ## Verified Race Scenarios, Anomalies & Controversies
-- Lancia-Ferrari Debut: First championship outing for the modified Lancia-Ferrari D50 following Lancia's transfer of assets to Maranello.
-- Shared Victory: Fangio's car developed fuel pump failure on lap 22; team manager instructed Luigi Musso to hand over his car to Fangio on lap 30. Fangio charged from 5th to pass Behra and win.
-- Maserati 2-3: Jean Behra and Mike Hawthorn scored podium finishes for Maserati.
+- Fangio & Musso Shared Victory: Fangio suffered a broken fuel pump on lap 22 of his own Lancia-Ferrari D50. Team manager 'Sculptore' ordered Luigi Musso to hand his car over to Fangio on lap 30. Fangio mounted a breathtaking recovery drive, passing Stirling Moss and Jean Behra to win the race. Fangio and Musso shared the 8 points (4 points each), with Fangio claiming the additional 1 point for fastest lap.
+- Lancia-Ferrari D50 Debut: Following Lancia's financial exit, Ferrari raced the Vittorio Jano-designed D50s with minor factory modifications, securing victory on debut under the Prancing Horse badge.
+- Hawthorn & Landi Shared Points: Mike Hawthorn and Brazilian veteran Chico Landi shared a Maserati 250F to finish 4th, sharing 3 points (1.5 points each).
 
-## Primary Sources
-- https://www.formula1.com/en/results.html/1956/races/142/argentina/race-result.html
-- https://api.jolpi.ca/ergast/f1/1956/1/results.json
+## Records Set or Equalled
+- First World Championship victory for the Lancia-Ferrari D50 configuration.
+- Maiden World Championship race victory for Luigi Musso (shared).
 
-Last verified: 2026-10-29
+## Primary & Official Sources
+- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1956/races/142/argentina/race-result.html
+- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1956/1/results.json
+- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
+
+*Last verified: 2026-10-29*

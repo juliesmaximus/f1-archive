@@ -1,28 +1,43 @@
-# 1956 Round 5: French Grand Prix Verified Race Record
+# 1956 Round 5: 42e Grand Prix de l'ACF - Verified Race Record
 
+## Circuit & Geographic Metadata
 - **Official Race Title**: 42e Grand Prix de l'ACF
-- **Circuit**: Reims-Gueux (Gueux, France)
-- **Track Length**: 8.302 km (5.159 mi) | **Race Distance**: 61 laps (506.422 km (314.676 mi))
-- **Date**: 1956-07-01
-- **Weather & Track Conditions**: Warm and sunny
+- **Historic Name Notes**: 42nd French Grand Prix; return of the French GP following the 1955 cancellation.
+- **Circuit Full Name**: Reims-Gueux
+- **Location**: Gueux, Marne, Champagne, France
+- **Host Country**: France
+- **Track Length**: 8.302 km (5.159 mi)
+- **Track Altitude**: 88 m (289 ft) above sea level
+- **Race Distance**: 61 laps / 506.422 km (314.676 mi)
+- **Official Race Date**: 1956-07-01
 
-## Verified Key Results
-- **Winner**: Peter Collins (Ferrari D50) - 2:34:23.4 (196.814 km/h)
+## Weather, Environment & Spectators
+- **Weather & Track Conditions**: Warm, sunny, dry Champagne summer afternoon.
+- **Spectator Attendance**: Over 90,000 spectators.
+- **Grandstand & Infrastructure Notes**: Main grandstand packed along the ultra-fast Reims start straight.
+
+## Verified Key Race Results
 - **Pole Position**: Juan Manuel Fangio (Ferrari D50) - 2:23.3
-- **Official Fastest Lap**: Juan Manuel Fangio (Ferrari D50) - 2:25.8 (Lap 61) [1 point]
+- **Fastest Race Lap**: Juan Manuel Fangio (Ferrari D50) - 2:25.8 (Lap 61) [1 pt]
+- **Race Winner**: Peter Collins (Ferrari) - 2:34:23.400 (8 pts)
 
-## Podium Finishers & Points
-- 1st: Peter Collins (Ferrari D50) - 61 laps, 2:34:23.4 (8 pts)
-- 2nd: Eugenio Castellotti (Ferrari D50) - 61 laps, +0.3s (6 pts)
-- 3rd: Jean Behra (Maserati 250F) - 61 laps, +5:38.0 (4 pts)
+## Official Podium Finishers
+- **1st** : Peter Collins (Ferrari) — 2:34:23.400 [8 pts]
+- **2nd** : Eugenio Castellotti (Ferrari) — +0.300 [6 pts]
+- **3rd** : Jean Behra (Maserati) — +1:29.900 [4 pts]
 
 ## Verified Race Scenarios, Anomalies & Controversies
-- Collins Back-to-Back Wins: Peter Collins scored his second consecutive Grand Prix win, holding off teammate Eugenio Castellotti across the finish line by just 0.3 seconds in a Ferrari 1-2.
-- Bugatti's Sole Grand Prix Appearance: Bugatti entered their radical new mid-transverse-engine Bugatti Type 251 driven by Maurice Trintignant. Trintignant qualified 18th and retired after 10 laps with a sticking throttle linkage; Bugatti never raced in Formula One again.
-- Fangio Pit Stop Delay: Fangio led from pole until an unscheduled pit stop to repair a leaking fuel pipe dropped him to 4th.
+- Collins Thrilling Reims Win: Peter Collins won his second consecutive Grand Prix, holding off Ferrari teammate Eugenio Castellotti in a heart-stopping photo finish by just 0.3 seconds after 506 km of racing.
+- Bugatti's Sole World Championship Appearance: Bugatti entered their innovative transverse mid-engine Type 251, driven by Maurice Trintignant. The car proved slow and ungainly, qualifying 18th and retiring on lap 18 with throttle linkage failure, ending Bugatti's Grand Prix story.
+- Fangio Fuel Line Woes: Fangio started from pole and led early, but pitted twice to repair leaking fuel pipes, fighting back to finish 4th with the fastest lap.
 
-## Primary Sources
-- https://www.formula1.com/en/results.html/1956/races/146/france/race-result.html
-- https://api.jolpi.ca/ergast/f1/1956/5/results.json
+## Records Set or Equalled
+- Peter Collins became the championship leader with back-to-back victories.
+- Sole Formula One World Championship appearance for Bugatti (Type 251).
 
-Last verified: 2026-10-29
+## Primary & Official Sources
+- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1956/races/146/france/race-result.html
+- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1956/5/results.json
+- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
+
+*Last verified: 2026-10-29*

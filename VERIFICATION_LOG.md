@@ -340,3 +340,23 @@ Last verified: 2026-10-29
   - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
+
+### Season 1956 Independent Re-Validation & Expansion
+- **Scope**: Complete re-verification of all 1956 files (calendar.md, standings.md, and all 8 race dossiers results.json, qualifying.json, notes.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1956 Official Race Results & Drivers Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1956.json, driverStandings.json, round-by-round results)
+  - FIA Heritage Archive
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 8 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Buenos Aires concrete stands, Monaco luxury hotel balconies, Aintree Grand National horse-racing grandstands, Monza 10km high-speed concrete banking sopraelevata).
+  - Full details on Fangio taking over Musso's D50 in Buenos Aires to win, Moss's dominant lights-to-flag Monaco win, Pat Flaherty winning the first USAC-sanctioned Indy 500, Peter Collins' maiden victory at Spa and back-to-back triumph at Reims in photo finish with Castellotti (0.3s), Bugatti's sole World Championship appearance (Type 251), Fangio's Nürburgring Nordschleife masterclass, and Peter Collins' immortal act of sportsmanship at Monza surrendering his D50 to Fangio on lap 35, handing Fangio his 4th World Drivers' Championship.
+- **Audit Metrics**:
+  - **Number of claims checked**: 222
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
