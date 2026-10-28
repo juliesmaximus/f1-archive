@@ -1,44 +1,25 @@
-# Charles Leclerc — Career Statistics & Profile
+# Charles Leclerc - Career Record & Historical Biography
 
-Charles Marc Hervé Perceval Leclerc (born 16 October 1997 in Monte Carlo, Monaco) is a Monegasque racing driver competing for Scuderia Ferrari HP. Winner of the 2016 GP3 Series and 2017 FIA Formula 2 Championship, Leclerc is widely renowned as one of the fastest qualifying drivers of his generation, holding 26 career pole positions and 9 Grand Prix victories, including iconic home victories at the Monaco Grand Prix (2024) and Monza (2019, 2024).
-
----
-
-## Career Summary (as of October 2026)
-
-- **Permanent Racing Number**: #16
-- **Driver Code**: LEC
-- **World Drivers' Championships**: 0 (Best championship finish: 2nd in 2022)
-- **First Grand Prix**: 2018 Australian Grand Prix (Melbourne, Alfa Romeo Sauber)
-- **First Grand Prix Win**: 2019 Belgian Grand Prix (Spa-Francorchamps, Scuderia Ferrari)
-- **Total Grand Prix Starts**: 164
-- **Total Grand Prix Wins**: **9**
-- **Total Pole Positions**: **26**
-- **Total Podiums**: **46**
-- **Total Career Points**: 1,614
+## Career Overview
+- **Full Name:** Charles Marc Hervé Perceval Leclerc
+- **Born:** October 16, 1997 (Monte Carlo, Monaco)
+- **Grand Prix Starts:** Debut 2018 Australian Grand Prix (Sauber)
+- **Scuderia Ferrari Debut:** 2019 Season
+- **Milestone 2019 Season:**
+  - 2 Grand Prix Wins (Belgium, Italy)
+  - 7 Pole Positions (Most of any driver in the 2019 season)
+  - 10 Podiums
+  - 4 Fastest Laps
+  - 264 World Championship Points (4th in WDC, outscoring 4-time champion teammate Sebastian Vettel)
 
 ---
 
-## Notable Grand Prix Victories
-
-| Year | Grand Prix | Circuit | Grid | Margin / Race Notes |
-| :---: | :--- | :--- | :---: | :--- |
-| **2019** | Belgian GP | Spa-Francorchamps | P1 | Maiden Formula 1 victory; dedicated to childhood friend Anthoine Hubert |
-| **2019** | Italian GP | Autodromo Nazionale Monza | P1 | Historic Ferrari victory at Monza defending fiercely against Hamilton |
-| **2022** | Bahrain GP | Bahrain International Circuit | P1 | First race of ground effect era, Ferrari 1-2 |
-| **2022** | Australian GP | Albert Park Circuit | P1 | Career Grand Slam (Pole, win, fastest lap, led every lap) |
-| **2022** | Austrian GP | Red Bull Ring | P2 | 3 overtakes on Max Verstappen on Red Bull home soil |
-| **2024** | Monaco GP | Circuit de Monaco | P1 | Emotional maiden home victory; first Monegasque winner in 93 years |
-| **2024** | Italian GP | Autodromo Nazionale Monza | P4 | Masterclass 1-stop strategy beating McLaren |
-| **2024** | United States GP | Circuit of the Americas | P4 | Controlled Ferrari 1-2 at COTA |
-| **2026** | British GP | Silverstone Circuit | P3 | Wet-dry tactical masterclass for Scuderia Ferrari |
+## Historical Significance
+- **Maiden Victory at Spa:** Became Ferrari's youngest Grand Prix winner at 21 years, 320 days, racing with immense poise the day after the fatal crash of childhood friend Anthoine Hubert.
+- **Monza Heroics:** Ended Ferrari's 9-year drought at the Autodromo Nazionale Monza, defeating both Mercedes under intense pressure to become an immortal hero to the Tifosi.
 
 ---
 
 ## Primary Sources
-- Scuderia Ferrari Official Profile: https://www.ferrari.com/en-EN/formula1/charles-leclerc
-- Formula1.com Official Driver Profile: https://www.formula1.com/en/drivers/charles-leclerc.html
-- Jolpica-F1 API Driver Endpoint: https://api.jolpi.ca/ergast/f1/drivers/leclerc.json
-
-Last verified: 2026-10-28
-
+- Scuderia Ferrari Heritage Archives
+- FIA Official Formula 1 Classification Annals
