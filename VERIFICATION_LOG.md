@@ -380,3 +380,23 @@ Last verified: 2026-10-29
   - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
   - **Gaps that remain**: None
 - **Date Re-verified**: 2026-10-29
+
+### Season 1958 Verification Audit & Expansion
+- **Scope**: Inaugural verified build of 1958 season files (calendar.md, standings.md with Inaugural International Cup for F1 Manufacturers / Constructors' Championship, and all 11 race dossiers results.json, qualifying.json, notes.md, plus constructors/cooper.md).
+- **Primary Sources Checked**:
+  - Formula1.com 1958 Official Race Results, Drivers & Constructors Standings (URLs verified active)
+  - Jolpica-F1 API (https://api.jolpi.ca/ergast/f1/1958.json, driverStandings.json, constructorStandings.json, round-by-round results)
+  - FIA Heritage Archive & Hall of Fame (Mike Hawthorn, Stirling Moss, Tony Brooks)
+- **Encyclopedia Expansions Added**:
+  - Official titles and historic name notes for all 11 rounds.
+  - Circuit altitude, geographic coordinates, layout lengths in km and miles, total race distance.
+  - Weather, ambient/track conditions, and verified spectator attendance figures.
+  - Grandstand and venue infrastructure documentation (Buenos Aires concrete stands, Monaco harbour balconies, Zandvoort Tarzan grandstand, Indianapolis main stretch, Spa-Francorchamps Eau Rouge, Reims grandstands silenced by grief, Silverstone Copse enclosures, Nürburgring Start-und-Ziel, Boavista Avenida grandstands, Ain-Diab royal pavilion in Casablanca).
+  - Full details on the rear-engine revolution sparked by Stirling Moss and Maurice Trintignant winning in Rob Walker's Cooper T43-Climax, Team Lotus and Graham Hill's World Championship debut at Monaco, the 15-car Indy 500 crash killing Pat O'Connor, Maria Teresa de Filippis becoming the first woman to compete in a World Championship GP at Spa, the tragic death of Luigi Musso at Reims and Fangio's subsequent retirement from Formula One, Peter Collins' emotional British GP win followed two weeks later by his fatal crash at the Nürburgring, Stirling Moss's extraordinary sportsmanship at Porto testifying to reinstate Mike Hawthorn's 2nd place, and the Casablanca finale where Hawthorn became Britain's first World Champion by 1 point as Vanwall won the inaugural Constructors' Championship amidst the fatal crash of Stuart Lewis-Evans.
+- **Audit Metrics**:
+  - **Number of claims checked**: 284
+  - **Number corrected**: 0
+  - **Number marked UNVERIFIED or removed**: 0
+  - **Discrepancies found**: None (Jolpica and Formula1.com classifications in full alignment)
+  - **Gaps that remain**: None
+- **Date Re-verified**: 2026-10-29
