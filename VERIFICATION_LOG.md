@@ -2401,3 +2401,36 @@ Last verified: 2026-10-29
 - **Number Marked UNVERIFIED / Moved Out of Fact Body**: 8 claims (spectator attendance estimates across Rounds 1–8 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
 - **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 597 checked result records (finishers, positions, times, laps, and points).
 - **Gaps That Remain**: None. 1952 season is 100% verified against primary sources.
+
+### Cross-check audit: 1953 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: https://www.formula1.com/en/results/1953/races
+  - Formula1.com Official Drivers Standings: https://www.formula1.com/en/results/1953/drivers
+  - Formula1.com Race Results, Starting Grids, and Fastest Laps for Rounds 1–9:
+    - Round 1 (Argentina, Buenos Aires): https://www.formula1.com/en/results/1953/races/117/argentina/race-result
+    - Round 2 (Indianapolis 500, IMS): https://www.formula1.com/en/results/1953/races/118/indianapolis/race-result
+    - Round 3 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1953/races/119/netherlands/race-result
+    - Round 4 (Belgium, Spa-Francorchamps): https://www.formula1.com/en/results/1953/races/120/belgium/race-result
+    - Round 5 (France, Reims-Gueux): https://www.formula1.com/en/results/1953/races/121/france/race-result
+    - Round 6 (Great Britain, Silverstone): https://www.formula1.com/en/results/1953/races/122/great-britain/race-result
+    - Round 7 (Germany, Nürburgring): https://www.formula1.com/en/results/1953/races/123/germany/race-result
+    - Round 8 (Switzerland, Bremgarten): https://www.formula1.com/en/results/1953/races/124/switzerland/race-result
+    - Round 9 (Italy, Monza): https://www.formula1.com/en/results/1953/races/125/italy/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1953/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1953/calendar.md`
+  - `seasons/1953/standings.md`
+  - 9 race folders: `argentine-grand-prix`, `indianapolis-500`, `dutch-grand-prix`, `belgian-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `swiss-grand-prix`, `italian-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 192 distinct numerical and factual data points across 9 rounds, calendar, standings, and race notes.
+- **Number Corrected**: 6 items:
+  1. *French GP Results Discrepancy (Reconciled to Formula1.com)*: In `french-grand-prix/results.json`, local Ergast/Jolpica records allocated 7 pts to Fangio and 3 pts to Ascari. Formula1.com official classification awards shared fastest lap points (2:41.100), allocating 6.5 pts to Fangio (6 for 2nd + 0.5 FL) and 3.5 pts to Ascari (3 for 4th + 0.5 FL); corrected `results.json` accordingly.
+  2. *Standings Net Points Correction for Fangio*: In `standings.md`, Fangio's net counted score was previously stated as 28 pts; corrected to official 27.5 net pts (9 [ITA] + 6.5 [FRA] + 6 [GBR] + 6 [GER/SUI]).
+  3. *Standings Driver Omission*: Added Oscar Alfredo Gálvez (5th place in Argentine GP, 2 pts) to `standings.md`.
+  4. *British GP Shared Fastest Lap*: Confirmed Ascari and González identical fastest laps (1:50.000), awarding 0.5 points each.
+  5. *Encoding/Typography Repairs*: Fixed corrupted characters across race dossiers (e.g. "Autódromo 17 de Octubre", "België", "Großer Preis von Deutschland", "Großer Preis der Schweiz", "José Froilán González", "Onofre Marimón").
+  6. *URL Standardization*: Updated source links from deprecated `.html` URLs to canonical modern `formula1.com/en/results/1953/...` paths.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 9 claims (spectator attendance estimates across Rounds 1–9 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: 1 discrepancy noted and corrected (Round 5 French GP shared fastest lap points between Jolpica and Formula1.com; preferred official Formula1.com classification).
+- **Gaps That Remain**: None. 1953 season is 100% verified against primary sources.

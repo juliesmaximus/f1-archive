@@ -2,41 +2,42 @@
 
 ## Circuit & Geographic Metadata
 - **Official Race Title**: IV Grote Prijs van Nederland
-- **Historic Name Notes**: 4th Dutch Grand Prix at Zandvoort.
-- **Circuit Full Name**: Circuit Park Zandvoort
+- **Historic Name Notes**: 4th running of the Dutch Grand Prix; 2nd World Championship race held at Zandvoort.
+- **Circuit Full Name**: Circuit Zandvoort
 - **Location**: Zandvoort, North Holland, Netherlands
 - **Host Country**: Netherlands
 - **Track Length**: 4.193 km (2.605 mi)
-- **Track Altitude**: 8 m (26 ft) above sea level
+- **Track Altitude**: 12 m (39 ft) above sea level
 - **Race Distance**: 90 laps / 377.370 km (234.487 mi)
 - **Official Race Date**: 1953-06-07
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Cool, sunny, blustery seaside weather.
-- **Spectator Attendance**: Estimated 60,000 spectators.
-- **Grandstand & Infrastructure Notes**: Main grandstand opposite pits and natural sand dune viewing areas packed.
+## Weather, Environment & Track Conditions
+- **Weather & Track Conditions**: Sunny, dry, with gusting coastal winds blowing sand from the dunes onto the track surface.
 
 ## Verified Key Race Results
-- **Pole Position**: Alberto Ascari (Ferrari 500) - 1:51.1
-- **Fastest Race Lap**: Luigi Villoresi (Ferrari 500) - 1:52.8 (Lap 59) [1 pt]
-- **Race Winner**: Alberto Ascari (Ferrari) - 2:53:35.800 (8 pts)
+- **Pole Position**: Alberto Ascari (Ferrari 500) – 1:51.100
+- **Fastest Race Lap**: Luigi Villoresi (Ferrari 500) – 1:52.800 (Lap 59) [1 pt]
+- **Race Winner**: Alberto Ascari (Ferrari 500) – 2:53:35.800 (8 pts)
 
 ## Official Podium Finishers
-- **1st** : Alberto Ascari (Ferrari) — 2:53:35.800 [8 pts]
-- **2nd** : Nino Farina (Ferrari) — +10.400 [6 pts]
-- **3rd** : José Froilán González (Maserati) — +1 Lap [2 pts]
+- **1st** : Alberto Ascari (Ferrari 500) – 2:53:35.800 [8 pts]
+- **2nd** : Nino Farina (Ferrari 500) – +1 lap [6 pts]
+- **3rd** : José Froilán González & Felice Bonetto (Maserati A6GCM #34) – +1 lap [2 pts each, shared drive]
 
 ## Verified Race Scenarios, Anomalies & Controversies
-- Ascari 8th Consecutive European GP Victory: Ascari took the win by a full lap over Ferrari teammate Farina.
-- Fangio & González Shared Drive: Fangio retired on lap 36 with rear axle failure, took over teammate José Froilán González's Maserati on lap 37, and charged to 3rd place, sharing the 4 points (2 points each).
-- Villoresi Fastest Lap: Luigi Villoresi scored his first official fastest lap point of the season.
+- **Ascari 8th Consecutive European GP Win**: Ascari controlled the race from pole position, leading all 90 laps to score his 8th consecutive World Championship Grand Prix start victory.
+- **Ferrari Dominance Continues**: Ascari and Farina finished 1st and 2nd for Scuderia Ferrari.
+- **Shared Drive Podium**: José Froilán González retired his own Maserati on lap 22, took over teammate Felice Bonetto's #34 on lap 25, and drove it to 3rd place, splitting the 4 points with Bonetto (2 points each).
+- **Villoresi Fastest Lap**: Luigi Villoresi retired with throttle linkage trouble on lap 67, but earned 1 championship point for setting the fastest race lap (1:52.800 on lap 59).
 
-## Records Set or Equalled
-- Ascari extended his European World Championship race winning streak to 8 consecutive victories.
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- *Spectator Attendance*: Press estimates of 50,000 spectators; unverified in official sporting records.
 
 ## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1953/races/119/netherlands/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1953/3/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
+- Formula1.com Official Classification: https://www.formula1.com/en/results/1953/races/119/netherlands/race-result
+- Formula1.com Official Starting Grid: https://www.formula1.com/en/results/1953/races/119/netherlands/starting-grid
+- Formula1.com Official Fastest Laps: https://www.formula1.com/en/results/1953/races/119/netherlands/fastest-laps
+- Jolpica-F1 API Classification: https://api.jolpi.ca/ergast/f1/1953/3/results.json
+- FIA Hall of Fame: https://www.fia.com/hall-of-fame
 
-*Last verified: 2026-10-29*
+*Audited and re-verified against primary sources: 2026-10-29*

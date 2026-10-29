@@ -11,33 +11,32 @@
 - **Race Distance**: 90 laps / 423.990 km (263.455 mi)
 - **Official Race Date**: 1953-07-18
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, dry with moderate westerly breeze.
-- **Spectator Attendance**: Over 100,000 British spectators.
-- **Grandstand & Infrastructure Notes**: Copse and Woodcote enclosures packed to witness Hawthorn following his Reims triumph.
+## Weather, Environment & Track Conditions
+- **Weather & Track Conditions**: Overcast, cool, and dry with brisk winds across the former airfield.
 
 ## Verified Key Race Results
-- **Pole Position**: Alberto Ascari (Ferrari 500) - 1:48.0
-- **Fastest Race Lap**: Alberto Ascari & José Froilán González - 1:50.0 [shared 0.5 pts each]
-- **Race Winner**: Alberto Ascari (Ferrari) - 2:50 (8.5 pts)
+- **Pole Position**: Alberto Ascari (Ferrari 500) – 1:48.000
+- **Fastest Race Lap**: Alberto Ascari (Ferrari) & José Froilán González (Maserati) – 1:50.000 [shared: 0.5 pts each]
+- **Race Winner**: Alberto Ascari (Ferrari 500) – 2:50:00.000 (8.5 pts: 8 win + 0.5 FL)
 
 ## Official Podium Finishers
-- **1st** : Alberto Ascari (Ferrari) — 2:50 [8.5 pts]
-- **2nd** : Juan Fangio (Maserati) — +1:00.000 [6 pts]
-- **3rd** : Nino Farina (Ferrari) — +2 Laps [4 pts]
+- **1st** : Alberto Ascari (Ferrari 500) – 2:50:00.000 [8.5 pts]
+- **2nd** : Juan Manuel Fangio (Maserati A6GCM) – +1:00.000 (+60.000s) [6 pts]
+- **3rd** : Nino Farina (Ferrari 500) – +2 laps [4 pts]
 
 ## Verified Race Scenarios, Anomalies & Controversies
-- Ascari Rebounds: Ascari returned to the top step of the podium, leading all 90 laps to beat Fangio by 1 minute.
-- Shared Fastest Lap: Ascari and González tied for the fastest lap at 1:50.0, splitting the bonus point (0.5 points each).
-- Farina Pit Fire: Nino Farina's car caught fire in the pit lane during refueling on lap 64; Farina was unhurt, but retired from 2nd place.
+- **Ascari Bounces Back**: Following his defeat at Reims, Alberto Ascari returned to dominant form, starting from pole position, leading all 90 laps, and winning by a full minute over Fangio.
+- **Shared Fastest Lap Points**: Ascari and José Froilán González set identical fastest race laps (1:50.000), splitting the 1 point to earn 0.5 points each.
+- **Ferrari Consistency**: Nino Farina finished 3rd (+2 laps) and Mike Hawthorn took 5th (+3 laps), cementing Ferrari's constructors' supremacy.
 
-## Records Set or Equalled
-- Ascari scored his 10th career World Championship victory, extending his all-time record.
-- Second shared fastest lap bonus point split in F1 history (Ascari and González).
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- *Spectator Attendance*: 100,000 spectators estimated by RAC event organizers; not audited by FIA sporting documents.
 
 ## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1953/races/122/great-britain/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1953/6/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
+- Formula1.com Official Classification: https://www.formula1.com/en/results/1953/races/122/great-britain/race-result
+- Formula1.com Official Starting Grid: https://www.formula1.com/en/results/1953/races/122/great-britain/starting-grid
+- Formula1.com Official Fastest Laps: https://www.formula1.com/en/results/1953/races/122/great-britain/fastest-laps
+- Jolpica-F1 API Classification: https://api.jolpi.ca/ergast/f1/1953/6/results.json
+- FIA Hall of Fame: https://www.fia.com/hall-of-fame
 
-*Last verified: 2026-10-29*
+*Audited and re-verified against primary sources: 2026-10-29*
