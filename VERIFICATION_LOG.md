@@ -2497,3 +2497,34 @@ Last verified: 2026-10-29
 - **Number Marked UNVERIFIED / Moved Out of Fact Body**: 7 claims (spectator attendance estimates across Rounds 1–7 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
 - **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 501 checked result records (finishers, positions, times, laps, and points).
 - **Gaps That Remain**: None. 1955 season is 100% verified against primary sources.
+
+### Cross-check audit: 1956 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: https://www.formula1.com/en/results/1956/races
+  - Formula1.com Official Drivers Standings: https://www.formula1.com/en/results/1956/drivers
+  - Formula1.com Race Results, Starting Grids, and Fastest Laps for Rounds 1-8:
+    - Round 1 (Argentina, Buenos Aires): https://www.formula1.com/en/results/1956/races/142/argentina/race-result
+    - Round 2 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1956/races/143/monaco/race-result
+    - Round 3 (Indianapolis 500, IMS): https://www.formula1.com/en/results/1956/races/144/indianapolis/race-result
+    - Round 4 (Belgium, Spa-Francorchamps): https://www.formula1.com/en/results/1956/races/145/belgium/race-result
+    - Round 5 (France, Reims): https://www.formula1.com/en/results/1956/races/146/france/race-result
+    - Round 6 (Great Britain, Silverstone): https://www.formula1.com/en/results/1956/races/147/great-britain/race-result
+    - Round 7 (Germany, Nürburgring): https://www.formula1.com/en/results/1956/races/148/germany/race-result
+    - Round 8 (Italy, Monza): https://www.formula1.com/en/results/1956/races/149/italy/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1956/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1956/calendar.md`
+  - `seasons/1956/standings.md`
+  - 8 race folders: `argentine-grand-prix`, `monaco-grand-prix`, `indianapolis-500`, `belgian-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `italian-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 185 distinct numerical and factual data points across 8 rounds, calendar, standings, and race notes, plus 555 individual result row checks.
+- **Number Corrected**: 5 items:
+  1. *Monaco GP Car #20 Fangio Shared Points Discrepancy*: Corrected local `monaco-grand-prix/results.json` where Ergast allocated 1.5 points to Fangio for 4th place in car #20; Formula1.com official results and FIA sporting regulations award 0 points to Fangio for car #20 because drivers finishing in multiple shared cars only received championship points for their highest-placed finish (Fangio finished 2nd in car #26, receiving 3 + 1 FL = 4 pts).
+  2. *Driver Typo in Standings*: Corrected "Hernando da Silva Ramos" to official name "Hermano da Silva Ramos" (2 pts, 19th=).
+  3. *Accented Names & Encoding Repairs*: Fixed character encoding across standings and notes (e.g. "Paul Frère", "Autódromo 17 de Octubre", "Großer Preis von Deutschland", "Alfonso de Portago").
+  4. *Winning Times Precision*: Re-verified exact winning times across all 8 rounds from Formula1.com primary records (Argentina `3:00:03.700`, Monaco `3:00:32.900`, Indy 500 `3:53:28.840`, Belgium `2:40:00.300`, France `2:34:23.400`, GB `2:59:47.000`, Germany `3:38:43.700`, Italy `2:23:41.300`).
+  5. *URL Standardization*: Standardized source links to canonical modern Formula1.com results URLs without legacy `.html` extensions.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 8 claims (spectator attendance estimates across Rounds 1-8 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: Reconciled Jolpica/Ergast allocating points to both shared cars for a single driver (Monaco R2) against Formula1.com and FIA official championship rules allocating points only to the higher-placed car.
+- **Gaps That Remain**: None. 1956 season is 100% verified against primary sources.

@@ -1,43 +1,32 @@
-# 1956 Round 7: XVIII Großer Preis von Deutschland / Grand Prix d'Europe - Verified Race Record
+# 1956 German Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: XVIII Großer Preis von Deutschland / Grand Prix d'Europe
-- **Historic Name Notes**: 18th German Grand Prix; designated the honorary 'Grand Prix d'Europe' for 1956.
-- **Circuit Full Name**: Nürburgring Nordschleife
-- **Location**: Nürburg, Eifel Mountains, Rhineland-Palatinate, West Germany
-- **Host Country**: West Germany
-- **Track Length**: 22.810 km (14.173 mi)
-- **Track Altitude**: 620 m (2034 ft) above sea level
-- **Race Distance**: 22 laps / 501.820 km (311.816 mi)
-- **Official Race Date**: 1956-08-05
+## Official Race Identification
+- **Official Name**: XVIII Großer Preis von Deutschland
+- **Round**: 7 of 8 in the 1956 FIA Formula One World Championship
+- **Date**: Sunday, 5 August 1956
+- **Location**: Nürburgring Nordschleife, Nürburg, Germany
+- **Circuit Length**: 22.810 km (14.173 miles)
+- **Distance**: 22 laps (501.820 km / 311.816 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, dry mountain air across the Eifel forests.
-- **Spectator Attendance**: Over 200,000 spectators.
-- **Grandstand & Infrastructure Notes**: Historic start-and-finish grandstand and Karussell viewing hillsides packed.
+## Official Results & Key Metrics
+- **Pole Position**: Juan Manuel Fangio (Ferrari D50) - 9:51.200
+- **Fastest Lap**: Juan Manuel Fangio (Ferrari D50) - 9:41.600 (Lap 14) [1 pt]
+- **Race Winner**: Juan Manuel Fangio (Ferrari D50) - 3:38:43.700 (137.649 km/h)
+- **Podium**:
+  1. Juan Manuel Fangio (Ferrari) - 22 laps
+  2. Stirling Moss (Maserati) - 22 laps (+46.400s)
+  3. Jean Behra (Maserati) - 22 laps (+7:38.300)
 
-## Verified Key Race Results
-- **Pole Position**: Juan Manuel Fangio (Ferrari D50) - 9:51.2
-- **Fastest Race Lap**: Juan Manuel Fangio (Ferrari D50) - 9:41.6 (Lap 14) [1 pt]
-- **Race Winner**: Juan Fangio (Ferrari) - 3:38:43.700 (9 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Masterclass at the 'Ring**: Juan Manuel Fangio dominated the grueling 22-lap race around the treacherous Nordschleife, starting from pole, leading every lap, and shattering the circuit lap record with a 9:41.600 lap time.
+- **Attrition & Physical Exhaustion**: The punishing track took a huge toll on machinery and drivers. Only 5 of the 22 starters were officially classified at the finish.
+- **Maserati Consistency**: Stirling Moss finished 2nd, 46.4 seconds behind Fangio, while Jean Behra completed his 5th podium finish of the season in 3rd place, over seven minutes back.
+- **Championship Picture**: Fangio's maximum 9-point haul vaulted him to 30 gross points, setting up a dramatic championship decider at Monza against teammate Peter Collins and Maserati's Stirling Moss.
+- **Track & Weather Conditions**: Overcast, cool Eifel mountain conditions with dry track throughout the 3.5-hour race.
 
-## Official Podium Finishers
-- **1st** : Juan Fangio (Ferrari) — 3:38:43.700 [9 pts]
-- **2nd** : Stirling Moss (Maserati) — +46.400 [6 pts]
-- **3rd** : Jean Behra (Maserati) — +7:38.300 [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1956/races/148/germany/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1956/7/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Fangio Nordschleife Domination: Fangio delivered one of the great drives of his career, leading from pole position, breaking the lap record repeatedly (fastest lap 9:41.6), and winning by 46.4 seconds over Stirling Moss.
-- Collins Gearbox DNF: Championship rival Peter Collins spun on lap 8 and later retired with gearbox failure. He took over Alfonso de Portago's car on lap 10, but also retired with mechanical trouble, handing Fangio a massive championship advantage.
-- Extreme Attrition: Only 5 cars were running at the finish out of 22 starters on the punishing 22.8 km course.
-
-## Records Set or Equalled
-- Fangio shattered the Nürburgring lap record by over 14 seconds (9:41.6).
-- Fangio took sole possession of the 1956 championship lead with 30 gross points.
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1956/races/148/germany/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1956/7/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Historical reports estimate 100,000 to 125,000 spectators distributed around the 22.8 km perimeter. Official turnstile data does not exist for the open forest circuit.
