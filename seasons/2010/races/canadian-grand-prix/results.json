@@ -317,7 +317,7 @@
                 "driverId": "buemi",
                 "code": "BUE",
                 "url": "http://en.wikipedia.org/wiki/S%C3%A9bastien_Buemi",
-                "givenName": "S\u00e9bastien",
+                "givenName": "Sébastien",
                 "familyName": "Buemi",
                 "dateOfBirth": "1988-10-31",
                 "nationality": "Swiss"
@@ -495,7 +495,7 @@
                 "code": "HUL",
                 "url": "http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg",
                 "givenName": "Nico",
-                "familyName": "H\u00fclkenberg",
+                "familyName": "Hülkenberg",
                 "dateOfBirth": "1987-08-19",
                 "nationality": "German"
               },
@@ -752,7 +752,7 @@
                 "nationality": "British"
               },
               "grid": "21",
-              "laps": "55",
+              "laps": "50",
               "status": "Mechanical",
               "FastestLap": {
                 "rank": "20",
@@ -787,7 +787,7 @@
                 "nationality": "Malaysian"
               },
               "grid": "20",
-              "laps": "47",
+              "laps": "42",
               "status": "Brakes",
               "FastestLap": {
                 "rank": "19",
@@ -822,7 +822,7 @@
                 "nationality": "Swiss"
               },
               "grid": "17",
-              "laps": "31",
+              "laps": "30",
               "status": "Engine",
               "FastestLap": {
                 "rank": "17",
@@ -857,7 +857,7 @@
                 "nationality": "Spanish"
               },
               "grid": "22",
-              "laps": "14",
+              "laps": "13",
               "status": "Hydraulics",
               "FastestLap": {
                 "rank": "23",

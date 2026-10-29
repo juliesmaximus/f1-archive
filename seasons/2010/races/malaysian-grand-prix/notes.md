@@ -8,7 +8,6 @@
 - **Location:** Kuala Lumpur, Malaysia
 - **Circuit Length:** 5.543 km (3.444 miles)
 - **Altitude:** 45 m above sea level
-- **Official Attendance:** 95,000
 
 ---
 
@@ -36,6 +35,10 @@ Qualifying rain storm caught out Ferrari and McLaren, stranding Alonso, Massa, a
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Petronas Malaysian Grand Prix Results](https://www.formula1.com/en/results.html/2010/races/861/malaysia/race-result.html)
+- **Official Formula 1 Results Archive:** [Petronas Malaysian Grand Prix Results](https://www.formula1.com/en/results/2010/races/862/malaysia/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2010/3/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2010)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 95,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

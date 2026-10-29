@@ -8,7 +8,6 @@
 - **Location:** São Paulo, Brazil
 - **Circuit Length:** 4.309 km (2.677 miles)
 - **Altitude:** 785 m above sea level
-- **Official Attendance:** 80,000
 
 ---
 
@@ -36,6 +35,10 @@ Red Bull refused to impose team orders to swap Vettel and Webber, setting up a f
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Grande Prêmio do Brasil Results](https://www.formula1.com/en/results.html/2010/races/876/brazil/race-result.html)
+- **Official Formula 1 Results Archive:** [Grande Prêmio do Brasil Results](https://www.formula1.com/en/results/2010/races/877/brazil/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2010/18/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2010)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 80,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

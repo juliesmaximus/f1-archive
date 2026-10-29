@@ -8,7 +8,6 @@
 - **Location:** Melbourne, Australia
 - **Circuit Length:** 5.303 km (3.295 miles)
 - **Altitude:** 10 m above sea level
-- **Official Attendance:** 108,500 race day
 
 ---
 
@@ -36,6 +35,10 @@ Hamilton and Webber collided in the closing laps battling for 5th, triggering an
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Qantas Australian Grand Prix Results](https://www.formula1.com/en/results.html/2010/races/860/australia/race-result.html)
+- **Official Formula 1 Results Archive:** [Qantas Australian Grand Prix Results](https://www.formula1.com/en/results/2010/races/861/australia/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2010/2/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2010)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 108,500 race day (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

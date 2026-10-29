@@ -8,7 +8,6 @@
 - **Location:** Shanghai, China
 - **Circuit Length:** 5.451 km (3.387 miles)
 - **Altitude:** 10 m above sea level
-- **Official Attendance:** 125,000
 
 ---
 
@@ -36,6 +35,10 @@ Fernando Alonso jumped the start and was handed a drive-through penalty, fightin
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Chinese Grand Prix Results](https://www.formula1.com/en/results.html/2010/races/862/china/race-result.html)
+- **Official Formula 1 Results Archive:** [Chinese Grand Prix Results](https://www.formula1.com/en/results/2010/races/863/china/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2010/4/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2010)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 125,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

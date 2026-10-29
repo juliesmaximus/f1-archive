@@ -8,7 +8,6 @@
 - **Location:** Hockenheim, Germany
 - **Circuit Length:** 4.574 km (2.842 miles)
 - **Altitude:** 103 m above sea level
-- **Official Attendance:** 100,000
 
 ---
 
@@ -36,6 +35,10 @@ Massive public and media outcry over Ferrari's blatant team orders violation; th
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Großer Preis Santander von Deutschland Results](https://www.formula1.com/en/results.html/2010/races/869/germany/race-result.html)
+- **Official Formula 1 Results Archive:** [Großer Preis Santander von Deutschland Results](https://www.formula1.com/en/results/2010/races/870/germany/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2010/11/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2010)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 100,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

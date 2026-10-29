@@ -8,7 +8,6 @@
 - **Location:** Suzuka, Mie, Japan
 - **Circuit Length:** 5.807 km (3.608 miles)
 - **Altitude:** 45 m above sea level
-- **Official Attendance:** 145,000
 
 ---
 
@@ -36,6 +35,10 @@ Opening lap carnage: Massa and Liuzzi crashed at Turn 1, while Petrov wiped out 
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Japanese Grand Prix Results](https://www.formula1.com/en/results.html/2010/races/874/japan/race-result.html)
+- **Official Formula 1 Results Archive:** [Japanese Grand Prix Results](https://www.formula1.com/en/results/2010/races/875/japan/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2010/16/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2010)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 145,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

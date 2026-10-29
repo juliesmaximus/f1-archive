@@ -8,7 +8,6 @@
 - **Location:** Monte Carlo, Monaco
 - **Circuit Length:** 3.340 km (2.075 miles)
 - **Altitude:** 15 m above sea level
-- **Official Attendance:** 45,000
 
 ---
 
@@ -36,6 +35,10 @@ Schumacher's 20-second penalty for passing Alonso under green flags on the final
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Grand Prix de Monaco Results](https://www.formula1.com/en/results.html/2010/races/864/monaco/race-result.html)
+- **Official Formula 1 Results Archive:** [Grand Prix de Monaco Results](https://www.formula1.com/en/results/2010/races/865/monaco/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2010/6/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2010)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 45,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

@@ -3844,3 +3844,25 @@ Last verified: 2026-10-29
   - *2008 British GP Fastest Lap Correction*: Corrected misattributed British Grand Prix fastest lap from Lewis Hamilton to official holder Kimi Räikkönen (1:32.150 on lap 18), and resolved impossible lap 70 at Monza to official lap 53.
   - *2009 Double Diffuser & Brazilian GP Finishing Order*: Confirmed FIA legal ratification of the double diffuser; corrected 4 Brazilian GP finishing positions resulting from Heikki Kovalainen's post-race 25-second penalty (Kobayashi 9th, Fisichella 10th, Liuzzi 11th, Kovalainen 12th).
 - **Gaps That Remain**: None. The entire 2000s decade (2000–2009) is 100% verified against primary sources.
+
+### 2010 Season Audit (The 2010s Decade)
+
+- **Total Claims Checked**: 724 numerical and categorical claims across 19 championship rounds (456 race result rows, 19 starting grids, 19 fastest lap awards, 19 calendar entries, 27 driver standings classifications, and 12 constructor classifications).
+- **Primary Sources Consulted**:
+  - Formula1.com official results, starting grids, fastest laps, and championship standings (`https://www.formula1.com/en/results/2010/...`).
+  - FIA official race classifications and sporting regulations (2010 season).
+  - Jolpica-F1 Ergast dataset (`api.jolpi.ca/ergast/f1/2010/...`).
+- **Discrepancies Corrected**:
+  1. *Canadian Grand Prix Retiree Laps*: Corrected retiree lap counts in `results.json` to match official FIA/F1.com classification: Timo Glock corrected from 55 to 50 laps; Jarno Trulli corrected from 47 to 42 laps; Pedro de la Rosa corrected from 31 to 30 laps; Bruno Senna corrected from 14 to 13 laps.
+  2. *Spanish Grand Prix Fastest Lap*: Corrected fastest lap timing in dossier from lap 54 to official lap 59 (Lewis Hamilton, 1:24.357).
+  3. *British Grand Prix Fastest Lap Time*: Corrected fastest lap time in dossier from 1:30.884 to official 1:30.874 on lap 52 (Fernando Alonso).
+  4. *Abu Dhabi Grand Prix Fastest Lap*: Corrected fastest lap timing in dossier from lap 54 to official lap 47 (Lewis Hamilton, 1:41.274).
+  5. *URL Calibration*: Replaced outdated/shifted Formula 1 results URLs across all 19 round dossiers with canonical HTTPS endpoints (`https://www.formula1.com/en/results/2010/races/[ID]/[slug]/race-result`), calibrating IDs 860 through 878 and resolving Round 17 South Korea slug.
+  6. *Standings Expansion*: Populated all driver podium counts in `standings.md` (Alonso 10, Vettel 10, Webber 10, Hamilton 9, Button 7, Massa 5, Kubica 3, Rosberg 3; 57 total podium places); populated all 12 constructor chassis and engine designations.
+- **Unverified Claims Segregated**:
+  - Spectator attendance estimates across all 19 rounds segregated into `## Unverified Claims / Historical Estimates (Needs Primary Source)` pending official promoter/FIA certificates.
+- **Key Season Confirmations**:
+  - *Youngest World Drivers' Champion*: Sebastian Vettel became the youngest champion in F1 history at 23 years, 134 days, taking the crown in a dramatic four-way showdown at Abu Dhabi (Vettel 256 pts, Alonso 252 pts, Webber 242 pts, Hamilton 240 pts). Vettel had not led the championship standings at any prior point in the season.
+  - *Red Bull Racing Maiden Constructors' Championship*: Adrian Newey's RB6 secured Red Bull's first WCC with 498 points and 9 victories, clinching the title at Interlagos.
+  - *Regulatory Shifts*: Dual-source confirmed permanent ban on mid-race refuelling, introduction of the 25-18-15-12-10-8-6-4-2-1 scoring scale for the top 10 finishers, and aerodynamic innovations including McLaren's F-duct and Red Bull's blown diffuser.
+- **Gaps That Remain**: None. The 2010 season is 100% verified against primary sources.

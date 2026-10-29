@@ -8,7 +8,6 @@
 - **Location:** Tuzla, Istanbul, Turkey
 - **Circuit Length:** 5.338 km (3.317 miles)
 - **Altitude:** 120 m above sea level
-- **Official Attendance:** 70,000
 
 ---
 
@@ -36,6 +35,10 @@ The Red Bull collision fractured team relations between Webber, Vettel, and mana
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Turkish Grand Prix Results](https://www.formula1.com/en/results.html/2010/races/865/turkey/race-result.html)
+- **Official Formula 1 Results Archive:** [Turkish Grand Prix Results](https://www.formula1.com/en/results/2010/races/866/turkey/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2010/7/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2010)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 70,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

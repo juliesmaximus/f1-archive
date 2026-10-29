@@ -8,7 +8,6 @@
 - **Location:** Silverstone, United Kingdom
 - **Circuit Length:** 5.891 km (3.660 miles)
 - **Altitude:** 155 m above sea level
-- **Official Attendance:** 120,000
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Mark Webber (Red Bull-Renault)
 - **Pole Position:** Sebastian Vettel (Red Bull-Renault) - 1:29.615
-- **Fastest Lap:** Fernando Alonso (Ferrari) - 1:30.884 (lap 52)
+- **Fastest Lap:** Fernando Alonso (Ferrari) - 1:30.874 (lap 52)
 
 ---
 
@@ -36,6 +35,10 @@ Webber's 'number two driver' comments exposed the bitter internal favoritism deb
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Santander British Grand Prix Results](https://www.formula1.com/en/results.html/2010/races/868/great-britain/race-result.html)
+- **Official Formula 1 Results Archive:** [Santander British Grand Prix Results](https://www.formula1.com/en/results/2010/races/869/great-britain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2010/10/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2010)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 120,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

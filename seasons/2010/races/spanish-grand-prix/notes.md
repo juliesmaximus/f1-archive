@@ -8,7 +8,6 @@
 - **Location:** Montmeló, Spain
 - **Circuit Length:** 4.655 km (2.892 miles)
 - **Altitude:** 125 m above sea level
-- **Official Attendance:** 98,000
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Mark Webber (Red Bull-Renault)
 - **Pole Position:** Mark Webber (Red Bull-Renault) - 1:19.995
-- **Fastest Lap:** Lewis Hamilton (McLaren-Mercedes) - 1:24.357 (lap 54)
+- **Fastest Lap:** Lewis Hamilton (McLaren-Mercedes) - 1:24.357 (lap 59)
 
 ---
 
@@ -36,6 +35,10 @@ Red Bull's blown diffuser and extreme qualifying downforce stunned rivals, Webbe
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio de España Telefónica Results](https://www.formula1.com/en/results.html/2010/races/863/spain/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio de España Telefónica Results](https://www.formula1.com/en/results/2010/races/864/spain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2010/5/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2010)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 98,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

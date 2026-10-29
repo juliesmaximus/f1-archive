@@ -8,7 +8,6 @@
 - **Location:** Yas Island, Abu Dhabi, UAE
 - **Circuit Length:** 5.554 km (3.451 miles)
 - **Altitude:** 12 m above sea level
-- **Official Attendance:** 50,000
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Sebastian Vettel (Red Bull-Renault)
 - **Pole Position:** Sebastian Vettel (Red Bull-Renault) - 1:39.394
-- **Fastest Lap:** Lewis Hamilton (McLaren-Mercedes) - 1:41.274 (lap 54)
+- **Fastest Lap:** Lewis Hamilton (McLaren-Mercedes) - 1:41.274 (lap 47)
 
 ---
 
@@ -36,6 +35,10 @@ Ferrari's strategy blunder cost Alonso the world title, resulting in head of rac
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Etihad Airways Abu Dhabi Grand Prix Results](https://www.formula1.com/en/results.html/2010/races/877/abu-dhabi/race-result.html)
+- **Official Formula 1 Results Archive:** [Etihad Airways Abu Dhabi Grand Prix Results](https://www.formula1.com/en/results/2010/races/878/abu-dhabi/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2010/19/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2010)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 50,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)
