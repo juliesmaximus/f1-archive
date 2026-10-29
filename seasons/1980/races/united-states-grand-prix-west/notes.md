@@ -1,4 +1,4 @@
-# V United States Grand Prix West - Round 4
+# V United States Grand Prix West - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** V United States Grand Prix West
@@ -10,18 +10,17 @@
 - **Track Altitude:** 5 m
 - **Race Date:** 1980-03-30
 - **Scheduled Laps:** 80 laps
-- **Winning Time:** 1:50:19.400
+- **Winning Time:** 1:50:18.550
 - **Winning Driver:** Nelson Piquet
 - **Winning Constructor:** Brabham
-- **Pole Position:** Nelson Piquet
-- **Fastest Lap:** N/A
+- **Pole Position:** Nelson Piquet — 1:17.694
+- **Fastest Lap:** Nelson Piquet — 1:19.830
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 4, 1980)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Warm Pacific sunshine; 23°C ambient
-- **Spectator Attendance:** 85,000 spectators lining Shoreline Drive
 - **Grandstand Enclosures:** Ocean Boulevard and Hairpin grandstands
 
 ---
@@ -42,6 +41,12 @@ PIQUET'S MAIDEN WIN & REGAZZONI TRAGEDY: Nelson Piquet claimed pole position in 
 Maiden Grand Prix victory for future triple World Champion Nelson Piquet, and the career-ending accident of beloved veteran Clay Regazzoni.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 85,000 spectators lining Shoreline Drive (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

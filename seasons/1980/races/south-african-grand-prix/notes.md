@@ -1,4 +1,4 @@
-# XXVI Citizen and Gold Flake Grand Prix of South Africa - Round 3
+# XXVI Citizen and Gold Flake Grand Prix of South Africa - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXVI Citizen and Gold Flake Grand Prix of South Africa
@@ -11,17 +11,16 @@
 - **Race Date:** 1980-03-01
 - **Scheduled Laps:** 78 laps
 - **Winning Time:** 1:36:52.540
-- **Winning Driver:** René Arnoux
+- **Winning Driver:** Rene Arnoux
 - **Winning Constructor:** Renault
-- **Pole Position:** Jean-Pierre Jabouille
-- **Fastest Lap:** N/A
+- **Pole Position:** Jean-Pierre Jabouille — 1:10.000
+- **Fastest Lap:** Rene Arnoux — 1:13.150
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 3, 1980)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Sunny and clear at high altitude; 25°C ambient
-- **Spectator Attendance:** 85,000 spectators lining the hillside
 - **Grandstand Enclosures:** Crowthorne and Leeukop grandstands
 
 ---
@@ -42,6 +41,12 @@ RENAULT TURBO HIGH-ALTITUDE 1-2: At Kyalami's 1,525-meter elevation, the turboch
 René Arnoux took the lead of the World Championship; highlighted the unstoppable horsepower advantage of turbocharging at altitude.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 85,000 spectators lining the hillside (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

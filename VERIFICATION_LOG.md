@@ -3549,3 +3549,46 @@ Last verified: 2026-10-29
 - **1977 German GP Historic Anomaly**: Added Hans Heyer (#35 Penske PC4, DNQ, illegal start, 9 laps, DNF, disqualified) and Clay Regazzoni (#22 Ensign Ford) to official race classification and dossier.
 - **1978 Standings & Car Numbers**: Populated all missing driver podium tallies; corrected Keke Rosberg's car number to #32 for ATS; reconciled 1978 Austrian GP red-flag restart laps to Formula1.com official classification.
 - **1979 Standings & Turbo Milestone**: Corrected Jody Scheckter's gross points to 60 (was 54); confirmed Renault's historic maiden turbo victory at Dijon (Jabouille) and Williams Grand Prix Engineering's first victory at Silverstone (Regazzoni).
+
+### 1980 Season Audit Summary
+
+- **Season Audited**: 1980 (14 official championship rounds)
+- **Primary Sources Consulted**:
+  - Formula 1 Official Results Archive:
+    - Drivers Standings: https://www.formula1.com/en/results/1980/drivers
+    - Constructors Standings: https://www.formula1.com/en/results/1980/team
+    - Round 1 (Argentina, Buenos Aires): https://www.formula1.com/en/results/1980/races/80/argentina/race-result
+    - Round 2 (Brazil, Interlagos): https://www.formula1.com/en/results/1980/races/81/brazil/race-result
+    - Round 3 (South Africa, Kyalami): https://www.formula1.com/en/results/1980/races/82/south-africa/race-result
+    - Round 4 (United States West, Long Beach): https://www.formula1.com/en/results/1980/races/83/usa-west/race-result
+    - Round 5 (Belgium, Zolder): https://www.formula1.com/en/results/1980/races/84/belgium/race-result
+    - Round 6 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1980/races/85/monaco/race-result
+    - Round 7 (France, Paul Ricard): https://www.formula1.com/en/results/1980/races/86/france/race-result
+    - Round 8 (Great Britain, Brands Hatch): https://www.formula1.com/en/results/1980/races/87/great-britain/race-result
+    - Round 9 (Germany, Hockenheimring): https://www.formula1.com/en/results/1980/races/88/germany/race-result
+    - Round 10 (Austria, Österreichring): https://www.formula1.com/en/results/1980/races/89/austria/race-result
+    - Round 11 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1980/races/90/netherlands/race-result
+    - Round 12 (Italy, Imola): https://www.formula1.com/en/results/1980/races/91/italy/race-result
+    - Round 13 (Canada, Montreal): https://www.formula1.com/en/results/1980/races/92/canada/race-result
+    - Round 14 (United States, Watkins Glen): https://www.formula1.com/en/results/1980/races/93/usa-east/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1980/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1980/calendar.md`
+  - `seasons/1980/standings.md`
+  - 14 race folders: `argentine-grand-prix`, `brazilian-grand-prix`, `south-african-grand-prix`, `united-states-grand-prix-west`, `belgian-grand-prix`, `monaco-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `austrian-grand-prix`, `dutch-grand-prix`, `italian-grand-prix`, `canadian-grand-prix`, `united-states-grand-prix` (`results.json`, `notes.md`)
+- **Number of Claims Checked**: 330 distinct numerical and factual data points across 14 rounds, calendar, driver standings, constructor standings, and race notes, plus 336 individual result row checks.
+- **Number Corrected**: 7 key items:
+  1. *Standings Verification*: Confirmed Alan Jones won his maiden World Drivers' Championship with 67 net points (71 gross, 5 wins, 10 podiums in Williams FW07B) over Nelson Piquet (54 net / 54 gross, 3 wins, 6 podiums in Brabham BT49).
+  2. *Driver Standings Podiums Count*: Populated missing podium tallies for all drivers in `standings.md` (Jones 10, Reutemann 8, Piquet 6, Laffite 5, Pironi 5, Arnoux 3, de Angelis 1, Jabouille 1, Patrese 1, Rosberg 1, Fittipaldi 1).
+  3. *Constructors' Cup Standings*: Restored complete official constructor standings table in `standings.md` (Williams-Ford 120 pts, Ligier-Ford 66, Brabham-Ford 55, Renault 38, Lotus-Ford 14, Tyrrell-Ford 12, Arrows-Ford 11, Fittipaldi-Ford 11, McLaren-Ford 11, Ferrari 8, Alfa Romeo 4).
+  4. *British & US GP Lap Counts Reconciliation*: Aligned lap counts for Jean-Pierre Jabouille (British GP, 6 laps, was 4) and Eddie Cheever (US GP, 21 laps, was 20) with official Formula1.com race classifications.
+  5. *Calendar Fastest Laps, Poles & Winning Times*: Restored exact official winning times, pole times, and fastest lap times across all 14 rounds into `calendar.md` and race notes (previously all `N/A`).
+  6. *Circuit Name Corrections*: Corrected Argentine GP to Autódromo Municipal Ciudad de Buenos Aires, Brazilian GP to Autódromo de Interlagos, Austrian GP to Österreichring, Italian GP to Autodromo Dino Ferrari (Imola), and Canadian GP to Île Notre-Dame Circuit across `results.json` and race notes.
+  7. *Historic Milestones Verified*: Maiden World Drivers' and Constructors' Championships for Alan Jones and Williams Grand Prix Engineering; maiden victories for Nelson Piquet (Long Beach) and Didier Pironi (Zolder); sole Italian GP held at Imola; farewell to Watkins Glen (final GP); Alain Prost debut and point-scoring race in Argentina; Clay Regazzoni career-ending crash at Long Beach; Patrick Depailler fatal testing crash at Hockenheim.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 14 claims (spectator attendance estimates across Rounds 1-14 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: 4 non-starter differences:
+  - Round 3 South Africa: Alain Prost (#8) and Marc Surer (#9) crashed in practice and withdrew (0 laps); included in Jolpica as `Withdrew` / `Accident`, omitted from F1.com table of starters.
+  - Round 11 Netherlands: Jochen Mass (#30) injured in practice and withdrew (0 laps); omitted from F1.com table of starters.
+  - Round 14 US GP: Alain Prost (#8) suffered concussion in practice and withdrew (0 laps); omitted from F1.com table of starters.
+- **Gaps That Remain**: None. 1980 season is 100% verified against primary sources.

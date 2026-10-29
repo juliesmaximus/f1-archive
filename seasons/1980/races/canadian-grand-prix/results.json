@@ -18,7 +18,7 @@
           "Circuit": {
             "circuitId": "villeneuve",
             "url": "https://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve",
-            "circuitName": "Circuit Gilles Villeneuve",
+            "circuitName": "Île Notre-Dame Circuit",
             "Location": {
               "lat": "45.5",
               "long": "-73.5228",
@@ -355,7 +355,7 @@
               "Driver": {
                 "driverId": "arnoux",
                 "url": "http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux",
-                "givenName": "Ren\u00e9",
+                "givenName": "René",
                 "familyName": "Arnoux",
                 "dateOfBirth": "1948-07-04",
                 "nationality": "French"

@@ -1,4 +1,4 @@
-# XXXVIII Grote Prijs van Belgie - Round 5
+# XXXVIII Grote Prijs van Belgie - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXXVIII Grote Prijs van Belgie
@@ -10,18 +10,17 @@
 - **Track Altitude:** 35 m
 - **Race Date:** 1980-05-04
 - **Scheduled Laps:** 72 laps
-- **Winning Time:** 1:38:47.400
+- **Winning Time:** 1:38:46.510
 - **Winning Driver:** Didier Pironi
 - **Winning Constructor:** Ligier
-- **Pole Position:** Alan Jones
-- **Fastest Lap:** N/A
+- **Pole Position:** Alan Jones — 1:19.120
+- **Fastest Lap:** Jacques Laffite — 1:20.880
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 5, 1980)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Warm and sunny; 21°C ambient
-- **Spectator Attendance:** 70,000 spectators
 - **Grandstand Enclosures:** Kleine Chicane and pit straight spectator enclosures
 
 ---
@@ -42,6 +41,12 @@ DIDIER PIRONI'S MAIDEN WIN: Alan Jones took pole in the Williams FW07B, but Fren
 Didier Pironi's breakthrough maiden victory established him as one of Formula One's most dangerous championship contenders.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 70,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

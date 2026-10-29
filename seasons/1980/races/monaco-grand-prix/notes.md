@@ -1,4 +1,4 @@
-# XXXVIII Grand Prix de Monaco - Round 6
+# XXXVIII Grand Prix de Monaco - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXXVIII Grand Prix de Monaco
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:55:34.365
 - **Winning Driver:** Carlos Reutemann
 - **Winning Constructor:** Williams
-- **Pole Position:** Didier Pironi
-- **Fastest Lap:** N/A
+- **Pole Position:** Didier Pironi — 1:24.813
+- **Fastest Lap:** Carlos Reutemann — 1:27.418
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 6, 1980)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Damp track from pre-race drizzle, drying later; 20°C ambient
-- **Spectator Attendance:** 55,000 spectators
 - **Grandstand Enclosures:** K-Grandstand, Sainte Dévote, Swimming Pool
 
 ---
@@ -42,6 +41,12 @@ STE DÉVOTE CARNAGE & REUTEMANN WIN: Didier Pironi took pole for Ligier. At the 
 Carlos Reutemann's historic Monaco victory vaulted him into the World Championship fight.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 55,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

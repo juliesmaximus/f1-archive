@@ -17,8 +17,8 @@
           "raceName": "Argentine Grand Prix",
           "Circuit": {
             "circuitId": "galvez",
-            "url": "https://en.wikipedia.org/wiki/Aut\u00f3dromo_Oscar_y_Juan_G\u00e1lvez",
-            "circuitName": "Aut\u00f3dromo Juan y Oscar G\u00e1lvez",
+            "url": "https://en.wikipedia.org/wiki/Autódromo_Oscar_y_Juan_Gálvez",
+            "circuitName": "Autódromo Municipal Ciudad de Buenos Aires",
             "Location": {
               "lat": "-34.6943",
               "long": "-58.4593",
@@ -535,7 +535,7 @@
               "Driver": {
                 "driverId": "arnoux",
                 "url": "http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux",
-                "givenName": "Ren\u00e9",
+                "givenName": "René",
                 "familyName": "Arnoux",
                 "dateOfBirth": "1948-07-04",
                 "nationality": "French"

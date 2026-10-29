@@ -1,4 +1,4 @@
-# XVIII Großer Preis von Österreich - Round 10
+# XVIII Großer Preis von Österreich - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XVIII Großer Preis von Österreich
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:26:15.730
 - **Winning Driver:** Jean-Pierre Jabouille
 - **Winning Constructor:** Renault
-- **Pole Position:** René Arnoux
-- **Fastest Lap:** N/A
+- **Pole Position:** Rene Arnoux — 1:30.270
+- **Fastest Lap:** Rene Arnoux — 1:32.530
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 10, 1980)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Warm and clear; 26°C ambient
-- **Spectator Attendance:** 85,000 spectators
 - **Grandstand Enclosures:** Bosch Curve and Start-Ziel grandstands
 
 ---
@@ -42,6 +41,12 @@ JABOUILLE'S SECOND CAREER WIN: René Arnoux took pole position in the Renault RE
 Jean-Pierre Jabouille scored his final career Formula One victory for Renault.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 85,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

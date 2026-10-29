@@ -1,4 +1,4 @@
-# IX Grande Prêmio do Brasil - Round 2
+# IX Grande Prêmio do Brasil - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** IX Grande Prêmio do Brasil
@@ -11,17 +11,16 @@
 - **Race Date:** 1980-01-27
 - **Scheduled Laps:** 40 laps
 - **Winning Time:** 1:40:01.330
-- **Winning Driver:** René Arnoux
+- **Winning Driver:** Rene Arnoux
 - **Winning Constructor:** Renault
-- **Pole Position:** Jean-Pierre Jabouille
-- **Fastest Lap:** N/A
+- **Pole Position:** Jean-Pierre Jabouille — 2:21.400
+- **Fastest Lap:** Rene Arnoux — 2:27.310
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 2, 1980)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Sweltering tropical heat; 35°C ambient, 52°C track temperature
-- **Spectator Attendance:** 90,000 passionate Brazilian fans
 - **Grandstand Enclosures:** Arquibancadas overlooking Curva do Sol and the infield hairpin
 
 ---
@@ -42,6 +41,12 @@ ARNOUX & RENAULT TURBO POWER: Jean-Pierre Jabouille took pole in the Renault RE2
 René Arnoux's maiden Grand Prix victory, and the final race held on the historic 7.874 km Interlagos track before safety reconfiguration.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 90,000 passionate Brazilian fans (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

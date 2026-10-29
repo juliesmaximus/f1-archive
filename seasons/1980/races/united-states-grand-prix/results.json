@@ -190,7 +190,7 @@
               "Driver": {
                 "driverId": "arnoux",
                 "url": "http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux",
-                "givenName": "Ren\u00e9",
+                "givenName": "René",
                 "familyName": "Arnoux",
                 "dateOfBirth": "1948-07-04",
                 "nationality": "French"
@@ -478,7 +478,7 @@
                 "nationality": "Italian"
               },
               "grid": "16",
-              "laps": "20",
+              "laps": "21",
               "status": "Suspension"
             },
             {

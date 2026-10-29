@@ -1,4 +1,4 @@
-# XXIX Grote Prijs van Nederland - Round 11
+# XXIX Grote Prijs van Nederland - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXIX Grote Prijs van Nederland
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:38:13.830
 - **Winning Driver:** Nelson Piquet
 - **Winning Constructor:** Brabham
-- **Pole Position:** René Arnoux
-- **Fastest Lap:** N/A
+- **Pole Position:** Rene Arnoux — 1:17.440
+- **Fastest Lap:** Rene Arnoux — 1:19.350
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 11, 1980)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Warm and breezy; 22°C ambient
-- **Spectator Attendance:** 75,000 spectators
 - **Grandstand Enclosures:** Tarzan Corner, Hunserug dunes
 
 ---
@@ -42,6 +41,12 @@ PIQUET LEADS LIGHTS-TO-FLAG: René Arnoux took pole in the Renault turbo, but Ne
 Nelson Piquet established himself as the prime challenger to Alan Jones for the 1980 World Championship.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 75,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

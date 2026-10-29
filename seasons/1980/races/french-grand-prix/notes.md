@@ -1,4 +1,4 @@
-# LXVI Grand Prix de France - Round 7
+# LXVI Grand Prix de France - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** LXVI Grand Prix de France
@@ -10,18 +10,17 @@
 - **Track Altitude:** 415 m
 - **Race Date:** 1980-06-29
 - **Scheduled Laps:** 54 laps
-- **Winning Time:** 1:32:43.400
+- **Winning Time:** 1:32:43.420
 - **Winning Driver:** Alan Jones
 - **Winning Constructor:** Williams
-- **Pole Position:** Jacques Laffite
-- **Fastest Lap:** N/A
+- **Pole Position:** Jacques Laffite — 1:38.880
+- **Fastest Lap:** Alan Jones — 1:41.450
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 7, 1980)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Scorching Mediterranean sunshine; 32°C ambient
-- **Spectator Attendance:** 80,000 spectators
 - **Grandstand Enclosures:** Virage du Pont and Mistral straight grandstands
 
 ---
@@ -42,6 +41,12 @@ JONES BEATS LIGIER AT LE CASTELLET: Jacques Laffite took pole for Ligier, with t
 Alan Jones took his second win of the season, showing Williams's racecraft supremacy on high-speed circuits.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 80,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

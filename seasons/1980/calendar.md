@@ -10,18 +10,18 @@ The 1980 season was defined by intense political warfare, technological transiti
 - **Farewell to Watkins Glen:** Watkins Glen hosted its 20th and final Formula One Grand Prix, concluding two decades as America's home of Grand Prix racing.
 
 | Round | Official Grand Prix Name | Circuit | Location | Date | Laps | Distance | Winner | Pole Position | Fastest Lap |
-|:---:|:---|:---|:---|:---|:---:|:---:|:---|:---|:---|
-| 1 | [XVI Gran Premio de la Republica Argentina](races/argentine-grand-prix/notes.md) | Autódromo Municipal Ciudad de Buenos Aires | Buenos Aires, Argentina | 1980-01-13 | 53 | 5.968 km | Alan Jones (Williams) | Alan Jones | N/A |
-| 2 | [IX Grande Prêmio do Brasil](races/brazilian-grand-prix/notes.md) | Autódromo de Interlagos | São Paulo, Brazil | 1980-01-27 | 40 | 7.874 km | René Arnoux (Renault) | Jean-Pierre Jabouille | N/A |
-| 3 | [XXVI Citizen and Gold Flake Grand Prix of South Africa](races/south-african-grand-prix/notes.md) | Kyalami Grand Prix Circuit | Midrand, Gauteng, South Africa | 1980-03-01 | 78 | 4.104 km | René Arnoux (Renault) | Jean-Pierre Jabouille | N/A |
-| 4 | [V United States Grand Prix West](races/united-states-grand-prix-west/notes.md) | Long Beach Street Circuit | Long Beach, California, United States | 1980-03-30 | 80 | 3.43 km | Nelson Piquet (Brabham) | Nelson Piquet | N/A |
-| 5 | [XXXVIII Grote Prijs van Belgie](races/belgian-grand-prix/notes.md) | Circuit Zolder | Heusden-Zolder, Limburg, Belgium | 1980-05-04 | 72 | 4.262 km | Didier Pironi (Ligier) | Alan Jones | N/A |
-| 6 | [XXXVIII Grand Prix de Monaco](races/monaco-grand-prix/notes.md) | Circuit de Monaco | Monte Carlo, Monaco | 1980-05-18 | 76 | 3.312 km | Carlos Reutemann (Williams) | Didier Pironi | N/A |
-| 7 | [LXVI Grand Prix de France](races/french-grand-prix/notes.md) | Circuit Paul Ricard | Le Castellet, Var, France | 1980-06-29 | 54 | 5.81 km | Alan Jones (Williams) | Jacques Laffite | N/A |
-| 8 | [XXXIII Marlboro British Grand Prix](races/british-grand-prix/notes.md) | Brands Hatch | West Kingsdown, Kent, England | 1980-07-13 | 76 | 4.207 km | Alan Jones (Williams) | Didier Pironi | N/A |
-| 9 | [XLII Großer Preis von Deutschland](races/german-grand-prix/notes.md) | Hockenheimring | Hockenheim, Baden-Württemberg, West Germany | 1980-08-10 | 45 | 6.789 km | Jacques Laffite (Ligier) | Alan Jones | N/A |
-| 10 | [XVIII Großer Preis von Österreich](races/austrian-grand-prix/notes.md) | Österreichring | Spielberg, Styria, Austria | 1980-08-17 | 54 | 5.911 km | Jean-Pierre Jabouille (Renault) | René Arnoux | N/A |
-| 11 | [XXIX Grote Prijs van Nederland](races/dutch-grand-prix/notes.md) | Circuit Park Zandvoort | Zandvoort, North Holland, Netherlands | 1980-08-31 | 72 | 4.252 km | Nelson Piquet (Brabham) | René Arnoux | N/A |
-| 12 | [LI Gran Premio d'Italia](races/italian-grand-prix/notes.md) | Autodromo Dino Ferrari | Imola, Emilia-Romagna, Italy | 1980-09-14 | 60 | 5.0 km | Nelson Piquet (Brabham) | René Arnoux | N/A |
-| 13 | [XX Grand Prix du Canada](races/canadian-grand-prix/notes.md) | Île Notre-Dame Circuit | Montreal, Quebec, Canada | 1980-09-28 | 70 | 4.41 km | Alan Jones (Williams) | Nelson Piquet | N/A |
-| 14 | [XXIII United States Grand Prix](races/united-states-grand-prix/notes.md) | Watkins Glen Grand Prix Race Course | Watkins Glen, New York, United States | 1980-10-05 | 59 | 5.435 km | Alan Jones (Williams) | Bruno Giacomelli | N/A |
+|:---:|:---|:---|:---|:---|:---:|:---:|:---|:---|:---:|
+| 1 | XVI Gran Premio de la Republica Argentina | Autódromo Municipal Ciudad de Buenos Aires | Buenos Aires, Argentina | 1980-01-13 | 53 | 316.304 km | Alan Jones (1:43:24.380) | Alan Jones (1:44.170) | Alan Jones (1:50.450) |
+| 2 | IX Grande Prêmio do Brasil | Autódromo de Interlagos | São Paulo, Brazil | 1980-01-27 | 40 | 314.960 km | Rene Arnoux (1:40:01.330) | Jean-Pierre Jabouille (2:21.400) | Rene Arnoux (2:27.310) |
+| 3 | XXVI Citizen and Gold Flake Grand Prix of South Africa | Kyalami Grand Prix Circuit | Midrand, Gauteng, South Africa | 1980-03-01 | 78 | 320.112 km | Rene Arnoux (1:36:52.540) | Jean-Pierre Jabouille (1:10.000) | Rene Arnoux (1:13.150) |
+| 4 | V United States Grand Prix West | Long Beach Street Circuit | Long Beach, California, United States | 1980-03-30 | 80 | 274.400 km | Nelson Piquet (1:50:18.550) | Nelson Piquet (1:17.694) | Nelson Piquet (1:19.830) |
+| 5 | XXXVIII Grote Prijs van Belgie | Circuit Zolder | Heusden-Zolder, Limburg, Belgium | 1980-05-04 | 72 | 306.864 km | Didier Pironi (1:38:46.510) | Alan Jones (1:19.120) | Jacques Laffite (1:20.880) |
+| 6 | XXXVIII Grand Prix de Monaco | Circuit de Monaco | Monte Carlo, Monaco | 1980-05-18 | 76 | 251.712 km | Carlos Reutemann (1:55:34.365) | Didier Pironi (1:24.813) | Carlos Reutemann (1:27.418) |
+| 7 | LXVI Grand Prix de France | Circuit Paul Ricard | Le Castellet, Var, France | 1980-06-29 | 54 | 313.740 km | Alan Jones (1:32:43.420) | Jacques Laffite (1:38.880) | Alan Jones (1:41.450) |
+| 8 | XXXIII Marlboro British Grand Prix | Brands Hatch | West Kingsdown, Kent, England | 1980-07-13 | 76 | 319.732 km | Alan Jones (1:34:49.228) | Didier Pironi (1:11.004) | Didier Pironi (1:12.368) |
+| 9 | XLII Großer Preis von Deutschland | Hockenheimring | Hockenheim, Baden-Württemberg, West Germany | 1980-08-10 | 45 | 305.505 km | Jacques Laffite (1:22:59.730) | Alan Jones (1:45.850) | Alan Jones (1:48.490) |
+| 10 | XVIII Großer Preis von Österreich | Österreichring | Spielberg, Styria, Austria | 1980-08-17 | 54 | 319.194 km | Jean-Pierre Jabouille (1:26:15.730) | Rene Arnoux (1:30.270) | Rene Arnoux (1:32.530) |
+| 11 | XXIX Grote Prijs van Nederland | Circuit Park Zandvoort | Zandvoort, North Holland, Netherlands | 1980-08-31 | 72 | 306.144 km | Nelson Piquet (1:38:13.830) | Rene Arnoux (1:17.440) | Rene Arnoux (1:19.350) |
+| 12 | LI Gran Premio d'Italia | Autodromo Dino Ferrari | Imola, Emilia-Romagna, Italy | 1980-09-14 | 60 | 300.000 km | Nelson Piquet (1:38:07.520) | Rene Arnoux (1:33.988) | Alan Jones (1:36.089) |
+| 13 | XX Grand Prix du Canada | Île Notre-Dame Circuit | Montreal, Quebec, Canada | 1980-09-28 | 70 | 308.700 km | Alan Jones (1:46:45.530) | Nelson Piquet (1:27.328) | Didier Pironi (1:28.769) |
+| 14 | XXIII United States Grand Prix | Watkins Glen Grand Prix Race Course | Watkins Glen, New York, United States | 1980-10-05 | 59 | 320.665 km | Alan Jones (1:34:36.050) | Bruno Giacomelli (1:33.291) | Alan Jones (1:34.068) |

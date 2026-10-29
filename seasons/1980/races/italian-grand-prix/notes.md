@@ -1,4 +1,4 @@
-# LI Gran Premio d'Italia - Round 12
+# LI Gran Premio d'Italia - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** LI Gran Premio d'Italia
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:38:07.520
 - **Winning Driver:** Nelson Piquet
 - **Winning Constructor:** Brabham
-- **Pole Position:** René Arnoux
-- **Fastest Lap:** N/A
+- **Pole Position:** Rene Arnoux — 1:33.988
+- **Fastest Lap:** Alan Jones — 1:36.089
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 12, 1980)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Sunny and pleasant late-summer warmth; 25°C ambient
-- **Spectator Attendance:** 100,000 Tifosi packing the hillside at Tosa and Rivazza
 - **Grandstand Enclosures:** Tribuna Centrale, Tosa curve amphitheatre, Variante Bassa
 
 ---
@@ -42,6 +41,12 @@ THE IMOLA ITALIAN GP & PIQUET TAKES CHAMPIONSHIP LEAD: With Monza under extensiv
 Nelson Piquet took the lead of the World Drivers' Championship with two races remaining.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 100,000 Tifosi packing the hillside at Tosa and Rivazza (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

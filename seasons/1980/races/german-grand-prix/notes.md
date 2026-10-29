@@ -1,4 +1,4 @@
-# XLII Großer Preis von Deutschland - Round 9
+# XLII Großer Preis von Deutschland - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XLII Großer Preis von Deutschland
@@ -10,18 +10,17 @@
 - **Track Altitude:** 103 m
 - **Race Date:** 1980-08-10
 - **Scheduled Laps:** 45 laps
-- **Winning Time:** 1:23:59.730
+- **Winning Time:** 1:22:59.730
 - **Winning Driver:** Jacques Laffite
 - **Winning Constructor:** Ligier
-- **Pole Position:** Alan Jones
-- **Fastest Lap:** N/A
+- **Pole Position:** Alan Jones — 1:45.850
+- **Fastest Lap:** Alan Jones — 1:48.490
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 9, 1980)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Overcast and dry; 21°C ambient
-- **Spectator Attendance:** 110,000 spectators in the Motodrom
 - **Grandstand Enclosures:** Motodrom concrete grandstands
 
 ---
@@ -42,6 +41,12 @@ DEPAILLER TRIBUTE & LAFFITE REDEMPTION: The Grand Prix took place in profound so
 Jacques Laffite's emotional victory at Hockenheim in memory of fallen comrade Patrick Depailler.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 110,000 spectators in the Motodrom (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

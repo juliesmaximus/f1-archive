@@ -1,4 +1,4 @@
-# XVI Gran Premio de la Republica Argentina - Round 1
+# XVI Gran Premio de la Republica Argentina - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XVI Gran Premio de la Republica Argentina
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:43:24.380
 - **Winning Driver:** Alan Jones
 - **Winning Constructor:** Williams
-- **Pole Position:** Alan Jones
-- **Fastest Lap:** N/A
+- **Pole Position:** Alan Jones — 1:44.170
+- **Fastest Lap:** Alan Jones — 1:50.450
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 1, 1980)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Intense summer heat; 33°C ambient, track surface breaking up under ground-effect loads
-- **Spectator Attendance:** 70,000 spectators
 - **Grandstand Enclosures:** Amphitheatre concrete stands along the straight and Curva del Ciervo
 
 ---
@@ -42,6 +41,12 @@ BROKEN ASPHALT & JONES OFF-TRACK CHARGE: Newly resurfaced asphalt disintegrated 
 Alan Jones opened his championship-winning season with a display of unyielding fighting spirit.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 70,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

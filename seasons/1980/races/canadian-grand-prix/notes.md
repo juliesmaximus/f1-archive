@@ -1,4 +1,4 @@
-# XX Grand Prix du Canada - Round 13
+# XX Grand Prix du Canada - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XX Grand Prix du Canada
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:46:45.530
 - **Winning Driver:** Alan Jones
 - **Winning Constructor:** Williams
-- **Pole Position:** Nelson Piquet
-- **Fastest Lap:** N/A
+- **Pole Position:** Nelson Piquet — 1:27.328
+- **Fastest Lap:** Didier Pironi — 1:28.769
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 13, 1980)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Cold and clear; 11°C ambient
-- **Spectator Attendance:** 80,000 spectators
 - **Grandstand Enclosures:** Hairpin grandstands, Olympic basin grandstands
 
 ---
@@ -42,6 +41,12 @@ ALAN JONES WINS WORLD CHAMPIONSHIP: Nelson Piquet qualified on pole in the Brabh
 Alan Jones became the second Australian World Champion in F1 history (after Sir Jack Brabham), and Williams secured their first World Championship double.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 80,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

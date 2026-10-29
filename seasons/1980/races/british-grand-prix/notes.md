@@ -1,4 +1,4 @@
-# XXXIII Marlboro British Grand Prix - Round 8
+# XXXIII Marlboro British Grand Prix - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXXIII Marlboro British Grand Prix
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:34:49.228
 - **Winning Driver:** Alan Jones
 - **Winning Constructor:** Williams
-- **Pole Position:** Didier Pironi
-- **Fastest Lap:** N/A
+- **Pole Position:** Didier Pironi — 1:11.004
+- **Fastest Lap:** Didier Pironi — 1:12.368
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 8, 1980)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Warm and sunny; 23°C ambient
-- **Spectator Attendance:** 95,000 British spectators packing Paddock Hill
 - **Grandstand Enclosures:** Brabham Grandstand, Clark Grandstand, Hailwood Hill
 
 ---
@@ -42,6 +41,12 @@ LIGIER WHEEL RIM COLLAPSE & JONES VICTORY: Ligier dominated qualifying (Didier P
 Alan Jones took the outright lead of the World Drivers' Championship with back-to-back victories.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 95,000 British spectators packing Paddock Hill (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

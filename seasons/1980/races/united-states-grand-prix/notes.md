@@ -1,4 +1,4 @@
-# XXIII United States Grand Prix - Round 14
+# XXIII United States Grand Prix - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXIII United States Grand Prix
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:34:36.050
 - **Winning Driver:** Alan Jones
 - **Winning Constructor:** Williams
-- **Pole Position:** Bruno Giacomelli
-- **Fastest Lap:** N/A
+- **Pole Position:** Bruno Giacomelli — 1:33.291
+- **Fastest Lap:** Alan Jones — 1:34.068
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 14, 1980)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Crisp autumn weather; 13°C ambient
-- **Spectator Attendance:** 85,000 spectators bidding farewell to The Glen
 - **Grandstand Enclosures:** Seneca Grandstand, Kendall Grandstand, The Bog
 
 ---
@@ -42,6 +41,12 @@ WATKINS GLEN FAREWELL & JONES DOMINATION: In the final Grand Prix at Watkins Gle
 The 20th and final United States Grand Prix held at Watkins Glen, ending an iconic chapter in Formula One history.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 85,000 spectators bidding farewell to The Glen (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.
