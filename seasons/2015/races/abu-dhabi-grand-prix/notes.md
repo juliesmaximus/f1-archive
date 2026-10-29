@@ -8,7 +8,6 @@
 - **Location:** Yas Island, Abu Dhabi, UAE
 - **Circuit Length:** 5.554 km (3.451 miles)
 - **Altitude:** 12 m above sea level
-- **Official Attendance:** 60,000
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Nico Rosberg (Mercedes)
 - **Pole Position:** Nico Rosberg (Mercedes) - 1:40.237
-- **Fastest Lap:** Sebastian Vettel (Ferrari) - 1:44.517 (lap 44)
+- **Fastest Lap:** Lewis Hamilton (Mercedes) - 1:44.517 (lap 44)
 
 ---
 
@@ -36,6 +35,11 @@ Rosberg's three consecutive late-season wins laid the psychological foundation f
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Etihad Airways Abu Dhabi Grand Prix Results](https://www.formula1.com/en/results.html/2015/races/938/abu-dhabi/race-result.html)
+- **Official Formula 1 Results Archive:** [Etihad Airways Abu Dhabi Grand Prix Results](https://www.formula1.com/en/results/2015/races/936/abu-dhabi/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2015/19/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2015)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 60,000 (estimate reported in promoter/media releases; unverified in official FIA classifications)

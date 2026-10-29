@@ -8,7 +8,6 @@
 - **Location:** Montmeló, Spain
 - **Circuit Length:** 4.655 km (2.892 miles)
 - **Altitude:** 125 m above sea level
-- **Official Attendance:** 87,000
 
 ---
 
@@ -36,6 +35,11 @@ McLaren-Honda suffered brake failure on Fernando Alonso's car, nearly bowling ov
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio de España Results](https://www.formula1.com/en/results.html/2015/races/924/spain/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio de España Results](https://www.formula1.com/en/results/2015/races/921/spain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2015/5/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2015)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 87,000 (estimate reported in promoter/media releases; unverified in official FIA classifications)

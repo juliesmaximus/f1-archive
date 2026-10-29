@@ -8,7 +8,6 @@
 - **Location:** Suzuka, Mie, Japan
 - **Circuit Length:** 5.807 km (3.608 miles)
 - **Altitude:** 45 m above sea level
-- **Official Attendance:** 120,000
 
 ---
 
@@ -36,6 +35,11 @@ Alonso's 'GP2 engine' radio outburst exposed the humiliating public breakdown of
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Japanese Grand Prix Results](https://www.formula1.com/en/results.html/2015/races/933/japan/race-result.html)
+- **Official Formula 1 Results Archive:** [Japanese Grand Prix Results](https://www.formula1.com/en/results/2015/races/931/japan/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2015/14/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2015)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 120,000 (estimate reported in promoter/media releases; unverified in official FIA classifications)

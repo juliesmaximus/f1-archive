@@ -22,7 +22,7 @@ The 2015 FIA Formula 1 World Championship consisted of 19 rounds across 5 contin
 | 16 | [United States Grand Prix](races/united-states-grand-prix/notes.md) | Circuit of the Americas | Austin, Texas, USA | 2015-10-25 | Lewis Hamilton | Nico Rosberg | Nico Rosberg |
 | 17 | [Mexican Grand Prix](races/mexican-grand-prix/notes.md) | Autódromo Hermanos Rodríguez | Mexico City, Mexico | 2015-11-01 | Nico Rosberg | Nico Rosberg | Nico Rosberg |
 | 18 | [Brazilian Grand Prix](races/brazilian-grand-prix/notes.md) | Autódromo José Carlos Pace (Interlagos) | São Paulo, Brazil | 2015-11-15 | Nico Rosberg | Nico Rosberg | Lewis Hamilton |
-| 19 | [Abu Dhabi Grand Prix](races/abu-dhabi-grand-prix/notes.md) | Yas Marina Circuit | Yas Island, Abu Dhabi, UAE | 2015-11-29 | Nico Rosberg | Nico Rosberg | Sebastian Vettel |
+| 19 | [Abu Dhabi Grand Prix](races/abu-dhabi-grand-prix/notes.md) | Yas Marina Circuit | Yas Island, Abu Dhabi, UAE | 2015-11-29 | Nico Rosberg | Nico Rosberg | Lewis Hamilton |
 
 ---
 

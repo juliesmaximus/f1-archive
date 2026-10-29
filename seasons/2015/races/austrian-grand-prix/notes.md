@@ -8,7 +8,6 @@
 - **Location:** Spielberg, Austria
 - **Circuit Length:** 4.326 km (2.688 miles)
 - **Altitude:** 670 m above sea level
-- **Official Attendance:** 70,000
 
 ---
 
@@ -36,6 +35,11 @@ Felipe Massa scored 3rd for Williams after Sebastian Vettel suffered a jammed ri
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Großer Preis von Österreich Results](https://www.formula1.com/en/results.html/2015/races/927/austria/race-result.html)
+- **Official Formula 1 Results Archive:** [Großer Preis von Österreich Results](https://www.formula1.com/en/results/2015/races/924/austria/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2015/8/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2015)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 70,000 (estimate reported in promoter/media releases; unverified in official FIA classifications)

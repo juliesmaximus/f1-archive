@@ -8,7 +8,6 @@
 - **Location:** Shanghai, China
 - **Circuit Length:** 5.451 km (3.387 miles)
 - **Altitude:** 10 m above sea level
-- **Official Attendance:** 130,000
 
 ---
 
@@ -36,6 +35,11 @@ Hamilton dismissed Rosberg's complaints: 'It's not my job to look after Nico's r
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Chinese Grand Prix Results](https://www.formula1.com/en/results.html/2015/races/922/china/race-result.html)
+- **Official Formula 1 Results Archive:** [Chinese Grand Prix Results](https://www.formula1.com/en/results/2015/races/919/china/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2015/3/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2015)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 130,000 (estimate reported in promoter/media releases; unverified in official FIA classifications)

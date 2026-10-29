@@ -8,7 +8,6 @@
 - **Location:** Monza, Italy
 - **Circuit Length:** 5.793 km (3.600 miles)
 - **Altitude:** 162 m above sea level
-- **Official Attendance:** 120,000 tifosi
 
 ---
 
@@ -36,6 +35,11 @@ Post-race FIA investigation into Mercedes tyre pressures (found to be 0.3 psi be
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio d'Italia Results](https://www.formula1.com/en/results.html/2015/races/931/italy/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio d'Italia Results](https://www.formula1.com/en/results/2015/races/929/italy/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2015/12/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2015)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 120,000 tifosi (estimate reported in promoter/media releases; unverified in official FIA classifications)

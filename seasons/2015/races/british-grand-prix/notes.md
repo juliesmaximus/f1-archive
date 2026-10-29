@@ -8,7 +8,6 @@
 - **Location:** Silverstone, United Kingdom
 - **Circuit Length:** 5.891 km (3.660 miles)
 - **Altitude:** 155 m above sea level
-- **Official Attendance:** 140,000 ecstatic British fans
 
 ---
 
@@ -36,6 +35,11 @@ Williams' refusal to let Bottas pass Massa early on cost them a potential race v
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Santander British Grand Prix Results](https://www.formula1.com/en/results.html/2015/races/928/great-britain/race-result.html)
+- **Official Formula 1 Results Archive:** [Santander British Grand Prix Results](https://www.formula1.com/en/results/2015/races/925/great-britain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2015/9/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2015)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 140,000 ecstatic British fans (estimate reported in promoter/media releases; unverified in official FIA classifications)

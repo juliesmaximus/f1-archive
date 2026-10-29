@@ -8,7 +8,6 @@
 - **Location:** Austin, Texas, USA
 - **Circuit Length:** 5.513 km (3.426 miles)
 - **Altitude:** 150 m above sea level
-- **Official Attendance:** 100,000 soaked fans
 
 ---
 
@@ -36,6 +35,11 @@ The 'Cap-gate' incident in the green room encapsulated the simmering hostility b
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [United States Grand Prix Results](https://www.formula1.com/en/results.html/2015/races/935/united-states/race-result.html)
+- **Official Formula 1 Results Archive:** [United States Grand Prix Results](https://www.formula1.com/en/results/2015/races/933/united-states/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2015/16/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2015)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 100,000 soaked fans (estimate reported in promoter/media releases; unverified in official FIA classifications)

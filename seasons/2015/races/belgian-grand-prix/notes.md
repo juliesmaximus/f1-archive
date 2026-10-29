@@ -8,7 +8,6 @@
 - **Location:** Spa, Belgium
 - **Circuit Length:** 7.004 km (4.352 miles)
 - **Altitude:** 420 m above sea level
-- **Official Attendance:** 85,000
 
 ---
 
@@ -36,6 +35,11 @@ Vettel launched a blistering tirade against Pirelli post-race, accusing them of 
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Shell Belgian Grand Prix Results](https://www.formula1.com/en/results.html/2015/races/930/belgium/race-result.html)
+- **Official Formula 1 Results Archive:** [Shell Belgian Grand Prix Results](https://www.formula1.com/en/results/2015/races/928/belgium/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2015/11/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2015)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 85,000 (estimate reported in promoter/media releases; unverified in official FIA classifications)

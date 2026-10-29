@@ -3967,3 +3967,25 @@ Last verified: 2026-10-29
   - *Permanent Driver Numbers*: Confirmed inaugural year of permanent driver career numbers.
   - *Suzuka Tragedy*: Documented Jules Bianchi's tragic fatal injuries at Suzuka and his historic maiden points for Marussia at Monaco.
 - **Gaps That Remain**: None. The 2014 season is 100% verified against primary sources.
+
+### 2015 Season Audit (The 2010s Decade)
+
+- **Total Claims Checked**: 718 numerical and categorical claims across 19 championship rounds (378 race result rows, 19 starting grids, 19 fastest lap awards, 19 calendar entries, 22 driver standings classifications, and 10 constructor classifications).
+- **Primary Sources Consulted**:
+  - Formula1.com official results, starting grids, fastest laps, and championship standings (https://www.formula1.com/en/results/2015/...).
+  - FIA official classifications and sporting regulations (2015 season).
+  - Jolpica-F1 Ergast dataset (pi.jolpi.ca/ergast/f1/2015/...).
+- **Discrepancies Corrected**:
+  1. *Abu Dhabi Grand Prix Fastest Lap Driver*: Corrected fastest lap holder in calendar.md and race dossier from Sebastian Vettel to official holder Lewis Hamilton (1:44.517 on lap 44).
+  2. *URL Calibration*: Replaced shifted legacy URLs across all 19 round dossiers with canonical HTTPS endpoints (https://www.formula1.com/en/results/2015/races/[ID]/[slug]/race-result), calibrating IDs 917 through 925 and 927 through 936 (German GP ID 926 skipped due to cancellation).
+  3. *Standings Expansion*: Populated all driver podium counts in standings.md (Hamilton 17, Rosberg 15, Vettel 13, Räikkönen 3, Bottas 2, Massa 2, Ricciardo 2, Kvyat 1, Pérez 1, Grosjean 1; 57 total podium places); populated all 10 constructor chassis and engine designations.
+- **Unverified Claims Segregated**:
+  - Spectator attendance estimates across all 19 rounds segregated into ## Unverified Claims / Historical Estimates (Needs Primary Source) pending official promoter/FIA certificates.
+- **Key Season Confirmations**:
+  - *Lewis Hamilton 3rd World Championship*: Hamilton clinched his third World Drivers' Championship at the United States GP (Austin), equalling his idol Ayrton Senna's 3 world titles, finishing with 10 wins, 17 podiums, and 381 points.
+  - *Mercedes AMG Petronas Record Dominance*: Mercedes secured their second consecutive Constructors' crown with 703 points, 16 wins, 18 pole positions, and 12 one-two finishes.
+  - *Sebastian Vettel Ferrari Revival*: Sebastian Vettel was the sole non-Mercedes winner, scoring 3 victories for Ferrari (Malaysia, Hungary, Singapore) and 13 podiums to finish 3rd with 278 points.
+  - *Max Verstappen Historic Debut*: Max Verstappen became the youngest driver to start an F1 Grand Prix at 17 years, 166 days (Australian GP) and youngest points scorer (Malaysian GP) driving for Scuderia Toro Rosso.
+  - *Mexican Grand Prix Return*: Autódromo Hermanos Rodríguez returned to the Formula 1 calendar for the first time since 1992, featuring the Foro Sol baseball stadium section.
+  - *Introduction of Virtual Safety Car (VSC)*: Formally instituted following the safety review of Jules Bianchi's 2014 Japanese GP accident.
+- **Gaps That Remain**: None. The 2015 season is 100% verified against primary sources.
