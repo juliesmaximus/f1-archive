@@ -25,6 +25,6 @@ Another battle of the brothers. Michael Schumacher defended aggressively against
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/2001/races/9/european-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/2001/races/711/europe/race-result
 - **FIA Official Sporting Archives & Yearbooks (2001)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/2001/9/results.json`

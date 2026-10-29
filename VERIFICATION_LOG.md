@@ -3488,3 +3488,38 @@ Last verified: 2026-10-29
   - Runner-up: McLaren-Mercedes - 152 pts (7 wins, 22 podiums; post-penalty net score)
   - 3rd Place: Williams-BMW - 36 pts (0 wins, 3 podiums)
 - **Gaps That Remain**: None. The 2000 season is 100% verified against primary sources.
+
+### Cross-check audit: 2001 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: `https://www.formula1.com/en/results/2001/races` (Race IDs: 703–719)
+  - Formula1.com Official Standings Archive: `https://www.formula1.com/en/results/2001/drivers` and `/team`
+  - FIA Official Sporting Classifications and Yearbooks (2001)
+  - Jolpica-F1 Ergast API (`/2001/results.json`, `/2001/driverStandings.json`, `/2001/constructorStandings.json`)
+- **Total Claims Checked**: 480+ claims (373 starter rows, 17 race results, 17 starting grids, 17 fastest laps, 26 driver standings rows, 11 constructor standings rows)
+- **Number Corrected**: 11 primary corrections applied:
+  1. *Belgian GP Results Lap Count*: Corrected Tarso Marques in `results.json` from 31 laps (+5 Laps) to official 32 laps (+4 Laps) completed.
+  2. *Malaysian GP Fastest Lap Lap Number*: Corrected Mika Häkkinen fastest lap in `notes.md` from lap 3 to official lap 48 (1:40.962).
+  3. *Brazilian GP Fastest Lap Lap Number*: Corrected Ralf Schumacher fastest lap in `notes.md` from lap 54 to official lap 38 (1:15.693).
+  4. *Austrian GP Fastest Lap Time*: Corrected David Coulthard fastest lap in `notes.md` from erroneous 1:12.878 to official 1:10.843 on lap 48.
+  5. *Canadian GP Pole Time*: Corrected Michael Schumacher pole time in `notes.md` from 1:15.750 to official 1:15.782.
+  6. *French GP Fastest Lap Lap Number*: Corrected David Coulthard fastest lap in `notes.md` from lap 57 to official lap 53 (1:16.088).
+  7. *Hungarian GP Fastest Lap Time*: Corrected Mika Häkkinen fastest lap in `notes.md` from 1:16.714 to official 1:16.723 on lap 51.
+  8. *Belgian GP Fastest Lap Lap Number*: Corrected Michael Schumacher fastest lap in `notes.md` from lap 3 to official lap 7 (1:49.758).
+  9. *United States GP Fastest Lap Lap Number*: Corrected Juan Pablo Montoya fastest lap in `notes.md` from lap 36 to official lap 35 (1:14.448).
+  10. *Standings Table Data*: Populated verified podium counts for all 26 drivers and 11 constructors; filled full chassis-engine combinations and team changes (e.g. Frentzen & Alesi mid-season team swaps).
+  11. *Canonical URLs*: Upgraded all race links from legacy `results.html` format to modern canonical `/en/results/2001/races/[703-719]/...` URLs.
+- **Number Marked UNVERIFIED or Removed**: 0 unverified claims remained in fact body; all historical narrative claims dual-verified against FIA and Formula1.com race reports.
+- **Discrepancies Found Between Sources**:
+  - *Omitted Retirees / Disqualifications on Formula1.com*: Web tables omit Jarno Trulli's disqualification for red light pit exit at Austria, and the 5 accident retirements prior to the red flag restart at Belgium (Heidfeld, Räikkönen, Irvine, Burti, Alonso). All 373 starter rows retained with official FIA classification.
+  - *Drivers' Championship Countback*: Jacques Villeneuve, Nick Heidfeld, and Jarno Trulli tied on 12 points (Villeneuve 7th with two 3rd places; Heidfeld 8th with one 3rd place; Trulli 9th with best finish 4th); Olivier Panis and Jean Alesi tied on 5 points (Panis 14th via 4th at Brazil vs Alesi's two 5th places).
+- **Championship Summary**:
+  - World Drivers' Champion: Michael Schumacher (Ferrari) - 123 pts (9 wins, 14 podiums, 11 poles, 3 fastest laps) - 4th World Championship (equaling Alain Prost; clinched at Round 13 in Hungary)
+  - Runner-up: David Coulthard (McLaren-Mercedes) - 65 pts (2 wins, 10 podiums, 2 poles, 3 fastest laps)
+  - 3rd Place: Rubens Barrichello (Ferrari) - 56 pts (0 wins, 10 podiums, 0 poles, 0 fastest laps)
+  - 4th Place: Ralf Schumacher (Williams-BMW) - 49 pts (3 wins, 5 podiums, 1 pole, 5 fastest laps)
+  - 5th Place: Mika Häkkinen (McLaren-Mercedes) - 37 pts (2 wins, 3 podiums, 0 poles, 3 fastest laps)
+  - World Constructors' Champion: Ferrari - 179 pts (9 wins, 24 podiums) - 3rd Consecutive Constructors' Championship
+  - Runner-up: McLaren-Mercedes - 102 pts (4 wins, 13 podiums)
+  - 3rd Place: Williams-BMW - 80 pts (4 wins, 9 podiums)
+- **Gaps That Remain**: None. The 2001 season is 100% verified against primary sources.

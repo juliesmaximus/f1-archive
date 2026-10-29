@@ -121,7 +121,7 @@
                 "driverId": "hakkinen",
                 "url": "http://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen",
                 "givenName": "Mika",
-                "familyName": "H\u00e4kkinen",
+                "familyName": "Häkkinen",
                 "dateOfBirth": "1968-09-28",
                 "nationality": "Finnish"
               },
@@ -362,8 +362,8 @@
                 "nationality": "Italian"
               },
               "grid": "22",
-              "laps": "31",
-              "status": "+5 Laps"
+              "laps": "32",
+              "status": "+4 Laps"
             },
             {
               "number": "11",
@@ -497,7 +497,7 @@
                 "code": "RAI",
                 "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
                 "givenName": "Kimi",
-                "familyName": "R\u00e4ikk\u00f6nen",
+                "familyName": "Räikkönen",
                 "dateOfBirth": "1979-10-17",
                 "nationality": "Finnish"
               },

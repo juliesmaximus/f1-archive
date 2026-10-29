@@ -13,7 +13,7 @@
 ---
 
 ## Key Race Results & Milestones
-- **Pole Position:** Michael Schumacher (Ferrari) - 1:15.750
+- **Pole Position:** Michael Schumacher (Ferrari) - 1:15.782
 - **Fastest Lap:** Ralf Schumacher (Williams-BMW) - 1:17.205 (Lap 50)
 - **Race Winner:** Ralf Schumacher (Williams-BMW)
 
@@ -25,6 +25,6 @@ A historic milestone: Ralf Schumacher and Michael Schumacher scored the first br
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/2001/races/8/canadian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/2001/races/710/canada/race-result
 - **FIA Official Sporting Archives & Yearbooks (2001)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/2001/8/results.json`

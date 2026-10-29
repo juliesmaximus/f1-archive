@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Michael Schumacher (Ferrari) - 1:35.220
-- **Fastest Lap:** Mika Häkkinen (McLaren-Mercedes) - 1:40.962 (Lap 3)
+- **Fastest Lap:** Mika Häkkinen (McLaren-Mercedes) - 1:40.962 (Lap 48)
 - **Race Winner:** Michael Schumacher (Ferrari)
 
 ---
@@ -25,6 +25,6 @@ A masterclass in rain driving and pit strategy from Ferrari. On lap 3, an apocal
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/2001/races/2/malaysian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/2001/races/704/malaysia/race-result
 - **FIA Official Sporting Archives & Yearbooks (2001)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/2001/2/results.json`

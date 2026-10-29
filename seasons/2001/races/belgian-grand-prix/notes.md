@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Juan Pablo Montoya (Williams-BMW) - 1:52.072
-- **Fastest Lap:** Michael Schumacher (Ferrari) - 1:49.758 (Lap 3)
+- **Fastest Lap:** Michael Schumacher (Ferrari) - 1:49.758 (Lap 7)
 - **Race Winner:** Michael Schumacher (Ferrari)
 
 ---
@@ -25,6 +25,6 @@ Michael Schumacher made history by scoring his 52nd career Grand Prix victory, o
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/2001/races/14/belgian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/2001/races/716/belgium/race-result
 - **FIA Official Sporting Archives & Yearbooks (2001)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/2001/14/results.json`

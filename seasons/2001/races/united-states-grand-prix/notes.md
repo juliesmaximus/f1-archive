@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Michael Schumacher (Ferrari) - 1:11.708
-- **Fastest Lap:** Juan Pablo Montoya (Williams-BMW) - 1:14.448 (Lap 36)
+- **Fastest Lap:** Juan Pablo Montoya (Williams-BMW) - 1:14.448 (Lap 35)
 - **Race Winner:** Mika Häkkinen (McLaren-Mercedes)
 
 ---
@@ -25,6 +25,6 @@ Held under immense security just weeks after September 11, with overwhelming uni
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/2001/races/16/united-states-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/2001/races/718/united-states/race-result
 - **FIA Official Sporting Archives & Yearbooks (2001)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/2001/16/results.json`

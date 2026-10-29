@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Michael Schumacher (Ferrari) - 1:14.059
-- **Fastest Lap:** Mika Häkkinen (McLaren-Mercedes) - 1:16.714 (Lap 51)
+- **Fastest Lap:** Mika Häkkinen (McLaren-Mercedes) - 1:16.723 (Lap 51)
 - **Race Winner:** Michael Schumacher (Ferrari)
 
 ---
@@ -25,6 +25,6 @@ The coronation of Michael Schumacher. Schumacher took pole position, equaling Ay
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/2001/races/13/hungarian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/2001/races/715/hungary/race-result
 - **FIA Official Sporting Archives & Yearbooks (2001)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/2001/13/results.json`

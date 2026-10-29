@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Michael Schumacher (Ferrari) - 1:09.562
-- **Fastest Lap:** David Coulthard (McLaren-Mercedes) - 1:12.878 (Lap 48)
+- **Fastest Lap:** David Coulthard (McLaren-Mercedes) - 1:10.843 (Lap 48)
 - **Race Winner:** David Coulthard (McLaren-Mercedes)
 
 ---
@@ -25,6 +25,6 @@ David Coulthard took a tactical victory for McLaren-Mercedes. Controvery struck 
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/2001/races/6/austrian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/2001/races/708/austria/race-result
 - **FIA Official Sporting Archives & Yearbooks (2001)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/2001/6/results.json`

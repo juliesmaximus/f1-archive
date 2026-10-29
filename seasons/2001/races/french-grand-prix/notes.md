@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Ralf Schumacher (Williams-BMW) - 1:12.989
-- **Fastest Lap:** David Coulthard (McLaren-Mercedes) - 1:16.088 (Lap 57)
+- **Fastest Lap:** David Coulthard (McLaren-Mercedes) - 1:16.088 (Lap 53)
 - **Race Winner:** Michael Schumacher (Ferrari)
 
 ---
@@ -25,6 +25,6 @@ Michael Schumacher took victory, using superior pit work to jump polesitter Ralf
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/2001/races/10/french-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/2001/races/712/france/race-result
 - **FIA Official Sporting Archives & Yearbooks (2001)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/2001/10/results.json`

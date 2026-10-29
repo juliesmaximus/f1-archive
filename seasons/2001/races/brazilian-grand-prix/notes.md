@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Michael Schumacher (Ferrari) - 1:13.780
-- **Fastest Lap:** Ralf Schumacher (Williams-BMW) - 1:15.693 (Lap 54)
+- **Fastest Lap:** Ralf Schumacher (Williams-BMW) - 1:15.693 (Lap 38)
 - **Race Winner:** David Coulthard (McLaren-Mercedes)
 
 ---
@@ -25,6 +25,6 @@ Juan Pablo Montoya announced his arrival on the world stage in only his 3rd Gran
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/2001/races/3/brazilian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/2001/races/705/brazil/race-result
 - **FIA Official Sporting Archives & Yearbooks (2001)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/2001/3/results.json`
