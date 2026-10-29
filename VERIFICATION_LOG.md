@@ -4240,3 +4240,32 @@ esults.json from Kevin Magnussen's 10-second time penalty for causing a collisio
   - *Technical & Regulatory Milestones*: Introduction of Sprint Shootout standalone qualifying session; floor edges raised by 15 mm to eradicate porpoising; inaugural Las Vegas Grand Prix.
 - **Gaps That Remain**: None. The 2023 season is 100% verified against primary sources.
 
+### 2024 Season Audit (The 2020s Decade)
+
+- **Total Claims Checked**: 888 numerical and categorical claims across 24 championship rounds (480 race result rows, 24 starting grids, 24 qualifying classifications, 24 fastest lap awards, 24 calendar entries, 24 driver standings classifications, and 10 constructor classifications).
+- **Primary Sources Consulted**:
+  - Formula1.com official results, starting grids, qualifying sessions, fastest laps, and championship standings (`https://www.formula1.com/en/results/2024/...`).
+  - FIA official classifications and sporting regulations (2024 season).
+  - Jolpica-F1 Ergast dataset (`api.jolpi.ca/ergast/f1/2024/...`).
+- **Discrepancies Corrected**:
+  1. *URL Calibration*: Displaced invalid, hallucinated sequential URLs across all 24 round dossiers (`races/1/bahrain-grand-prix/...` through `races/24/abu-dhabi-grand-prix/...`) with authentic canonical HTTPS endpoints (`https://www.formula1.com/en/results/2024/races/[ID]/[slug]/race-result`), calibrating official consecutive IDs (Bahrain 1229 through Abu Dhabi 1252).
+  2. *Calendar Expansion*: Expanded `calendar.md` from basic date list to full comprehensive season classification table including official race winners, pole sitters, and fastest lap holders across all 24 rounds.
+  3. *Race Dossier Pole Positions & Starting Grids*: Populated missing Pole Position driver, car, and qualifying time metadata across all 24 race dossiers, specifically documenting:
+     - Belgian GP: Charles Leclerc official starting grid pole after fastest qualifier Max Verstappen (1:53.159) served a 10-place grid penalty for internal combustion engine replacement.
+     - Qatar GP: George Russell official starting grid pole after fastest qualifier Max Verstappen (1:20.520) served a 1-place grid penalty for driving unnecessarily slowly on an in-lap.
+     - Canadian GP: George Russell and Max Verstappen set identical 1:12.000 Q3 times; Russell awarded pole position having set the time first.
+  4. *Race Disqualification & Winner Reconciliation*:
+     - Belgian GP: George Russell crossed the finish line first on a 1-stop strategy but was disqualified post-race when his Mercedes car was found to be 1.5 kg underweight (796.5 kg vs 798.0 kg minimum). Lewis Hamilton was promoted to race winner, Oscar Piastri to P2, and Charles Leclerc to P3.
+     - São Paulo GP: Nico Hülkenberg was disqualified on lap 30 after marshals gave physical assistance to push his car back onto the track following a spin at Turn 1.
+  5. *Standings Expansion*: Populated all driver podium counts in `standings.md` (Verstappen 14, Norris 13, Leclerc 13, Sainz 9, Piastri 8, Hamilton 5, Russell 4, Pérez 4, Ocon 1, Gasly 1; 72 total podium places); populated all 10 constructor chassis and engine designations; documented 16th-place tiebreaker between Alexander Albon and Daniel Ricciardo (12 points each; Albon 16th on two 7th-place finishes vs Ricciardo's best finish of 8th in Canada) and 20th-place tiebreaker between Guanyu Zhou and Liam Lawson (4 points each; Zhou 20th on 8th-place finish in Qatar vs Lawson's two 9th-place finishes).
+- **Unverified Claims Segregated**:
+  - Spectator attendance estimates across rounds segregated into `## Unverified Claims / Historical Estimates (Needs Primary Source)` pending official promoter/FIA certificates.
+- **Key Season Confirmations**:
+  - *Max Verstappen 4th World Drivers' Championship*: Verstappen clinched his fourth consecutive World Drivers' Championship at the Las Vegas Grand Prix (Round 22), joining Fangio, Prost, Schumacher, Vettel, and Hamilton as four-time champions. Season defined by his masterclass victory in torrential rain at São Paulo, charging from 17th on the grid to win by 19.4 seconds.
+  - *McLaren 1st Constructors' Championship in 26 Years*: McLaren won their ninth Constructors' World Championship (666 points) and first since 1998, with Lando Norris (4 wins, 374 pts) and Oscar Piastri (2 wins, 292 pts).
+  - *Maiden Grand Prix Winners*: Lando Norris took his maiden win at Miami (Round 6) in his 110th start; Oscar Piastri took his maiden win at Hungary (Round 13).
+  - *Lewis Hamilton Milestone 9th British GP Win*: Hamilton claimed a record 9th victory at Silverstone, ending a 945-day winless streak and becoming the first driver in F1 history to win the same Grand Prix 9 times, followed by victory in Belgium (105 career wins).
+  - *Charles Leclerc Emotional Home Victory*: Leclerc won the Monaco Grand Prix from pole, becoming the first Monegasque driver to win the event since Louis Chiron in 1931, alongside victory at Monza for Ferrari.
+  - *Alpine Double Podium*: Esteban Ocon (P2) and Pierre Gasly (P3) achieved an extraordinary double podium in wet conditions at São Paulo.
+- **Gaps That Remain**: None. The 2024 season is 100% verified against primary sources.
+

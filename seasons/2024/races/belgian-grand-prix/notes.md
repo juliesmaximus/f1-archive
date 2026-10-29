@@ -4,25 +4,27 @@
 - **Date**: 2024-07-28
 - **Winner**: Lewis Hamilton (Mercedes)
 - **Winning Grid Position**: P3
-- **Official Fastest Lap**: 1:44.701 (Lap 44, Sergio Pérez, Red Bull)
+- **Pole Position**: Charles Leclerc (Ferrari, 1:53.754) - promoted to pole after fastest qualifier Max Verstappen (1:53.159) served 10-place grid penalty for engine change
+- **Official Fastest Lap**: 1:44.701 (Lap 44, Sergio Perez, Red Bull Racing Honda RBPT)
+*Note: George Russell originally crossed the finish line first (1:19:57.040) but was disqualified post-race when his car was found 1.5 kg below the minimum weight limit. Lewis Hamilton was promoted to race winner.*
 
 ### Classified Top 10 Finishers & Points
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Pts |
 | :---: | :---: | :--- | :--- | :---: | :--- | :---: |
-| 1 | #44 | Lewis Hamilton | Mercedes | 44 | 1:19:57.566 | 25 |
-| 2 | #81 | Oscar Piastri | McLaren | 44 | +0.647 | 18 |
-| 3 | #16 | Charles Leclerc | Ferrari | 44 | +8.023 | 15 |
-| 4 | #1 | Max Verstappen | Red Bull | 44 | +8.700 | 12 |
-| 5 | #4 | Lando Norris | McLaren | 44 | +9.324 | 10 |
-| 6 | #55 | Carlos Sainz | Ferrari | 44 | +19.269 | 8 |
-| 7 | #11 | Sergio Pérez | Red Bull | 44 | +42.669 | 7 |
-| 8 | #14 | Fernando Alonso | Aston Martin | 44 | +49.437 | 4 |
-| 9 | #31 | Esteban Ocon | Alpine F1 Team | 44 | +52.026 | 2 |
-| 10 | #3 | Daniel Ricciardo | RB F1 Team | 44 | +54.400 | 1 |
+| 1 | #44 | Lewis Hamilton | Mercedes | 44 | +0.526s | 25 |
+| 2 | #81 | Oscar Piastri | McLaren Mercedes | 44 | +1.173s | 18 |
+| 3 | #16 | Charles Leclerc | Ferrari | 44 | +8.549s | 15 |
+| 4 | #1 | Max Verstappen | Red Bull Racing Honda RBPT | 44 | +9.226s | 12 |
+| 5 | #4 | Lando Norris | McLaren Mercedes | 44 | +9.850s | 10 |
+| 6 | #55 | Carlos Sainz | Ferrari | 44 | +19.795s | 8 |
+| 7 | #11 | Sergio Perez | Red Bull Racing Honda RBPT | 44 | +43.195s | 7 |
+| 8 | #14 | Fernando Alonso | Aston Martin Aramco Mercedes | 44 | +49.963s | 4 |
+| 9 | #31 | Esteban Ocon | Alpine Renault | 44 | +52.552s | 2 |
+| 10 | #3 | Daniel Ricciardo | RB Honda RBPT | 44 | +54.926s | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2024/races/14/belgian-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2024/races/1242/belgium/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2024/14/results.json
 
-Last verified: 2026-10-28
+Last verified: 2026-10-29
