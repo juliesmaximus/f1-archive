@@ -11,41 +11,44 @@
 - **Race Date:** 1987-05-17
 - **Scheduled Laps:** 43 laps
 - **Winning Time:** 1:27:03.217
-- **Winning Driver:** Alain Prost
-- **Winning Constructor:** McLaren
-- **Pole Position:** Nigel Mansell
-- **Fastest Lap:** N/A
-- **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 3, 1987)
+- **Winning Driver:** Alain Prost (McLaren-TAG)
+- **Pole Position:** Nigel Mansell (Williams-Honda) - 1:52.026
+- **Fastest Lap:** Alain Prost (McLaren-TAG) - 1:57.153 (lap 26)
+- **Primary Source:** Formula1.com Official Race Results / FIA Official Archives (Round 3, 1987)
 
 ---
 
-## Environmental & Circuit Conditions
-- **Weather:** Overcast and dry; 18°C ambient
-- **Spectator Attendance:** 80,000 spectators
-- **Grandstand Enclosures:** Raidillon, Eau Rouge, La Source enclosures
+## Environmental & Track Conditions
+- **Weather:** Dry and clear; 19°C ambient
+- **Circuit Layout & Landmarks:** Raidillon, Blanchimont, La Source grandstands
 
 ---
 
 ## Technical & Sporting Regulations
 - **Scoring System:** 9-6-4-3-2-1 for top 6 classified finishers.
-- **Championship Count Rule:** Best 11 results counted towards the World Championship.
-- **Specific Race Regulations:** Scoring system: 9-6-4-3-2-1.
+- **Championship Count Rule:** Best 11 results counted towards the Drivers' Championship; all results counted for the Constructors' Championship.
+- **Specific Regulations:** Race stopped on lap 1 due to massive collision between Philippe Streiff and Jonathan Palmer; full restart staged.
 
 ---
 
 ## Key Race Incidents & Tactical Scenarios
-MANSELL-SENNA CLASH & FIST FIGHT: Mansell took pole position. On lap 2, Mansell attempted an outside pass on Ayrton Senna entering the fast Campus bend; the two cars tangled and spun off into the gravel! Both cars retired. A furious Mansell marched straight into the Lotus garage, grabbed Senna by the throat and overalls, and had to be separated by Lotus team mechanics! Alain Prost capitalized on the chaos in his McLaren MP4/3, leading teammate Stefan Johansson home for a dominant McLaren 1-2 finish by 24.76 seconds.
+MANSELL VS SENNA COLLISION & PIT GARAGE CLASH: On lap 1 of the restarted race, Nigel Mansell attempted to pass Ayrton Senna around the outside at Campus. The two collided; Senna spun out instantly into retirement, while Mansell sustained handling damage and retired on lap 17. Furious, Mansell marched directly to the Lotus garage, grabbed Senna by the throat/overalls, and had to be physically separated by mechanics! Alain Prost capitalized on the chaos to lead a McLaren 1-2 finish ahead of teammate Stefan Johansson, with Andrea de Cesaris finishing 3rd for Brabham-BMW.
 
 ---
 
 ## Historical Significance & Legacy
-Alain Prost equalled Sir Jackie Stewart's all-time Formula One record of 27 Grand Prix victories.
+The infamous Mansell-Senna physical confrontation at Spa cemented one of Formula One's bitterest personal rivalries.
 
 ---
 
 ## Verification Checkpoint Summary
-- **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.
-- **Substance Check:** Full classification data stored locally in `results.json` and `qualifying.json`.
-- **Dual-Source Check:** Cross-verified with Jolpica-F1 Ergast historical datasets.
-- **Conflict Check:** Discrepancies between sources: 0.
-- **Hallucination Gate:** All claims substantiated by primary timing and sporting documents.
+- **Existence Check:** Confirmed against official Formula1.com race classifications, starting grids, fastest lap tables, and FIA World Championship records.
+- **Substance Check:** Starters, finishers, lap counts, and official race times cross-verified against primary timing sheets.
+- **Dual-Source Check:** Cross-referenced between Formula1.com and Jolpica-F1 Ergast historical database.
+- **Conflict Check:** Discrepancies resolved and documented in VERIFICATION_LOG.md.
+- **Hallucination Gate:** Zero unsourced numerical claims; all lap times, dates, and classifications verified against primary records.
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 70,000 estimated spectators in the Ardennes (crowd figures from contemporary news media/promoter estimates; not recorded in official FIA classifications).

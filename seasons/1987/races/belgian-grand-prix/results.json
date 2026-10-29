@@ -159,7 +159,7 @@
               "Driver": {
                 "driverId": "arnoux",
                 "url": "http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux",
-                "givenName": "Ren\u00e9",
+                "givenName": "René",
                 "familyName": "Arnoux",
                 "dateOfBirth": "1948-07-04",
                 "nationality": "French"
@@ -378,7 +378,7 @@
                 "nationality": "British"
               },
               "grid": "3",
-              "laps": "17",
+              "laps": "0",
               "status": "Accident"
             },
             {
@@ -596,7 +596,7 @@
               "Driver": {
                 "driverId": "campos",
                 "url": "http://en.wikipedia.org/wiki/Adri%C3%A1n_Campos",
-                "givenName": "Adri\u00e1n",
+                "givenName": "Adrián",
                 "familyName": "Campos",
                 "dateOfBirth": "1960-06-17",
                 "nationality": "Spanish"

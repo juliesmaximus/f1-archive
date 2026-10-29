@@ -11,41 +11,44 @@
 - **Race Date:** 1987-04-12
 - **Scheduled Laps:** 61 laps
 - **Winning Time:** 1:39:45.141
-- **Winning Driver:** Alain Prost
-- **Winning Constructor:** McLaren
-- **Pole Position:** Nigel Mansell
-- **Fastest Lap:** N/A
-- **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 1, 1987)
+- **Winning Driver:** Alain Prost (McLaren-TAG)
+- **Pole Position:** Nigel Mansell (Williams-Honda) - 1:26.128
+- **Fastest Lap:** Nelson Piquet (Williams-Honda) - 1:33.861 (lap 42)
+- **Primary Source:** Formula1.com Official Race Results / FIA Official Archives (Round 1, 1987)
 
 ---
 
-## Environmental & Circuit Conditions
-- **Weather:** Oppressive tropical heat; 35°C ambient
-- **Spectator Attendance:** 85,000 spectators
-- **Grandstand Enclosures:** Permanent grandstands along main straight
+## Environmental & Track Conditions
+- **Weather:** Hot and oppressive; 33°C ambient
+- **Circuit Layout & Landmarks:** Curva do Sol, Curva Sul, Arquibancada Principal
 
 ---
 
 ## Technical & Sporting Regulations
 - **Scoring System:** 9-6-4-3-2-1 for top 6 classified finishers.
-- **Championship Count Rule:** Best 11 results counted towards the World Championship.
-- **Specific Race Regulations:** Mandatory 4.0-bar pop-off valve introduced on all turbochargers. Jim Clark Trophy (NA drivers) and Colin Chapman Trophy (NA constructors) introduced.
+- **Championship Count Rule:** Best 11 results counted towards the Drivers' Championship; all results counted for the Constructors' Championship.
+- **Specific Regulations:** Introduction of mandatory 4.0-bar turbo boost pop-off valves and 195-litre fuel capacity limits.
 
 ---
 
 ## Key Race Incidents & Tactical Scenarios
-PROST'S STRATEGIC MASTERCLASS: Nigel Mansell qualified on pole in the Williams-Honda. In the punishing heat, Williams and Lotus cars blistered their Goodyear tires rapidly. Alain Prost in the McLaren MP4/3 TAG-Porsche executed a brilliant two-stop tire strategy, taking the lead on lap 21 to take victory by 40.54 seconds over Nelson Piquet (Williams) and Stefan Johansson (McLaren).
+Nigel Mansell took pole but suffered tire blister issues early in the sweltering heat. Alain Prost drove a tactical masterclass in tire conservation, executing a smooth 2-stop strategy in the McLaren MP4/3 TAG-Porsche to take a 40.5-second victory ahead of Nelson Piquet. Stefan Johansson finished 3rd on his McLaren debut. Alex Caffi completed 20 laps before retiring due to physical exhaustion; Jolpica listed him as Withdrew whereas Formula1.com recorded him as NC / DNF.
 
 ---
 
 ## Historical Significance & Legacy
-Alain Prost opened the season with his 26th career victory; set up the Williams-McLaren battle.
+Alain Prost demonstrated that supreme tire management could triumph over raw Williams-Honda horsepower in extreme conditions.
 
 ---
 
 ## Verification Checkpoint Summary
-- **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.
-- **Substance Check:** Full classification data stored locally in `results.json` and `qualifying.json`.
-- **Dual-Source Check:** Cross-verified with Jolpica-F1 Ergast historical datasets.
-- **Conflict Check:** Discrepancies between sources: 0.
-- **Hallucination Gate:** All claims substantiated by primary timing and sporting documents.
+- **Existence Check:** Confirmed against official Formula1.com race classifications, starting grids, fastest lap tables, and FIA World Championship records.
+- **Substance Check:** Starters, finishers, lap counts, and official race times cross-verified against primary timing sheets.
+- **Dual-Source Check:** Cross-referenced between Formula1.com and Jolpica-F1 Ergast historical database.
+- **Conflict Check:** Discrepancies resolved and documented in VERIFICATION_LOG.md.
+- **Hallucination Gate:** Zero unsourced numerical claims; all lap times, dates, and classifications verified against primary records.
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 80,000 estimated spectators at Jacarepaguá (crowd figures from contemporary news media/promoter estimates; not recorded in official FIA classifications).

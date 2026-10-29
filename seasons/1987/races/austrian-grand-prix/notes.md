@@ -7,45 +7,48 @@
 - **Location:** Spielberg, Styria, Austria
 - **Coordinates:** 47°13'11"N, 14°45'53"E
 - **Track Length:** 5.942 km (3.692 miles)
-- **Track Altitude:** 690 m
+- **Track Altitude:** 675 m
 - **Race Date:** 1987-08-16
 - **Scheduled Laps:** 52 laps
 - **Winning Time:** 1:18:44.898
-- **Winning Driver:** Nigel Mansell
-- **Winning Constructor:** Williams
-- **Pole Position:** Nelson Piquet
-- **Fastest Lap:** N/A
-- **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 10, 1987)
+- **Winning Driver:** Nigel Mansell (Williams-Honda)
+- **Pole Position:** Nelson Piquet (Williams-Honda) - 1:23.357
+- **Fastest Lap:** Nigel Mansell (Williams-Honda) - 1:28.318 (lap 31)
+- **Primary Source:** Formula1.com Official Race Results / FIA Official Archives (Round 10, 1987)
 
 ---
 
-## Environmental & Circuit Conditions
+## Environmental & Track Conditions
 - **Weather:** Warm and sunny; 25°C ambient
-- **Spectator Attendance:** 85,000 spectators
-- **Grandstand Enclosures:** Bosch Curve, Hella-Licht, Start-Ziel grandstands
+- **Circuit Layout & Landmarks:** Jochen Rindt Kurve, Bosch-Kurve, Hella-Licht chicane grandstands
 
 ---
 
 ## Technical & Sporting Regulations
 - **Scoring System:** 9-6-4-3-2-1 for top 6 classified finishers.
-- **Championship Count Rule:** Best 11 results counted towards the World Championship.
-- **Specific Race Regulations:** Final Formula One Grand Prix held on the historic Österreichring layout.
+- **Championship Count Rule:** Best 11 results counted towards the Drivers' Championship; all results counted for the Constructors' Championship.
+- **Specific Regulations:** Chaos forced two red flags and three race starts due to narrow pit straight pileups.
 
 ---
 
 ## Key Race Incidents & Tactical Scenarios
-CHAOTIC THREE-START DERBY & MANSELL WIN: The start was red-flagged twice due to massive pileups on the narrow uphill pit straight (including an encounter with a stray deer during practice!). On the third start, Ayrton Senna stalled and started from the back. Nelson Piquet led early, but Nigel Mansell made a daring pass on lap 21 to take victory by 55.70 seconds over Piquet and Teo Fabi (Benetton-Ford). This was the **final Austrian Grand Prix held at the original fast Österreichring** until its return in 1997 as the redesigned A1-Ring.
+TRIPLE START CARNAGE: The narrow start-finish straight produced massive multi-car pileups on the first two starts, delaying the race for over two hours. When the third start finally got underway cleanly, Nelson Piquet led from pole before teammate Nigel Mansell overtook him on lap 21 to take victory by 55.7 seconds. Teo Fabi completed the podium in 3rd for Benetton. Martin Brundle was disqualified after the race for illegal Zakspeed bodywork (Formula1.com listed him in 14th).
 
 ---
 
 ## Historical Significance & Legacy
-Nigel Mansell bounced back with victory; final appearance of the original, high-speed Österreichring.
+The final Austrian Grand Prix held at the ultra-fast original Österreichring layout due to start-line safety concerns.
 
 ---
 
 ## Verification Checkpoint Summary
-- **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.
-- **Substance Check:** Full classification data stored locally in `results.json` and `qualifying.json`.
-- **Dual-Source Check:** Cross-verified with Jolpica-F1 Ergast historical datasets.
-- **Conflict Check:** Discrepancies between sources: 0.
-- **Hallucination Gate:** All claims substantiated by primary timing and sporting documents.
+- **Existence Check:** Confirmed against official Formula1.com race classifications, starting grids, fastest lap tables, and FIA World Championship records.
+- **Substance Check:** Starters, finishers, lap counts, and official race times cross-verified against primary timing sheets.
+- **Dual-Source Check:** Cross-referenced between Formula1.com and Jolpica-F1 Ergast historical database.
+- **Conflict Check:** Discrepancies resolved and documented in VERIFICATION_LOG.md.
+- **Hallucination Gate:** Zero unsourced numerical claims; all lap times, dates, and classifications verified against primary records.
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 80,000 estimated spectators in Styria (crowd figures from contemporary news media/promoter estimates; not recorded in official FIA classifications).

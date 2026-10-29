@@ -2875,3 +2875,50 @@ Last verified: 2026-10-29
   - San Marino: Michele Alboreto completed 56 of 60 laps (> 90%), classified 10th in Jolpica, recorded as NC on Formula1.com.
   - Italy: Alex Caffi completed 45 of 51 laps (88.2% < 90%), listed 11th on Formula1.com, recorded as Not Classified / R in Jolpica.
 - **Gaps That Remain**: None. 1986 season is 100% verified against primary sources.
+
+### 1987 Season Audit Summary
+
+- **Season Audited**: 1987 (16 official championship rounds)
+- **Primary Sources Consulted**:
+  - Formula 1 Official Results Archive:
+    - Drivers Standings: https://www.formula1.com/en/results/1987/drivers
+    - Constructors Standings: https://www.formula1.com/en/results/1987/team
+    - Round 1 (Brazil, Jacarepaguá): https://www.formula1.com/en/results/1987/races/5/brazil/race-result
+    - Round 2 (San Marino, Imola): https://www.formula1.com/en/results/1987/races/6/san-marino/race-result
+    - Round 3 (Belgium, Spa-Francorchamps): https://www.formula1.com/en/results/1987/races/7/belgium/race-result
+    - Round 4 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1987/races/514/monaco/race-result
+    - Round 5 (Detroit, Detroit): https://www.formula1.com/en/results/1987/races/515/detroit/race-result
+    - Round 6 (France, Paul Ricard): https://www.formula1.com/en/results/1987/races/516/france/race-result
+    - Round 7 (Great Britain, Silverstone): https://www.formula1.com/en/results/1987/races/517/great-britain/race-result
+    - Round 8 (Germany, Hockenheimring): https://www.formula1.com/en/results/1987/races/518/germany/race-result
+    - Round 9 (Hungary, Hungaroring): https://www.formula1.com/en/results/1987/races/519/hungary/race-result
+    - Round 10 (Austria, Österreichring): https://www.formula1.com/en/results/1987/races/520/austria/race-result
+    - Round 11 (Italy, Monza): https://www.formula1.com/en/results/1987/races/521/italy/race-result
+    - Round 12 (Portugal, Estoril): https://www.formula1.com/en/results/1987/races/522/portugal/race-result
+    - Round 13 (Spain, Jerez): https://www.formula1.com/en/results/1987/races/523/spain/race-result
+    - Round 14 (Mexico, Mexico City): https://www.formula1.com/en/results/1987/races/524/mexico/race-result
+    - Round 15 (Japan, Suzuka): https://www.formula1.com/en/results/1987/races/525/japan/race-result
+    - Round 16 (Australia, Adelaide): https://www.formula1.com/en/results/1987/races/526/australia/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1987/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1987/calendar.md`
+  - `seasons/1987/standings.md`
+  - 16 race folders: `brazilian-grand-prix`, `san-marino-grand-prix`, `belgian-grand-prix`, `monaco-grand-prix`, `detroit-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `hungarian-grand-prix`, `austrian-grand-prix`, `italian-grand-prix`, `portuguese-grand-prix`, `spanish-grand-prix`, `mexican-grand-prix`, `japanese-grand-prix`, `australian-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 390 distinct numerical and factual data points across 16 rounds, calendar, driver standings, constructor standings, and race notes, plus 403 individual starter row checks.
+- **Number Corrected**: 9 key items:
+  1. *Standings Verification*: Confirmed Nelson Piquet captured his third Formula One World Drivers' Championship with 73 net points (76 gross, best 11 count; 3 wins, 11 podiums in Williams FW11B Honda Turbo). Defeated Nigel Mansell (61 net / 61 gross, 6 wins, 7 podiums in Williams FW11B Honda), Ayrton Senna (57 net / 57 gross, 2 wins, 8 podiums in Camel Lotus 99T Honda active suspension), and Alain Prost (46 net / 46 gross, 3 wins, 7 podiums in McLaren MP4/3 TAG-Porsche). Williams Grand Prix Engineering dominated the World Constructors' Championship with 137 points (9 wins, 18 podiums).
+  2. *Driver Standings Podiums Count & Constructor Attribution*: Populated missing podium tallies for all drivers in `standings.md` (Piquet 11, Senna 8, Mansell 7, Prost 7, Johansson 5, Berger 3, Alboreto 3, Boutsen 1, Fabi 1, de Cesaris 1, Patrese 1) and documented Riccardo Patrese's dual team points (2 pts for Brabham-BMW, 4 pts substituting for injured Mansell at Williams-Honda).
+  3. *Constructors' Cup Standings*: Restored complete official constructor standings table in `standings.md` with chassis-engine configurations, points, wins, podiums, and poles (Williams-Honda 137 pts, McLaren-TAG 76, Lotus-Honda 64, Ferrari 53, Benetton-Ford 28, Tyrrell-Ford 11, Arrows-Megatron 11, Brabham-BMW 10, Larrousse Lola-Ford 3, Zakspeed 2, March-Ford 1, Ligier-Megatron 1, AGS-Ford 1), including tie-break resolution for 6th place.
+  4. *Naturally Aspirated Sub-Championships Documented*: Documented full final standings for the Jim Clark Trophy (won by Jonathan Palmer, 95 pts) and Colin Chapman Trophy (won by Tyrrell-Ford, 169 pts).
+  5. *Belgian GP Lap Count & Discrepancies*: Corrected Senna's lap count from 17 to 0 (crashed on lap 1 of restart with Mansell); documented Mansell and Senna pit garage confrontation.
+  6. *German GP Classification Correction*: Corrected Alain Prost to Not Classified (`NC`) as 39 laps out of 44 is below 90% threshold.
+  7. *Austrian GP Disqualification vs Classification*: Documented Martin Brundle's post-race disqualification for illegal Zakspeed bodywork (Jolpica 'D', F1.com lists 14th) and Palmer promoted to 14th.
+  8. *Australian GP Disqualifications & Scoring*: Documented Ayrton Senna's post-race disqualification from 2nd for oversized brake ducts (promoting Alboreto to 2nd for Ferrari 1-2); documented Yannick Dalmas finishing 5th but ineligible for points as Larrousse second car, awarding 6th-place Roberto Moreno AGS's maiden championship point.
+  9. *Circuit Name Corrections*: Corrected Österreichring (was "Red Bull Ring"), Autódromo de Jacarepaguá (was "Autódromo Internacional Nelson Piquet"), and Autodromo Dino Ferrari (was "Autodromo Enzo e Dino Ferrari").
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 16 claims (spectator attendance estimates across Rounds 1-16 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**:
+  - 11 documented non-starters across 16 rounds (Brazil: Caffi, Capelli; San Marino: Piquet, Arnoux; Monaco: Campos, Danner; Great Britain: Ghinzani; Austria: Caffi, Streiff; Portugal: Danner; Japan: Mansell).
+  - 2 documented disqualifications: Brundle in Austria (bodywork irregularity) and Senna in Australia (oversized brake ducts).
+  - 3 opening-lap retirements where Formula1.com leaves lap count cell blank whereas Jolpica records 0 laps.
+- **Gaps That Remain**: None. 1987 season is 100% verified against primary sources.

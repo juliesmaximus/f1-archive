@@ -177,7 +177,7 @@
             {
               "number": "1",
               "position": "7",
-              "positionText": "7",
+              "positionText": "NC",
               "points": "0",
               "Driver": {
                 "driverId": "prost",
@@ -195,7 +195,7 @@
               },
               "grid": "3",
               "laps": "39",
-              "status": "Electrical"
+              "status": "Not classified"
             },
             {
               "number": "9",
@@ -251,7 +251,7 @@
               "Driver": {
                 "driverId": "campos",
                 "url": "http://en.wikipedia.org/wiki/Adri%C3%A1n_Campos",
-                "givenName": "Adri\u00e1n",
+                "givenName": "Adrián",
                 "familyName": "Campos",
                 "dateOfBirth": "1960-06-17",
                 "nationality": "Spanish"
@@ -596,7 +596,7 @@
               "Driver": {
                 "driverId": "arnoux",
                 "url": "http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux",
-                "givenName": "Ren\u00e9",
+                "givenName": "René",
                 "familyName": "Arnoux",
                 "dateOfBirth": "1948-07-04",
                 "nationality": "French"
