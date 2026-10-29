@@ -4080,3 +4080,67 @@ esults.json from Kevin Magnussen's 10-second time penalty for causing a collisio
   - *Charles Leclerc Maiden Victories*: Leclerc secured his breakthrough wins at Spa-Francorchamps (the day after Anthoine Hubert's tragic fatal F2 crash) and Monza in front of the ecstatic Tifosi, taking a season-high 7 pole positions.
   - *Red Bull-Honda Partnership*: Red Bull scored Honda's first Formula 1 victories since 2006, with Max Verstappen winning 3 races (Austria, Germany, Brazil).
 - **Gaps That Remain**: None. The 2019 season is 100% verified against primary sources.
+
+## DECADE CHECKPOINT AUDIT: THE 2010s (2010–2019)
+
+- **Total Seasons Audited & Reconciled**: 10 (2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019)
+- **Total Championship Grands Prix Completed**: Exactly 198 Rounds
+  - 2010: 19 rounds (IDs: 860–878)
+  - 2011: 19 rounds (IDs: 28–46)
+  - 2012: 20 rounds (IDs: 1, 4, 10–27)
+  - 2013: 19 rounds (IDs: 879–897)
+  - 2014: 19 rounds (IDs: 898–916)
+  - 2015: 19 rounds (IDs: 917–925, 927–936; 926 skipped due to German GP cancellation)
+  - 2016: 21 rounds (IDs: 938–958)
+  - 2017: 20 rounds (IDs: 959–978)
+  - 2018: 21 rounds (IDs: 979–999)
+  - 2019: 21 rounds (IDs: 1000–1020)
+- **Completeness Verification**:
+  - `results.json`: 198 / 198 files verified, dual-sourced, and validated (100%)
+  - `qualifying.json`: 198 / 198 files verified and validated (100%)
+  - `notes.md`: 198 / 198 verified dossiers with coordinates, weather, regulations, primary source citations, canonical URLs, and segregated unverified spectator attendance sections (100%)
+  - `calendar.md`: 10 / 10 seasons populated with verified winning times, pole times, and fastest lap times (100%)
+  - `standings.md`: 10 / 10 seasons populated with complete verified tables, driver points, podium counts, wins, poles, fastest laps, constructor chassis-engine combinations, and regulatory rules (100%)
+
+- **World Drivers' Champions of the 2010s**:
+  1. 2010: Sebastian Vettel (Red Bull-Renault) - 256 pts (Youngest World Drivers' Champion in history at 23 years, 134 days; clinches maiden title from 3rd in standings at Abu Dhabi finale, overcoming 15-point deficit)
+  2. 2011: Sebastian Vettel (Red Bull-Renault) - 392 pts (Youngest double World Champion at 24 years, 98 days; record 15 pole positions in a single season, 11 wins, 17 podiums)
+  3. 2012: Sebastian Vettel (Red Bull-Renault) - 281 pts (Youngest triple World Champion at 25 years, 145 days; triumphs after epic rain-soaked Brazilian GP recovery drive, edging Fernando Alonso by 3 points)
+  4. 2013: Sebastian Vettel (Red Bull-Renault) - 397 pts (Fourth consecutive World Championship at 26 years, 116 days; equals Schumacher's 2004 record of 13 wins in a season, sets all-time record of 9 consecutive Grand Prix wins)
+  5. 2014: Lewis Hamilton (Mercedes) - 384 pts (Hamilton's 2nd World Championship; first title of the Turbo-Hybrid era; 11 wins, clinches crown in double-points Abu Dhabi finale)
+  6. 2015: Lewis Hamilton (Mercedes) - 381 pts (Hamilton's 3rd World Championship; matches boyhood hero Ayrton Senna's 3 titles; 10 wins, 17 podiums, clinches title at Austin)
+  7. 2016: Nico Rosberg (Mercedes) - 385 pts (Rosberg's maiden World Championship; joins father Keke Rosberg (1982) as second father-son champion in F1 history; announces shock immediate retirement 5 days later)
+  8. 2017: Lewis Hamilton (Mercedes) - 363 pts (Hamilton's 4th World Championship; equals Prost and Vettel; breaks Schumacher's all-time pole position record with 69th pole at Monza; 9 wins)
+  9. 2018: Lewis Hamilton (Mercedes) - 408 pts (Hamilton's 5th World Championship; "Fight for Five" resolved against Vettel; matches Juan Manuel Fangio's 5 titles; 11 wins)
+  10. 2019: Lewis Hamilton (Mercedes) - 413 pts (Hamilton's 6th World Championship; moves within one of Schumacher's record 7 titles; 11 wins, 17 podiums)
+
+- **World Constructors' Champions of the 2010s**:
+  1. 2010: Red Bull Racing (Renault) - 498 pts (9 wins, 15 poles; maiden WCC)
+  2. 2011: Red Bull Racing (Renault) - 650 pts (12 wins, 18 poles; 2nd WCC)
+  3. 2012: Red Bull Racing (Renault) - 460 pts (7 wins, 8 poles; 3rd WCC)
+  4. 2013: Red Bull Racing (Renault) - 596 pts (13 wins, 11 poles; 4th consecutive WCC)
+  5. 2014: Mercedes AMG Petronas - 701 pts (16 wins, 18 poles, 11 1-2s; maiden WCC)
+  6. 2015: Mercedes AMG Petronas - 703 pts (16 wins, 18 poles, 12 1-2s; 2nd WCC)
+  7. 2016: Mercedes AMG Petronas - 765 pts (Record 19 wins, 20 poles, 12 1-2s; 3rd WCC)
+  8. 2017: Mercedes AMG Petronas - 668 pts (12 wins, 15 poles; 4th WCC)
+  9. 2018: Mercedes AMG Petronas - 655 pts (11 wins, 13 poles; 5th WCC)
+  10. 2019: Mercedes AMG Petronas - 739 pts (15 wins, 10 poles; record 6th consecutive double WDC/WCC)
+
+- **Critical Corrections & Audited Discoveries of the 2010s**:
+  - *2010 Canada Retiree Laps*: Reconciled Glock (50), Trulli (42), de la Rosa (30), and Senna (13) completed lap counts with official classifications.
+  - *2011 Malaysia Classification*: Verified Adrian Sutil completed all 56 laps (classified 11th, +101.379s).
+  - *2012 Malaysia Penalty*: Reconciled Narain Karthikeyan's 20-second penalty dropping him to 22nd behind Pedro de la Rosa (21st).
+  - *2013 US GP Collision Penalty*: Reconciled Jean-Éric Vergne's 20-second penalty dropping him from 12th to 16th behind Massa (12th), Gutiérrez (13th), Kovalainen (14th), and di Resta (15th).
+  - *2014 Belgian GP Fastest Lap*: Reconciled Fastest Lap holder from Daniel Ricciardo to official record holder Nico Rosberg (1:50.511 on lap 36).
+  - *2014 Italy Collision Penalty*: Reconciled Esteban Gutiérrez's 20-second penalty dropping him to 20th behind Marcus Ericsson (19th).
+  - *2015 Abu Dhabi Fastest Lap*: Reconciled Fastest Lap holder from Sebastian Vettel to official record holder Lewis Hamilton (1:44.517 on lap 44).
+  - *2016 Spain Collision Penalty*: Reconciled Kevin Magnussen's 10-second penalty dropping him to 15th behind Felipe Nasr (14th).
+  - *2016 Monaco & Mexico Fastest Lap Dossier Timings*: Reconciled Monaco FL lap from 50 to official lap 71 (Hamilton); reconciled Mexico FL time from 1:22.472 to official 1:21.134 on lap 53 (Ricciardo).
+  - *2017 Bahrain, Monaco & Canada Fastest Lap Dossier Timings*: Reconciled Bahrain FL time from 1:34.828 to 1:32.798 (Hamilton); Monaco FL lap from 56 to 76 (Pérez); Canada FL timing from 1:14.511 on lap 69 to 1:14.551 on lap 64 (Hamilton).
+  - *2018 Constructors' Championship Standings Restructuring*: Corrected major error where Force India was listed 5th with 111 combined points; officially documented Sahara Force India's forfeiture of 59 points under administration and Racing Point Force India's new entry classification in 7th with 52 points, promoting Haas to 5th (93) and McLaren to 6th (62).
+  - *2018 Brazil Blue Flag Penalty*: Reconciled Stoffel Vandoorne's 5-second blue flag penalty dropping him to 15th behind Esteban Ocon (14th).
+  - *2019 Mexican GP Pole Position*: Reconciled official starting grid pole position holder Charles Leclerc (1:15.024) following Max Verstappen's 3-place grid penalty for yellow flag infringement.
+  - *Spectator Attendance Segregation*: Segregated promoter estimates across all 198 Grands Prix into `## Unverified Claims / Historical Estimates (Needs Primary Source)` pending official FIA certification.
+
+- **Unresolved Conflicts or Outstanding Gaps**:
+  - ZERO gaps remain. All 10 seasons, 198 Grands Prix, 4,200+ classified entries, and championship tables are 100% verified against primary sources.
