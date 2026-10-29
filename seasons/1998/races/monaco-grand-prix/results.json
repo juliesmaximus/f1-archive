@@ -37,7 +37,7 @@
                 "driverId": "hakkinen",
                 "url": "http://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen",
                 "givenName": "Mika",
-                "familyName": "H\u00e4kkinen",
+                "familyName": "Häkkinen",
                 "dateOfBirth": "1968-09-28",
                 "nationality": "Finnish"
               },
@@ -510,7 +510,7 @@
                 "nationality": "British"
               },
               "grid": "5",
-              "laps": "5",
+              "laps": "9",
               "status": "Collision"
             },
             {

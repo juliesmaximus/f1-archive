@@ -25,6 +25,6 @@ McLaren dominated the high-speed forest straights of Hockenheim, scoring another
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1998/races/11/german-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1998/races/681/germany/race-result
 - **FIA Official Sporting Archives & Yearbooks (1998)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1998/11/results.json`

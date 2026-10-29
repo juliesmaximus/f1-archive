@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Mika Häkkinen (McLaren-Mercedes) - 1:23.271
-- **Fastest Lap:** Mika Häkkinen (McLaren-Mercedes) - 1:35.704 (Lap 41)
+- **Fastest Lap:** Michael Schumacher (Ferrari) - 1:35.704 (Lap 12)
 - **Race Winner:** Michael Schumacher (Ferrari)
 
 ---
@@ -25,6 +25,6 @@ One of the most bizarre and controversial race finishes in history. In heavy rai
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1998/races/9/british-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1998/races/679/great-britain/race-result
 - **FIA Official Sporting Archives & Yearbooks (1998)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1998/9/results.json`

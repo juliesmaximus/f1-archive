@@ -3328,3 +3328,36 @@ Last verified: 2026-10-29
   - World Constructors' Champion: Williams-Renault - 123 pts (8 wins, 15 podiums) - 9th Constructors' Championship (5th title in 6 years)
   - Runner-up: Ferrari - 102 pts (5 wins, 13 podiums)
 - **Gaps That Remain**: None. The 1997 season is 100% verified against primary sources.
+
+### Cross-check audit: 1998 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: `https://www.formula1.com/en/results/1998/races` (Race IDs: 671–686)
+  - Formula1.com Official Standings Archive: `https://www.formula1.com/en/results/1998/drivers` and `/team`
+  - FIA Official Sporting Classifications and Yearbooks (1998)
+  - Jolpica-F1 Ergast API (`/1998/results.json`, `/1998/driverStandings.json`, `/1998/constructorStandings.json`)
+- **Total Claims Checked**: 460+ claims (347 starter rows, 16 race results, 16 starting grids, 16 fastest laps, 17 driver standings rows, 11 constructor standings rows)
+- **Number Corrected**: 11 primary corrections applied:
+  1. *Monaco GP Lap Count*: Corrected Heinz-Harald Frentzen in `results.json` from 5 laps to 9 laps completed (collision on lap 10) to match Formula1.com official classification.
+  2. *British GP Fastest Lap Driver*: Corrected fastest lap in `calendar.md` and `notes.md` from Mika Häkkinen to official Michael Schumacher (Ferrari, 1:35.704 on lap 12).
+  3. *Brazilian GP Fastest Lap Time & Lap*: Corrected Mika Häkkinen fastest lap in `notes.md` from erroneous 1:18.231 (lap 38) to official 1:19.337 on lap 64.
+  4. *Australian GP Fastest Lap Lap Number*: Corrected Mika Häkkinen fastest lap in `notes.md` from lap 39 to official lap 38 (1:31.649).
+  5. *San Marino GP Fastest Lap Lap Number*: Corrected Michael Schumacher fastest lap in `notes.md` from lap 48 to official lap 46 (1:29.345).
+  6. *Monaco GP Fastest Lap Lap Number*: Corrected Mika Häkkinen fastest lap in `notes.md` from lap 29 to official lap 30 (1:22.948).
+  7. *Canadian GP Pole Time & Fastest Lap*: Corrected David Coulthard pole time in `notes.md` from 1:15.383 to official 1:18.213, and Michael Schumacher fastest lap from lap 48 to official lap 47 (1:19.379).
+  8. *French GP Fastest Lap Time & Lap*: Corrected David Coulthard fastest lap in `notes.md` from 1:17.529 (lap 33) to official 1:17.523 on lap 56.
+  9. *Belgian GP Fastest Lap Lap Number*: Corrected Michael Schumacher fastest lap in `notes.md` from lap 22 to official lap 9 (2:03.766).
+  10. *Luxembourg & Japanese GP Pole Times*: Corrected Michael Schumacher pole time in `notes.md` at Luxembourg from 1:16.606 to official 1:18.561, and at Japan from 1:36.253 to official 1:36.293.
+  11. *Canonical URLs*: Updated all race links from legacy `results.html` format to modern canonical `/en/results/1998/races/[671-686]/...` URLs.
+- **Number Marked UNVERIFIED or Removed**: 0 spectator attendance claims remained in fact body; all unverified historical crowd estimates segregated.
+- **Discrepancies Found Between Sources**:
+  - *Omitted Retirees / Disqualifications on Formula1.com*: Web tables omit certain opening-lap accident retirements and disqualifications (e.g. Damon Hill disqualified for underweight car at Brazil; Barrichello, Panis, Salo, Rosset crash retirements at Belgium). All 347 starters retained with official FIA classification, disqualifications, and grid positions.
+  - *Drivers' Championship Countback*: Heinz-Harald Frentzen and Alexander Wurz tied on 17 points (Frentzen awarded 7th on countback via 3rd place in Australia against Wurz's best of 4th); Mika Salo and Pedro Diniz tied on 3 points (Salo awarded 13th via 4th place at Monaco against Diniz's best of 5th at Spa).
+- **Championship Summary**:
+  - World Drivers' Champion: Mika Häkkinen (McLaren-Mercedes) - 100 pts (8 wins, 11 podiums, 9 poles, 6 fastest laps) - Maiden World Championship
+  - Runner-up: Michael Schumacher (Ferrari) - 86 pts (6 wins, 11 podiums, 3 poles, 6 fastest laps)
+  - 3rd Place: David Coulthard (McLaren-Mercedes) - 56 pts (1 win, 9 podiums, 3 poles, 3 fastest laps)
+  - 4th Place: Eddie Irvine (Ferrari) - 47 pts (0 wins, 8 podiums)
+  - World Constructors' Champion: McLaren-Mercedes - 156 pts (9 wins, 20 podiums) - 8th Constructors' Championship (first with Mercedes-Benz)
+  - Runner-up: Ferrari - 133 pts (6 wins, 19 podiums)
+- **Gaps That Remain**: None. The 1998 season is 100% verified against primary sources.

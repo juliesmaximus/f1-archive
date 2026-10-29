@@ -13,7 +13,7 @@
 ---
 
 ## Key Race Results & Milestones
-- **Pole Position:** Michael Schumacher (Ferrari) - 1:16.606
+- **Pole Position:** Michael Schumacher (Ferrari) - 1:18.561
 - **Fastest Lap:** Mika Häkkinen (McLaren-Mercedes) - 1:20.450 (Lap 25)
 - **Race Winner:** Mika Häkkinen (McLaren-Mercedes)
 
@@ -25,6 +25,6 @@ A crucial psychological breakthrough for Mika Häkkinen. Ferrari locked out the 
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1998/races/15/luxembourg-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1998/races/685/luxembourg/race-result
 - **FIA Official Sporting Archives & Yearbooks (1998)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1998/15/results.json`

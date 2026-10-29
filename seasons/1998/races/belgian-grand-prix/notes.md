@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Mika Häkkinen (McLaren-Mercedes) - 1:48.682
-- **Fastest Lap:** Michael Schumacher (Ferrari) - 2:03.766 (Lap 22)
+- **Fastest Lap:** Michael Schumacher (Ferrari) - 2:03.766 (Lap 9)
 - **Race Winner:** Damon Hill (Jordan-Mugen-Honda)
 
 ---
@@ -25,6 +25,6 @@ One of the most famous, chaotic races in motorsport history. On lap 1, Coulthard
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1998/races/13/belgian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1998/races/683/belgium/race-result
 - **FIA Official Sporting Archives & Yearbooks (1998)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1998/13/results.json`

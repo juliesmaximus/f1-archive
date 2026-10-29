@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Mika Häkkinen (McLaren-Mercedes) - 1:30.010
-- **Fastest Lap:** Mika Häkkinen (McLaren-Mercedes) - 1:31.649 (Lap 39)
+- **Fastest Lap:** Mika Häkkinen (McLaren-Mercedes) - 1:31.649 (Lap 38)
 - **Race Winner:** Mika Häkkinen (McLaren-Mercedes)
 
 ---
@@ -25,6 +25,6 @@ Debut of narrow-track cars and grooved tyres. McLaren-Mercedes obliterated the f
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1998/races/1/australian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1998/races/671/australia/race-result
 - **FIA Official Sporting Archives & Yearbooks (1998)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1998/1/results.json`

@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Mika Häkkinen (McLaren-Mercedes) - 1:17.092
-- **Fastest Lap:** Mika Häkkinen (McLaren-Mercedes) - 1:18.231 (Lap 38)
+- **Fastest Lap:** Mika Häkkinen (McLaren-Mercedes) - 1:19.337 (Lap 64)
 - **Race Winner:** Mika Häkkinen (McLaren-Mercedes)
 
 ---
@@ -25,6 +25,6 @@ Following a formal protest by Ferrari, McLaren's innovative 'fiddle brake' (seco
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1998/races/2/brazilian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1998/races/672/brazil/race-result
 - **FIA Official Sporting Archives & Yearbooks (1998)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1998/2/results.json`

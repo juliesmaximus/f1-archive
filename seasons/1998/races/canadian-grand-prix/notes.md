@@ -13,8 +13,8 @@
 ---
 
 ## Key Race Results & Milestones
-- **Pole Position:** David Coulthard (McLaren-Mercedes) - 1:15.383
-- **Fastest Lap:** Michael Schumacher (Ferrari) - 1:19.379 (Lap 48)
+- **Pole Position:** David Coulthard (McLaren-Mercedes) - 1:18.213
+- **Fastest Lap:** Michael Schumacher (Ferrari) - 1:19.379 (Lap 47)
 - **Race Winner:** Michael Schumacher (Ferrari)
 
 ---
@@ -25,6 +25,6 @@ A chaotic race featuring three start attempts and five Safety Car periods. Both 
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1998/races/7/canadian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1998/races/677/canada/race-result
 - **FIA Official Sporting Archives & Yearbooks (1998)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1998/7/results.json`

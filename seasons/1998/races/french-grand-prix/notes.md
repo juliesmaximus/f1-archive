@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Mika Häkkinen (McLaren-Mercedes) - 1:14.929
-- **Fastest Lap:** David Coulthard (McLaren-Mercedes) - 1:17.529 (Lap 33)
+- **Fastest Lap:** David Coulthard (McLaren-Mercedes) - 1:17.523 (Lap 56)
 - **Race Winner:** Michael Schumacher (Ferrari)
 
 ---
@@ -25,6 +25,6 @@ Ferrari locked out the front row and scored an imperious 1-2 finish, with Michae
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1998/races/8/french-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1998/races/678/france/race-result
 - **FIA Official Sporting Archives & Yearbooks (1998)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1998/8/results.json`

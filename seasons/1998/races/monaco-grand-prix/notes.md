@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Mika Häkkinen (McLaren-Mercedes) - 1:19.798
-- **Fastest Lap:** Mika Häkkinen (McLaren-Mercedes) - 1:22.948 (Lap 29)
+- **Fastest Lap:** Mika Häkkinen (McLaren-Mercedes) - 1:22.948 (Lap 30)
 - **Race Winner:** Mika Häkkinen (McLaren-Mercedes)
 
 ---
@@ -25,6 +25,6 @@ Häkkinen claimed his maiden Monaco Grand Prix victory from pole position, leadi
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1998/races/6/monaco-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1998/races/676/monaco/race-result
 - **FIA Official Sporting Archives & Yearbooks (1998)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1998/6/results.json`

@@ -13,7 +13,7 @@
 ---
 
 ## Key Race Results & Milestones
-- **Pole Position:** Michael Schumacher (Ferrari) - 1:36.253
+- **Pole Position:** Michael Schumacher (Ferrari) - 1:36.293
 - **Fastest Lap:** Michael Schumacher (Ferrari) - 1:40.190 (Lap 19)
 - **Race Winner:** Mika Häkkinen (McLaren-Mercedes)
 
@@ -25,6 +25,6 @@ The championship decider. Michael Schumacher took pole position but stalled on t
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1998/races/16/japanese-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1998/races/686/japan/race-result
 - **FIA Official Sporting Archives & Yearbooks (1998)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1998/16/results.json`

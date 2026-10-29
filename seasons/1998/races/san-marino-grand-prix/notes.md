@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** David Coulthard (McLaren-Mercedes) - 1:25.973
-- **Fastest Lap:** Michael Schumacher (Ferrari) - 1:29.345 (Lap 48)
+- **Fastest Lap:** Michael Schumacher (Ferrari) - 1:29.345 (Lap 46)
 - **Race Winner:** David Coulthard (McLaren-Mercedes)
 
 ---
@@ -25,6 +25,6 @@ David Coulthard took victory from pole position for McLaren-Mercedes, withstandi
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1998/races/4/san-marino-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1998/races/674/san-marino/race-result
 - **FIA Official Sporting Archives & Yearbooks (1998)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1998/4/results.json`
