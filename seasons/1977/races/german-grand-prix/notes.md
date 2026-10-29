@@ -13,14 +13,18 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Niki Lauda (Ferrari) — 1:31:49.300  
-- **Pole Position:** Jody Scheckter  
+- **Winner:** Niki Lauda — 1:31:48.620  
+- **Pole Position:** Jody Scheckter — 1:53.070  
+- **Fastest Lap:** Niki Lauda — 1:55.990  
 - **Weather & Track Conditions:** Warm, sunny, dry; 27°C ambient  
-- **Spectator Attendance:** 110,000 spectators packing the Motodrom stadium  
 - **Grandstand & Infrastructure:** Colossal concrete Motodrom stadium grandstands and forest chicane banks  
 
 ### Race Anomalies, Incidents & Key Events
 PERMANENT MOVE TO HOCKENHEIM & LAUDA WINS: Following Niki Lauda's 1976 crash on the Nordschleife, the German Grand Prix moved permanently to the fast forest circuit of Hockenheim. Jody Scheckter took pole for Wolf. In the race, Niki Lauda passed Scheckter on lap 13 in the Ferrari 312T2 and pulled away in commanding fashion to win by 14.33 seconds over Scheckter and Hans-Joachim Stuck (Brabham 3rd). Hunt retired with engine failure.
+
+
+### Historic Anomaly: Hans Heyer's Illegal Start (DNQ, DNF, DSQ)
+German driver Hans Heyer failed to qualify (DNQ) for the race in his ATS Racing Team Penske PC4. However, as a reserve sitting in the pitlane, when the start lights went green and a start collision occurred, Heyer drove out onto the track and competed in the Grand Prix. He ran for 9 laps until his transmission broke. The race stewards only realized he was not a qualified starter after his retirement, subsequently issuing a disqualification. Formula1.com officially lists Hans Heyer in the race classification (Position NC, Car #35, 9 laps, DNF). Clay Regazzoni (Ensign #22) qualified 22nd and retired on lap 0 (start collision), officially classified NC.
 
 ### Historical & Regulatory Context
 Lauda expanded his championship lead to 48 points, 10 clear of Scheckter.
@@ -58,8 +62,14 @@ Lauda expanded his championship lead to 48 points, 10 clear of Scheckter.
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 110,000 spectators packing the Motodrom stadium (historical crowd estimate; unverified by official race classification)
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1977/11/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1977 Round 11 Results](https://www.formula1.com/en/results.html/1977/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Official Formula 1 Archive (XXXIX Grosser Preis von Deutschland)](https://www.formula1.com/en/results/1977/races/384/germany/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

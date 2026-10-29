@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Mario Andretti (Team Lotus) — 1:39:40.130  
-- **Pole Position:** Mario Andretti  
+- **Winner:** Mario Andretti — 1:39:40.130  
+- **Pole Position:** Mario Andretti — 1:12.210  
+- **Fastest Lap:** Mario Andretti — 1:13.750  
 - **Weather & Track Conditions:** Warm, sunny, dry; 26°C ambient  
-- **Spectator Attendance:** 80,000 spectators packing the hillside bowl  
 - **Grandstand & Infrastructure:** Start-finish grandstands and hillside natural terraces  
 
 ### Race Anomalies, Incidents & Key Events
@@ -57,8 +57,14 @@ Mario Andretti took his 3rd win of the season, moving into 2nd in the championsh
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 80,000 spectators packing the hillside bowl (historical crowd estimate; unverified by official race classification)
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1977/9/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1977 Round 9 Results](https://www.formula1.com/en/results.html/1977/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Official Formula 1 Archive (63e Grand Prix de France)](https://www.formula1.com/en/results/1977/races/382/france/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

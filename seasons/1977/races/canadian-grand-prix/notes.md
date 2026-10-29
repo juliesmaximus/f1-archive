@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jody Scheckter (Wolf) — 1:40  
-- **Pole Position:** Mario Andretti  
+- **Winner:** Jody Scheckter — 1:40:00.000  
+- **Pole Position:** Mario Andretti — 1:11.385  
+- **Fastest Lap:** Mario Andretti — 1:13.299  
 - **Weather & Track Conditions:** Cool, overcast, dry; 14°C ambient  
-- **Spectator Attendance:** 50,000 Canadian spectators  
 - **Grandstand & Infrastructure:** Paddock grandstand, Corner 2 hillside banks, and Moss Corner infield  
 
 ### Race Anomalies, Incidents & Key Events
@@ -61,8 +61,14 @@ Gilles Villeneuve's first race for Ferrari. Walter Wolf Racing secured 2nd place
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 50,000 Canadian spectators (historical crowd estimate; unverified by official race classification)
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1977/16/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1977 Round 16 Results](https://www.formula1.com/en/results.html/1977/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Official Formula 1 Archive (16th Player's Grand Prix du Canada)](https://www.formula1.com/en/results/1977/races/389/canada/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

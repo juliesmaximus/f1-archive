@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Mario Andretti (Team Lotus) — 1:27:50.300  
-- **Pole Position:** James Hunt  
+- **Winner:** Mario Andretti — 1:27:50.300  
+- **Pole Position:** James Hunt — 1:38.080  
+- **Fastest Lap:** Mario Andretti — 1:39.100  
 - **Weather & Track Conditions:** Warm, sunny, dry late summer weather; 27°C ambient  
-- **Spectator Attendance:** 150,000 spectators packing the Monza parkland  
 - **Grandstand & Infrastructure:** Tribuna Centrale, Vedano, Ascari, and Parabolica spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -59,8 +59,14 @@ Niki Lauda became a double World Champion. Ferrari celebrated their third consec
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 150,000 spectators packing the Monza parkland (historical crowd estimate; unverified by official race classification)
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1977/14/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1977 Round 14 Results](https://www.formula1.com/en/results.html/1977/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Official Formula 1 Archive (48° Gran Premio d'Italia)](https://www.formula1.com/en/results/1977/races/387/italy/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

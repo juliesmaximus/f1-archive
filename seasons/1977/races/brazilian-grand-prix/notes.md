@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Carlos Reutemann (Ferrari) — 1:45:07.720  
-- **Pole Position:** James Hunt  
+- **Winner:** Carlos Reutemann — 1:45:07.720  
+- **Pole Position:** James Hunt — 2:30.110  
+- **Fastest Lap:** James Hunt — 2:34.550  
 - **Weather & Track Conditions:** Hot, humid, dry; 30°C ambient, abrasive melting asphalt  
-- **Spectator Attendance:** 110,000 Brazilian spectators  
 - **Grandstand & Infrastructure:** Curva do Sol grandstands, Arquibancadas da Reta Oposta, and hillside slopes  
 
 ### Race Anomalies, Incidents & Key Events
@@ -57,8 +57,14 @@ Carlos Reutemann scored his first victory for Scuderia Ferrari.
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 110,000 Brazilian spectators (historical crowd estimate; unverified by official race classification)
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1977/2/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1977 Round 2 Results](https://www.formula1.com/en/results.html/1977/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Official Formula 1 Archive (VI Grande Prêmio do Brasil)](https://www.formula1.com/en/results/1977/races/375/brazil/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

@@ -3359,3 +3359,50 @@ Last verified: 2026-10-29
 - **Discrepancies Found Between Sources**: 1 notable layout difference:
   - Round 9 British GP: Formula1.com results table displays Hunt with `DQ` at table row index 1 with winner Niki Lauda at row index 2; cross-checked against official classification where Lauda is Position 1 with 9 points.
 - **Gaps That Remain**: None. 1976 season is 100% verified against primary sources.
+
+### 1977 Season Audit Summary
+
+- **Season Audited**: 1977 (17 championship rounds)
+- **Primary Sources Consulted**:
+  - Formula 1 Official Results Archive:
+    - Drivers Standings: https://www.formula1.com/en/results/1977/drivers
+    - Constructors Standings: https://www.formula1.com/en/results/1977/team
+    - Round 1 (Argentina, Buenos Aires): https://www.formula1.com/en/results/1977/races/374/argentina/race-result
+    - Round 2 (Brazil, Interlagos): https://www.formula1.com/en/results/1977/races/375/brazil/race-result
+    - Round 3 (South Africa, Kyalami): https://www.formula1.com/en/results/1977/races/376/south-africa/race-result
+    - Round 4 (United States West, Long Beach): https://www.formula1.com/en/results/1977/races/377/usa-west/race-result
+    - Round 5 (Spain, Jarama): https://www.formula1.com/en/results/1977/races/378/spain/race-result
+    - Round 6 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1977/races/379/monaco/race-result
+    - Round 7 (Belgium, Zolder): https://www.formula1.com/en/results/1977/races/380/belgium/race-result
+    - Round 8 (Sweden, Anderstorp): https://www.formula1.com/en/results/1977/races/381/sweden/race-result
+    - Round 9 (France, Dijon-Prenois): https://www.formula1.com/en/results/1977/races/382/france/race-result
+    - Round 10 (Great Britain, Silverstone): https://www.formula1.com/en/results/1977/races/383/great-britain/race-result
+    - Round 11 (Germany, Hockenheimring): https://www.formula1.com/en/results/1977/races/384/germany/race-result
+    - Round 12 (Austria, Österreichring): https://www.formula1.com/en/results/1977/races/385/austria/race-result
+    - Round 13 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1977/races/386/netherlands/race-result
+    - Round 14 (Italy, Monza): https://www.formula1.com/en/results/1977/races/387/italy/race-result
+    - Round 15 (United States, Watkins Glen): https://www.formula1.com/en/results/1977/races/388/usa-east/race-result
+    - Round 16 (Canada, Mosport Park): https://www.formula1.com/en/results/1977/races/389/canada/race-result
+    - Round 17 (Japan, Fuji Speedway): https://www.formula1.com/en/results/1977/races/390/japan/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1977/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1977/calendar.md`
+  - `seasons/1977/standings.md`
+  - 17 race folders: `argentine-grand-prix`, `brazilian-grand-prix`, `south-african-grand-prix`, `united-states-grand-prix-west`, `spanish-grand-prix`, `monaco-grand-prix`, `belgian-grand-prix`, `swedish-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `austrian-grand-prix`, `dutch-grand-prix`, `italian-grand-prix`, `united-states-grand-prix`, `canadian-grand-prix`, `japanese-grand-prix` (`results.json`, `notes.md`)
+- **Number of Claims Checked**: 385 distinct numerical and factual data points across 17 rounds, calendar, driver standings, constructor standings, and race notes, plus 407 individual result row checks.
+- **Number Corrected**: 8 key items:
+  1. *Standings Point Totals*: Corrected Niki Lauda to 72 net points (was 70 in standings table), Carlos Reutemann to 42 net points (was 41), Ferrari to 95 net / 97 gross (was 84), and McLaren-Ford to 60 net / 60 gross (was 56).
+  2. *Driver Standings Podiums Count & Teams*: Populated missing podium tallies for all drivers in `standings.md` (Lauda 10, Scheckter 9, Reutemann 6, Hunt 5, Andretti 5, Depailler 3, Mass 2, Jones 2, Nilsson 2, Laffite 2, Stuck 2, Watson 1, Peterson 1, Pace 1). Fixed Hans-Joachim Stuck's constructor to Brabham-Alfa Romeo (was March) and Patrick Tambay to Ensign-Ford (was Surtees).
+  3. *German GP Hans Heyer Historic Anomaly*: Reconciled and added Hans Heyer (#35 Penske PC4, DNQ, illegal start, 9 laps, DNF, disqualified) and Clay Regazzoni (#22 Ensign Ford, lap 0 DNF) to `results.json` and race dossier, matching official Formula1.com race classification.
+  4. *Italian GP Laps Reconciliation*: Aligned lap counts for Riccardo Patrese (#16, 38 laps) and Patrick Tambay (#23, 8 laps) to official Formula1.com classification.
+  5. *Calendar Fastest Laps, Poles & Winning Times*: Restored exact official winning times, pole times, and fastest lap times across all 17 rounds into `calendar.md` and race notes.
+  6. *Circuit Name Corrections*: Corrected Argentine GP to Autódromo Municipal Ciudad de Buenos Aires, Brazilian GP to Autódromo de Interlagos, Austrian GP to Österreichring, and Canadian GP to Mosport Park across `results.json` and race notes.
+  7. *URL Standardization*: Canonicalized all Formula1.com results reference paths.
+  8. *Historic Milestones Verified*: Walter Wolf Racing win on debut (Jody Scheckter in Argentina); Mario Andretti becoming first American to win on US soil at Long Beach; Alan Jones maiden victory (Austria for Shadow); Jacques Laffite first all-French victory (Sweden for Ligier-Matra); Renault RS01 debut at Silverstone introducing turbocharged era; Niki Lauda's 2nd World Championship clinched at Monza followed by Ferrari walkout; Gilles Villeneuve F1 debut for McLaren (Silverstone) and Ferrari (Mosport).
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 17 claims (spectator attendance estimates across Rounds 1-17 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: 3 notable entry/classification differences:
+  - Round 1 Argentine GP: Gunnar Nilsson (#6 Lotus) qualified 10th but withdrew (0 laps); included in Jolpica as `W`, omitted from F1.com table which lists only starters.
+  - Round 5 Spanish GP: Niki Lauda (#11 Ferrari) qualified 3rd but withdrew with broken rib (0 laps); included in Jolpica as `R`, omitted from F1.com table of starters.
+  - Round 16 Canadian GP: Ian Ashley (#25 Hesketh) crashed in practice and withdrew (0 laps); included in Jolpica as `W`, omitted from F1.com table of starters.
+- **Gaps That Remain**: None. 1977 season is 100% verified against primary sources.

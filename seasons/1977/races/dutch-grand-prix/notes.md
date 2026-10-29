@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Niki Lauda (Ferrari) — 1:41:45.930  
-- **Pole Position:** Mario Andretti  
+- **Winner:** Niki Lauda — 1:41:45.930  
+- **Pole Position:** Mario Andretti — 1:18.650  
+- **Fastest Lap:** Niki Lauda — 1:19.990  
 - **Weather & Track Conditions:** Sunny, breezy, dry; 23°C ambient  
-- **Spectator Attendance:** 75,000 spectators across the sand dunes  
 - **Grandstand & Infrastructure:** Covered main pit straight grandstand and Tarzan hairpin dunes  
 
 ### Race Anomalies, Incidents & Key Events
@@ -61,8 +61,14 @@ Lauda's 3rd win of the season moved him to 63 points, holding a 21-point lead ov
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 75,000 spectators across the sand dunes (historical crowd estimate; unverified by official race classification)
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1977/13/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1977 Round 13 Results](https://www.formula1.com/en/results.html/1977/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Official Formula 1 Archive (XXV Grote Prijs van Nederland)](https://www.formula1.com/en/results/1977/races/386/netherlands/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

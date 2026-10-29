@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** James Hunt (McLaren) — 1:31:51.680  
-- **Pole Position:** Mario Andretti  
+- **Winner:** James Hunt — 1:31:51.680  
+- **Pole Position:** Mario Andretti — 1:12.230  
+- **Fastest Lap:** Jody Scheckter — 1:14.300  
 - **Weather & Track Conditions:** Cold, bright, clear autumn weather with Mount Fuji visible; 15°C ambient  
-- **Spectator Attendance:** 75,000 Japanese spectators  
 - **Grandstand & Infrastructure:** Pit straight grandstands facing Mount Fuji and hairpin banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -58,8 +58,14 @@ James Hunt's 10th and final career victory. The tragic crash resulted in Japan's
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 75,000 Japanese spectators (historical crowd estimate; unverified by official race classification)
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1977/17/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1977 Round 17 Results](https://www.formula1.com/en/results.html/1977/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Official Formula 1 Archive (2nd F1 World Championship in Japan)](https://www.formula1.com/en/results/1977/races/390/japan/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** James Hunt (McLaren) — 1:31:46.060  
-- **Pole Position:** James Hunt  
+- **Winner:** James Hunt — 1:31:46.060  
+- **Pole Position:** James Hunt — 1:18.490  
+- **Fastest Lap:** James Hunt — 1:19.600  
 - **Weather & Track Conditions:** Warm, sunny, dry; 25°C ambient  
-- **Spectator Attendance:** 125,000 spectators packing Silverstone  
 - **Grandstand & Infrastructure:** BRDC grandstands at Woodcote, Copse, and Abbey; crowded runway banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -61,8 +61,14 @@ Watershed moment in F1 technology: the birth of the Turbo Era. James Hunt's fina
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 125,000 spectators packing Silverstone (historical crowd estimate; unverified by official race classification)
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1977/10/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1977 Round 10 Results](https://www.formula1.com/en/results.html/1977/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Official Formula 1 Archive (30th John Player British Grand Prix)](https://www.formula1.com/en/results/1977/races/383/great-britain/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

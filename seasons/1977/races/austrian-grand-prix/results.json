@@ -18,7 +18,7 @@
           "Circuit": {
             "circuitId": "red_bull_ring",
             "url": "https://en.wikipedia.org/wiki/Red_Bull_Ring",
-            "circuitName": "Red Bull Ring",
+            "circuitName": "Österreichring",
             "Location": {
               "lat": "47.2197",
               "long": "14.7647",
@@ -241,7 +241,7 @@
                 "driverId": "neve",
                 "url": "http://en.wikipedia.org/wiki/Patrick_Neve",
                 "givenName": "Patrick",
-                "familyName": "N\u00e8ve",
+                "familyName": "Nève",
                 "dateOfBirth": "1949-10-13",
                 "nationality": "Belgian"
               },

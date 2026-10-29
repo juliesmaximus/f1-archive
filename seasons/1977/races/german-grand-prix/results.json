@@ -580,6 +580,52 @@
               "grid": "17",
               "laps": "0",
               "status": "Accident"
+            },
+            {
+              "number": "22",
+              "position": "24",
+              "positionText": "R",
+              "points": "0",
+              "Driver": {
+                "driverId": "regazzoni",
+                "url": "http://en.wikipedia.org/wiki/Clay_Regazzoni",
+                "givenName": "Clay",
+                "familyName": "Regazzoni",
+                "dateOfBirth": "1939-09-05",
+                "nationality": "Swiss"
+              },
+              "Constructor": {
+                "constructorId": "ensign",
+                "url": "http://en.wikipedia.org/wiki/Ensign_(racing_team)",
+                "name": "Ensign",
+                "nationality": "British"
+              },
+              "grid": "22",
+              "laps": "0",
+              "status": "Accident"
+            },
+            {
+              "number": "35",
+              "position": "25",
+              "positionText": "D",
+              "points": "0",
+              "Driver": {
+                "driverId": "heyer",
+                "url": "http://en.wikipedia.org/wiki/Hans_Heyer",
+                "givenName": "Hans",
+                "familyName": "Heyer",
+                "dateOfBirth": "1943-03-16",
+                "nationality": "German"
+              },
+              "Constructor": {
+                "constructorId": "penske",
+                "url": "http://en.wikipedia.org/wiki/Penske_Racing",
+                "name": "Penske",
+                "nationality": "American"
+              },
+              "grid": "25",
+              "laps": "9",
+              "status": "Disqualified"
             }
           ]
         }

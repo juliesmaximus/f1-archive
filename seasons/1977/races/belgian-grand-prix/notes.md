@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Gunnar Nilsson (Team Lotus) — 1:55:05.710  
-- **Pole Position:** Mario Andretti  
+- **Winner:** Gunnar Nilsson — 1:55:05.710  
+- **Pole Position:** Mario Andretti — 1:24.640  
+- **Fastest Lap:** Gunnar Nilsson — 1:27.540  
 - **Weather & Track Conditions:** Wet start, drying track under grey skies; 18°C ambient  
-- **Spectator Attendance:** 65,000 spectators across the Limburg pine woods  
 - **Grandstand & Infrastructure:** Covered start-finish grandstand and grass mounds around Terlamen  
 
 ### Race Anomalies, Incidents & Key Events
@@ -61,8 +61,14 @@ Gunnar Nilsson became Sweden's second Grand Prix winner. Lauda moved to within o
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 65,000 spectators across the Limburg pine woods (historical crowd estimate; unverified by official race classification)
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1977/7/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1977 Round 7 Results](https://www.formula1.com/en/results.html/1977/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Official Formula 1 Archive (XXXV Grand Prix de Belgique)](https://www.formula1.com/en/results/1977/races/380/belgium/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

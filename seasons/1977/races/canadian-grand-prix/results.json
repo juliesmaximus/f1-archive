@@ -18,7 +18,7 @@
           "Circuit": {
             "circuitId": "mosport",
             "url": "https://en.wikipedia.org/wiki/Canadian_Tire_Motorsport_Park",
-            "circuitName": "Mosport International Raceway",
+            "circuitName": "Mosport Park",
             "Location": {
               "lat": "44.0481",
               "long": "-78.6756",
@@ -356,7 +356,7 @@
                 "driverId": "neve",
                 "url": "http://en.wikipedia.org/wiki/Patrick_Neve",
                 "givenName": "Patrick",
-                "familyName": "N\u00e8ve",
+                "familyName": "Nève",
                 "dateOfBirth": "1949-10-13",
                 "nationality": "Belgian"
               },

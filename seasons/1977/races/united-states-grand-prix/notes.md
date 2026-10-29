@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** James Hunt (McLaren) — 1:58:23.267  
-- **Pole Position:** James Hunt  
+- **Winner:** James Hunt — 1:58:23.267  
+- **Pole Position:** James Hunt — 1:40.863  
+- **Fastest Lap:** Ronnie Peterson — 1:51.854  
 - **Weather & Track Conditions:** Cold, damp-to-drying track under autumn skies; 11°C ambient  
-- **Spectator Attendance:** 110,000 spectators packing the Watkins Glen hills  
 - **Grandstand & Infrastructure:** Kendall main grandstand, The Boot, and Seneca spectator knolls  
 
 ### Race Anomalies, Incidents & Key Events
@@ -61,8 +61,14 @@ One of the most acrimonious driver-team splits in Grand Prix history. James Hunt
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 110,000 spectators packing the Watkins Glen hills (historical crowd estimate; unverified by official race classification)
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1977/15/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1977 Round 15 Results](https://www.formula1.com/en/results.html/1977/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Official Formula 1 Archive (XX United States Grand Prix)](https://www.formula1.com/en/results/1977/races/388/usa-east/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

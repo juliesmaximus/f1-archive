@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jacques Laffite (Ligier) — 1:46:56.400  
-- **Pole Position:** Mario Andretti  
+- **Winner:** Jacques Laffite — 1:46:55.520  
+- **Pole Position:** Mario Andretti — 1:25.404  
+- **Fastest Lap:** Mario Andretti — 1:27.607  
 - **Weather & Track Conditions:** Warm, sunny, dry; 24°C ambient  
-- **Spectator Attendance:** 55,000 spectators lining the runways  
 - **Grandstand & Infrastructure:** Runway grandstands and Karusellen spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -59,8 +59,14 @@ Monumental triumph for French motorsport: first victory for Guy Ligier's team an
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 55,000 spectators lining the runways (historical crowd estimate; unverified by official race classification)
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1977/8/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1977 Round 8 Results](https://www.formula1.com/en/results.html/1977/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Official Formula 1 Archive (5th Polar Grand Prix of Sweden)](https://www.formula1.com/en/results/1977/races/381/sweden/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

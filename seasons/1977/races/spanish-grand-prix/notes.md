@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Mario Andretti (Team Lotus) — 1:42:52.220  
-- **Pole Position:** Mario Andretti  
+- **Winner:** Mario Andretti — 1:42:52.220  
+- **Pole Position:** Mario Andretti — 1:18.700  
+- **Fastest Lap:** Jacques Laffite — 1:20.810  
 - **Weather & Track Conditions:** Warm, sunny, dry; 26°C ambient  
-- **Spectator Attendance:** 65,000 spectators lining the Jarama bowl  
 - **Grandstand & Infrastructure:** Main pit grandstands, Pegaso curve terraces, and Farina hillsides  
 
 ### Race Anomalies, Incidents & Key Events
@@ -60,8 +60,14 @@ Mario Andretti took his second consecutive victory, moving into a three-way cham
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 65,000 spectators lining the Jarama bowl (historical crowd estimate; unverified by official race classification)
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1977/5/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1977 Round 5 Results](https://www.formula1.com/en/results.html/1977/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Official Formula 1 Archive (XXIII Gran Premio de España)](https://www.formula1.com/en/results/1977/races/378/spain/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

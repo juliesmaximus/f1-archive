@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jody Scheckter (Wolf) — 1:57:52.770  
-- **Pole Position:** John Watson  
+- **Winner:** Jody Scheckter — 1:57:52.770  
+- **Pole Position:** John Watson — 1:29.860  
+- **Fastest Lap:** Jody Scheckter — 1:31.070  
 - **Weather & Track Conditions:** Warm, sunny, dry; 25°C ambient  
-- **Spectator Attendance:** 45,000 spectators lining harbour balconies and terraces  
 - **Grandstand & Infrastructure:** Swimming Pool grandstands, Quai Albert 1er, and Casino square terraces  
 
 ### Race Anomalies, Incidents & Key Events
@@ -55,8 +55,14 @@ Jody Scheckter took his second win of the season for Walter Wolf Racing, regaini
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 45,000 spectators lining harbour balconies and terraces (historical crowd estimate; unverified by official race classification)
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1977/6/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1977 Round 6 Results](https://www.formula1.com/en/results.html/1977/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Official Formula 1 Archive (XXXV Grand Prix de Monaco)](https://www.formula1.com/en/results/1977/races/379/monaco/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

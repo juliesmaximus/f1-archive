@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jody Scheckter (Wolf) — 1:40:11.190  
-- **Pole Position:** James Hunt  
+- **Winner:** Jody Scheckter — 1:40:11.190  
+- **Pole Position:** James Hunt — 1:48.680  
+- **Fastest Lap:** James Hunt — 1:51.060  
 - **Weather & Track Conditions:** Punishing summer heat; 34°C ambient, track temperature 52°C  
-- **Spectator Attendance:** 80,000 spectators packing the municipal amphitheatre  
 - **Grandstand & Infrastructure:** Permanent concrete stadium grandstands along Curva del Ciervo and pit straight  
 
 ### Race Anomalies, Incidents & Key Events
@@ -56,8 +56,14 @@ Walter Wolf Racing achieved immediate legend status. Carlos Pace's final career 
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 80,000 spectators packing the municipal amphitheatre (historical crowd estimate; unverified by official race classification)
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1977/1/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1977 Round 1 Results](https://www.formula1.com/en/results.html/1977/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Official Formula 1 Archive (XIII Gran Premio de la Republica Argentina)](https://www.formula1.com/en/results/1977/races/374/argentina/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

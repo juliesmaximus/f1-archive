@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Mario Andretti (Team Lotus) — 1:51:35.470  
-- **Pole Position:** Niki Lauda  
+- **Winner:** Mario Andretti — 1:51:35.470  
+- **Pole Position:** Niki Lauda — 1:21.650  
+- **Fastest Lap:** Niki Lauda — 1:22.753  
 - **Weather & Track Conditions:** Warm, sunny, dry; 24°C ambient  
-- **Spectator Attendance:** 75,000 spectators packing Ocean Boulevard  
 - **Grandstand & Infrastructure:** Ocean Boulevard grandstands, Queen Mary hairpin stands, and Linden Avenue terraces  
 
 ### Race Anomalies, Incidents & Key Events
@@ -57,8 +57,14 @@ Historic milestone: first American GP victory by an American in the United State
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 75,000 spectators packing Ocean Boulevard (historical crowd estimate; unverified by official race classification)
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1977/4/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1977 Round 4 Results](https://www.formula1.com/en/results.html/1977/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Official Formula 1 Archive (2nd United States Grand Prix West)](https://www.formula1.com/en/results/1977/races/377/usa-west/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.
