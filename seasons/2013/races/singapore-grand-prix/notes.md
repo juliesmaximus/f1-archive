@@ -8,7 +8,6 @@
 - **Location:** Marina Bay, Singapore
 - **Circuit Length:** 5.065 km (3.147 miles)
 - **Altitude:** 15 m above sea level
-- **Official Attendance:** 100,000
 
 ---
 
@@ -36,6 +35,10 @@ Webber's 'taxi ride' penalty caused widespread outrage among fans who felt the F
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [SingTel Singapore Grand Prix Results](https://www.formula1.com/en/results.html/2013/races/929/singapore/race-result.html)
+- **Official Formula 1 Results Archive:** [SingTel Singapore Grand Prix Results](https://www.formula1.com/en/results/2013/races/891/singapore/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2013/13/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2013)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 100,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

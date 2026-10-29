@@ -8,7 +8,6 @@
 - **Location:** Melbourne, Australia
 - **Circuit Length:** 5.303 km (3.295 miles)
 - **Altitude:** 10 m above sea level
-- **Official Attendance:** 103,000 race day
 
 ---
 
@@ -36,6 +35,10 @@ First race under new vanity panel rules smoothing stepped noses.
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Rolex Australian Grand Prix Results](https://www.formula1.com/en/results.html/2013/races/917/australia/race-result.html)
+- **Official Formula 1 Results Archive:** [Rolex Australian Grand Prix Results](https://www.formula1.com/en/results/2013/races/879/australia/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2013/1/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2013)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 103,000 race day (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

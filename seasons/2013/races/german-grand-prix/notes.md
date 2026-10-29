@@ -8,7 +8,6 @@
 - **Location:** Nürburg, Germany
 - **Circuit Length:** 5.148 km (3.199 miles)
 - **Altitude:** 620 m above sea level
-- **Official Attendance:** 95,000
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Sebastian Vettel (Red Bull-Renault)
 - **Pole Position:** Lewis Hamilton (Mercedes) - 1:29.398
-- **Fastest Lap:** Fernando Alonso (Ferrari) - 1:33.449 (lap 51)
+- **Fastest Lap:** Fernando Alonso (Ferrari) - 1:33.468 (lap 51)
 
 ---
 
@@ -36,6 +35,10 @@ Safety regulations immediately banned TV camera crews from the active pitlane du
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Großer Preis Santander von Deutschland Results](https://www.formula1.com/en/results.html/2013/races/925/germany/race-result.html)
+- **Official Formula 1 Results Archive:** [Großer Preis Santander von Deutschland Results](https://www.formula1.com/en/results/2013/races/887/germany/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2013/9/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2013)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 95,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

@@ -8,7 +8,6 @@
 - **Location:** Mogyoród, Hungary
 - **Circuit Length:** 4.381 km (2.722 miles)
 - **Altitude:** 240 m above sea level
-- **Official Attendance:** 80,000
 
 ---
 
@@ -36,6 +35,10 @@ Silenced critics who questioned Hamilton's decision to leave McLaren for Mercede
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Magyar Nagydíj Results](https://www.formula1.com/en/results.html/2013/races/926/hungary/race-result.html)
+- **Official Formula 1 Results Archive:** [Magyar Nagydíj Results](https://www.formula1.com/en/results/2013/races/888/hungary/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2013/10/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2013)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 80,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

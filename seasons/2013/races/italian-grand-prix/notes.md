@@ -8,7 +8,6 @@
 - **Location:** Monza, Italy
 - **Circuit Length:** 5.793 km (3.600 miles)
 - **Altitude:** 162 m above sea level
-- **Official Attendance:** 115,000 tifosi
 
 ---
 
@@ -36,6 +35,10 @@ Ferrari confirmed Kimi Räikkönen would return to partner Alonso in 2014, repla
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio d'Italia Results](https://www.formula1.com/en/results.html/2013/races/928/italy/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio d'Italia Results](https://www.formula1.com/en/results/2013/races/890/italy/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2013/12/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2013)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 115,000 tifosi (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

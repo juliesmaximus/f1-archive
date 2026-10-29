@@ -8,7 +8,6 @@
 - **Location:** Shanghai, China
 - **Circuit Length:** 5.451 km (3.387 miles)
 - **Altitude:** 10 m above sea level
-- **Official Attendance:** 125,000
 
 ---
 
@@ -36,6 +35,10 @@ Mark Webber started from the pitlane, collided with Vergne, and lost his right-r
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [UBS Chinese Grand Prix Results](https://www.formula1.com/en/results.html/2013/races/919/china/race-result.html)
+- **Official Formula 1 Results Archive:** [UBS Chinese Grand Prix Results](https://www.formula1.com/en/results/2013/races/881/china/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2013/3/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2013)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 125,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

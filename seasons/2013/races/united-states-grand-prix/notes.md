@@ -8,7 +8,6 @@
 - **Location:** Austin, Texas, USA
 - **Circuit Length:** 5.513 km (3.426 miles)
 - **Altitude:** 150 m above sea level
-- **Official Attendance:** 113,162
 
 ---
 
@@ -36,6 +35,10 @@ Vettel celebrated over team radio: 'I'm speechless, boys. We have to remember th
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [United States Grand Prix Results](https://www.formula1.com/en/results.html/2013/races/934/united-states/race-result.html)
+- **Official Formula 1 Results Archive:** [United States Grand Prix Results](https://www.formula1.com/en/results/2013/races/896/united-states/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2013/18/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2013)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 113,162 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

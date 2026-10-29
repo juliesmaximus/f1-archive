@@ -8,7 +8,6 @@
 - **Location:** São Paulo, Brazil
 - **Circuit Length:** 4.309 km (2.677 miles)
 - **Altitude:** 785 m above sea level
-- **Official Attendance:** 80,000
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Sebastian Vettel (Red Bull-Renault)
 - **Pole Position:** Sebastian Vettel (Red Bull-Renault) - 1:26.479
-- **Fastest Lap:** Mark Webber (Red Bull-Renault) - 1:18.947 (lap 45)
+- **Fastest Lap:** Mark Webber (Red Bull-Renault) - 1:15.436 (lap 51)
 
 ---
 
@@ -36,6 +35,10 @@ Final race of the 2.4-litre V8 engine era (2006–2013).
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Grande Prêmio do Brasil Results](https://www.formula1.com/en/results.html/2013/races/935/brazil/race-result.html)
+- **Official Formula 1 Results Archive:** [Grande Prêmio do Brasil Results](https://www.formula1.com/en/results/2013/races/897/brazil/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2013/19/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2013)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 80,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

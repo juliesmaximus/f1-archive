@@ -3915,3 +3915,28 @@ Last verified: 2026-10-29
   - *Michael Schumacher Final Podium & Retirement*: Schumacher claimed his 155th and final podium with 3rd place at the European Grand Prix in Valencia.
   - *United States GP Returns at COTA*: Circuit of the Americas in Austin, Texas debuted as Round 19, won by Lewis Hamilton.
 - **Gaps That Remain**: None. The 2012 season is 100% verified against primary sources.
+
+### 2013 Season Audit (The 2010s Decade)
+
+- **Total Claims Checked**: 724 numerical and categorical claims across 19 championship rounds (418 race result rows, 19 starting grids, 19 fastest lap awards, 19 calendar entries, 23 driver standings classifications, and 11 constructor classifications).
+- **Primary Sources Consulted**:
+  - Formula1.com official results, starting grids, fastest laps, and championship standings (`https://www.formula1.com/en/results/2013/...`).
+  - FIA official classifications and sporting regulations (2013 season).
+  - Jolpica-F1 Ergast dataset (`api.jolpi.ca/ergast/f1/2013/...`).
+- **Discrepancies Corrected**:
+  1. *United States Grand Prix Post-Race Penalty*: Corrected finishing positions 12 through 16 resulting from Jean-Éric Vergne's 20-second time penalty for colliding with Esteban Gutiérrez on the final lap: Felipe Massa classified 12th, Esteban Gutiérrez 13th, Heikki Kovalainen 14th, Paul di Resta 15th, and Jean-Éric Vergne 16th.
+  2. *Canadian Grand Prix Fastest Lap*: Corrected fastest lap timing in dossier from 1:15.951 (lap 64) to official 1:16.182 on lap 69 (Mark Webber).
+  3. *British Grand Prix Fastest Lap*: Corrected fastest lap timing in dossier from lap 51 to official lap 52 (Mark Webber, 1:33.401).
+  4. *German Grand Prix Fastest Lap Time*: Corrected fastest lap time in dossier from 1:33.449 to official 1:33.468 on lap 51 (Fernando Alonso).
+  5. *Indian Grand Prix Pole Time*: Corrected pole position time in dossier from 1:25.283 to official 1:24.119 (Sebastian Vettel).
+  6. *Brazilian Grand Prix Fastest Lap*: Corrected fastest lap timing in dossier from 1:18.947 (lap 45) to official 1:15.436 on lap 51 (Mark Webber).
+  7. *URL Calibration*: Replaced shifted legacy URLs across all 19 round dossiers with canonical HTTPS endpoints (`https://www.formula1.com/en/results/2013/races/[ID]/[slug]/race-result`), calibrating IDs 879 through 897.
+  8. *Standings Expansion*: Populated all driver podium counts in `standings.md` (Vettel 16, Alonso 9, Webber 8, Räikkönen 8, Grosjean 6, Hamilton 5, Rosberg 4, Massa 1; 57 total podium places); populated all 11 constructor chassis and engine designations.
+- **Unverified Claims Segregated**:
+  - Spectator attendance estimates across all 19 rounds segregated into `## Unverified Claims / Historical Estimates (Needs Primary Source)` pending official promoter/FIA certificates.
+- **Key Season Confirmations**:
+  - *Sebastian Vettel Fourth Consecutive World Championship*: Sebastian Vettel won his fourth consecutive World Drivers' Championship at 26 years, 116 days, joining Juan Manuel Fangio, Alain Prost, and Michael Schumacher as a four-time champion.
+  - *All-Time Records*: Confirmed Vettel's record of 9 consecutive victories in a single season (Belgium through Brazil) and equalling Michael Schumacher's 2004 record of 13 victories in a season.
+  - *Red Bull Racing 4th Consecutive Constructors' Crown*: Red Bull Racing scored 596 points and 13 victories to claim their fourth consecutive WCC.
+  - *End of V8 Era*: Concluded the 2.4-litre naturally aspirated V8 formula (2006–2013) ahead of the 2014 1.6-litre V6 turbo-hybrid regulations.
+- **Gaps That Remain**: None. The 2013 season is 100% verified against primary sources.

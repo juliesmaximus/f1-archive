@@ -239,7 +239,7 @@
                 "code": "HUL",
                 "url": "http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg",
                 "givenName": "Nico",
-                "familyName": "H\u00fclkenberg",
+                "familyName": "Hülkenberg",
                 "dateOfBirth": "1987-08-19",
                 "nationality": "German"
               },
@@ -279,7 +279,7 @@
                 "code": "PER",
                 "url": "http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez",
                 "givenName": "Sergio",
-                "familyName": "P\u00e9rez",
+                "familyName": "Pérez",
                 "dateOfBirth": "1990-01-26",
                 "nationality": "Mexican"
               },
@@ -469,48 +469,8 @@
               }
             },
             {
-              "number": "18",
-              "position": "12",
-              "positionText": "12",
-              "points": "0",
-              "Driver": {
-                "driverId": "vergne",
-                "permanentNumber": "25",
-                "code": "VER",
-                "url": "http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne",
-                "givenName": "Jean-\u00c9ric",
-                "familyName": "Vergne",
-                "dateOfBirth": "1990-04-25",
-                "nationality": "French"
-              },
-              "Constructor": {
-                "constructorId": "toro_rosso",
-                "url": "https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso",
-                "name": "Toro Rosso",
-                "nationality": "Italian"
-              },
-              "grid": "14",
-              "laps": "56",
-              "status": "Finished",
-              "Time": {
-                "millis": "6041722",
-                "time": "+1:24.574"
-              },
-              "FastestLap": {
-                "rank": "13",
-                "lap": "52",
-                "Time": {
-                  "time": "1:41.320"
-                },
-                "AverageSpeed": {
-                  "units": "kph",
-                  "speed": "195.882"
-                }
-              }
-            },
-            {
               "number": "4",
-              "position": "13",
+              "position": "12",
               "positionText": "13",
               "points": "0",
               "Driver": {
@@ -550,7 +510,7 @@
             },
             {
               "number": "12",
-              "position": "14",
+              "position": "13",
               "positionText": "14",
               "points": "0",
               "Driver": {
@@ -559,7 +519,7 @@
                 "code": "GUT",
                 "url": "http://en.wikipedia.org/wiki/Esteban_Guti%C3%A9rrez",
                 "givenName": "Esteban",
-                "familyName": "Guti\u00e9rrez",
+                "familyName": "Gutiérrez",
                 "dateOfBirth": "1991-08-05",
                 "nationality": "Mexican"
               },
@@ -590,7 +550,7 @@
             },
             {
               "number": "7",
-              "position": "15",
+              "position": "14",
               "positionText": "15",
               "points": "0",
               "Driver": {
@@ -629,7 +589,7 @@
             },
             {
               "number": "14",
-              "position": "16",
+              "position": "15",
               "positionText": "16",
               "points": "0",
               "Driver": {
@@ -664,6 +624,46 @@
                 "AverageSpeed": {
                   "units": "kph",
                   "speed": "196.215"
+                }
+              }
+            },
+            {
+              "number": "18",
+              "position": "16",
+              "positionText": "12",
+              "points": "0",
+              "Driver": {
+                "driverId": "vergne",
+                "permanentNumber": "25",
+                "code": "VER",
+                "url": "http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne",
+                "givenName": "Jean-Éric",
+                "familyName": "Vergne",
+                "dateOfBirth": "1990-04-25",
+                "nationality": "French"
+              },
+              "Constructor": {
+                "constructorId": "toro_rosso",
+                "url": "https://en.wikipedia.org/wiki/Scuderia_Toro_Rosso",
+                "name": "Toro Rosso",
+                "nationality": "Italian"
+              },
+              "grid": "14",
+              "laps": "56",
+              "status": "Finished",
+              "Time": {
+                "millis": "6041722",
+                "time": "+1:24.574"
+              },
+              "FastestLap": {
+                "rank": "13",
+                "lap": "52",
+                "Time": {
+                  "time": "1:41.320"
+                },
+                "AverageSpeed": {
+                  "units": "kph",
+                  "speed": "195.882"
                 }
               }
             },

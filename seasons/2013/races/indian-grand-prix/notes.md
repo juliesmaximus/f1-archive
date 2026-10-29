@@ -8,7 +8,6 @@
 - **Location:** Greater Noida, Uttar Pradesh, India
 - **Circuit Length:** 5.125 km (3.185 miles)
 - **Altitude:** 195 m above sea level
-- **Official Attendance:** 90,000 ecstatic fans
 
 ---
 
@@ -20,7 +19,7 @@
 
 ## 3. Official Race Classification Summary
 - **Winner:** Sebastian Vettel (Red Bull-Renault)
-- **Pole Position:** Sebastian Vettel (Red Bull-Renault) - 1:25.283
+- **Pole Position:** Sebastian Vettel (Red Bull-Renault) - 1:24.119
 - **Fastest Lap:** Kimi Räikkönen (Lotus-Renault) - 1:27.679 (lap 60)
 
 ---
@@ -36,6 +35,10 @@ Stewards reprimanded Vettel and fined Red Bull €25,000 for the donut celebrati
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Airtel Indian Grand Prix Results](https://www.formula1.com/en/results.html/2013/races/932/india/race-result.html)
+- **Official Formula 1 Results Archive:** [Airtel Indian Grand Prix Results](https://www.formula1.com/en/results/2013/races/894/india/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2013/16/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2013)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 90,000 ecstatic fans (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

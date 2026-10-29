@@ -8,7 +8,6 @@
 - **Location:** Suzuka, Mie, Japan
 - **Circuit Length:** 5.807 km (3.608 miles)
 - **Altitude:** 45 m above sea level
-- **Official Attendance:** 145,000
 
 ---
 
@@ -36,6 +35,10 @@ Vettel stood on the verge of his fourth consecutive World Championship.
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Japanese Grand Prix Results](https://www.formula1.com/en/results.html/2013/races/931/japan/race-result.html)
+- **Official Formula 1 Results Archive:** [Japanese Grand Prix Results](https://www.formula1.com/en/results/2013/races/893/japan/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2013/15/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2013)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 145,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

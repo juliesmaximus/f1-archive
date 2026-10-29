@@ -8,7 +8,6 @@
 - **Location:** Sakhir, Bahrain
 - **Circuit Length:** 5.412 km (3.363 miles)
 - **Altitude:** 16 m above sea level
-- **Official Attendance:** 28,000
 
 ---
 
@@ -36,6 +35,10 @@ Paul di Resta led laps for Force India, finishing an impressive 4th.
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gulf Air Bahrain Grand Prix Results](https://www.formula1.com/en/results.html/2013/races/920/bahrain/race-result.html)
+- **Official Formula 1 Results Archive:** [Gulf Air Bahrain Grand Prix Results](https://www.formula1.com/en/results/2013/races/882/bahrain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2013/4/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2013)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 28,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

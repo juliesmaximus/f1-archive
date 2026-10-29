@@ -8,7 +8,6 @@
 - **Location:** Spa, Belgium
 - **Circuit Length:** 7.004 km (4.352 miles)
 - **Altitude:** 420 m above sea level
-- **Official Attendance:** 85,000
 
 ---
 
@@ -36,6 +35,10 @@ Greenpeace protestors staged an anti-Shell banner demonstration above the royal 
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Shell Belgian Grand Prix Results](https://www.formula1.com/en/results.html/2013/races/927/belgium/race-result.html)
+- **Official Formula 1 Results Archive:** [Shell Belgian Grand Prix Results](https://www.formula1.com/en/results/2013/races/889/belgium/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2013/11/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2013)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 85,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

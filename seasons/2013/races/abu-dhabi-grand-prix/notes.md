@@ -8,7 +8,6 @@
 - **Location:** Yas Island, Abu Dhabi, UAE
 - **Circuit Length:** 5.554 km (3.451 miles)
 - **Altitude:** 12 m above sea level
-- **Official Attendance:** 50,000
 
 ---
 
@@ -36,6 +35,10 @@ Vettel performed more smoke-filled donuts on the pit straight to the delight of 
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Etihad Airways Abu Dhabi Grand Prix Results](https://www.formula1.com/en/results.html/2013/races/933/abu-dhabi/race-result.html)
+- **Official Formula 1 Results Archive:** [Etihad Airways Abu Dhabi Grand Prix Results](https://www.formula1.com/en/results/2013/races/895/abu-dhabi/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2013/17/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2013)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 50,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

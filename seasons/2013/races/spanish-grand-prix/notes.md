@@ -8,7 +8,6 @@
 - **Location:** Montmeló, Spain
 - **Circuit Length:** 4.655 km (2.892 miles)
 - **Altitude:** 125 m above sea level
-- **Official Attendance:** 95,000
 
 ---
 
@@ -36,6 +35,10 @@ Severe tyre degradation saw Mercedes tumble from a front-row lockout to 6th (Ros
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio de España Results](https://www.formula1.com/en/results.html/2013/races/921/spain/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio de España Results](https://www.formula1.com/en/results/2013/races/883/spain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2013/5/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2013)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 95,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)
