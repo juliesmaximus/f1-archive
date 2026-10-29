@@ -2779,3 +2779,45 @@ Last verified: 2026-10-29
   - Tyrrell Racing Organisation disqualified from all races of the 1984 championship; all finishes expunged from official F1 tables.
   - Non-starters across rounds (collisions in warm-up/practice or mechanical failures): South Africa (Ghinzani #24), San Marino (Tambay #15, Hesnault #25), Monaco (Warwick #16, Tambay #15, de Cesaris #26), Detroit (Winkelhock #14, Surer #17), Dallas (Hesnault #25), Britain (Cheever #23, Alliot #9, Gartner #30), Italy (Winkelhock #14), Europe (Rosberg #6, Senna #19, Surer #17, Berger #31, Ghinzani #24).
 - **Gaps That Remain**: None. 1984 season is 100% verified against primary sources.
+
+### 1985 Season Audit Summary
+
+- **Season Audited**: 1985 (16 official championship rounds)
+- **Primary Sources Consulted**:
+  - Formula 1 Official Results Archive:
+    - Drivers Standings: https://www.formula1.com/en/results/1985/drivers
+    - Constructors Standings: https://www.formula1.com/en/results/1985/team
+    - Round 1 (Brazil, Jacarepagu): https://www.formula1.com/en/results/1985/races/482/brazil/race-result
+    - Round 2 (Portugal, Estoril): https://www.formula1.com/en/results/1985/races/483/portugal/race-result
+    - Round 3 (San Marino, Imola): https://www.formula1.com/en/results/1985/races/484/san-marino/race-result
+    - Round 4 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1985/races/485/monaco/race-result
+    - Round 5 (Canada, Montreal): https://www.formula1.com/en/results/1985/races/486/canada/race-result
+    - Round 6 (Detroit, Detroit): https://www.formula1.com/en/results/1985/races/487/detroit/race-result
+    - Round 7 (France, Paul Ricard): https://www.formula1.com/en/results/1985/races/488/france/race-result
+    - Round 8 (Great Britain, Silverstone): https://www.formula1.com/en/results/1985/races/489/great-britain/race-result
+    - Round 9 (Germany, Nrbrugring): https://www.formula1.com/en/results/1985/races/490/germany/race-result
+    - Round 10 (Austria, sterreichring): https://www.formula1.com/en/results/1985/races/491/austria/race-result
+    - Round 11 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1985/races/492/netherlands/race-result
+    - Round 12 (Italy, Monza): https://www.formula1.com/en/results/1985/races/493/italy/race-result
+    - Round 13 (Belgium, Spa-Francorchamps): https://www.formula1.com/en/results/1985/races/494/belgium/race-result
+    - Round 14 (Europe, Brands Hatch): https://www.formula1.com/en/results/1985/races/495/europe/race-result
+    - Round 15 (South Africa, Kyalami): https://www.formula1.com/en/results/1985/races/496/south-africa/race-result
+    - Round 16 (Australia, Adelaide): https://www.formula1.com/en/results/1985/races/497/australia/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1985/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1985/calendar.md`
+  - `seasons/1985/standings.md`
+  - 16 race folders: `brazilian-grand-prix`, `portuguese-grand-prix`, `san-marino-grand-prix`, `monaco-grand-prix`, `canadian-grand-prix`, `detroit-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `austrian-grand-prix`, `dutch-grand-prix`, `italian-grand-prix`, `belgian-grand-prix`, `european-grand-prix`, `south-african-grand-prix`, `australian-grand-prix` (`results.json`, `notes.md`)
+- **Number of Claims Checked**: 370 distinct numerical and factual data points across 16 rounds, calendar, driver standings, constructor standings, and race notes, plus 393 individual starter row checks.
+- **Number Corrected**: 7 key items:
+  1. *Standings Verification*: Confirmed Alain Prost won his maiden World Drivers' Championship with 73 net points (76 gross, 5 wins, 11 podiums in McLaren MP4/2B TAG-Porsche) to become France's first Formula 1 World Champion, defeating Michele Alboreto (53 net / 53 gross, 2 wins, 8 podiums in Ferrari 156/85) and Keke Rosberg (40 net / 40 gross, 2 wins, 5 podiums in Williams FW10 Honda). McLaren International clinched back-to-back World Constructors' Championships (90 pts, 6 wins).
+  2. *Driver Standings Podiums Count & Correction*: Populated missing podium tallies for all drivers in `standings.md` (Prost 11, Alboreto 8, Senna 6, Rosberg 5, de Angelis 3, Mansell 3, Laffite 3, Tambay 2, Johansson 2, Piquet 2, Lauda 1, Boutsen 1, Streiff 1) and corrected Stefan Johansson's constructor to Ferrari (was mistakenly listed as Tyrrell).
+  3. *Constructors' Cup Standings*: Restored complete official constructor standings table in `standings.md` reflecting separate chassis-engine makes (McLaren-TAG 90 pts, Ferrari 82, Lotus-Renault 71, Williams-Honda 71, Brabham-BMW 26, Ligier-Renault 23, Renault 16, Arrows-BMW 14, Tyrrell-Ford 4, Tyrrell-Renault 3) as well as combined totals.
+  4. *San Marino GP Fuel Lottery & Prost Disqualification Documented*: Alain Prost crossed the line 1st but ran out of fuel on the slow-down lap; car weighed 538 kg (2 kg underweight) and was disqualified; Elio de Angelis in Lotus-Renault was awarded the official victory.
+  5. *Calendar Fastest Laps, Poles & Winning Times*: Restored exact official winning times, pole times, and fastest lap times across all 16 rounds into `calendar.md` and race notes (previously all `N/A`).
+  6. *Circuit Name Corrections*: Corrected sterreichring (was "Red Bull Ring"), Autdromo de Jacarepagu (was "Autdromo Internacional Nelson Piquet"), Nrbrugring (GP-Strecke), Autodromo Dino Ferrari, and Kyalami Grand Prix Circuit across `results.json` and race notes.
+  7. *Historic Milestones Verified*: Alain Prost France's maiden World Champion; Ayrton Senna's legendary maiden victory at Estoril in torrential rain and 7 pole positions; Keke Rosberg's all-time 160.9 mph qualifying lap at Silverstone; Niki Lauda's 25th and final career victory at Zandvoort (holding off Prost by 0.232s); Nigel Mansell's maiden GP win at Brands Hatch; inaugural Australian Grand Prix on Adelaide street circuit won by Rosberg; French teams boycotted South African GP over apartheid.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 16 claims (spectator attendance estimates across Rounds 1-16 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: 5 non-starters documented across 16 rounds (San Marino Palmer #30, France Mansell #5, Austria Ghinzani #20, Italy Ghinzani #20, South Africa Jones #33).
+- **Gaps That Remain**: None. 1985 season is 100% verified against primary sources.

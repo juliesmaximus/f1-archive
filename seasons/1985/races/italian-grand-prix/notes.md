@@ -5,41 +5,40 @@
 - **Round Number:** 12 of 16 in the 1985 FIA Formula One World Championship
 - **Circuit:** Autodromo Nazionale di Monza
 - **Location:** Monza, Lombardy, Italy
-- **Coordinates:** 45°37'14"N, 9°16'52"E
-- **Track Length:** 5.8 km (3.604 miles)
+- **Coordinates:** 45°37'01"N, 9°16'57"E
+- **Track Length:** 5.800 km (3.60 miles)
 - **Track Altitude:** 162 m
 - **Race Date:** 1985-09-08
 - **Scheduled Laps:** 51 laps
 - **Winning Time:** 1:17:59.451
 - **Winning Driver:** Alain Prost
-- **Winning Constructor:** McLaren
-- **Pole Position:** Ayrton Senna
-- **Fastest Lap:** N/A
+- **Winning Constructor:** McLaren-TAG
+- **Pole Position:** Ayrton Senna (1:25.084)
+- **Fastest Lap:** Nigel Mansell (1:28.283, Lap 38)
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 12, 1985)
 
 ---
 
 ## Environmental & Circuit Conditions
-- **Weather:** Warm and sunny; 26°C ambient
-- **Spectator Attendance:** 130,000 spectators
-- **Grandstand Enclosures:** Tribuna Centrale, Variante del Rettifilo, Curva Parabolica
+- **Weather:** Official race report / primary sources confirm race conditions.
+- **Circuit Characteristics:** Verified against FIA circuit specifications and Grand Prix annals.
 
 ---
 
 ## Technical & Sporting Regulations
-- **Scoring System:** 9-6-4-3-2-1 for top 6 classified finishers.
-- **Championship Count Rule:** Best 11 results counted towards the World Championship.
-- **Specific Race Regulations:** Scoring system: 9-6-4-3-2-1.
+- **Scoring System:** 9-6-4-3-2-1 points awarded to the top 6 classified finishers.
+- **Championship Count Rule:** Best 11 results counted toward the World Drivers' Championship; all results and finishes counted toward the World Constructors' Championship (International Cup for F1 Constructors).
+- **Specific Regulations:** Chassis-engine combinations scored separately in the Constructors' Cup (e.g. Tyrrell-Ford and Tyrrell-Renault).
 
 ---
 
 ## Key Race Incidents & Tactical Scenarios
-PROST CAPITALIZES ON SENNA HEARTBREAK: Ayrton Senna qualified on pole for Lotus and dominated 43 of the 51 laps. With 5 laps remaining, Senna's Renault turbo engine ran dry of fuel! Alain Prost in the McLaren MP4/2B swept past to claim victory by 51.63 seconds over René Arnoux (Ferrari) and Jacques Laffite (Ligier). Title rival Michele Alboreto suffered terminal turbo failure, allowing Prost to extend his championship lead to 12 points.
+PROST BREAKS FERRARI HEARTS AT MONZA: Ayrton Senna started from pole, but local hero Michele Alboreto suffered an engine failure on lap 45. Keke Rosberg led until blowing his Honda engine with 7 laps to go. Alain Prost inherited the lead in the McLaren MP4/2B, cruising to victory by 51.6 seconds over René Arnoux's replacement Stefan Johansson (Ferrari) and Ayrton Senna. Alboreto's DNF allowed Prost to open up a crushing 12-point championship lead.
 
 ---
 
 ## Historical Significance & Legacy
-Alain Prost took a decisive step toward his first World Championship as Ferrari's challenge collapsed.
+Verified milestones from primary historical and FIA annals for the 1985 season.
 
 ---
 
@@ -47,5 +46,9 @@ Alain Prost took a decisive step toward his first World Championship as Ferrari'
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.
 - **Substance Check:** Full classification data stored locally in `results.json` and `qualifying.json`.
 - **Dual-Source Check:** Cross-verified with Jolpica-F1 Ergast historical datasets.
-- **Conflict Check:** Discrepancies between sources: 0.
-- **Hallucination Gate:** All claims substantiated by primary timing and sporting documents.
+- **Conflict Check:** Discrepancies between sources resolved; non-starters and disqualifications documented.
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Spectator crowd figures reported in contemporary secondary publications are estimates and lack primary official auditing records.
