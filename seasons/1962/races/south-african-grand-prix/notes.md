@@ -1,44 +1,32 @@
-# 1962 Round 9: IX South African Grand Prix - Verified Race Record
+# 1962 South African Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: IX South African Grand Prix
-- **Historic Name Notes**: 9th South African Grand Prix; inaugural inclusion in the World Championship; 1962 title decider.
-- **Circuit Full Name**: Prince George Circuit
-- **Location**: East London, Eastern Cape, South Africa
-- **Host Country**: South Africa
-- **Track Length**: 3.920 km (2.436 mi)
-- **Track Altitude**: 15 m (49 ft) above sea level
-- **Race Distance**: 82 laps / 321.440 km (199.734 mi)
-- **Official Race Date**: 1962-12-29
+## Official Race Identification
+- **Official Name**: IX South African Grand Prix
+- **Round**: 9 of 9 in the 1962 FIA Formula One World Championship
+- **Date**: Saturday, 29 December 1962
+- **Location**: Prince George Circuit, East London, South Africa
+- **Circuit Length**: 3.920 km (2.436 miles)
+- **Distance**: 82 laps (321.440 km / 199.734 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, coastal breeze off the Indian Ocean.
-- **Spectator Attendance**: Over 90,000 spectators.
-- **Grandstand & Infrastructure Notes**: Sand dunes and coastal grandstands filled for the historic championship decider.
+## Official Results & Key Metrics
+- **Pole Position**: Jim Clark (Lotus-Climax 25) - 1:28.900
+- **Fastest Lap**: Jim Clark (Lotus-Climax 25) - 1:31.000 (Lap 3)
+- **Race Winner**: Graham Hill (BRM P57) - 2:08:03.300 (150.988 km/h)
+- **Podium**:
+  1. Graham Hill (BRM) - 82 laps
+  2. Bruce McLaren (Cooper-Climax) - 82 laps (+49.800s)
+  3. Tony Maggs (Cooper-Climax) - 82 laps (+50.300s)
 
-## Verified Key Race Results
-- **Pole Position**: Jim Clark (Lotus 25-Climax) - 1:28.9
-- **Fastest Race Lap**: Jim Clark (Lotus 25-Climax) - 1:31.0 (Lap 3)
-- **Race Winner**: Graham Hill (BRM) - 2:08:03.300 (9 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **First World Championship for Graham Hill**: Entering the season finale, Jim Clark had to win to take the title; if he finished anywhere else, Graham Hill was champion. Clark led masterfully from pole, opening a 30-second lead over Hill. On lap 62, a loose 5-shilling oil plug fell out of Clark's Coventry Climax engine, pumping oil out and forcing him into retirement. Graham Hill inherited the lead and won the race, clinching his first World Drivers' Championship.
+- **BRM's Maiden Manufacturers' Cup**: Graham Hill's victory secured the 1962 International Cup for F1 Manufacturers for British Racing Motors (BRM)—the crowning achievement for team owner Sir Alfred Owen after 15 years of struggle.
+- **First South African World Championship Grand Prix**: Inaugural inclusion of the South African Grand Prix in the FIA Formula One World Championship calendar, held on the seaside Prince George Circuit at East London.
+- **Cooper Double Podium**: Bruce McLaren and South African driver Tony Maggs finished 2nd and 3rd in the works Cooper-Climax cars.
+- **Track & Weather Conditions**: Very warm, breezy Indian Ocean coastal weather; completely dry track throughout.
 
-## Official Podium Finishers
-- **1st** : Graham Hill (BRM) — 2:08:03.300 [9 pts]
-- **2nd** : Bruce McLaren (Cooper-Climax) — +49.800 [6 pts]
-- **3rd** : Tony Maggs (Cooper-Climax) — +50.300 [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1962/races/204/south-africa/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1962/9/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- The 25-Cent Bolt Decides the World Championship: Jim Clark took pole and pulled away into a commanding 30-second lead, on course to become World Champion. On lap 62, disaster struck: an internal 25-cent oil drain plug worked loose inside the Coventry Climax V8, spewing oil over the exhaust and draining the sump. Clark pitted in heartbreak and retired.
-- Graham Hill World Champion: Graham Hill swept past into the lead and drove his BRM P57 to victory, clinching his FIRST FORMULA ONE WORLD DRIVERS' CHAMPIONSHIP and delivering the FIRST WORLD CONSTRUCTORS' CHAMPIONSHIP FOR BRM.
-- Inaugural South African Championship GP: The Prince George Circuit hosted the first official World Championship Grand Prix on the African continent outside Morocco.
-
-## Records Set or Equalled
-- Graham Hill crowned 1962 Formula One World Champion of Drivers.
-- BRM (British Racing Motors) clinched the 1962 International Cup for F1 Manufacturers (Constructors' Championship).
-- Inaugural South African Grand Prix in the World Championship.
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1962/races/204/south-africa/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1962/9/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Contemporary press estimated attendance at over 90,000 spectators across the coastal sand dunes. Unverified in official sporting records.

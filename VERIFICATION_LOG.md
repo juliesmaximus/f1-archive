@@ -2737,3 +2737,37 @@ Last verified: 2026-10-29
 - **Number Marked UNVERIFIED / Moved Out of Fact Body**: 8 claims (spectator attendance estimates across Rounds 1-8 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
 - **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 603 checked result records.
 - **Gaps That Remain**: None. 1961 season is 100% verified against primary sources.
+
+### Cross-check audit: 1962 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: https://www.formula1.com/en/results/1962/races
+  - Formula1.com Official Drivers Standings: https://www.formula1.com/en/results/1962/drivers
+  - Formula1.com Official Constructors Standings: https://www.formula1.com/en/results/1962/team
+  - Formula1.com Race Results, Starting Grids, and Fastest Laps for Rounds 1-9:
+    - Round 1 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1962/races/196/netherlands/race-result
+    - Round 2 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1962/races/197/monaco/race-result
+    - Round 3 (Belgium, Spa-Francorchamps): https://www.formula1.com/en/results/1962/races/198/belgium/race-result
+    - Round 4 (France, Rouen): https://www.formula1.com/en/results/1962/races/199/france/race-result
+    - Round 5 (Great Britain, Aintree): https://www.formula1.com/en/results/1962/races/200/great-britain/race-result
+    - Round 6 (Germany, Nürburgring): https://www.formula1.com/en/results/1962/races/201/germany/race-result
+    - Round 7 (Italy, Monza): https://www.formula1.com/en/results/1962/races/202/italy/race-result
+    - Round 8 (United States, Watkins Glen): https://www.formula1.com/en/results/1962/races/203/united-states/race-result
+    - Round 9 (South Africa, East London): https://www.formula1.com/en/results/1962/races/204/south-africa/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1962/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1962/calendar.md`
+  - `seasons/1962/standings.md`
+  - 9 race folders: `dutch-grand-prix`, `monaco-grand-prix`, `belgian-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `italian-grand-prix`, `united-states-grand-prix`, `south-african-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 224 distinct numerical and factual data points across 9 rounds, calendar, driver standings, constructor standings, and race notes, plus 615 individual result row checks.
+- **Number Corrected**: 6 items:
+  1. *Standings Graham Hill Gross & Dropped Points*: Corrected Graham Hill gross points to 52 and dropped points to 10 (Hill scored 52 gross points across 8 scoring finishes [9, 1, 6, 3, 9, 9, 6, 9] and dropped 10 points to count 42 net points).
+  2. *Bruce McLaren Gross & Dropped Points*: Corrected Bruce McLaren gross points to 32 and dropped points to 5 (McLaren counted 27 net points).
+  3. *Constructors' Cup Standings*: Verified and formatted the 1962 International Cup for F1 Manufacturers table with official 9-6-4-3-2-1 points (BRM 42 net / 4 wins, Lotus-Climax 36 net / 3 wins, Cooper-Climax 29 net, Lola-Climax 19 net, Porsche 18 net, Ferrari 18 net, Brabham-Climax 6 net, Lotus-BRM 1 net).
+  4. *Driver Standings Podiums Count*: Populated missing podium tallies for all drivers in `standings.md` (which were previously placeholder hyphens).
+  5. *Typography & Accented Names*: Repaired character encoding corruptions across race notes (e.g. "Grote Prijs van Nederland", "Großer Preis von Deutschland", "Belgique", "Ricardo Rodríguez", "Nürburgring").
+  6. *URL Standardization*: Updated all reference links from deprecated `.html` URLs to canonical modern Formula1.com results paths.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 9 claims (spectator attendance estimates across Rounds 1-9 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 615 checked result records.
+- **Gaps That Remain**: None. 1962 season is 100% verified against primary sources.

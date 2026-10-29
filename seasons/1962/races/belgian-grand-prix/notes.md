@@ -1,43 +1,31 @@
-# 1962 Round 3: XXII Grote Prijs van België / XXII Grand Prix de Belgique - Verified Race Record
+# 1962 Belgian Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: XXII Grote Prijs van België / XXII Grand Prix de Belgique
-- **Historic Name Notes**: 22nd Belgian Grand Prix; historic maiden victory for Jim Clark.
-- **Circuit Full Name**: Circuit de Spa-Francorchamps
-- **Location**: Francorchamps, Stavelot, Malmedy, Belgium
-- **Host Country**: Belgium
-- **Track Length**: 14.120 km (8.774 mi)
-- **Track Altitude**: 410 m (1345 ft) above sea level
-- **Race Distance**: 32 laps / 451.840 km (280.760 mi)
-- **Official Race Date**: 1962-06-17
+## Official Race Identification
+- **Official Name**: XXII Grand Prix de Belgique
+- **Round**: 3 of 9 in the 1962 FIA Formula One World Championship
+- **Date**: Sunday, 17 June 1962
+- **Location**: Circuit de Spa-Francorchamps, Stavelot, Belgium
+- **Circuit Length**: 14.120 km (8.774 miles)
+- **Distance**: 32 laps (451.840 km / 280.760 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, calm Ardennes mountain afternoon.
-- **Spectator Attendance**: Over 75,000 spectators.
-- **Grandstand & Infrastructure Notes**: Eau Rouge and Blanchimont packed.
+## Official Results & Key Metrics
+- **Pole Position**: Graham Hill (BRM P57) - 3:57.000
+- **Fastest Lap**: Jim Clark (Lotus-Climax 25) - 3:55.600
+- **Race Winner**: Jim Clark (Lotus-Climax 25) - 2:07:32.300 (212.445 km/h)
+- **Podium**:
+  1. Jim Clark (Lotus-Climax) - 32 laps
+  2. Graham Hill (BRM) - 32 laps (+44.100s)
+  3. Phil Hill (Ferrari) - 32 laps (+2:06.500)
 
-## Verified Key Race Results
-- **Pole Position**: Graham Hill (BRM P57) - 3:57.0
-- **Fastest Race Lap**: Jim Clark (Lotus 25-Climax) - 3:55.6 (Lap 16)
-- **Race Winner**: Jim Clark (Lotus-Climax) - 2:07:32.300 (9 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Jim Clark's Maiden Grand Prix Victory**: 26-year-old Scottish driver Jim Clark scored the first of his legendary 25 World Championship Grand Prix victories. Starting from 12th on the grid in the revolutionary monocoque Lotus 25, Clark carved through the field, took the lead on lap 9, and pulled away to win by 44 seconds over championship rival Graham Hill.
+- **Historic Monocoque Milestone**: Clark's victory was the first World Championship Grand Prix win for a monocoque chassis (the Lotus 25), marking a permanent shift in racing car construction away from tubular spaceframes.
+- **Terrifying Mairesse & Taylor Crash**: On lap 26, Willy Mairesse (Ferrari) and Trevor Taylor (Lotus) tangled at 100+ mph approaching Blanchimont. Both cars crashed violently into the ditch; Mairesse's Ferrari caught fire, but both drivers miraculously escaped without fatal injuries.
+- **Track & Weather Conditions**: Overcast, cool Ardennes weather with dry track.
 
-## Official Podium Finishers
-- **1st** : Jim Clark (Lotus-Climax) — 2:07:32.300 [9 pts]
-- **2nd** : Graham Hill (BRM) — +44.100 [6 pts]
-- **3rd** : Phil Hill (Ferrari) — +2:06.500 [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1962/races/198/belgium/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1962/3/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Jim Clark's Maiden Grand Prix Win: Starting from 12th on the grid, 26-year-old Scottish farmer Jim Clark sliced through the field in the monocoque Lotus 25, took the lead on lap 9, and dominated to score his FIRST CAREER FORMULA ONE WORLD CHAMPIONSHIP GRAND PRIX VICTORY by 44.1 seconds over Graham Hill.
-- Horrific Mairesse-Taylor Crash: On lap 26, Willy Mairesse (Ferrari) and Trevor Taylor (Lotus) touched at 100 mph at Blanchimont. Both cars disintegrated; Mairesse's Ferrari caught fire and rolled into a ditch (Mairesse suffered burns and broken ribs); Taylor was miraculously thrown clear without broken bones.
-- First Win for a Monocoque: This was the FIRST-EVER WORLD CHAMPIONSHIP VICTORY FOR A MONOCOQUE CHASSIS (Lotus 25).
-
-## Records Set or Equalled
-- First World Championship Grand Prix victory for Jim Clark.
-- First World Championship victory for a monocoque chassis (Lotus 25).
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1962/races/198/belgium/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1962/3/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Spa valley crowd estimates claimed 60,000 spectators; no certified gate admissions exist.

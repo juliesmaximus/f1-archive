@@ -1,43 +1,31 @@
-# 1962 Round 8: V United States Grand Prix - Verified Race Record
+# 1962 United States Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: V United States Grand Prix
-- **Historic Name Notes**: 5th US Grand Prix at Watkins Glen.
-- **Circuit Full Name**: Watkins Glen International
-- **Location**: Watkins Glen, New York, United States
-- **Host Country**: United States
-- **Track Length**: 3.701 km (2.300 mi)
-- **Track Altitude**: 310 m (1017 ft) above sea level
-- **Race Distance**: 100 laps / 370.149 km (230.000 mi)
-- **Official Race Date**: 1962-10-07
+## Official Race Identification
+- **Official Name**: V United States Grand Prix
+- **Round**: 8 of 9 in the 1962 FIA Formula One World Championship
+- **Date**: Sunday, 7 October 1962
+- **Location**: Watkins Glen International, Watkins Glen, New York, USA
+- **Circuit Length**: 3.701 km (2.300 miles)
+- **Distance**: 100 laps (370.149 km / 230.000 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Crisp, sunny, autumn conditions.
-- **Spectator Attendance**: Over 65,000 spectators.
-- **Grandstand & Infrastructure Notes**: Front straight grandstands and hillside spectator mounds filled.
+## Official Results & Key Metrics
+- **Pole Position**: Jim Clark (Lotus-Climax 25) - 1:15.800
+- **Fastest Lap**: Jim Clark (Lotus-Climax 25) - 1:15.000 (Lap 70)
+- **Race Winner**: Jim Clark (Lotus-Climax 25) - 2:07:13.000 (174.729 km/h)
+- **Podium**:
+  1. Jim Clark (Lotus-Climax) - 100 laps
+  2. Graham Hill (BRM) - 100 laps (+9.200s)
+  3. Bruce McLaren (Cooper-Climax) - 99 laps (+1 lap)
 
-## Verified Key Race Results
-- **Pole Position**: Jim Clark (Lotus 25-Climax) - 1:15.8
-- **Fastest Race Lap**: Jim Clark (Lotus 25-Climax) - 1:15.0 (Lap 70)
-- **Race Winner**: Jim Clark (Lotus-Climax) - 2:07 (9 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Clark Keeps Championship Alive**: Knowing only a win would keep his championship hopes alive, Jim Clark qualified on pole, set the fastest lap, and led 99 of the 100 laps in his Lotus 25. He took victory by 9.2 seconds over Graham Hill.
+- **Title Decider Setup**: Clark's victory meant the 1962 World Drivers' Championship would be decided at the final round in South Africa: if Clark won in South Africa, he would take the title (under best-5 count); if Clark failed to win, Graham Hill would be World Champion.
+- **Ferrari Withdrawal Drama**: Ferrari did not travel to Watkins Glen, with reigning champion Phil Hill instead serving as Grand Marshal for the race.
+- **Track & Weather Conditions**: Clear, crisp autumn weather in upstate New York; dry and sunny throughout.
 
-## Official Podium Finishers
-- **1st** : Jim Clark (Lotus-Climax) — 2:07 [9 pts]
-- **2nd** : Graham Hill (BRM) — +9.200 [6 pts]
-- **3rd** : Bruce McLaren (Cooper-Climax) — +1 Lap [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1962/races/203/united-states/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1962/8/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Clark Keeps Title Fight Alive: Jim Clark dominated in his Lotus 25, winning by 9.2 seconds over Graham Hill's BRM to keep the championship battle alive heading to the South African decider.
-- Dan Gurney 3rd for Porsche: Dan Gurney finished on the podium in the Porsche 804.
-- Two-Way Championship Showdown: Entering the final race, Hill held 39 counted points and Clark 30 counted points. Because only the best 5 results counted, Clark would become champion if he won in South Africa, while Hill would become champion if Clark failed to win.
-
-## Records Set or Equalled
-- Jim Clark's 3rd victory of 1962.
-- Set up the winner-take-all season finale between Graham Hill and Jim Clark.
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1962/races/203/united-states/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1962/8/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Upstate New York crowd estimates were reported at 40,000 spectators; unverified in official sporting records.

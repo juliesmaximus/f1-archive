@@ -1,43 +1,32 @@
-# 1962 Round 4: 48e Grand Prix de l'ACF - Verified Race Record
+# 1962 French Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: 48e Grand Prix de l'ACF
-- **Historic Name Notes**: 48th French Grand Prix; held at Rouen-les-Essarts; historic sole win for Porsche.
-- **Circuit Full Name**: Rouen-les-Essarts
-- **Location**: Grand-Couronne and Oissel, Seine-Maritime, Normandy, France
-- **Host Country**: France
-- **Track Length**: 6.542 km (4.065 mi)
-- **Track Altitude**: 120 m (394 ft) above sea level
-- **Race Distance**: 54 laps / 353.268 km (219.511 mi)
-- **Official Race Date**: 1962-07-08
+## Official Race Identification
+- **Official Name**: 48e Grand Prix de l'ACF
+- **Round**: 4 of 9 in the 1962 FIA Formula One World Championship
+- **Date**: Sunday, 8 July 1962
+- **Location**: Rouen-Les-Essarts, Grand-Couronne and Oissel, Normandy, France
+- **Circuit Length**: 6.542 km (4.065 miles)
+- **Distance**: 54 laps (353.268 km / 219.510 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, dry Normandy afternoon.
-- **Spectator Attendance**: Over 70,000 spectators.
-- **Grandstand & Infrastructure Notes**: Nouveau Monde hairpin packed.
+## Official Results & Key Metrics
+- **Pole Position**: Jim Clark (Lotus-Climax 25) - 2:14.800
+- **Fastest Lap**: Graham Hill (BRM P57) - 2:16.900 (Lap 32)
+- **Race Winner**: Dan Gurney (Porsche 804) - 2:07:35.500 (163.983 km/h)
+- **Podium**:
+  1. Dan Gurney (Porsche) - 54 laps
+  2. Tony Maggs (Cooper-Climax) - 53 laps (+1 lap)
+  3. Richie Ginther (BRM) - 52 laps (+2 laps)
 
-## Verified Key Race Results
-- **Pole Position**: Jim Clark (Lotus 25-Climax) - 2:14.8
-- **Fastest Race Lap**: Graham Hill (BRM P57) - 2:16.9 (Lap 32)
-- **Race Winner**: Dan Gurney (Porsche) - 2:07:05.500 (9 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Porsche's Solitary World Championship Grand Prix Victory**: American driver Dan Gurney piloted the air-cooled flat-8 Porsche 804 to victory at Rouen—the only victory by Porsche as a chassis manufacturer in Formula One World Championship history.
+- **Graham Hill's Rouen Heartbreak**: Graham Hill led comfortably from lap 30 until lap 42 when a backmarker collided with him, and a fuel injection failure stopped his car on lap 43, handing the lead to Gurney.
+- **Ferrari Strike Boycott**: Factory Ferrari cars were absent from the event due to widespread industrial metalworker strikes across Italy.
+- **Tony Maggs Maiden Podium**: South African driver Tony Maggs finished 2nd in the factory Cooper-Climax, scoring his maiden World Championship podium.
+- **Track & Weather Conditions**: Warm, dry Normandy summer conditions; clean asphalt throughout.
 
-## Official Podium Finishers
-- **1st** : Dan Gurney (Porsche) — 2:07:05.500 [9 pts]
-- **2nd** : Tony Maggs (Cooper-Climax) — +1 Lap [6 pts]
-- **3rd** : Richie Ginther (BRM) — +2 Laps [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1962/races/199/france/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1962/4/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Porsche's Sole Formula One Victory: American driver Dan Gurney drove a magnificent, steady race in the flat-8 air-cooled Porsche 804, scoring PORSCHE'S FIRST AND ONLY FORMULA ONE WORLD CHAMPIONSHIP GRAND PRIX VICTORY AS A CHASSIS CONSTRUCTOR.
-- Heavy Attrition: Graham Hill led until lap 42 when he was delayed by a backmarker and suffered fuel injection failure; Clark led from pole until suspension failed on lap 30.
-- Ferrari Strike Boycott: Scuderia Ferrari withdrew due to industrial metalworker strikes across northern Italy.
-
-## Records Set or Equalled
-- First and only Formula One World Championship Grand Prix victory for Porsche as a chassis constructor (Dan Gurney).
-- Maiden World Championship race victory for Dan Gurney.
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1962/races/199/french/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1962/4/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Forest hillside attendance was estimated at 65,000 spectators; no official ticketing ledger exists.

@@ -1,43 +1,31 @@
-# 1962 Round 2: XX Grand Prix Automobile de Monaco - Verified Race Record
+# 1962 Monaco Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: XX Grand Prix Automobile de Monaco
-- **Historic Name Notes**: 20th Monaco Grand Prix.
-- **Circuit Full Name**: Circuit de Monaco
-- **Location**: Monte Carlo and La Condamine, Principality of Monaco
-- **Host Country**: Monaco
-- **Track Length**: 3.145 km (1.954 mi)
-- **Track Altitude**: 15 m (49 ft) above sea level
-- **Race Distance**: 100 laps / 314.500 km (195.421 mi)
-- **Official Race Date**: 1962-06-03
+## Official Race Identification
+- **Official Name**: XX Grand Prix Automobile de Monaco
+- **Round**: 2 of 9 in the 1962 FIA Formula One World Championship
+- **Date**: Sunday, 3 June 1962
+- **Location**: Circuit de Monaco, Monte Carlo, Monaco
+- **Circuit Length**: 3.145 km (1.954 miles)
+- **Distance**: 100 laps (314.500 km / 195.421 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, calm Mediterranean afternoon.
-- **Spectator Attendance**: Over 45,000 spectators.
-- **Grandstand & Infrastructure Notes**: Harbour terrace balconies packed.
+## Official Results & Key Metrics
+- **Pole Position**: Jim Clark (Lotus-Climax 25) - 1:35.400
+- **Fastest Lap**: Jim Clark (Lotus-Climax 25) - 1:35.500 (Lap 42)
+- **Race Winner**: Bruce McLaren (Cooper-Climax T60) - 2:46:29.700 (113.376 km/h)
+- **Podium**:
+  1. Bruce McLaren (Cooper-Climax) - 100 laps
+  2. Phil Hill (Ferrari) - 100 laps (+1.300s)
+  3. Lorenzo Bandini (Ferrari) - 100 laps (+1:24.100)
 
-## Verified Key Race Results
-- **Pole Position**: Jim Clark (Lotus 25-Climax) - 1:35.4
-- **Fastest Race Lap**: Jim Clark (Lotus 25-Climax) - 1:35.5 (Lap 42)
-- **Race Winner**: Bruce McLaren (Cooper-Climax) - 2:46:29.700 (9 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Graham Hill's Heartbreak & McLaren's Triumph**: Graham Hill dominated the race for 92 laps in his BRM P57. With just 8 laps remaining and a commanding lead, his engine threw a rod at the Station hairpin. Bruce McLaren inherited the lead in his Cooper-Climax T60 and held off a furious late-race charge from reigning champion Phil Hill's Ferrari to win by just 1.3 seconds.
+- **Clark's Maiden Pole Position**: Jim Clark earned his first career World Championship pole position (1:35.400) in the Lotus 25, leading the opening laps before clutch failure ended his day on lap 55.
+- **Bandini Maiden Podium**: Italian driver Lorenzo Bandini finished 3rd in the factory Ferrari 156, scoring his first career World Championship podium.
+- **Track & Weather Conditions**: Clear, warm Mediterranean sunshine; dry asphalt throughout.
 
-## Official Podium Finishers
-- **1st** : Bruce McLaren (Cooper-Climax) — 2:46:29.700 [9 pts]
-- **2nd** : Phil Hill (Ferrari) — +1.300 [6 pts]
-- **3rd** : Lorenzo Bandini (Ferrari) — +1:24.100 [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1962/races/197/monaco/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1962/2/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Bruce McLaren Monaco Victory: Bruce McLaren took victory in the new Cooper T60 V8 by just 1.3 seconds over reigning World Champion Phil Hill's Ferrari.
-- Graham Hill Engine Smoke: Graham Hill dominated from lap 8 to lap 92 before his BRM V8 engine blew with only 8 laps remaining, handing victory to McLaren.
-- Jim Clark Maiden Pole: Jim Clark scored his FIRST CAREER WORLD CHAMPIONSHIP POLE POSITION in the Lotus 25.
-
-## Records Set or Equalled
-- First World Championship pole position for Jim Clark.
-- Bruce McLaren scored his 3rd career Grand Prix win and sole Monaco GP victory.
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1962/races/197/monaco/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1962/2/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Balcony and harbor spectator estimates were reported at 35,000 spectators. Unverified in official sporting records.

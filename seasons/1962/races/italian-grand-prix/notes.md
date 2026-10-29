@@ -1,43 +1,32 @@
-# 1962 Round 7: XXXIII Gran Premio d'Italia - Verified Race Record
+# 1962 Italian Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: XXXIII Gran Premio d'Italia
-- **Historic Name Notes**: 33rd Italian Grand Prix; 5.750 km road course.
-- **Circuit Full Name**: Autodromo Nazionale di Monza (Road Course)
-- **Location**: Monza, Lombardy, Italy
-- **Host Country**: Italy
-- **Track Length**: 5.750 km (3.573 mi)
-- **Track Altitude**: 162 m (531 ft) above sea level
-- **Race Distance**: 86 laps / 494.500 km (307.268 mi)
-- **Official Race Date**: 1962-09-16
+## Official Race Identification
+- **Official Name**: XXXIII Gran Premio d'Italia
+- **Round**: 7 of 9 in the 1962 FIA Formula One World Championship
+- **Date**: Sunday, 16 September 1962
+- **Location**: Autodromo Nazionale di Monza (5.750 km Road Course), Monza, Italy
+- **Circuit Length**: 5.750 km (3.573 miles)
+- **Distance**: 86 laps (494.500 km / 307.268 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, dry autumn conditions.
-- **Spectator Attendance**: Over 100,000 spectators.
-- **Grandstand & Infrastructure Notes**: Centrale and Vedano grandstands packed.
+## Official Results & Key Metrics
+- **Pole Position**: Jim Clark (Lotus-Climax 25) - 1:40.350
+- **Fastest Lap**: Graham Hill (BRM P57) - 1:42.300 (Lap 3)
+- **Race Winner**: Graham Hill (BRM P57) - 2:29:08.400 (198.941 km/h)
+- **Podium**:
+  1. Graham Hill (BRM) - 86 laps
+  2. Richie Ginther (BRM) - 86 laps (+29.800s)
+  3. Bruce McLaren (Cooper-Climax) - 86 laps (+57.800s)
 
-## Verified Key Race Results
-- **Pole Position**: Jim Clark (Lotus 25-Climax) - 1:40.35
-- **Fastest Race Lap**: Graham Hill (BRM P57) - 1:42.3 (Lap 3)
-- **Race Winner**: Graham Hill (BRM) - 2:29:08.400 (9 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **BRM 1-2 Triumph at Monza**: Graham Hill and teammate Richie Ginther dominated the Italian Grand Prix on the 5.750 km road course, taking a celebrated 1-2 finish for British Racing Motors (BRM).
+- **Jim Clark Transmission Failure**: Jim Clark started from pole in the Lotus 25, but his transmission failed on lap 12, dealing a devastating blow to his championship hopes.
+- **Hill On Brink of Title**: With his third victory of the season, Graham Hill moved to 36 counted points, putting him on the verge of his first World Drivers' Championship.
+- **Permanent Ban on Monza Banking**: For the second consecutive year following the 1961 tragedy, the Monza high-speed concrete banking was omitted; the race was run exclusively on the road circuit.
+- **Track & Weather Conditions**: Very warm, sunny Italian late-summer afternoon; dry asphalt throughout.
 
-## Official Podium Finishers
-- **1st** : Graham Hill (BRM) — 2:29:08.400 [9 pts]
-- **2nd** : Richie Ginther (BRM) — +29.800 [6 pts]
-- **3rd** : Bruce McLaren (Cooper-Climax) — +57.800 [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1962/races/202/italy/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1962/7/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- BRM 1-2 Monza Triumph: Graham Hill led from start to finish, leading home teammate Richie Ginther in a dominant 1-2 sweep for the Bourne-based British Racing Motors team.
-- Clark Gearbox DNF: Clark suffered transmission failure on lap 12, leaving Hill with a commanding 16-point championship lead.
-- Ferrari Crisis: Ferrari struggled severely following the famous 'palace revolt' walkout of chief engineer Carlo Chiti, with their best finisher Willy Mairesse in 4th.
-
-## Records Set or Equalled
-- BRM scored their first 1-2 finish in World Championship history.
-- Graham Hill took his 3rd victory of the season.
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1962/races/202/italy/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1962/7/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Monza parkland crowd estimates exceeded 80,000 spectators; unverified in official sporting records.
