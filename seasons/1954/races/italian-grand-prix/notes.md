@@ -11,34 +11,32 @@
 - **Race Distance**: 80 laps / 504.000 km (313.171 mi)
 - **Official Race Date**: 1954-09-05
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, dry autumn conditions.
-- **Spectator Attendance**: Over 90,000 spectators.
-- **Grandstand & Infrastructure Notes**: Centrale and Vedano grandstands packed.
+## Weather, Environment & Track Conditions
+- **Weather & Track Conditions**: Sunny, hot, dry, and fast conditions on the Monza parkland course.
 
 ## Verified Key Race Results
-- **Pole Position**: Juan Manuel Fangio (Mercedes-Benz W196) - 1:59.0
-- **Fastest Race Lap**: José Froilán González (Ferrari 625) - 2:00.8 (Lap 2) [1 pt]
-- **Race Winner**: Juan Fangio (Mercedes) - 2:47:47.900 (8 pts)
+- **Pole Position**: Juan Manuel Fangio (Mercedes-Benz W196) – 1:59.000
+- **Fastest Race Lap**: José Froilán González (Ferrari 625) – 2:00.800 (Lap 2) [1 pt]
+- **Race Winner**: Juan Manuel Fangio (Mercedes-Benz W196) – 2:47:47.900 (8 pts)
 
 ## Official Podium Finishers
-- **1st** : Juan Fangio (Mercedes) — 2:47:47.900 [8 pts]
-- **2nd** : Mike Hawthorn (Ferrari) — +1 Lap [6 pts]
-- **3rd** : José Froilán González (Ferrari) — +2 Laps [3 pts]
+- **1st** : Juan Manuel Fangio (Mercedes-Benz W196) – 2:47:47.900 [8 pts]
+- **2nd** : Mike Hawthorn (Ferrari 625) – +1 lap [6 pts]
+- **3rd** : Umberto Maglioli & José Froilán González (Ferrari 625 #38) – +2 laps [Maglioli 2 pts, González 3 pts: 2 win + 1 FL]
 
 ## Verified Race Scenarios, Anomalies & Controversies
-- Ascari's Ferrari One-Off: Lancia was not yet ready to race, so Alberto Ascari agreed to drive a factory Ferrari 750 Monza. Ascari surged into the lead, delighting the tifosi, before valve failure forced his retirement on lap 48.
-- Moss Shines in Maserati: Stirling Moss passed Fangio and Ascari to lead the Italian Grand Prix in a private Maserati 250F until an oil pipe split on lap 68, forcing him to push his car to the pits in tears.
-- Fangio Victory: Fangio inherited the lead and won by a full lap over Mike Hawthorn's Ferrari.
-- Streamliner Return: Mercedes re-introduced the streamlined W196 bodywork for Monza's long high-speed straights, vindicating its top-speed advantage.
+- **Fangio Streamliner Victory at Monza**: Mercedes deployed the streamlined bodywork for Monza's long straights. Fangio started on pole position and drove to victory by one lap over Hawthorn.
+- **Ascari and Moss Lead and DNF**: Alberto Ascari raced a factory Ferrari and led for 15 laps before his engine blew. Stirling Moss led brilliantly in his private Maserati 250F from lap 44 to lap 67 before an oil leak forced him out with 12 laps remaining.
+- **Shared Ferrari Podium**: Umberto Maglioli started Ferrari #38 and completed 30 laps before handing it to José Froilán González, who brought it home in 3rd place (+2 laps), earning 2 points for Maglioli and 3 points for González (split 2 pts + 1 FL).
 
-## Records Set or Equalled
-- Fangio's 6th win of the 1954 season (tied Ascari's 1952 single-season record).
-- Maserati privateer Stirling Moss led a World Championship Grand Prix for the first time.
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- *Spectator Attendance*: Estimated 80,000+ tifosi; unverified in official sporting documentation.
 
 ## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1954/races/133/italy/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1954/8/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
+- Formula1.com Official Classification: https://www.formula1.com/en/results/1954/races/133/italy/race-result
+- Formula1.com Official Starting Grid: https://www.formula1.com/en/results/1954/races/133/italy/starting-grid
+- Formula1.com Official Fastest Laps: https://www.formula1.com/en/results/1954/races/133/italy/fastest-laps
+- Jolpica-F1 API Classification: https://api.jolpi.ca/ergast/f1/1954/8/results.json
+- FIA Hall of Fame: https://www.fia.com/hall-of-fame
 
-*Last verified: 2026-10-29*
+*Audited and re-verified against primary sources: 2026-10-29*

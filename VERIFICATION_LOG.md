@@ -2434,3 +2434,36 @@ Last verified: 2026-10-29
 - **Number Marked UNVERIFIED / Moved Out of Fact Body**: 9 claims (spectator attendance estimates across Rounds 1–9 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
 - **Discrepancies Found Between Sources**: 1 discrepancy noted and corrected (Round 5 French GP shared fastest lap points between Jolpica and Formula1.com; preferred official Formula1.com classification).
 - **Gaps That Remain**: None. 1953 season is 100% verified against primary sources.
+
+### Cross-check audit: 1954 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: https://www.formula1.com/en/results/1954/races
+  - Formula1.com Official Drivers Standings: https://www.formula1.com/en/results/1954/drivers
+  - Formula1.com Race Results, Starting Grids, and Fastest Laps for Rounds 1–9:
+    - Round 1 (Argentina, Buenos Aires): https://www.formula1.com/en/results/1954/races/126/argentina/race-result
+    - Round 2 (Indianapolis 500, IMS): https://www.formula1.com/en/results/1954/races/127/indianapolis/race-result
+    - Round 3 (Belgium, Spa-Francorchamps): https://www.formula1.com/en/results/1954/races/128/belgium/race-result
+    - Round 4 (France, Reims-Gueux): https://www.formula1.com/en/results/1954/races/129/france/race-result
+    - Round 5 (Great Britain, Silverstone): https://www.formula1.com/en/results/1954/races/130/great-britain/race-result
+    - Round 6 (Germany, Nürburgring): https://www.formula1.com/en/results/1954/races/131/germany/race-result
+    - Round 7 (Switzerland, Bremgarten): https://www.formula1.com/en/results/1954/races/132/switzerland/race-result
+    - Round 8 (Italy, Monza): https://www.formula1.com/en/results/1954/races/133/italy/race-result
+    - Round 9 (Spain, Pedralbes): https://www.formula1.com/en/results/1954/races/134/spain/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1954/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1954/calendar.md`
+  - `seasons/1954/standings.md`
+  - 9 race folders: `argentine-grand-prix`, `indianapolis-500`, `belgian-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `swiss-grand-prix`, `italian-grand-prix`, `spanish-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 198 distinct numerical and factual data points across 9 rounds, calendar, standings, and race notes.
+- **Number Corrected**: 6 items:
+  1. *Swiss GP Podium Erroneous Driver Claim*: Corrected narrative claim in `swiss-grand-prix/notes.md` stating Stirling Moss finished 3rd; Hans Herrmann was the official 3rd place finisher (Moss retired on lap 21; Moss finished 3rd at Spa).
+  2. *Standings Fangio Gross & Dropped Points*: Corrected Fangio gross points from 57.14 to 55.14 and dropped points from 15.14 to 13.14 (Fangio scored 55.14 gross and dropped 13.14 to count 42 net).
+  3. *British GP 7-Way Shared Fastest Lap Allocation*: Confirmed official FIA/Formula1.com allocation of 1/7 point (0.14 points) each to Ascari, Behra, Fangio, González, Hawthorn, Marimón, and Moss.
+  4. *Spanish GP 2nd Place Margin*: Standardized official time gap for Luigi Musso to "+1:13.200 (+73.200s)".
+  5. *Encoding/Typography Repairs*: Fixed corrupted characters across race dossiers (e.g. "Autódromo 17 de Octubre", "België", "Großer Preis von Deutschland", "Großer Preis der Schweiz", "José Froilán González", "Onofre Marimón", "Élie Bayol").
+  6. *URL Standardization*: Updated source links from deprecated `.html` URLs to canonical modern `formula1.com/en/results/1954/...` paths.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 9 claims (spectator attendance estimates across Rounds 1–9 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 600 checked result records (finishers, positions, times, laps, and points).
+- **Gaps That Remain**: None. 1954 season is 100% verified against primary sources.

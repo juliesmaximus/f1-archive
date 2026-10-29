@@ -2,7 +2,7 @@
 
 ## Circuit & Geographic Metadata
 - **Official Race Title**: XVI Grote Prijs van België / XVI Grand Prix de Belgique
-- **Historic Name Notes**: 16th Belgian Grand Prix at Spa-Francorchamps.
+- **Historic Name Notes**: 16th Belgian Grand Prix at Spa-Francorchamps; Fangio's final race for Maserati before joining Mercedes-Benz.
 - **Circuit Full Name**: Circuit de Spa-Francorchamps
 - **Location**: Francorchamps, Stavelot, Malmedy, Belgium
 - **Host Country**: Belgium
@@ -11,32 +11,33 @@
 - **Race Distance**: 36 laps / 508.320 km (315.855 mi)
 - **Official Race Date**: 1954-06-20
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, dry Ardennes afternoon.
-- **Spectator Attendance**: Estimated 60,000 spectators.
-- **Grandstand & Infrastructure Notes**: Eau Rouge viewing mounds and newly built concrete pit garages.
+## Weather, Environment & Track Conditions
+- **Weather & Track Conditions**: Sunny, dry, warm Ardennes afternoon.
 
 ## Verified Key Race Results
-- **Pole Position**: Juan Manuel Fangio (Maserati 250F) - 4:22.1
-- **Fastest Race Lap**: Juan Manuel Fangio (Maserati 250F) - 4:25.5 (Lap 13) [1 pt]
-- **Race Winner**: Juan Fangio (Maserati) - 2:44:42.400 (9 pts)
+- **Pole Position**: Juan Manuel Fangio (Maserati 250F) – 4:22.100
+- **Fastest Race Lap**: Juan Manuel Fangio (Maserati 250F) – 4:25.500 (Lap 13) [1 pt]
+- **Race Winner**: Juan Manuel Fangio (Maserati 250F) – 2:44:42.400 (9 pts: 8 win + 1 FL)
 
 ## Official Podium Finishers
-- **1st** : Juan Fangio (Maserati) — 2:44:42.400 [9 pts]
-- **2nd** : Maurice Trintignant (Ferrari) — +24.200 [6 pts]
-- **3rd** : Stirling Moss (Maserati) — +1 Lap [4 pts]
+- **1st** : Juan Manuel Fangio (Maserati 250F) – 2:44:42.400 [9 pts]
+- **2nd** : Maurice Trintignant (Ferrari 625) – +24.200s [6 pts]
+- **3rd** : Stirling Moss (Maserati 250F) – +1 lap [4 pts]
 
 ## Verified Race Scenarios, Anomalies & Controversies
-- Fangio's Final Maserati Race of 1954: While waiting for the new Mercedes-Benz to debut, Fangio drove his final scheduled race for Maserati, scoring pole, fastest lap, and victory.
-- Farina Crash & Burns: Nino Farina's Ferrari suffered a high-speed engine failure on lap 14; oil sprayed over the exhausts, catching fire and causing minor burns to Farina.
-- Maurice Trintignant Maiden Podium: Ferrari's Maurice Trintignant finished 2nd, scoring his first career World Championship podium.
+- **Fangio Maserati Farewell**: Juan Manuel Fangio secured pole position (4:22.100), fastest lap (4:25.500), and victory in his final race for the factory Maserati squad before moving to the new Mercedes-Benz team.
+- **Stirling Moss Maiden World Championship Podium**: 24-year-old British driver Stirling Moss scored his first career World Championship podium, finishing 3rd in an Equipe Moss privateer Maserati 250F.
+- **Maurice Trintignant 2nd Place**: Ferrari's Maurice Trintignant brought his car home 2nd, 24.2 seconds behind Fangio.
+- **Farina Engine Fire**: Defending 1950 champion Nino Farina retired on lap 14 when his Ferrari engine blew, spraying burning oil; Farina sustained minor burns to his leg.
 
-## Records Set or Equalled
-- Fangio took 17 World Championship points from first two European races, setting up his title campaign across two different constructors.
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- *Spectator Attendance*: Estimated 60,000 spectators; unverified by official sporting records.
 
 ## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1954/races/128/belgium/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1954/3/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
+- Formula1.com Official Classification: https://www.formula1.com/en/results/1954/races/128/belgium/race-result
+- Formula1.com Official Starting Grid: https://www.formula1.com/en/results/1954/races/128/belgium/starting-grid
+- Formula1.com Official Fastest Laps: https://www.formula1.com/en/results/1954/races/128/belgium/fastest-laps
+- Jolpica-F1 API Classification: https://api.jolpi.ca/ergast/f1/1954/3/results.json
+- FIA Hall of Fame: https://www.fia.com/hall-of-fame
 
-*Last verified: 2026-10-29*
+*Audited and re-verified against primary sources: 2026-10-29*
