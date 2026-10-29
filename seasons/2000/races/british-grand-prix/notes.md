@@ -25,6 +25,6 @@ Moved to April's Easter weekend, creating notorious mudbaths in car parks. David
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/2000/races/4/british-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/2000/races/50/great-britain/race-result
 - **FIA Official Sporting Archives & Yearbooks (2000)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/2000/4/results.json`

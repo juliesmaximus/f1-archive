@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Michael Schumacher (Ferrari) - 1:15.632
-- **Fastest Lap:** David Coulthard (McLaren-Mercedes) - 1:19.479 (Lap 27)
+- **Fastest Lap:** David Coulthard (McLaren-Mercedes) - 1:19.479 (Lap 28)
 - **Race Winner:** David Coulthard (McLaren-Mercedes)
 
 ---
@@ -25,6 +25,6 @@ Fierce duel between Coulthard and Schumacher. Coulthard attempted an inside pass
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/2000/races/9/french-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/2000/races/55/france/race-result
 - **FIA Official Sporting Archives & Yearbooks (2000)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/2000/9/results.json`

@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Michael Schumacher (Ferrari) - 1:18.439
-- **Fastest Lap:** Mika Häkkinen (McLaren-Mercedes) - 1:19.049 (Lap 44)
+- **Fastest Lap:** Mika Häkkinen (McLaren-Mercedes) - 1:19.049 (Lap 37)
 - **Race Winner:** Michael Schumacher (Ferrari)
 
 ---
@@ -25,6 +25,6 @@ Ferrari scored an emphatic 1-2 finish in changing wet conditions. Michael Schuma
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/2000/races/8/canadian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/2000/races/54/canada/race-result
 - **FIA Official Sporting Archives & Yearbooks (2000)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/2000/8/results.json`

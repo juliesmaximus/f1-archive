@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Mika Häkkinen (McLaren-Mercedes) - 1:10.410
-- **Fastest Lap:** David Coulthard (McLaren-Mercedes) - 1:11.783 (Lap 66)
+- **Fastest Lap:** David Coulthard (McLaren-Mercedes) - 1:11.783 (Lap 67)
 - **Race Winner:** Mika Häkkinen (McLaren-Mercedes)
 
 ---
@@ -25,6 +25,6 @@ McLaren scored an uncontested 1-2 finish with Häkkinen winning ahead of Coultha
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/2000/races/10/austrian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/2000/races/56/austria/race-result
 - **FIA Official Sporting Archives & Yearbooks (2000)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/2000/10/results.json`

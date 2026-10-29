@@ -20,11 +20,18 @@
 ---
 
 ## Historical Context & Narrative Summary
-Formula 1 returned to the United States at the legendary Indianapolis Motor Speedway road course before an estimated 220,000 spectators—the largest crowd in modern F1 history. Schumacher took victory to regain the championship lead, leading home Rubens Barrichello for a Ferrari 1-2. Mika Häkkinen's Mercedes engine blew up in a cloud of smoke while chasing Schumacher on lap 26.
+Formula 1 returned to the United States at the legendary Indianapolis Motor Speedway road course before a massive crowd at the Indianapolis Motor Speedway. Schumacher took victory to regain the championship lead, leading home Rubens Barrichello for a Ferrari 1-2. Mika Häkkinen's Mercedes engine blew up in a cloud of smoke while chasing Schumacher on lap 26.
+
+---
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and circuit estimates reported a race-day crowd of approximately 220,000 spectators at the Indianapolis Motor Speedway. Official ticket scan data was not published by the FIA.
 
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/2000/races/15/united-states-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/2000/races/61/united-states/race-result
 - **FIA Official Sporting Archives & Yearbooks (2000)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/2000/15/results.json`

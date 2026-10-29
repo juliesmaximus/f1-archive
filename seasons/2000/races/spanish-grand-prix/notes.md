@@ -13,7 +13,7 @@
 ---
 
 ## Key Race Results & Milestones
-- **Pole Position:** Michael Schumacher (Ferrari) - 1:20.981
+- **Pole Position:** Michael Schumacher (Ferrari) - 1:20.974
 - **Fastest Lap:** Mika Häkkinen (McLaren-Mercedes) - 1:24.470 (Lap 28)
 - **Race Winner:** Mika Häkkinen (McLaren-Mercedes)
 
@@ -25,6 +25,6 @@ McLaren scored their second consecutive 1-2 finish. Mika Häkkinen took victory 
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/2000/races/5/spanish-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/2000/races/51/spain/race-result
 - **FIA Official Sporting Archives & Yearbooks (2000)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/2000/5/results.json`

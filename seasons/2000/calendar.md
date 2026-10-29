@@ -6,7 +6,7 @@ The 2000 FIA Formula 1 World Championship consisted of 17 rounds across 5 contin
 |:---:|:---|:---|:---|:---|:---|:---|:---|
 | 1 | [Australian Grand Prix](races/australian-grand-prix/notes.md) | Albert Park Grand Prix Circuit | Melbourne, Australia | 2000-03-12 | Michael Schumacher | Mika Häkkinen | Rubens Barrichello |
 | 2 | [Brazilian Grand Prix](races/brazilian-grand-prix/notes.md) | Autódromo José Carlos Pace (Interlagos) | São Paulo, Brazil | 2000-03-26 | Michael Schumacher | Mika Häkkinen | Michael Schumacher |
-| 3 | [San Marino Grand Prix](races/san-marino-grand-prix/notes.md) | Autodromo Enzo e Dino Ferrari | Imola, Italy | 2000-04-09 | Michael Schumacher | Mika Häkkinen | Heinz-Harald Frentzen |
+| 3 | [San Marino Grand Prix](races/san-marino-grand-prix/notes.md) | Autodromo Enzo e Dino Ferrari | Imola, Italy | 2000-04-09 | Michael Schumacher | Mika Häkkinen | Mika Häkkinen |
 | 4 | [British Grand Prix](races/british-grand-prix/notes.md) | Silverstone Circuit | Silverstone, United Kingdom | 2000-04-23 | David Coulthard | Rubens Barrichello | Mika Häkkinen |
 | 5 | [Spanish Grand Prix](races/spanish-grand-prix/notes.md) | Circuit de Barcelona-Catalunya | Montmeló, Catalonia, Spain | 2000-05-07 | Mika Häkkinen | Michael Schumacher | Mika Häkkinen |
 | 6 | [European Grand Prix](races/european-grand-prix/notes.md) | Nürburgring | Nürburg, Germany | 2000-05-21 | Michael Schumacher | David Coulthard | Michael Schumacher |

@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Michael Schumacher (Ferrari) - 1:19.475
-- **Fastest Lap:** Mika Häkkinen (McLaren-Mercedes) - 1:21.571 (Lap 24)
+- **Fastest Lap:** Mika Häkkinen (McLaren-Mercedes) - 1:21.571 (Lap 57)
 - **Race Winner:** David Coulthard (McLaren-Mercedes)
 
 ---
@@ -25,6 +25,6 @@ Schumacher led comfortably from pole by 37 seconds until lap 55, when his exhaus
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/2000/races/7/monaco-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/2000/races/53/monaco/race-result
 - **FIA Official Sporting Archives & Yearbooks (2000)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/2000/7/results.json`

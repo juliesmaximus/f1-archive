@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Mika Häkkinen (McLaren-Mercedes) - 1:24.714
-- **Fastest Lap:** Heinz-Harald Frentzen (Jordan-Mugen-Honda) - 1:26.149 (Lap 42)
+- **Fastest Lap:** Mika Häkkinen (McLaren-Mercedes) - 1:26.523 (Lap 60)
 - **Race Winner:** Michael Schumacher (Ferrari)
 
 ---
@@ -25,6 +25,6 @@ Schumacher made it three wins from three races, leapfrogging polesitter Mika Hä
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/2000/races/3/san-marino-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/2000/races/49/san-marino/race-result
 - **FIA Official Sporting Archives & Yearbooks (2000)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/2000/3/results.json`

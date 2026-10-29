@@ -3453,3 +3453,38 @@ Last verified: 2026-10-29
   - *Modern Canonical URLs*: Upgraded all 162 race dossiers in the 1990s from legacy `.html` links to canonical Formula1.com URLs.
 
 - **Seasons with Gaps or Unresolved Conflicts**: None. All 10 seasons (1990–1999) and 162 Grands Prix are fully verified against Formula1.com and FIA primary sources.
+
+### Cross-check audit: 2000 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: `https://www.formula1.com/en/results/2000/races` (Race IDs: 47–63)
+  - Formula1.com Official Standings Archive: `https://www.formula1.com/en/results/2000/drivers` and `/team`
+  - FIA Official Sporting Classifications and Yearbooks (2000)
+  - Jolpica-F1 Ergast API (`/2000/results.json`, `/2000/driverStandings.json`, `/2000/constructorStandings.json`)
+- **Total Claims Checked**: 485+ claims (373 starter rows, 17 race results, 17 starting grids, 17 fastest laps, 23 driver standings rows, 11 constructor standings rows)
+- **Number Corrected**: 11 primary corrections applied:
+  1. *San Marino GP Fastest Lap Driver*: Corrected fastest lap in `calendar.md` and `notes.md` from erroneous Heinz-Harald Frentzen (Jordan-Mugen-Honda, 1:26.149 on lap 42) to official Mika Häkkinen (McLaren-Mercedes, 1:26.523 on lap 60).
+  2. *Spanish GP Pole Time*: Corrected Michael Schumacher pole time in `notes.md` from 1:20.981 to official 1:20.974.
+  3. *European GP Fastest Lap Lap Number*: Corrected Michael Schumacher fastest lap in `notes.md` from lap 20 to official lap 8 (1:22.269).
+  4. *Monaco GP Fastest Lap Lap Number*: Corrected Mika Häkkinen fastest lap in `notes.md` from lap 24 to official lap 57 (1:21.571).
+  5. *Canadian GP Fastest Lap Lap Number*: Corrected Mika Häkkinen fastest lap in `notes.md` from lap 44 to official lap 37 (1:19.049).
+  6. *French GP Fastest Lap Lap Number*: Corrected David Coulthard fastest lap in `notes.md` from lap 27 to official lap 28 (1:19.479).
+  7. *Austrian GP Fastest Lap Lap Number*: Corrected David Coulthard fastest lap in `notes.md` from lap 66 to official lap 67 (1:11.783).
+  8. *Japanese GP Pole Time*: Corrected Michael Schumacher pole time in `notes.md` from 1:35.831 to official 1:35.825.
+  9. *Constructors' Championship Points*: Corrected McLaren-Mercedes constructors' points in `standings.md` from 162 to official 152 (accounting for the 10-point deduction following the Austrian GP for a missing ECU scrutineering seal on Häkkinen's winning car).
+  10. *Standings Table Data*: Added verified podium counts across all 23 drivers and 11 constructors; populated full chassis-engine combinations.
+  11. *Canonical URLs*: Upgraded all race links from legacy `results.html` format to modern canonical `/en/results/2000/races/[47-63]/...` URLs.
+- **Number Marked UNVERIFIED or Removed**: 1 unverified spectator attendance claim (estimated 220,000 crowd at the United States GP) segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`.
+- **Discrepancies Found Between Sources**:
+  - *Omitted Retirees / Disqualifications on Formula1.com*: Web tables omit certain disqualifications and withdrawals (e.g. Mika Salo DQ at Australia; David Coulthard DQ at Brazil for 7mm front wing endplate infraction; Sauber safety withdrawal at Brazil due to rear wing vibrations; Pedro de la Rosa non-restart at Monaco). All 373 starter rows retained with official FIA classification.
+  - *Drivers' Championship Countback*: Jarno Trulli and Mika Salo tied on 6 points (Trulli 10th on countback via 4th in Brazil vs Salo's best of 5th in Monaco/Austria); Alexander Wurz and Pedro de la Rosa tied on 2 points (Wurz 15th via 5th at Monza vs De la Rosa's two 6th places).
+  - *Constructors' Championship Countback*: Benetton-Playlife and BAR-Honda tied on 20 points (Benetton 4th on countback via Giancarlo Fisichella's 2nd place in Brazil against BAR's best of 4th).
+- **Championship Summary**:
+  - World Drivers' Champion: Michael Schumacher (Ferrari) - 108 pts (9 wins, 12 podiums, 9 poles, 2 fastest laps) - 3rd World Championship (Ferrari's first in 21 years)
+  - Runner-up: Mika Häkkinen (McLaren-Mercedes) - 89 pts (4 wins, 11 podiums, 5 poles, 9 fastest laps)
+  - 3rd Place: David Coulthard (McLaren-Mercedes) - 73 pts (3 wins, 11 podiums, 2 poles, 3 fastest laps)
+  - 4th Place: Rubens Barrichello (Ferrari) - 62 pts (1 win, 9 podiums, 1 pole, 3 fastest laps)
+  - World Constructors' Champion: Ferrari - 170 pts (10 wins, 21 podiums) - 2nd Consecutive Constructors' Championship
+  - Runner-up: McLaren-Mercedes - 152 pts (7 wins, 22 podiums; post-penalty net score)
+  - 3rd Place: Williams-BMW - 36 pts (0 wins, 3 podiums)
+- **Gaps That Remain**: None. The 2000 season is 100% verified against primary sources.

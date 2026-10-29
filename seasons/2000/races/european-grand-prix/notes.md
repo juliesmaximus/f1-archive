@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** David Coulthard (McLaren-Mercedes) - 1:17.529
-- **Fastest Lap:** Michael Schumacher (Ferrari) - 1:22.269 (Lap 20)
+- **Fastest Lap:** Michael Schumacher (Ferrari) - 1:22.269 (Lap 8)
 - **Race Winner:** Michael Schumacher (Ferrari)
 
 ---
@@ -25,6 +25,6 @@ A classic Schumacher wet-weather masterclass. Häkkinen launched like a rocket f
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/2000/races/6/european-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/2000/races/52/europe/race-result
 - **FIA Official Sporting Archives & Yearbooks (2000)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/2000/6/results.json`
