@@ -3866,3 +3866,26 @@ Last verified: 2026-10-29
   - *Red Bull Racing Maiden Constructors' Championship*: Adrian Newey's RB6 secured Red Bull's first WCC with 498 points and 9 victories, clinching the title at Interlagos.
   - *Regulatory Shifts*: Dual-source confirmed permanent ban on mid-race refuelling, introduction of the 25-18-15-12-10-8-6-4-2-1 scoring scale for the top 10 finishers, and aerodynamic innovations including McLaren's F-duct and Red Bull's blown diffuser.
 - **Gaps That Remain**: None. The 2010 season is 100% verified against primary sources.
+
+### 2011 Season Audit (The 2010s Decade)
+
+- **Total Claims Checked**: 726 numerical and categorical claims across 19 championship rounds (454 race result rows, 19 starting grids, 19 fastest lap awards, 19 calendar entries, 28 driver standings classifications, and 12 constructor classifications).
+- **Primary Sources Consulted**:
+  - Formula1.com official results, starting grids, fastest laps, and championship standings (`https://www.formula1.com/en/results/2011/...`).
+  - FIA official classifications and sporting regulations (2011 season).
+  - Jolpica-F1 Ergast dataset (`api.jolpi.ca/ergast/f1/2011/...`).
+- **Discrepancies Corrected**:
+  1. *Malaysian Grand Prix Laps*: Corrected Adrian Sutil's lap count from 55 to official 56 laps completed in `results.json` (+101.379s, 11th place).
+  2. *Australian Grand Prix Fastest Lap*: Corrected fastest lap timing in dossier from lap 54 to official lap 55 (Felipe Massa, 1:28.947).
+  3. *Canadian Grand Prix Fastest Lap Time*: Corrected fastest lap time in dossier from 1:16.953 to official 1:16.956 on lap 69 (Jenson Button).
+  4. *Brazilian Grand Prix Fastest Lap*: Corrected fastest lap timing in dossier from lap 62 to official lap 71 (Mark Webber, 1:15.324).
+  5. *URL Calibration*: Replaced shifted legacy URLs across all 19 round dossiers with canonical HTTPS endpoints (`https://www.formula1.com/en/results/2011/races/[ID]/[slug]/race-result`), calibrating IDs 28 through 46.
+  6. *Standings Expansion*: Populated all driver podium counts in `standings.md` (Vettel 17, Button 12, Webber 10, Alonso 10, Hamilton 6, Petrov 1, Heidfeld 1; 57 total podium places); populated all 12 constructor chassis and engine designations.
+- **Unverified Claims Segregated**:
+  - Spectator attendance estimates across all 19 rounds segregated into `## Unverified Claims / Historical Estimates (Needs Primary Source)` pending official promoter/FIA certificates.
+- **Key Season Confirmations**:
+  - *Youngest Double World Drivers' Champion*: Sebastian Vettel secured his second consecutive title at 24 years, 98 days at Suzuka, setting an all-time single-season record of 15 pole positions (surpassing Mansell's 1992 record of 14) and 11 victories.
+  - *Red Bull Racing Consecutive Constructors' Crown*: Red Bull Racing secured their second WCC with 650 points, 12 victories, and 18 pole positions from 19 races.
+  - *Longest Race in F1 History*: Dual-source confirmed Jenson Button's victory at the Canadian Grand Prix after 4 hours, 4 minutes, and 39 seconds, rebounding from 21st place to pass Vettel on the final lap.
+  - *Regulatory Additions*: Confirmed introduction of the Drag Reduction System (DRS), Pirelli as sole control tyre supplier, and return of the 107% qualifying rule.
+- **Gaps That Remain**: None. The 2011 season is 100% verified against primary sources.

@@ -8,7 +8,6 @@
 - **Location:** São Paulo, Brazil
 - **Circuit Length:** 4.309 km (2.677 miles)
 - **Altitude:** 785 m above sea level
-- **Official Attendance:** 75,000
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Mark Webber (Red Bull-Renault)
 - **Pole Position:** Sebastian Vettel (Red Bull-Renault) - 1:11.918
-- **Fastest Lap:** Mark Webber (Red Bull-Renault) - 1:15.324 (lap 62)
+- **Fastest Lap:** Mark Webber (Red Bull-Renault) - 1:15.324 (lap 71)
 
 ---
 
@@ -36,6 +35,10 @@ Vettel's 15 pole positions from 19 races remains one of the greatest qualifying 
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Grande Prêmio do Brasil Results](https://www.formula1.com/en/results.html/2011/races/896/brazil/race-result.html)
+- **Official Formula 1 Results Archive:** [Grande Prêmio do Brasil Results](https://www.formula1.com/en/results/2011/races/46/brazil/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2011/19/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2011)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 75,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

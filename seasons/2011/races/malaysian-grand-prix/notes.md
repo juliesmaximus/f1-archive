@@ -8,7 +8,6 @@
 - **Location:** Kuala Lumpur, Malaysia
 - **Circuit Length:** 5.543 km (3.444 miles)
 - **Altitude:** 45 m above sea level
-- **Official Attendance:** 98,000
 
 ---
 
@@ -36,6 +35,10 @@ Hamilton penalized for weaving defensively; Alonso penalized for causing a colli
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Petronas Malaysia Grand Prix Results](https://www.formula1.com/en/results.html/2011/races/879/malaysia/race-result.html)
+- **Official Formula 1 Results Archive:** [Petronas Malaysia Grand Prix Results](https://www.formula1.com/en/results/2011/races/29/malaysia/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2011/2/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2011)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 98,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

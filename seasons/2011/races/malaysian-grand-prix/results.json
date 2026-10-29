@@ -448,7 +448,7 @@
                 "nationality": "Indian"
               },
               "grid": "17",
-              "laps": "55",
+              "laps": "56",
               "status": "+1 Lap",
               "Time": {
                 "millis": "5961211",
@@ -511,7 +511,7 @@
                 "driverId": "buemi",
                 "code": "BUE",
                 "url": "http://en.wikipedia.org/wiki/S%C3%A9bastien_Buemi",
-                "givenName": "S\u00e9bastien",
+                "givenName": "Sébastien",
                 "familyName": "Buemi",
                 "dateOfBirth": "1988-10-31",
                 "nationality": "Swiss"
@@ -721,7 +721,7 @@
                 "driverId": "ambrosio",
                 "code": "DAM",
                 "url": "http://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_d%27Ambrosio",
-                "givenName": "J\u00e9r\u00f4me",
+                "givenName": "Jérôme",
                 "familyName": "d'Ambrosio",
                 "dateOfBirth": "1985-12-27",
                 "nationality": "Belgian"
@@ -793,7 +793,7 @@
                 "code": "PER",
                 "url": "http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez",
                 "givenName": "Sergio",
-                "familyName": "P\u00e9rez",
+                "familyName": "Pérez",
                 "dateOfBirth": "1990-01-26",
                 "nationality": "Mexican"
               },

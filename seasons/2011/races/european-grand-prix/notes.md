@@ -8,7 +8,6 @@
 - **Location:** Valencia, Spain
 - **Circuit Length:** 5.419 km (3.367 miles)
 - **Altitude:** 12 m above sea level
-- **Official Attendance:** 105,000
 
 ---
 
@@ -36,6 +35,10 @@ Zero retirements in a 24-car field set an unbroken Formula 1 record.
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Grand Prix of Europe Results](https://www.formula1.com/en/results.html/2011/races/885/europe/race-result.html)
+- **Official Formula 1 Results Archive:** [Grand Prix of Europe Results](https://www.formula1.com/en/results/2011/races/35/europe/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2011/8/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2011)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 105,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

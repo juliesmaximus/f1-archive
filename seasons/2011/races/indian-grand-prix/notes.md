@@ -8,7 +8,6 @@
 - **Location:** Greater Noida, Uttar Pradesh, India
 - **Circuit Length:** 5.125 km (3.185 miles)
 - **Altitude:** 195 m above sea level
-- **Official Attendance:** 95,000 enthusiastic inaugural crowd
 
 ---
 
@@ -36,6 +35,10 @@ Rowan Atkinson (Mr. Bean) became a viral internet sensation for his animated fac
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Airtel Indian Grand Prix Results](https://www.formula1.com/en/results.html/2011/races/894/india/race-result.html)
+- **Official Formula 1 Results Archive:** [Airtel Indian Grand Prix Results](https://www.formula1.com/en/results/2011/races/44/india/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2011/17/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2011)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 95,000 enthusiastic inaugural crowd (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

@@ -8,7 +8,6 @@
 - **Location:** Mogyoród, Hungary
 - **Circuit Length:** 4.381 km (2.722 miles)
 - **Altitude:** 240 m above sea level
-- **Official Attendance:** 85,000
 
 ---
 
@@ -36,6 +35,10 @@ Hamilton's spin rejoin forced Paul di Resta onto the grass, earning Hamilton a p
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Eni Magyar Nagydíj Results](https://www.formula1.com/en/results.html/2011/races/888/hungary/race-result.html)
+- **Official Formula 1 Results Archive:** [Eni Magyar Nagydíj Results](https://www.formula1.com/en/results/2011/races/38/hungary/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2011/11/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2011)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 85,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

@@ -8,7 +8,6 @@
 - **Location:** Silverstone, United Kingdom
 - **Circuit Length:** 5.891 km (3.660 miles)
 - **Altitude:** 155 m above sea level
-- **Official Attendance:** 122,000
 
 ---
 
@@ -36,6 +35,10 @@ Held under a temporary, controversial clampdown on off-throttle blown diffusers,
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Santander British Grand Prix Results](https://www.formula1.com/en/results.html/2011/races/886/great-britain/race-result.html)
+- **Official Formula 1 Results Archive:** [Santander British Grand Prix Results](https://www.formula1.com/en/results/2011/races/36/great-britain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2011/9/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2011)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 122,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

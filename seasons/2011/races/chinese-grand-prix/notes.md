@@ -8,7 +8,6 @@
 - **Location:** Shanghai, China
 - **Circuit Length:** 5.451 km (3.387 miles)
 - **Altitude:** 10 m above sea level
-- **Official Attendance:** 130,000
 
 ---
 
@@ -36,6 +35,10 @@ Webber's stunning 15-position charge on soft tyres showcased the overtaking powe
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [UBS Chinese Grand Prix Results](https://www.formula1.com/en/results.html/2011/races/880/china/race-result.html)
+- **Official Formula 1 Results Archive:** [UBS Chinese Grand Prix Results](https://www.formula1.com/en/results/2011/races/30/china/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2011/3/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2011)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 130,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

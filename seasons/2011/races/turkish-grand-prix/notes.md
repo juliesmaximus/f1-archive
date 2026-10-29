@@ -8,7 +8,6 @@
 - **Location:** Tuzla, Istanbul, Turkey
 - **Circuit Length:** 5.338 km (3.317 miles)
 - **Altitude:** 120 m above sea level
-- **Official Attendance:** 65,000
 
 ---
 
@@ -36,6 +35,10 @@ Final Turkish Grand Prix held until its temporary COVID return in 2020.
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [DHL Turkish Grand Prix Results](https://www.formula1.com/en/results.html/2011/races/881/turkey/race-result.html)
+- **Official Formula 1 Results Archive:** [DHL Turkish Grand Prix Results](https://www.formula1.com/en/results/2011/races/31/turkey/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2011/4/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2011)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 65,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

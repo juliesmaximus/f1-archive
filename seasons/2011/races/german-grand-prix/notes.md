@@ -8,7 +8,6 @@
 - **Location:** Nürburg, Germany
 - **Circuit Length:** 5.148 km (3.199 miles)
 - **Altitude:** 620 m above sea level
-- **Official Attendance:** 105,000
 
 ---
 
@@ -36,6 +35,10 @@ First time in 2011 that Sebastian Vettel failed to qualify or finish on the podi
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Großer Preis Santander von Deutschland Results](https://www.formula1.com/en/results.html/2011/races/887/germany/race-result.html)
+- **Official Formula 1 Results Archive:** [Großer Preis Santander von Deutschland Results](https://www.formula1.com/en/results/2011/races/37/germany/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2011/10/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2011)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 105,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

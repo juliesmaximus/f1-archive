@@ -8,7 +8,6 @@
 - **Location:** Montreal, Canada
 - **Circuit Length:** 4.361 km (2.710 miles)
 - **Altitude:** 14 m above sea level
-- **Official Attendance:** 120,000 soaked fans
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Jenson Button (McLaren-Mercedes)
 - **Pole Position:** Sebastian Vettel (Red Bull-Renault) - 1:13.014
-- **Fastest Lap:** Jenson Button (McLaren-Mercedes) - 1:16.953 (lap 69)
+- **Fastest Lap:** Jenson Button (McLaren-Mercedes) - 1:16.956 (lap 69)
 
 ---
 
@@ -36,6 +35,10 @@ Button made six visits to the pitlane (5 pitstops + 1 penalty) and still won the
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Grand Prix du Canada Results](https://www.formula1.com/en/results.html/2011/races/884/canada/race-result.html)
+- **Official Formula 1 Results Archive:** [Grand Prix du Canada Results](https://www.formula1.com/en/results/2011/races/34/canada/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2011/7/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2011)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 120,000 soaked fans (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)
