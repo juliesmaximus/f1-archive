@@ -25,6 +25,6 @@ The championship decider. Eddie Irvine entered the race with a 4-point lead over
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1999/races/16/japanese-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1999/races/702/japanese-grand-prix/race-result
 - **FIA Official Sporting Archives & Yearbooks (1999)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1999/16/results.json`

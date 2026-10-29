@@ -25,6 +25,6 @@ Mika Häkkinen led comfortably until lap 30, when he selected first gear instead
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1999/races/13/italian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1999/races/699/italian-grand-prix/race-result
 - **FIA Official Sporting Archives & Yearbooks (1999)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1999/13/results.json`

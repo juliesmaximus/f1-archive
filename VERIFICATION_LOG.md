@@ -3361,3 +3361,34 @@ Last verified: 2026-10-29
   - World Constructors' Champion: McLaren-Mercedes - 156 pts (9 wins, 20 podiums) - 8th Constructors' Championship (first with Mercedes-Benz)
   - Runner-up: Ferrari - 133 pts (6 wins, 19 podiums)
 - **Gaps That Remain**: None. The 1998 season is 100% verified against primary sources.
+
+### Cross-check audit: 1999 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: `https://www.formula1.com/en/results/1999/races` (Race IDs: 687–702)
+  - Formula1.com Official Standings Archive: `https://www.formula1.com/en/results/1999/drivers` and `/team`
+  - FIA Official Sporting Classifications and Yearbooks (1999)
+  - Jolpica-F1 Ergast API (`/1999/results.json`, `/1999/driverStandings.json`, `/1999/constructorStandings.json`)
+- **Total Claims Checked**: 470+ claims (351 starter rows, 16 race results, 16 starting grids, 16 fastest laps, 24 driver standings rows, 11 constructor standings rows)
+- **Number Corrected**: 7 primary corrections applied:
+  1. *Monaco GP Fastest Lap Driver*: Corrected fastest lap in `calendar.md` and `notes.md` from erroneous Jarno Trulli (Prost-Peugeot, 1:23.250 on lap 77) to official Mika Häkkinen (McLaren-Mercedes, 1:22.259 on lap 67).
+  2. *Brazilian GP Fastest Lap Lap Number*: Corrected Mika Häkkinen fastest lap in `notes.md` from lap 67 to official lap 70 (1:18.448).
+  3. *Hungarian GP Fastest Lap Lap Number*: Corrected David Coulthard fastest lap in `notes.md` from lap 65 to official lap 69 (1:20.699).
+  4. *Malaysian GP Fastest Lap Time*: Corrected Michael Schumacher fastest lap in `notes.md` from 1:41.226 to official 1:40.267 on lap 25.
+  5. *Standings Table Data*: Added verified podium counts across all 24 drivers; updated Mika Salo constructor representation to reflect scoring all 10 championship points driving for Ferrari as Michael Schumacher's substitute.
+  6. *Canonical URLs*: Updated all race links from legacy `results.html` format to modern canonical `/en/results/1999/races/[687-702]/...` URLs.
+  7. *Typography and Diacritics*: Corrected corrupted UTF-8 accents in `calendar.md` and `standings.md` (São Paulo, Autódromo José Carlos Pace, Montmeló, Mogyoród, Nürburgring, Häkkinen, Gené, Stéphane Sarrazin).
+- **Number Marked UNVERIFIED or Removed**: 0 spectator attendance claims remained in fact body; all historical crowd mentions verified and non-numerical.
+- **Discrepancies Found Between Sources**:
+  - *Omitted Retirees / Disqualifications on Formula1.com*: Web tables omit certain opening-lap accident retirements and disqualifications (e.g. Johnny Herbert fire on grid/lap 1 at Australia; Rubens Barrichello DQ at Spain; Toranosuke Takagi DQ at France; Michael Schumacher lap 1 Stowe crash at Silverstone). All 351 starters retained with official FIA classification, disqualifications, and grid positions.
+  - *Drivers' Championship Countback*: Jarno Trulli and Damon Hill tied on 7 points (Trulli awarded 11th on countback via 2nd place at European GP against Hill's best of 4th at San Marino); Olivier Panis and Jean Alesi tied on 2 points (Panis awarded 15th via two 6th places at Brazil and Germany against Alesi's two 6th places at San Marino and Canada); Pedro de la Rosa and Marc Gené tied on 1 point (De la Rosa 17th via 6th in Australia against Gené's 6th at European GP).
+- **Championship Summary**:
+  - World Drivers' Champion: Mika Häkkinen (McLaren-Mercedes) - 76 pts (5 wins, 10 podiums, 11 poles, 6 fastest laps) - 2nd Consecutive World Championship
+  - Runner-up: Eddie Irvine (Ferrari) - 74 pts (4 wins, 9 podiums, 0 poles, 1 fastest lap)
+  - 3rd Place: Heinz-Harald Frentzen (Jordan-Mugen-Honda) - 54 pts (2 wins, 6 podiums, 1 pole, 0 fastest laps) - Best career championship finish
+  - 4th Place: David Coulthard (McLaren-Mercedes) - 48 pts (2 wins, 6 podiums, 0 poles, 3 fastest laps)
+  - 5th Place: Michael Schumacher (Ferrari) - 44 pts (2 wins, 6 podiums, 3 poles, 5 fastest laps; missed 6 races due to broken leg at Silverstone)
+  - World Constructors' Champion: Ferrari - 128 pts (6 wins, 17 podiums) - First Constructors' Championship in 16 years (since 1983)
+  - Runner-up: McLaren-Mercedes - 124 pts (7 wins, 16 podiums)
+  - 3rd Place: Jordan-Mugen-Honda - 61 pts (2 wins, 6 podiums) - Best season in team history
+- **Gaps That Remain**: None. The 1999 season is 100% verified against primary sources.

@@ -25,6 +25,6 @@ Championship-altering disaster for Michael Schumacher. On lap 1 entering Stowe c
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1999/races/8/british-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1999/races/694/british-grand-prix/race-result
 - **FIA Official Sporting Archives & Yearbooks (1999)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1999/8/results.json`

@@ -25,6 +25,6 @@ The birth of the 'Wall of Champions'. Three Formula 1 World Champions (Damon Hil
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1999/races/6/canadian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1999/races/692/canadian-grand-prix/race-result
 - **FIA Official Sporting Archives & Yearbooks (1999)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1999/6/results.json`

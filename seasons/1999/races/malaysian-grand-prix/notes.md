@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Michael Schumacher (Ferrari) - 1:39.688
-- **Fastest Lap:** Michael Schumacher (Ferrari) - 1:41.226 (Lap 25)
+- **Fastest Lap:** Michael Schumacher (Ferrari) - 1:40.267 (Lap 25)
 - **Race Winner:** Eddie Irvine (Ferrari)
 
 ---
@@ -25,6 +25,6 @@ Inaugural Malaysian Grand Prix at Hermann Tilke's state-of-the-art Sepang circui
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1999/races/15/malaysian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1999/races/701/malaysian-grand-prix/race-result
 - **FIA Official Sporting Archives & Yearbooks (1999)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1999/15/results.json`

@@ -7,7 +7,7 @@ The 1999 FIA Formula 1 World Championship consisted of 16 rounds across 5 contin
 | 1 | [Australian Grand Prix](races/australian-grand-prix/notes.md) | Albert Park Grand Prix Circuit | Melbourne, Australia | 1999-03-07 | Eddie Irvine | Mika Häkkinen | Michael Schumacher |
 | 2 | [Brazilian Grand Prix](races/brazilian-grand-prix/notes.md) | Autódromo José Carlos Pace (Interlagos) | São Paulo, Brazil | 1999-04-11 | Mika Häkkinen | Mika Häkkinen | Mika Häkkinen |
 | 3 | [San Marino Grand Prix](races/san-marino-grand-prix/notes.md) | Autodromo Enzo e Dino Ferrari | Imola, Italy | 1999-05-02 | Michael Schumacher | Mika Häkkinen | Michael Schumacher |
-| 4 | [Monaco Grand Prix](races/monaco-grand-prix/notes.md) | Circuit de Monaco | Monte Carlo, Monaco | 1999-05-16 | Michael Schumacher | Mika Häkkinen | Jarno Trulli |
+| 4 | [Monaco Grand Prix](races/monaco-grand-prix/notes.md) | Circuit de Monaco | Monte Carlo, Monaco | 1999-05-16 | Michael Schumacher | Mika Häkkinen | Mika Häkkinen |
 | 5 | [Spanish Grand Prix](races/spanish-grand-prix/notes.md) | Circuit de Barcelona-Catalunya | Montmeló, Catalonia, Spain | 1999-05-30 | Mika Häkkinen | Mika Häkkinen | Michael Schumacher |
 | 6 | [Canadian Grand Prix](races/canadian-grand-prix/notes.md) | Circuit Gilles Villeneuve | Montreal, Canada | 1999-06-13 | Mika Häkkinen | Michael Schumacher | Eddie Irvine |
 | 7 | [French Grand Prix](races/french-grand-prix/notes.md) | Circuit de Nevers Magny-Cours | Magny-Cours, France | 1999-06-27 | Heinz-Harald Frentzen | Rubens Barrichello | David Coulthard |

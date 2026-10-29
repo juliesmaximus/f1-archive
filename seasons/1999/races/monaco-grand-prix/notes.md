@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Mika Häkkinen (McLaren-Mercedes) - 1:20.547
-- **Fastest Lap:** Jarno Trulli (Prost-Peugeot) - 1:23.250 (Lap 77)
+- **Fastest Lap:** Mika Häkkinen (McLaren-Mercedes) - 1:22.259 (Lap 67)
 - **Race Winner:** Michael Schumacher (Ferrari)
 
 ---
@@ -25,6 +25,6 @@ Michael Schumacher scored an imperious victory, jumping polesitter Häkkinen int
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1999/races/4/monaco-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1999/races/690/monaco-grand-prix/race-result
 - **FIA Official Sporting Archives & Yearbooks (1999)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1999/4/results.json`

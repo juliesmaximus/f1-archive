@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Mika Häkkinen (McLaren-Mercedes) - 1:16.568
-- **Fastest Lap:** Mika Häkkinen (McLaren-Mercedes) - 1:18.448 (Lap 67)
+- **Fastest Lap:** Mika Häkkinen (McLaren-Mercedes) - 1:18.448 (Lap 70)
 - **Race Winner:** Mika Häkkinen (McLaren-Mercedes)
 
 ---
@@ -25,6 +25,6 @@ Mika Häkkinen took a commanding victory from pole position. Local hero Rubens B
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1999/races/2/brazilian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1999/races/688/brazilian-grand-prix/race-result
 - **FIA Official Sporting Archives & Yearbooks (1999)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1999/2/results.json`
