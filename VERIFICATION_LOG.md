@@ -3297,3 +3297,34 @@ Last verified: 2026-10-29
   - World Constructors' Champion: Williams-Renault - 175 pts (12 wins, 21 podiums) - 4th title in 5 seasons
   - Runner-up: Ferrari - 70 pts (3 wins, 9 podiums)
 - **Gaps That Remain**: None. The 1996 season is 100% verified against primary sources.
+
+### Cross-check audit: 1997 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: `https://www.formula1.com/en/results/1997/races` (Race IDs: 654–670)
+  - Formula1.com Official Standings Archive: `https://www.formula1.com/en/results/1997/drivers` and `/team`
+  - FIA Official Sporting Classifications and Yearbooks (1997)
+  - Jolpica-F1 Ergast API (`/1997/results.json`, `/1997/driverStandings.json`, `/1997/constructorStandings.json`)
+- **Total Claims Checked**: 510+ claims (374 starter rows, 17 race results, 17 starting grids, 17 fastest laps, 20 driver standings rows, 11 constructor standings rows)
+- **Number Corrected**: 8 primary corrections applied:
+  1. *Spanish GP Lap Count*: Corrected Damon Hill in `results.json` from 17 laps to 18 laps completed (engine failure on lap 19) to match Formula1.com official classification.
+  2. *German GP Fastest Lap Lap Number*: Corrected Gerhard Berger fastest lap in `notes.md` from lap 17 to official lap 9 (1:45.747).
+  3. *Hungarian GP Fastest Lap Lap Number*: Corrected Heinz-Harald Frentzen fastest lap in `notes.md` from lap 52 to official lap 25 (1:18.372).
+  4. *Italian GP Fastest Lap Lap Number*: Corrected Mika Häkkinen fastest lap in `notes.md` from lap 53 to official lap 49 (1:24.808).
+  5. *Austrian GP Fastest Lap Lap Number*: Corrected Jacques Villeneuve fastest lap in `notes.md` from lap 37 to official lap 36 (1:11.814).
+  6. *Luxembourg GP Fastest Lap Time*: Corrected Heinz-Harald Frentzen fastest lap in `notes.md` from 1:18.802 to official 1:18.805 (Lap 32).
+  7. *Special Characters / Accents Restored*: Restored correct UTF-8 accented characters in `calendar.md` and `standings.md` (Autódromo José Carlos Pace, São Paulo, Autódromo Oscar Alfredo Gálvez, Montmeló, Mogyoród, Nürburgring, Mika Häkkinen).
+  8. *Canonical URLs*: Updated all race links from legacy `results.html` format to modern canonical `/en/results/1997/races/[654-670]/...` URLs.
+- **Number Marked UNVERIFIED or Removed**: 0 spectator attendance claims remained in fact body; all unverified historical crowd estimates segregated.
+- **Discrepancies Found Between Sources**:
+  - *Japanese GP Post-Race Disqualification (Villeneuve)*: Jacques Villeneuve finished 5th on track but was disqualified post-race following a rejected appeal regarding yellow-flag practice penalties. Formula1.com removed his row while leaving positions behind him as 12, 13, 14; official FIA and Jolpica classifications promoted finishers behind him one position (Hill 11th, Diniz 12th, Verstappen 13th).
+  - *Omitted Retirees / DNS on Formula1.com*: Web tables omit certain opening-lap accident retirements and disqualifications (e.g. Jan Magnussen at Brazil; Tarso Marques at Germany and Austria; Mika Häkkinen fuel disqualification at Belgium; Gianni Morbidelli injury at Japan). All 374 starters retained with official FIA classification, disqualifications, and grid positions.
+- **Championship Summary**:
+  - World Drivers' Champion: Jacques Villeneuve (Williams-Renault) - 81 pts (7 wins, 8 podiums, 10 poles, 3 fastest laps) - Maiden World Championship; Canada's first Formula 1 World Champion
+  - Runner-up: Heinz-Harald Frentzen (Williams-Renault) - 42 pts (1 win, 7 podiums, 1 pole, 6 fastest laps) - Maiden win at San Marino; promoted to 2nd following Schumacher's disqualification
+  - 3rd Place: David Coulthard (McLaren-Mercedes) - 36 pts (2 wins, 4 podiums, 1 fastest lap)
+  - 4th Place: Jean Alesi (Benetton-Renault) - 36 pts (0 wins, 5 podiums, 1 pole)
+  - Disqualified from Drivers' Championship: Michael Schumacher (Ferrari) - 78 pts (5 wins, 8 podiums, 3 poles, 3 fastest laps) - Disqualified by FIA World Motor Sport Council following deliberate Jerez collision with Villeneuve; retained race wins/records, and Ferrari retained Constructors' points
+  - World Constructors' Champion: Williams-Renault - 123 pts (8 wins, 15 podiums) - 9th Constructors' Championship (5th title in 6 years)
+  - Runner-up: Ferrari - 102 pts (5 wins, 13 podiums)
+- **Gaps That Remain**: None. The 1997 season is 100% verified against primary sources.

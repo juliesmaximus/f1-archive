@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Jean Alesi (Benetton-Renault) - 1:22.990
-- **Fastest Lap:** Mika Häkkinen (McLaren-Mercedes) - 1:24.808 (Lap 53)
+- **Fastest Lap:** Mika Häkkinen (McLaren-Mercedes) - 1:24.808 (Lap 49)
 - **Race Winner:** David Coulthard (McLaren-Mercedes)
 
 ---
@@ -25,6 +25,6 @@ David Coulthard scored a superb victory for McLaren-Mercedes, leapfrogging Jean 
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1997/races/13/italian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1997/races/666/italy/race-result
 - **FIA Official Sporting Archives & Yearbooks (1997)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1997/13/results.json`

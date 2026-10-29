@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Jacques Villeneuve (Williams-Renault) - 1:10.304
-- **Fastest Lap:** Jacques Villeneuve (Williams-Renault) - 1:11.814 (Lap 37)
+- **Fastest Lap:** Jacques Villeneuve (Williams-Renault) - 1:11.814 (Lap 36)
 - **Race Winner:** Jacques Villeneuve (Williams-Renault)
 
 ---
@@ -25,6 +25,6 @@ Formula 1 returned to Austria at the modernized A1-Ring (built on the site of th
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1997/races/14/austrian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1997/races/667/austria/race-result
 - **FIA Official Sporting Archives & Yearbooks (1997)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1997/14/results.json`

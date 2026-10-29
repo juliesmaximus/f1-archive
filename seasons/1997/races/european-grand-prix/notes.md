@@ -25,6 +25,6 @@ One of the most dramatic, historic finales in motorsport history. In qualifying,
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1997/races/17/european-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1997/races/670/europe/race-result
 - **FIA Official Sporting Archives & Yearbooks (1997)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1997/17/results.json`

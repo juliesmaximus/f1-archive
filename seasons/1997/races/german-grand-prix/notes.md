@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Gerhard Berger (Benetton-Renault) - 1:41.873
-- **Fastest Lap:** Gerhard Berger (Benetton-Renault) - 1:45.747 (Lap 17)
+- **Fastest Lap:** Gerhard Berger (Benetton-Renault) - 1:45.747 (Lap 9)
 - **Race Winner:** Gerhard Berger (Benetton-Renault)
 
 ---
@@ -25,6 +25,6 @@ One of the most emotional victories in modern F1 history. 37-year-old Gerhard Be
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1997/races/10/german-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1997/races/663/germany/race-result
 - **FIA Official Sporting Archives & Yearbooks (1997)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1997/10/results.json`

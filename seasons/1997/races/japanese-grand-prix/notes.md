@@ -25,6 +25,6 @@ Michael Schumacher took a vital victory, aided by team tactics from Eddie Irvine
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1997/races/16/japanese-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1997/races/669/japan/race-result
 - **FIA Official Sporting Archives & Yearbooks (1997)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1997/16/results.json`

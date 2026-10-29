@@ -1,6 +1,6 @@
 # 1997 FIA Formula 1 World Championship - Season Calendar
 
-The 1997 FIA Formula 1 World Championship consisted of 17 rounds across 5 continents, running from March 9 to October 26, 1997.
+The 1997 FIA Formula 1 World Championship was the 48th season of FIA Formula One motor racing. It consisted of 17 rounds across 5 continents, running from March 9 to October 26, 1997. Jacques Villeneuve won his maiden World Drivers' Championship with Williams-Renault, becoming Canada's first World Champion. Williams-Renault captured their ninth World Constructors' Championship, their fifth in six seasons.
 
 | Rnd | Official Grand Prix Name | Circuit | Location | Date | Winner | Pole Position | Fastest Lap |
 |:---:|:---|:---|:---|:---|:---|:---|:---|
@@ -26,5 +26,5 @@ The 1997 FIA Formula 1 World Championship consisted of 17 rounds across 5 contin
 
 ## Key Regulatory Features & Technical Specifications
 - **Engine Regulations:** 3.0-litre naturally aspirated engines (maximum 12 cylinders).
-- **Tyre War Begins:** Bridgestone entered Formula 1 to challenge Goodyear's long-running monopoly, supplying Arrows, Prost, Stewart, and Minardi.
-- **Safety Advances:** Rear impact crash tests introduced for rear crash structures; accident data recorders (black boxes) mandated on all cars.
+- **The Tyre War Returns:** Bridgestone entered Formula 1 to challenge Goodyear's long-standing tyre monopoly, equipping Arrows, Prost, Stewart, and Minardi.
+- **Safety Advances:** Mandatory rear crash-structure impact testing introduced; accident data recorders (black boxes) made compulsory in all cars.

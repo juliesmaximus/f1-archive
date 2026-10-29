@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Michael Schumacher (Ferrari) - 1:14.672
-- **Fastest Lap:** Heinz-Harald Frentzen (Williams-Renault) - 1:18.372 (Lap 52)
+- **Fastest Lap:** Heinz-Harald Frentzen (Williams-Renault) - 1:18.372 (Lap 25)
 - **Race Winner:** Jacques Villeneuve (Williams-Renault)
 
 ---
@@ -25,6 +25,6 @@ Nearly the greatest underdog upset in Formula 1 history. Reigning World Champion
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1997/races/11/hungarian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1997/races/664/hungary/race-result
 - **FIA Official Sporting Archives & Yearbooks (1997)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1997/11/results.json`

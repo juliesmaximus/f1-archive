@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Mika Häkkinen (McLaren-Mercedes) - 1:16.602
-- **Fastest Lap:** Heinz-Harald Frentzen (Williams-Renault) - 1:18.802 (Lap 32)
+- **Fastest Lap:** Heinz-Harald Frentzen (Williams-Renault) - 1:18.805 (Lap 32)
 - **Race Winner:** Jacques Villeneuve (Williams-Renault)
 
 ---
@@ -25,6 +25,6 @@ McLaren-Mercedes heartbreak turned into championship triumph for Villeneuve. Mik
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1997/races/15/luxembourg-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1997/races/668/luxembourg/race-result
 - **FIA Official Sporting Archives & Yearbooks (1997)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1997/15/results.json`
