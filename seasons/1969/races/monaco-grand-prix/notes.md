@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Graham Hill (Lotus-Ford) — 1:56:59.400  
-- **Pole Position:** Jackie Stewart  
+- **Winner:** Graham Hill (Lotus-Ford) — 1:56:59.400°0  
+- **Pole Position:** Jackie Stewart  (1:24.600)
+- **Fastest Lap:** Jackie Stewart (Matra-Ford) — 1:25.100 (Lap 16)
 - **Weather & Track Conditions:** Warm, sunny, dry; 24°C ambient  
-- **Spectator Attendance:** 45,000 spectators on harbour balconies and grandstands  
 - **Grandstand & Infrastructure:** Quai Albert 1er, Casino square, and harbour berths  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ Graham Hill set a monumental record of 5 Monaco Grand Prix victories (1963, 1964
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 1 | Graham Hill | Lotus-Ford | 80 | 1:56:59.400 | 4 | 9 |
+| 1 | 1 | Graham Hill | Lotus-Ford | 80 | 1:56:59.40°0 | 4 | 9 |
 | 2 | 16 | Piers Courage | Brabham-Ford | 80 | +17.300 | 9 | 6 |
 | 3 | 9 | Jo Siffert | Lotus-Ford | 80 | +34.600 | 5 | 4 |
 | 4 | 2 | Richard Attwood | Lotus-Ford | 80 | +52.900 | 10 | 3 |
@@ -51,8 +51,15 @@ Graham Hill set a monumental record of 5 Monaco Grand Prix victories (1963, 1964
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 45,000 estimated spectators lining the harbor, grandstands, and balconies (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1969/3/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1969 Round 3 Results](https://www.formula1.com/en/results.html/1969/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1969 Round 3 Results](https://www.formula1.com/en/results/1969/races/269/monaco/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

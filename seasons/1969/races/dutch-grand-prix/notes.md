@@ -6,7 +6,7 @@
 **Location:** Zandvoort, North Holland, Netherlands (52°23'19"N, 4°32'27"E)  
 **Track Length:** 4.196 km (2.607 miles)  
 **Altitude:** 5 m (North Sea dunes)  
-**Scheduled Distance:** 90 laps (377.640 km)  
+**Scheduled Distance:** 90 laps (377.640° km)  
 **Official Race Title:** XVIII Grote Prijs van Nederland  
 
 ---
@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jackie Stewart (Matra-Ford) — 2:06:42.080  
-- **Pole Position:** Jochen Rindt  
+- **Pole Position:** Jochen Rindt  (1:20.850)
+- **Fastest Lap:** Jackie Stewart (Matra-Ford) — 1:22.940 (Lap 5)
 - **Weather & Track Conditions:** Breezy and overcast, dry track; 20°C ambient  
-- **Spectator Attendance:** 60,000 spectators lining the dunes  
 - **Grandstand & Infrastructure:** Main pit straight covered grandstand and Tarzan hairpin dunes  
 
 ### Race Anomalies, Incidents & Key Events
@@ -50,8 +50,15 @@ Jackie Stewart opened up a massive 15-point championship lead (27 pts vs. Hill's
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 60,000 spectators on the coastal dunes and main grandstand (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1969/4/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1969 Round 4 Results](https://www.formula1.com/en/results.html/1969/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1969 Round 4 Results](https://www.formula1.com/en/results/1969/races/270/netherlands/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

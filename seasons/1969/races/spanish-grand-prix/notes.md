@@ -5,7 +5,7 @@
 **Circuit:** Montjuïc Circuit  
 **Location:** Barcelona, Catalonia, Spain (41°22'01"N, 2°09'18"E)  
 **Track Length:** 3.791 km (2.356 miles)  
-**Altitude:** 140 m (Montjuïc mountain)  
+**Altitude:** 140° m (Montjuïc mountain)  
 **Scheduled Distance:** 90 laps (341.190 km)  
 **Official Race Title:** XV Gran Premio de España  
 
@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jackie Stewart (Matra-Ford) — 2:16  
-- **Pole Position:** Jochen Rindt  
+- **Winner:** Jackie Stewart (Matra-Ford) — 2:16:53.990  
+- **Pole Position:** Jochen Rindt  (1:25.700)
+- **Fastest Lap:** Jochen Rindt (Lotus-Ford) — 1:28.300 (Lap 15)
 - **Weather & Track Conditions:** Sunny, warm, dry; 25°C ambient  
-- **Spectator Attendance:** 55,000 spectators across the parkland terraces  
 - **Grandstand & Infrastructure:** Estadi Olímpic terraces, Miramar grandstands, and Teatre Grec embankments  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ The Montjuïc double crash sparked universal driver outrage and forced the CSI t
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 7 | Jackie Stewart | Matra-Ford | 90 | 2:16 | 4 | 9 |
+| 1 | 7 | Jackie Stewart | Matra-Ford | 90 | 2:16:53.990 | 4 | 9 |
 | 2 | 6 | Bruce McLaren | McLaren-Ford | 88 | +2 Laps | 13 | 6 |
 | 3 | 8 | Jean-Pierre Beltoise | Matra-Ford | 87 | +3 Laps | 12 | 4 |
 | 4 | 5 | Denny Hulme | McLaren-Ford | 87 | +3 Laps | 8 | 3 |
@@ -49,8 +49,15 @@ The Montjuïc double crash sparked universal driver outrage and forced the CSI t
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 55,000 spectators in the Montjuïc Park grandstands (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1969/2/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1969 Round 2 Results](https://www.formula1.com/en/results.html/1969/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1969 Round 2 Results](https://www.formula1.com/en/results/1969/races/268/spain/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

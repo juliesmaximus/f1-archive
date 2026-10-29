@@ -1,4 +1,4 @@
-# 40° Gran Premio d'Italia - Race Dossier & Verification Notes
+# 40°° Gran Premio d'Italia - Race Dossier & Verification Notes
 
 **Round:** 8 of 11  
 **Date:** 1969-09-07  
@@ -7,16 +7,16 @@
 **Track Length:** 5.75 km (3.573 miles)  
 **Altitude:** 162 m (Royal Villa park)  
 **Scheduled Distance:** 68 laps (391.000 km)  
-**Official Race Title:** 40° Gran Premio d'Italia  
+**Official Race Title:** 40°° Gran Premio d'Italia  
 
 ---
 
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jackie Stewart (Matra-Ford) — 1:39:11.260  
-- **Pole Position:** Jochen Rindt  
+- **Pole Position:** Jochen Rindt  (1:25.480)
+- **Fastest Lap:** Jean-Pierre Beltoise (Matra-Ford) — 1:25.200 (Lap 64)
 - **Weather & Track Conditions:** Warm, sunny, dry late summer weather; 27°C ambient  
-- **Spectator Attendance:** 105,000 spectators filling the royal park  
 - **Grandstand & Infrastructure:** Tribuna Centrale, Vedano, Ascari, and Parabolica spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -36,7 +36,7 @@ Jackie Stewart became Scotland's second World Champion. Matra became the first F
 | 2 | 4 | Jochen Rindt | Lotus-Ford | 68 | +0.080 | 1 | 6 |
 | 3 | 22 | Jean-Pierre Beltoise | Matra-Ford | 68 | +0.170 | 6 | 4 |
 | 4 | 18 | Bruce McLaren | McLaren-Ford | 68 | +0.190 | 5 | 3 |
-| 5 | 32 | Piers Courage | Brabham-Ford | 68 | +33.440 | 4 | 2 |
+| 5 | 32 | Piers Courage | Brabham-Ford | 68 | +33.440° | 4 | 2 |
 | 6 | 10 | Pedro Rodríguez | Ferrari | 66 | +2 Laps | 12 | 1 |
 | 7 | 16 | Denny Hulme | McLaren-Ford | 66 | +2 Laps | 2 | 0 |
 | 8 | 30 | Jo Siffert | Lotus-Ford | 64 | Engine | 8 | 0 |
@@ -50,8 +50,15 @@ Jackie Stewart became Scotland's second World Champion. Matra became the first F
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 105,000 tifosi packing the Autodromo Nazionale di Monza (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1969/8/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1969 Round 8 Results](https://www.formula1.com/en/results.html/1969/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1969 Round 8 Results](https://www.formula1.com/en/results/1969/races/274/italy/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

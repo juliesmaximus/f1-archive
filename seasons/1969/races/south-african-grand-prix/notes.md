@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jackie Stewart (Matra-Ford) — 1:50:39.100  
-- **Pole Position:** Jack Brabham  
+- **Pole Position:** Jack Brabham  (1:20.000)
+- **Fastest Lap:** Jackie Stewart (Matra-Ford) — 1:21.600 (Lap 50)
 - **Weather & Track Conditions:** Warm, sunny, dry; 26°C ambient  
-- **Spectator Attendance:** 80,000 spectators lining the circuit  
 - **Grandstand & Infrastructure:** Main pit straight covered grandstands and Crowthorne banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -42,7 +42,7 @@ Brabham abandoned the unreliable Repco V8 engine in favour of customer Ford Cosw
 | 8 | 17 | Sam Tingle | Brabham-Repco | 73 | +7 Laps | 17 | 0 |
 | R | 19 | Peter de Klerk | Brabham-Repco | 67 | Not classified | 16 | 0 |
 | R | 2 | Jochen Rindt | Lotus-Ford | 44 | Fuel pump | 2 | 0 |
-| R | 10 | John Surtees | BRM | 40 | Engine | 18 | 0 |
+| R | 10 | John Surtees | BRM | 40° | Engine | 18 | 0 |
 | R | 12 | Pedro Rodríguez | BRM | 38 | Water leak | 15 | 0 |
 | R | 9 | Chris Amon | Ferrari | 34 | Engine | 5 | 0 |
 | R | 14 | Jack Brabham | Brabham-Ford | 32 | Handling | 1 | 0 |
@@ -53,8 +53,15 @@ Brabham abandoned the unreliable Repco V8 engine in favour of customer Ford Cosw
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 80,000 spectators at Kyalami Grand Prix Circuit (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1969/1/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1969 Round 1 Results](https://www.formula1.com/en/results.html/1969/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1969 Round 1 Results](https://www.formula1.com/en/results/1969/races/267/south-africa/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

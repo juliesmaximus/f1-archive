@@ -1,4 +1,4 @@
-# XXXI Grosser Preis von Deutschland - Race Dossier & Verification Notes
+# XXXI Großer Preis von Deutschland - Race Dossier & Verification Notes
 
 **Round:** 7 of 11  
 **Date:** 1969-08-03  
@@ -6,17 +6,17 @@
 **Location:** Nürburg, Rhineland-Palatinate, West Germany (50°20'08"N, 6°56'51"E)  
 **Track Length:** 22.81 km (14.173 miles)  
 **Altitude:** 620 m (Eifel mountains)  
-**Scheduled Distance:** 14 laps (319.340 km)  
-**Official Race Title:** XXXI Grosser Preis von Deutschland  
+**Scheduled Distance:** 14 laps (319.340° km)  
+**Official Race Title:** XXXI Großer Preis von Deutschland  
 
 ---
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jacky Ickx (Brabham-Ford) — 1:49:55.400  
-- **Pole Position:** Jacky Ickx  
+- **Winner:** Jacky Ickx (Brabham-Ford) — 1:49:55.400°0  
+- **Pole Position:** Jacky Ickx  (7:42.100)
+- **Fastest Lap:** Jacky Ickx (Brabham-Ford) — 7:43.800 (Lap 7)
 - **Weather & Track Conditions:** Warm, clear, dry summer weather; 26°C ambient  
-- **Spectator Attendance:** 220,000 spectators camping across the Eifel forest  
 - **Grandstand & Infrastructure:** Start-und-Ziel tribüne, Karussell, and Brünnchen spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ Jacky Ickx cemented his reputation as a Nürburgring master, scoring Brabham's f
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 6 | Jacky Ickx | Brabham-Ford | 14 | 1:49:55.400 | 1 | 9 |
+| 1 | 6 | Jacky Ickx | Brabham-Ford | 14 | 1:49:55.40°0 | 1 | 9 |
 | 2 | 7 | Jackie Stewart | Matra-Ford | 14 | +57.700 | 2 | 6 |
 | 3 | 10 | Bruce McLaren | McLaren-Ford | 14 | +3:21.600 | 8 | 4 |
 | 4 | 1 | Graham Hill | Lotus-Ford | 14 | +3:58.800 | 9 | 3 |
@@ -49,8 +49,15 @@ Jacky Ickx cemented his reputation as a Nürburgring master, scoring Brabham's f
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 220,000 spectators lining the Nürburgring Nordschleife (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1969/7/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1969 Round 7 Results](https://www.formula1.com/en/results.html/1969/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1969 Round 7 Results](https://www.formula1.com/en/results/1969/races/273/germany/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

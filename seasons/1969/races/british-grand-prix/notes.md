@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jackie Stewart (Matra-Ford) — 1:55:55.600  
-- **Pole Position:** Jochen Rindt  
+- **Pole Position:** Jochen Rindt  (1:20.800)
+- **Fastest Lap:** Jackie Stewart (Matra-Ford) — 1:21.300 (Lap 57)
 - **Weather & Track Conditions:** Warm, sunny, dry; 25°C ambient  
-- **Spectator Attendance:** 115,000 spectators packed around the perimeter runways  
 - **Grandstand & Infrastructure:** BRDC grandstands at Woodcote, Copse, and Abbey; crowded infield  
 
 ### Race Anomalies, Incidents & Key Events
@@ -52,8 +52,15 @@ Stewart scored his 5th victory of the season, taking 45 of a possible 54 points 
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 115,000 spectators lining Silverstone Circuit (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1969/6/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1969 Round 6 Results](https://www.formula1.com/en/results.html/1969/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1969 Round 6 Results](https://www.formula1.com/en/results/1969/races/272/great-britain/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

@@ -3,9 +3,9 @@
 **Round:** 11 of 11  
 **Date:** 1969-10-19  
 **Circuit:** Magdalena Mixhuca  
-**Location:** Mexico City, Mexico (19°24'15"N, 99°05'40"W)  
+**Location:** Mexico City, Mexico (19°24'15"N, 99°05'40°"W)  
 **Track Length:** 5.0 km (3.107 miles)  
-**Altitude:** 2,240 m (7,349 ft) high-altitude plateau  
+**Altitude:** 2,240° m (7,349 ft) high-altitude plateau  
 **Scheduled Distance:** 65 laps (325.000 km)  
 **Official Race Title:** VIII Gran Premio de Mexico  
 
@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Denny Hulme (McLaren-Ford) — 1:54:08.800  
-- **Pole Position:** Jack Brabham  
+- **Pole Position:** Jack Brabham  (1:42.900)
+- **Fastest Lap:** Jacky Ickx (Brabham-Ford) — 1:43.050 (Lap 64)
 - **Weather & Track Conditions:** Warm, sunny, dry, thin air; 23°C ambient  
-- **Spectator Attendance:** 90,000 Mexican fans packing the Peraltada stadium  
 - **Grandstand & Infrastructure:** Colossal Estadio grandstands encircling Peraltada hairpin and pit straight terraces  
 
 ### Race Anomalies, Incidents & Key Events
@@ -35,7 +35,7 @@ The final Grand Prix of the 1960s decade. Denny Hulme's victory gave McLaren the
 | 1 | 5 | Denny Hulme | McLaren-Ford | 65 | 1:54:08.800 | 4 | 9 |
 | 2 | 7 | Jacky Ickx | Brabham-Ford | 65 | +2.560 | 2 | 6 |
 | 3 | 8 | Jack Brabham | Brabham-Ford | 65 | +38.480 | 1 | 4 |
-| 4 | 3 | Jackie Stewart | Matra-Ford | 65 | +47.040 | 3 | 3 |
+| 4 | 3 | Jackie Stewart | Matra-Ford | 65 | +47.040° | 3 | 3 |
 | 5 | 4 | Jean-Pierre Beltoise | Matra-Ford | 65 | +1:38.520 | 8 | 2 |
 | 6 | 15 | Jackie Oliver | BRM | 63 | +2 Laps | 12 | 1 |
 | 7 | 12 | Pedro Rodríguez | Ferrari | 63 | +2 Laps | 15 | 0 |
@@ -52,8 +52,15 @@ The final Grand Prix of the 1960s decade. Denny Hulme's victory gave McLaren the
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 80,000 spectators in the Magdalena Mixhuca grandstands (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1969/11/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1969 Round 11 Results](https://www.formula1.com/en/results.html/1969/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1969 Round 11 Results](https://www.formula1.com/en/results/1969/races/277/mexico/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

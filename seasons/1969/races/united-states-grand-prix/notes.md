@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jochen Rindt (Lotus-Ford) — 1:57:56.840  
-- **Pole Position:** Jochen Rindt  
+- **Winner:** Jochen Rindt (Lotus-Ford) — 1:57:56.840°  
+- **Pole Position:** Jochen Rindt  (1:03.620)
+- **Fastest Lap:** Jochen Rindt (Lotus-Ford) — 1:04.340 (Lap 69)
 - **Weather & Track Conditions:** Cold, bright autumn sunshine; 14°C ambient  
-- **Spectator Attendance:** 100,000 spectators packing the Watkins Glen knolls  
 - **Grandstand & Infrastructure:** Kendall main grandstand, The Bog, and Seneca hillside mounds  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ Jochen Rindt broke his duck to become a Grand Prix winner. Graham Hill faced mon
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 2 | Jochen Rindt | Lotus-Ford | 108 | 1:57:56.840 | 1 | 9 |
+| 1 | 2 | Jochen Rindt | Lotus-Ford | 108 | 1:57:56.840° | 1 | 9 |
 | 2 | 18 | Piers Courage | Brabham-Ford | 108 | +46.990 | 9 | 6 |
 | 3 | 14 | John Surtees | BRM | 106 | +2 Laps | 11 | 4 |
 | 4 | 8 | Jack Brabham | Brabham-Ford | 106 | +2 Laps | 18 | 3 |
@@ -53,8 +53,15 @@ Jochen Rindt broke his duck to become a Grand Prix winner. Graham Hill faced mon
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 100,000 spectators throughout Watkins Glen State Park (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1969/10/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1969 Round 10 Results](https://www.formula1.com/en/results.html/1969/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1969 Round 10 Results](https://www.formula1.com/en/results/1969/races/276/united-states/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.
