@@ -8,7 +8,6 @@
 - **Location:** São Paulo, Brazil
 - **Circuit Length:** 4.309 km (2.677 miles)
 - **Altitude:** 785 m above sea level
-- **Official Attendance:** 80,000
 
 ---
 
@@ -35,7 +34,12 @@ McLaren appealed the fuel temperature of BMW Sauber and Williams cars post-race;
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 80,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Grande Prêmio do Brasil Results](https://www.formula1.com/en/results.html/2007/races/823/brazil/race-result.html)
+- **Official Formula 1 Results Archive:** [Grande Prêmio do Brasil Results](https://www.formula1.com/en/results/2007/races/824/brazil/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2007/17/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2007)

@@ -8,7 +8,6 @@
 - **Location:** Montmeló, Spain
 - **Circuit Length:** 4.655 km (2.892 miles)
 - **Altitude:** 125 m above sea level
-- **Official Attendance:** 140,700 passionate fans
 
 ---
 
@@ -35,7 +34,12 @@ First race on the new chicane configuration before the final turn, introduced to
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 140,700 passionate fans. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio Telefónica de España Results](https://www.formula1.com/en/results.html/2007/races/810/spain/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio Telefónica de España Results](https://www.formula1.com/en/results/2007/races/811/spain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2007/4/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2007)

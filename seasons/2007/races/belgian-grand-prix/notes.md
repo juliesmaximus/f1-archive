@@ -8,7 +8,6 @@
 - **Location:** Spa, Belgium
 - **Circuit Length:** 7.004 km (4.352 miles)
 - **Altitude:** 420 m above sea level
-- **Official Attendance:** 85,000
 
 ---
 
@@ -35,7 +34,12 @@ McLaren accepted the $100M penalty and Constructors' exclusion after being found
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 85,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [ING Belgian Grand Prix Results](https://www.formula1.com/en/results.html/2007/races/820/belgium/race-result.html)
+- **Official Formula 1 Results Archive:** [ING Belgian Grand Prix Results](https://www.formula1.com/en/results/2007/races/821/belgium/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2007/14/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2007)

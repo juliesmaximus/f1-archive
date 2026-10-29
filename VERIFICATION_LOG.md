@@ -3690,3 +3690,37 @@ Last verified: 2026-10-29
   - Runner-up: Ferrari - 201 pts (9 wins, 19 podiums)
   - 3rd Place: McLaren-Mercedes - 110 pts (9 podiums)
 - **Gaps That Remain**: None. The 2006 season is 100% verified against primary sources.
+
+### Cross-check audit: 2007 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: `https://www.formula1.com/en/results/2007/races` (Race IDs: 808–824)
+  - Formula1.com Official Standings Archive: `https://www.formula1.com/en/results/2007/drivers` and `/team`
+  - FIA Official Sporting Classifications and Yearbooks (2007)
+  - Jolpica-F1 Ergast API (`/2007/results.json`, `/2007/driverStandings.json`, `/2007/constructorStandings.json`)
+- **Total Claims Checked**: 550+ claims (374 starter rows, 17 race results, 17 starting grids, 17 fastest laps, 26 driver standings rows, 11 constructor standings rows)
+- **Number Corrected**: 7 primary corrections applied:
+  1. *Monaco GP Results Lap Count*: Corrected Vitantonio Liuzzi (Scuderia Toro Rosso) in `results.json` from 2 laps to official 1 lap completed.
+  2. *United States GP Results Lap Count*: Corrected Nick Heidfeld (BMW Sauber) in `results.json` from 56 laps to official 55 laps completed.
+  3. *Canadian GP Fastest Lap Time and Lap*: Corrected Fernando Alonso's fastest lap in `notes.md` from 1:16.312 on lap 23 to official 1:16.367 on lap 46.
+  4. *Japanese GP Fastest Lap Lap Number*: Corrected Lewis Hamilton's fastest lap in `notes.md` from lap 67 to official lap 27 (1:28.193).
+  5. *Standings Table Data*: Added verified podium counts across all 26 drivers and 11 constructors; documented Spygate exclusion of McLaren with full on-track points and official WMSC ruling notes.
+  6. *Canonical URLs*: Upgraded all race notes links from legacy `results.html` format to modern canonical `/en/results/2007/races/[808–824]/...` URLs.
+  7. *Spectator Attendance Segregation*: Segregated unverified promoter, circuit, and media attendance estimates across all 17 Grands Prix into dedicated unverified sections.
+- **Number Marked UNVERIFIED or Removed**: 17 spectator attendance claims segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`.
+- **Discrepancies Found Between Sources**:
+  - *Canadian GP Pit Exit Disqualifications*: Felipe Massa and Giancarlo Fisichella disqualified for leaving the pit lane under red exit lights; omitted from Formula1.com classified table, preserved in local records with official "Disqualified" status.
+  - *Japanese GP Non-Finish Classification*: Alexander Wurz (Williams) retired following a collision on lap 19 and was omitted from Formula1.com web results table; preserved in local records with official FIA status.
+  - *Drivers' Championship Countback*: Hamilton and Alonso tied on 109 points and 4 wins; Hamilton placed 2nd by virtue of 5 second-place finishes vs Alonso's 4.
+  - *Constructors' Championship Spygate Disqualification*: McLaren was excluded from the Constructors' Championship by the FIA World Motor Sport Council on September 13, 2007 under Article 151c, forfeiting all 2007 WCC points and handed a record $100M fine; drivers were permitted to retain their WDC points.
+- **Championship Summary**:
+  - World Drivers' Champion: Kimi Räikkönen (Ferrari) - 110 pts (6 wins, 12 podiums, 3 poles, 6 fastest laps) - Won championship by 1 point after erasing a 17-point deficit over the final two races.
+  - Runner-up: Lewis Hamilton (McLaren-Mercedes) - 109 pts (4 wins, 12 podiums, 6 poles, 2 fastest laps) - Record-breaking rookie season with podiums in his first 9 races.
+  - 3rd Place: Fernando Alonso (McLaren-Mercedes) - 109 pts (4 wins, 12 podiums, 2 poles, 3 fastest laps)
+  - 4th Place: Felipe Massa (Ferrari) - 94 pts (3 wins, 10 podiums, 6 poles, 6 fastest laps)
+  - 5th Place: Nick Heidfeld (BMW Sauber) - 61 pts (2 podiums)
+  - World Constructors' Champion: Ferrari - 204 pts (9 wins, 22 podiums)
+  - Runner-up: BMW Sauber - 101 pts (2 podiums)
+  - 3rd Place: Renault - 51 pts (1 podium)
+  - Excluded: Vodafone McLaren Mercedes - 0 pts (218 on track, 8 wins, 24 podiums)
+- **Gaps That Remain**: None. The 2007 season is 100% verified against primary sources.

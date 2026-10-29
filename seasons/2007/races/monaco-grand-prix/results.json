@@ -301,7 +301,7 @@
                 "code": "RAI",
                 "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
                 "givenName": "Kimi",
-                "familyName": "R\u00e4ikk\u00f6nen",
+                "familyName": "Räikkönen",
                 "dateOfBirth": "1979-10-17",
                 "nationality": "Finnish"
               },
@@ -805,7 +805,7 @@
                 "nationality": "Italian"
               },
               "grid": "12",
-              "laps": "2",
+              "laps": "1",
               "status": "Accident"
             }
           ]

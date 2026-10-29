@@ -8,7 +8,6 @@
 - **Location:** Monte Carlo, Monaco
 - **Circuit Length:** 3.340 km (2.075 miles)
 - **Altitude:** 15 m above sea level
-- **Official Attendance:** 45,000
 
 ---
 
@@ -35,7 +34,12 @@ The FIA launched a formal investigation into McLaren for alleged team orders, ul
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 45,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Grand Prix de Monaco Results](https://www.formula1.com/en/results.html/2007/races/811/monaco/race-result.html)
+- **Official Formula 1 Results Archive:** [Grand Prix de Monaco Results](https://www.formula1.com/en/results/2007/races/812/monaco/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2007/5/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2007)

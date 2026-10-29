@@ -8,7 +8,6 @@
 - **Location:** Shanghai, China
 - **Circuit Length:** 5.451 km (3.387 miles)
 - **Altitude:** 10 m above sea level
-- **Official Attendance:** 125,000
 
 ---
 
@@ -35,7 +34,12 @@ Hamilton's pit entry retirement was one of the most agonizing strategic miscalcu
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 125,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Sinopec Chinese Grand Prix Results](https://www.formula1.com/en/results.html/2007/races/822/china/race-result.html)
+- **Official Formula 1 Results Archive:** [Sinopec Chinese Grand Prix Results](https://www.formula1.com/en/results/2007/races/823/china/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2007/16/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2007)

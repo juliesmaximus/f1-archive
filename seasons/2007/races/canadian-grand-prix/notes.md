@@ -8,7 +8,6 @@
 - **Location:** Montreal, Canada
 - **Circuit Length:** 4.361 km (2.710 miles)
 - **Altitude:** 14 m above sea level
-- **Official Attendance:** 120,000
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Lewis Hamilton (McLaren-Mercedes)
 - **Pole Position:** Lewis Hamilton (McLaren-Mercedes) - 1:15.707
-- **Fastest Lap:** Fernando Alonso (McLaren-Mercedes) - 1:16.312 (lap 23)
+- **Fastest Lap:** Fernando Alonso (McLaren-Mercedes) - 1:16.367 (Lap 46)
 
 ---
 
@@ -35,7 +34,12 @@ Alonso went off at Turn 1 four times and received a 10-second stop-go penalty fo
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 120,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Grand Prix du Canada Results](https://www.formula1.com/en/results.html/2007/races/812/canada/race-result.html)
+- **Official Formula 1 Results Archive:** [Grand Prix du Canada Results](https://www.formula1.com/en/results/2007/races/813/canada/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2007/6/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2007)

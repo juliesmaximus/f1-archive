@@ -8,7 +8,6 @@
 - **Location:** Oyama, Shizuoka, Japan
 - **Circuit Length:** 4.563 km (2.835 miles)
 - **Altitude:** 580 m above sea level
-- **Official Attendance:** 140,000
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Lewis Hamilton (McLaren-Mercedes)
 - **Pole Position:** Lewis Hamilton (McLaren-Mercedes) - 1:25.368
-- **Fastest Lap:** Lewis Hamilton (McLaren-Mercedes) - 1:28.193 (lap 67)
+- **Fastest Lap:** Lewis Hamilton (McLaren-Mercedes) - 1:28.193 (Lap 27)
 
 ---
 
@@ -35,7 +34,12 @@ Ferrari failed to start on extreme wet tyres due to missing an FIA email mandate
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 140,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Fuji Television Japanese Grand Prix Results](https://www.formula1.com/en/results.html/2007/races/821/japan/race-result.html)
+- **Official Formula 1 Results Archive:** [Fuji Television Japanese Grand Prix Results](https://www.formula1.com/en/results/2007/races/822/japan/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2007/15/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2007)
