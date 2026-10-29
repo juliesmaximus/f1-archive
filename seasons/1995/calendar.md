@@ -1,6 +1,6 @@
 # 1995 FIA Formula 1 World Championship - Season Calendar
 
-The 1995 FIA Formula 1 World Championship consisted of 17 rounds across 5 continents, running from March 26 to November 12, 1995.
+The 1995 FIA Formula 1 World Championship was the 46th season of FIA Formula One motor racing. It consisted of 17 rounds across 5 continents, running from March 26 to November 12, 1995. Michael Schumacher won his second consecutive World Drivers' Championship with Benetton-Renault, equalling Nigel Mansell's 1992 record of 9 wins in a season. Benetton also captured their first and only World Constructors' Championship.
 
 | Rnd | Official Grand Prix Name | Circuit | Location | Date | Winner | Pole Position | Fastest Lap |
 |:---:|:---|:---|:---|:---|:---|:---|:---|
@@ -25,6 +25,6 @@ The 1995 FIA Formula 1 World Championship consisted of 17 rounds across 5 contin
 ---
 
 ## Key Regulatory Features & Technical Specifications
-- **Engine Capacity:** Reduced from 3.5 litres to 3.0 litres naturally aspirated.
-- **Weight Regulations:** Minimum weight raised to 595 kg including driver.
-- **Safety Revisions:** Stepped floor with 10 mm wooden plank, cockpit sides raised to 400 mm, frontal impact test standards elevated.
+- **Engine Regulations:** Maximum engine capacity reduced from 3.5 litres to 3.0 litres naturally aspirated to reduce speeds and power outputs.
+- **Minimum Weight with Driver:** For the first time, minimum car weight was set at 595 kg inclusive of the driver and their racing kit.
+- **Enhanced Crash Safety Standards:** Cockpit survival cell dimensions lengthened, cockpit side protection walls raised to 400 mm, lateral head protection padding introduced, and dynamic frontal crash test impact speeds increased.

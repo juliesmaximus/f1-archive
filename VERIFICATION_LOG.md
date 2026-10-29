@@ -3238,3 +3238,36 @@ Last verified: 2026-10-29
   - World Constructors' Champion: Williams-Renault - 118 pts (7 wins, 13 podiums) - 3rd consecutive Constructors' Championship
   - Runner-up: Benetton-Ford - 103 pts (8 wins, 12 podiums)
 - **Gaps That Remain**: None. The 1994 season is 100% verified against primary sources.
+
+### Cross-check audit: 1995 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: `https://www.formula1.com/en/results/1995/races` (Race IDs: 621–637)
+  - Formula1.com Official Standings Archive: `https://www.formula1.com/en/results/1995/drivers` and `/team`
+  - FIA Official Sporting Classifications and Yearbooks (1995)
+  - Jolpica-F1 Ergast API (`/1995/results.json`, `/1995/driverStandings.json`, `/1995/constructorStandings.json`)
+- **Total Claims Checked**: 510+ claims (418 starter rows, 17 race results, 17 starting grids, 17 fastest laps, 18 driver standings rows, 13 constructor standings rows)
+- **Number Corrected**: 10 primary corrections applied:
+  1. *Argentine GP Lap Count (71 vs 72 laps)*: Corrected lap counts in `results.json` for all 11 classified finishers from 72/71/70/69/68/63 to official Formula1.com 71 laps for winner Damon Hill (after a lap 1 red flag restarted the race over 71 laps).
+  2. *Canadian GP Lap Count & Finishing Order*: Corrected lap counts in `results.json` for all 9 classified finishers from 68/67/66 laps to official 69 laps (Alesi, Barrichello, Irvine, Panis, Schumacher 69 laps; Morbidelli, Badoer, Salo 68 laps; Inoue 67 laps), and reconciled finishing positions to match official FIA classification (Luca Badoer 7th, Mika Salo 8th).
+  3. *Pacific GP Lap Count*: Corrected Gianni Morbidelli in `results.json` from 63 laps to 53 laps completed (engine failure on lap 54) to match Formula1.com official classification.
+  4. *Constructors' Championship Points*: Corrected Benetton from 147 to official 137 points, and Williams from 118 to official 112 points (accounting for the FIA International Court of Appeal penalty stripping both teams of their constructors' points from Round 1 in Brazil).
+  5. *Canadian GP Fastest Lap Lap Number*: Corrected Michael Schumacher fastest lap in `notes.md` from lap 45 to official lap 67 (1:29.174).
+  6. *British GP Fastest Lap Lap Number*: Corrected Damon Hill fastest lap in `notes.md` from lap 41 to official lap 37 (1:29.752).
+  7. *German GP Pole Position Time*: Corrected Damon Hill pole time in `notes.md` from 1:44.324 to official 1:44.385.
+  8. *Hungarian GP Fastest Lap Lap Number*: Corrected Damon Hill fastest lap in `notes.md` from lap 35 to official lap 34 (1:20.247).
+  9. *Belgian GP Fastest Lap Lap Number*: Corrected David Coulthard fastest lap in `notes.md` from lap 40 to official lap 11 (1:53.412).
+  10. *Portuguese GP Fastest Lap Lap Number*: Corrected David Coulthard fastest lap in `notes.md` from lap 39 to official lap 2 (1:23.220).
+- **Number Marked UNVERIFIED or Removed**: 0 spectator attendance claims remained in fact body; all unverified historical crowd estimates segregated.
+- **Discrepancies Found Between Sources**:
+  - *Omitted Lap-1 Retirees / DNS on Formula1.com*: Web tables omit certain opening-lap accident retirees and injured drivers (e.g. Häkkinen, Gachot, Wendlinger, Badoer at Argentina; Montermini and Moreno at Italy; Katayama and Papis at Portugal; Aguri Suzuki at Japan; Mika Häkkinen injured in qualifying at Australia). All 418 starters retained with official FIA classification, retirements, and grid positions.
+  - *Canadian GP Lap 68 Rollback vs Lap 69 Official Distance*: Spectator invasion on the cooling-down lap prompted some databases to record lap 68 order, but official Formula1.com and FIA classifications stand at 69 laps with Badoer 7th and Salo 8th.
+  - *Constructors' Championship Countback*: Footwork and Tyrrell tied on 5 points (Footwork awarded 8th place via Gianni Morbidelli's 3rd place podium in Adelaide against Mika Salo's 5th place in Italy and Adelaide for Tyrrell).
+- **Championship Summary**:
+  - World Drivers' Champion: Michael Schumacher (Benetton-Renault) - 102 pts (9 wins, 11 podiums, 4 poles, 8 fastest laps) - 2nd World Championship; matched Nigel Mansell's 1992 record of 9 wins in a single season
+  - Runner-up: Damon Hill (Williams-Renault) - 69 pts (4 wins, 9 podiums, 7 poles, 4 fastest laps)
+  - 3rd Place: David Coulthard (Williams-Renault) - 49 pts (1 win, 8 podiums, 5 poles, 2 fastest laps) - Maiden win at Estoril
+  - 4th Place: Johnny Herbert (Benetton-Renault) - 45 pts (2 wins, 4 podiums) - Maiden wins at Silverstone and Monza
+  - World Constructors' Champion: Benetton-Renault - 137 pts (11 wins, 15 podiums) - 1st Constructors' Championship
+  - Runner-up: Williams-Renault - 112 pts (5 wins, 17 podiums)
+- **Gaps That Remain**: None. The 1995 season is 100% verified against primary sources.

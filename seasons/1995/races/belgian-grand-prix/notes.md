@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Gerhard Berger (Ferrari) - 1:54.392
-- **Fastest Lap:** David Coulthard (Williams-Renault) - 1:53.412 (Lap 40)
+- **Fastest Lap:** David Coulthard (Williams-Renault) - 1:53.412 (Lap 11)
 - **Race Winner:** Michael Schumacher (Benetton-Renault)
 
 ---
@@ -25,6 +25,6 @@ One of Michael Schumacher's greatest drives. Starting 16th on the grid after wet
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1995/races/11/belgian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1995/races/631/belgium/race-result
 - **FIA Official Sporting Archives & Yearbooks (1995)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1995/11/results.json`

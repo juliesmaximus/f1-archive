@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** David Coulthard (Williams-Renault) - 1:20.537
-- **Fastest Lap:** David Coulthard (Williams-Renault) - 1:23.220 (Lap 39)
+- **Fastest Lap:** David Coulthard (Williams-Renault) - 1:23.220 (Lap 2)
 - **Race Winner:** David Coulthard (Williams-Renault)
 
 ---
@@ -25,6 +25,6 @@ David Coulthard scored his maiden Formula 1 Grand Prix victory from pole positio
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1995/races/13/portuguese-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1995/races/633/portugal/race-result
 - **FIA Official Sporting Archives & Yearbooks (1995)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1995/13/results.json`

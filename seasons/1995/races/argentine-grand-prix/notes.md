@@ -25,6 +25,8 @@ Return of the Argentine Grand Prix for the first time since 1981. Damon Hill too
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1995/races/2/argentine-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1995/races/622/argentina/race-result
 - **FIA Official Sporting Archives & Yearbooks (1995)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1995/2/results.json`
+
+- **Lap Distance Note:** Race originally scheduled for 72 laps; after a lap 1 multi-car collision and red flag, the race was restarted over 71 laps, which forms the official Formula1.com and FIA classified race distance.

@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Damon Hill (Williams-Renault) - 1:16.982
-- **Fastest Lap:** Damon Hill (Williams-Renault) - 1:20.247 (Lap 35)
+- **Fastest Lap:** Damon Hill (Williams-Renault) - 1:20.247 (Lap 34)
 - **Race Winner:** Damon Hill (Williams-Renault)
 
 ---
@@ -25,6 +25,6 @@ Damon Hill claimed a dominant Grand Slam (pole, win, fastest lap, led every lap)
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1995/races/10/hungarian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1995/races/630/hungary/race-result
 - **FIA Official Sporting Archives & Yearbooks (1995)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1995/10/results.json`

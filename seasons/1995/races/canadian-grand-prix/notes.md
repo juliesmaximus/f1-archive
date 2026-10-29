@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Michael Schumacher (Benetton-Renault) - 1:27.661
-- **Fastest Lap:** Michael Schumacher (Benetton-Renault) - 1:29.174 (Lap 45)
+- **Fastest Lap:** Michael Schumacher (Benetton-Renault) - 1:29.174 (Lap 67)
 - **Race Winner:** Jean Alesi (Ferrari)
 
 ---
@@ -25,6 +25,6 @@ One of the most popular victories in Formula 1 history. Michael Schumacher domin
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1995/races/6/canadian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1995/races/626/canada/race-result
 - **FIA Official Sporting Archives & Yearbooks (1995)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1995/6/results.json`

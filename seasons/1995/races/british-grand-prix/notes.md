@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Damon Hill (Williams-Renault) - 1:28.124
-- **Fastest Lap:** Damon Hill (Williams-Renault) - 1:29.752 (Lap 41)
+- **Fastest Lap:** Damon Hill (Williams-Renault) - 1:29.752 (Lap 37)
 - **Race Winner:** Johnny Herbert (Benetton-Renault)
 
 ---
@@ -25,6 +25,6 @@ Dramatic collision between championship protagonists. Damon Hill chased Schumach
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1995/races/8/british-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1995/races/628/great-britain/race-result
 - **FIA Official Sporting Archives & Yearbooks (1995)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1995/8/results.json`

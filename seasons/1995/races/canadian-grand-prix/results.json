@@ -48,7 +48,7 @@
                 "nationality": "Italian"
               },
               "grid": "5",
-              "laps": "68",
+              "laps": "69",
               "status": "Finished",
               "Time": {
                 "millis": "6294171",
@@ -76,7 +76,7 @@
                 "nationality": "Irish"
               },
               "grid": "9",
-              "laps": "68",
+              "laps": "69",
               "status": "Finished",
               "Time": {
                 "millis": "6325858",
@@ -103,7 +103,7 @@
                 "nationality": "Irish"
               },
               "grid": "8",
-              "laps": "68",
+              "laps": "69",
               "status": "Finished",
               "Time": {
                 "millis": "6327441",
@@ -130,7 +130,7 @@
                 "nationality": "French"
               },
               "grid": "11",
-              "laps": "68",
+              "laps": "69",
               "status": "Finished",
               "Time": {
                 "millis": "6330677",
@@ -158,7 +158,7 @@
                 "nationality": "Italian"
               },
               "grid": "1",
-              "laps": "68",
+              "laps": "69",
               "status": "Finished",
               "Time": {
                 "millis": "6331231",
@@ -185,36 +185,13 @@
                 "nationality": "British"
               },
               "grid": "13",
-              "laps": "67",
-              "status": "+1 Lap"
-            },
-            {
-              "number": "4",
-              "position": "7",
-              "positionText": "7",
-              "points": "0",
-              "Driver": {
-                "driverId": "salo",
-                "url": "http://en.wikipedia.org/wiki/Mika_Salo",
-                "givenName": "Mika",
-                "familyName": "Salo",
-                "dateOfBirth": "1966-11-30",
-                "nationality": "Finnish"
-              },
-              "Constructor": {
-                "constructorId": "tyrrell",
-                "url": "https://en.wikipedia.org/wiki/Tyrrell_Racing",
-                "name": "Tyrrell",
-                "nationality": "British"
-              },
-              "grid": "15",
-              "laps": "67",
+              "laps": "68",
               "status": "+1 Lap"
             },
             {
               "number": "24",
-              "position": "8",
-              "positionText": "8",
+              "position": "7",
+              "positionText": "7",
               "points": "0",
               "Driver": {
                 "driverId": "badoer",
@@ -232,7 +209,30 @@
                 "nationality": "Italian"
               },
               "grid": "19",
-              "laps": "67",
+              "laps": "68",
+              "status": "+1 Lap"
+            },
+            {
+              "number": "4",
+              "position": "8",
+              "positionText": "8",
+              "points": "0",
+              "Driver": {
+                "driverId": "salo",
+                "url": "http://en.wikipedia.org/wiki/Mika_Salo",
+                "givenName": "Mika",
+                "familyName": "Salo",
+                "dateOfBirth": "1966-11-30",
+                "nationality": "Finnish"
+              },
+              "Constructor": {
+                "constructorId": "tyrrell",
+                "url": "https://en.wikipedia.org/wiki/Tyrrell_Racing",
+                "name": "Tyrrell",
+                "nationality": "British"
+              },
+              "grid": "15",
+              "laps": "68",
               "status": "+1 Lap"
             },
             {
@@ -255,7 +255,7 @@
                 "nationality": "British"
               },
               "grid": "22",
-              "laps": "66",
+              "laps": "67",
               "status": "+2 Laps"
             },
             {
@@ -590,7 +590,7 @@
                 "driverId": "hakkinen",
                 "url": "http://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen",
                 "givenName": "Mika",
-                "familyName": "H\u00e4kkinen",
+                "familyName": "Häkkinen",
                 "dateOfBirth": "1968-09-28",
                 "nationality": "Finnish"
               },
