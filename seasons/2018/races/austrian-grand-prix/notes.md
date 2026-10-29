@@ -7,9 +7,15 @@
 - **Circuit Length & Distance:** 4.318 km (2.683 mi), 71 laps, 306.452 km
 - **Circuit Elevation / Altitude:** 660 m
 - **Ambient & Track Weather:** Dry, sunny, ambient 24°C, track 42°C
-- **Spectator Attendance:** 70,000 race day
 
 ---
+
+---
+
+## Official Race Classification Summary
+- **Winner:** Max Verstappen (Red Bull Racing TAG Heuer)
+- **Pole Position:** Valtteri Bottas (Mercedes) - 1:03.130
+- **Fastest Lap:** Kimi Räikkönen (Ferrari) - 1:06.957 (lap 71)
 
 ## Strategic Overview & Race Scenario
 Double retirement disaster for Mercedes (Bottas hydraulics, Hamilton fuel pressure). Max Verstappen wins Red Bull's home race ahead of Ferrari duo Raikkonen and Vettel.
@@ -24,6 +30,11 @@ Double retirement disaster for Mercedes (Bottas hydraulics, Hamilton fuel pressu
 ---
 
 ## Primary Sources
-- Formula1.com Official Grand Prix Classification and Lap Charts (2018)
+- **Official Formula 1 Results Archive:** [Austria Grand Prix Results](https://www.formula1.com/en/results/2018/races/987/austria/race-result)
 - FIA Official Race Director Communications & Stewards Decision Documents
 - Jolpica-F1 Historical Database (`https://api.jolpi.ca/ergast/f1/2018/9/`)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 70,000 race day (estimate reported in promoter/media releases; unverified in official FIA classifications)

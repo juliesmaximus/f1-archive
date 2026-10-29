@@ -7,9 +7,15 @@
 - **Circuit Length & Distance:** 5.793 km (3.600 mi), 53 laps, 306.720 km
 - **Circuit Elevation / Altitude:** 183 m
 - **Ambient & Track Weather:** Dry, overcast, ambient 22°C, track 30°C
-- **Spectator Attendance:** 95,000 race day (185,000 weekend)
 
 ---
+
+---
+
+## Official Race Classification Summary
+- **Winner:** Lewis Hamilton (Mercedes)
+- **Pole Position:** Kimi Räikkönen (Ferrari) - 1:19.119
+- **Fastest Lap:** Lewis Hamilton (Mercedes) - 1:22.497 (lap 30)
 
 ## Strategic Overview & Race Scenario
 Ferrari lockout front row, but Hamilton passes Vettel at the Roggia chicane on lap 1 (spinning Vettel) and later stalks and overtakes Raikkonen on heavily blistered tyres to break Italian hearts in Monza.
@@ -24,6 +30,11 @@ Ferrari lockout front row, but Hamilton passes Vettel at the Roggia chicane on l
 ---
 
 ## Primary Sources
-- Formula1.com Official Grand Prix Classification and Lap Charts (2018)
+- **Official Formula 1 Results Archive:** [Italy Grand Prix Results](https://www.formula1.com/en/results/2018/races/992/italy/race-result)
 - FIA Official Race Director Communications & Stewards Decision Documents
 - Jolpica-F1 Historical Database (`https://api.jolpi.ca/ergast/f1/2018/14/`)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 95,000 race day (185,000 weekend) (estimate reported in promoter/media releases; unverified in official FIA classifications)

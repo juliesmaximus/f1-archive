@@ -7,9 +7,15 @@
 - **Circuit Length & Distance:** 4.309 km (2.677 mi), 71 laps, 305.909 km
 - **Circuit Elevation / Altitude:** 785 m
 - **Ambient & Track Weather:** Dry, warm, threat of rain, ambient 24°C, track 35°C
-- **Spectator Attendance:** 75,000 race day
 
 ---
+
+---
+
+## Official Race Classification Summary
+- **Winner:** Lewis Hamilton (Mercedes)
+- **Pole Position:** Lewis Hamilton (Mercedes) - 1:07.281
+- **Fastest Lap:** Valtteri Bottas (Mercedes) - 1:10.540 (lap 65)
 
 ## Strategic Overview & Race Scenario
 Max Verstappen leads towards victory until unlapping backmarker Esteban Ocon collides with him at the Senna S on lap 44, spinning Verstappen and allowing Hamilton through to win. Post-race physical altercation in the FIA garage.
@@ -24,6 +30,11 @@ Max Verstappen leads towards victory until unlapping backmarker Esteban Ocon col
 ---
 
 ## Primary Sources
-- Formula1.com Official Grand Prix Classification and Lap Charts (2018)
+- **Official Formula 1 Results Archive:** [Brazil Grand Prix Results](https://www.formula1.com/en/results/2018/races/998/brazil/race-result)
 - FIA Official Race Director Communications & Stewards Decision Documents
 - Jolpica-F1 Historical Database (`https://api.jolpi.ca/ergast/f1/2018/20/`)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 75,000 race day (estimate reported in promoter/media releases; unverified in official FIA classifications)

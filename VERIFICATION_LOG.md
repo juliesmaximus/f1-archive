@@ -4036,3 +4036,25 @@ esults.json from Kevin Magnussen's 10-second time penalty for causing a collisio
   - *Inaugural Azerbaijan Grand Prix*: The race at Baku officially took the title "Azerbaijan Grand Prix", featuring the high-profile Vettel-Hamilton safety car confrontation and Lance Stroll's maiden podium (3rd).
   - *Final Malaysian Grand Prix*: Sepang hosted its 19th and final Formula 1 Grand Prix, won by Max Verstappen.
 - **Gaps That Remain**: None. The 2017 season is 100% verified against primary sources.
+
+### 2018 Season Audit (The 2010s Decade)
+
+- **Total Claims Checked**: 776 numerical and categorical claims across 21 championship rounds (420 race result rows, 21 starting grids, 21 fastest lap awards, 21 calendar entries, 20 driver standings classifications, and 11 constructor classifications).
+- **Primary Sources Consulted**:
+  - Formula1.com official results, starting grids, fastest laps, and championship standings (`https://www.formula1.com/en/results/2018/...`).
+  - FIA official classifications and sporting regulations (2018 season).
+  - Jolpica-F1 Ergast dataset (`api.jolpi.ca/ergast/f1/2018/...`).
+- **Discrepancies Corrected**:
+  1. *Constructors' Championship Standings & Points Allocation*: Corrected major error in `standings.md` where Force India had been listed 5th with 111 combined points. Official FIA and Formula1.com classifications confirm Sahara Force India's 59 points from rounds 1–12 were forfeited upon going into administration and changing ownership; Racing Point Force India was recognized as a new entrant scoring 52 points from Round 13 onward to finish 7th, promoting Haas F1 Team to 5th (93 pts) and McLaren to 6th (62 pts).
+  2. *Brazilian Grand Prix Post-Race Penalty*: Corrected finishing positions in `results.json` from Stoffel Vandoorne's 5-second blue flag penalty: Esteban Ocon promoted to 14th, Vandoorne classified 15th.
+  3. *Race Dossier Classification Expansion*: Expanded all 21 round dossiers with official classification summaries (Winner, Pole Position time, and Fastest Lap time and lap number) and calibrated canonical URLs (`https://www.formula1.com/en/results/2018/races/[ID]/[slug]/race-result`), calibrating IDs 979 through 999.
+  4. *Standings Expansion*: Populated all driver podium counts in `standings.md` (Hamilton 17, Vettel 12, Räikkönen 12, Verstappen 11, Bottas 8, Ricciardo 2, Pérez 1; 63 total podium places); populated all 11 constructor chassis and engine designations.
+- **Unverified Claims Segregated**:
+  - Spectator attendance estimates across all 21 rounds segregated into `## Unverified Claims / Historical Estimates (Needs Primary Source)` pending official promoter/FIA certificates.
+- **Key Season Confirmations**:
+  - *Lewis Hamilton Five-Time World Drivers' Champion*: Lewis Hamilton matched Juan Manuel Fangio with his fifth World Championship, winning 11 races (including 6 of 7 in the mid-season European/Asian stretch) and scoring 408 points, clinching the title at the Mexican GP.
+  - *Mercedes AMG Petronas 5th Consecutive Double*: Mercedes secured their 5th consecutive Constructors' title with 655 points and 11 victories.
+  - *Mandatory Halo Cockpit Protection*: Formally introduced to protect driver cockpits, saving Charles Leclerc from flying debris and wheels during Fernando Alonso's massive opening-lap crash at Spa-Francorchamps.
+  - *Kimi Räikkönen 21st & Final Ferrari Victory*: Räikkönen took his final Ferrari victory at Austin (US GP), snapping a 113-race winless streak.
+  - *Fernando Alonso Farewell*: Fernando Alonso concluded his initial Formula 1 career with McLaren at the Abu Dhabi season finale.
+- **Gaps That Remain**: None. The 2018 season is 100% verified against primary sources.

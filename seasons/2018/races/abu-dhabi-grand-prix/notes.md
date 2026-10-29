@@ -7,9 +7,15 @@
 - **Circuit Length & Distance:** 5.554 km (3.451 mi), 55 laps, 305.355 km
 - **Circuit Elevation / Altitude:** 6 m
 - **Ambient & Track Weather:** Dry, clear twilight into night, ambient 26°C, track 29°C
-- **Spectator Attendance:** 60,000 race day
 
 ---
+
+---
+
+## Official Race Classification Summary
+- **Winner:** Lewis Hamilton (Mercedes)
+- **Pole Position:** Lewis Hamilton (Mercedes) - 1:34.794
+- **Fastest Lap:** Sebastian Vettel (Ferrari) - 1:40.867 (lap 54)
 
 ## Strategic Overview & Race Scenario
 Hamilton closes out season with 11th victory. Fernando Alonso completes his final F1 race (before his 2021 return), joining Hamilton and Vettel on the main straight for burnout donuts.
@@ -24,6 +30,11 @@ Hamilton closes out season with 11th victory. Fernando Alonso completes his fina
 ---
 
 ## Primary Sources
-- Formula1.com Official Grand Prix Classification and Lap Charts (2018)
+- **Official Formula 1 Results Archive:** [Abu-Dhabi Grand Prix Results](https://www.formula1.com/en/results/2018/races/999/abu-dhabi/race-result)
 - FIA Official Race Director Communications & Stewards Decision Documents
 - Jolpica-F1 Historical Database (`https://api.jolpi.ca/ergast/f1/2018/21/`)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 60,000 race day (estimate reported in promoter/media releases; unverified in official FIA classifications)

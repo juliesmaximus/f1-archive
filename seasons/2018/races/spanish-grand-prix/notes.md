@@ -7,9 +7,15 @@
 - **Circuit Length & Distance:** 4.655 km (2.892 mi), 66 laps, 307.104 km
 - **Circuit Elevation / Altitude:** 120 m
 - **Ambient & Track Weather:** Dry, overcast, ambient 19°C, track 35°C
-- **Spectator Attendance:** 90,000 race day
 
 ---
+
+---
+
+## Official Race Classification Summary
+- **Winner:** Lewis Hamilton (Mercedes)
+- **Pole Position:** Lewis Hamilton (Mercedes) - 1:16.173
+- **Fastest Lap:** Daniel Ricciardo (Red Bull Racing TAG Heuer) - 1:18.441 (lap 61)
 
 ## Strategic Overview & Race Scenario
 Lewis Hamilton takes commanding victory from pole. Massive lap 1 spin by Grosjean creates smoke screen and wipes out Gasly and Hulkenberg.
@@ -24,6 +30,11 @@ Lewis Hamilton takes commanding victory from pole. Massive lap 1 spin by Grosjea
 ---
 
 ## Primary Sources
-- Formula1.com Official Grand Prix Classification and Lap Charts (2018)
+- **Official Formula 1 Results Archive:** [Spain Grand Prix Results](https://www.formula1.com/en/results/2018/races/983/spain/race-result)
 - FIA Official Race Director Communications & Stewards Decision Documents
 - Jolpica-F1 Historical Database (`https://api.jolpi.ca/ergast/f1/2018/5/`)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 90,000 race day (estimate reported in promoter/media releases; unverified in official FIA classifications)

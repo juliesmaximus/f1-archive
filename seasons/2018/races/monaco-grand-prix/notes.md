@@ -7,9 +7,15 @@
 - **Circuit Length & Distance:** 3.337 km (2.074 mi), 78 laps, 260.286 km
 - **Circuit Elevation / Altitude:** 15 m
 - **Ambient & Track Weather:** Dry, warm, ambient 24°C, track 33°C
-- **Spectator Attendance:** 40,000 race day
 
 ---
+
+---
+
+## Official Race Classification Summary
+- **Winner:** Daniel Ricciardo (Red Bull Racing TAG Heuer)
+- **Pole Position:** Daniel Ricciardo (Red Bull Racing TAG Heuer) - 1:10.810
+- **Fastest Lap:** Max Verstappen (Red Bull Racing TAG Heuer) - 1:14.260 (lap 60)
 
 ## Strategic Overview & Race Scenario
 Daniel Ricciardo redeems his 2016 heartbreak by winning despite losing MGU-K failure on lap 18 (down 25% horsepower, 6 of 8 gears), resisting Vettel's Ferrari for 60 laps around the tight streets.
@@ -24,6 +30,11 @@ Daniel Ricciardo redeems his 2016 heartbreak by winning despite losing MGU-K fai
 ---
 
 ## Primary Sources
-- Formula1.com Official Grand Prix Classification and Lap Charts (2018)
+- **Official Formula 1 Results Archive:** [Monaco Grand Prix Results](https://www.formula1.com/en/results/2018/races/984/monaco/race-result)
 - FIA Official Race Director Communications & Stewards Decision Documents
 - Jolpica-F1 Historical Database (`https://api.jolpi.ca/ergast/f1/2018/6/`)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 40,000 race day (estimate reported in promoter/media releases; unverified in official FIA classifications)
