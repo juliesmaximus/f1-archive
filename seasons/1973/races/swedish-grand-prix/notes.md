@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Denny Hulme (McLaren) — 1:56:46.049  
-- **Pole Position:** Ronnie Peterson  
+- **Pole Position:** Ronnie Peterson (1:23.810)
+- **Fastest Lap:** Denny Hulme (McLaren-Ford) — 1:26.146 (Lap 7)
 - **Weather & Track Conditions:** Warm, clear, dry; 23°C ambient  
-- **Spectator Attendance:** 50,000 ecstatic Swedish fans cheering Ronnie Peterson  
 - **Grandstand & Infrastructure:** Permanent airfield runway grandstands and Karusellen spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -56,8 +56,14 @@ The first World Championship Grand Prix held in Scandinavia. Denny Hulme claimed
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 50,000 ecstatic Swedish fans cheering Ronnie Peterson (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1973/7/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Round 7 Results](https://www.formula1.com/en/results.html/1973/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Race Results](https://www.formula1.com/en/results/1973/races/320/sweden/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Peter Revson (McLaren) — 1:59:04.083  
-- **Pole Position:** Ronnie Peterson  
+- **Pole Position:** Ronnie Peterson (1:13.697)
+- **Fastest Lap:** Emerson Fittipaldi (Lotus-Ford) — 1:15.496
 - **Weather & Track Conditions:** Cold, torrential rain, thick spray, standing water; 12°C ambient  
-- **Spectator Attendance:** 55,000 spectators shivering on the Mosport spectator banks  
 - **Grandstand & Infrastructure:** Paddock grandstand, Corner 2 hillside banks, and Moss Corner infield  
 
 ### Race Anomalies, Incidents & Key Events
@@ -61,8 +61,14 @@ Peter Revson's second career Grand Prix victory. Timing chaos highlighted the ne
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 55,000 spectators shivering on the Mosport spectator banks (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1973/14/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Round 14 Results](https://www.formula1.com/en/results.html/1973/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Race Results](https://www.formula1.com/en/results/1973/races/327/canada/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

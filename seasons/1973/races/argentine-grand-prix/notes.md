@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Emerson Fittipaldi (Team Lotus) — 1:56:18.220  
-- **Pole Position:** Clay Regazzoni  
+- **Pole Position:** Clay Regazzoni (1:10.540)
+- **Fastest Lap:** Emerson Fittipaldi (Lotus-Ford) — 1:11.220 (Lap 79)
 - **Weather & Track Conditions:** Hot, humid summer sun; 30°C ambient, track temperature 46°C  
-- **Spectator Attendance:** 80,000 spectators packing the Buenos Aires amphitheatre  
 - **Grandstand & Infrastructure:** Permanent concrete stadium grandstands along the Curva del Ciervo and pit straight  
 
 ### Race Anomalies, Incidents & Key Events
@@ -54,8 +54,14 @@ Emerson Fittipaldi opened his title defense with victory.
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 80,000 spectators packing the Buenos Aires amphitheatre (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1973/1/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Round 1 Results](https://www.formula1.com/en/results.html/1973/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Race Results](https://www.formula1.com/en/results/1973/races/314/argentina/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

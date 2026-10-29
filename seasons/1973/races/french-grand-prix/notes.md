@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Ronnie Peterson (Team Lotus) — 1:41:36.520  
-- **Pole Position:** Jackie Stewart  
+- **Pole Position:** Jackie Stewart (1:48.370)
+- **Fastest Lap:** Denny Hulme (McLaren-Ford) — 1:50.990 (Lap 52)
 - **Weather & Track Conditions:** Warm, sunny, dry; 28°C ambient, brisk Mistral wind  
-- **Spectator Attendance:** 80,000 spectators across the Paul Ricard terraces  
 - **Grandstand & Infrastructure:** Main pit grandstands, Virage du Pont, and wide paved runoffs  
 
 ### Race Anomalies, Incidents & Key Events
@@ -60,8 +60,14 @@ Ronnie Peterson scored the first of his 10 career Grand Prix wins. Jackie Stewar
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 80,000 spectators across the Paul Ricard terraces (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1973/8/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Round 8 Results](https://www.formula1.com/en/results.html/1973/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Race Results](https://www.formula1.com/en/results/1973/races/321/france/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

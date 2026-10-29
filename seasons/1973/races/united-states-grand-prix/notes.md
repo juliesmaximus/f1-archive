@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Ronnie Peterson (Team Lotus) — 1:41:15.779  
-- **Pole Position:** Ronnie Peterson  
+- **Pole Position:** Ronnie Peterson (1:39.657)
+- **Fastest Lap:** James Hunt (March-Ford) — 1:41.652 (Lap 58)
 - **Weather & Track Conditions:** Crisp, sunny, cool autumn day; 14°C ambient  
-- **Spectator Attendance:** 115,000 spectators packing the Watkins Glen hills  
 - **Grandstand & Infrastructure:** Kendall main grandstand, The Boot, and Seneca spectator knolls  
 
 ### Race Anomalies, Incidents & Key Events
@@ -63,8 +63,14 @@ One of the saddest weekends in Grand Prix history. Jackie Stewart retired as a t
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 115,000 spectators packing the Watkins Glen hills (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1973/15/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Round 15 Results](https://www.formula1.com/en/results.html/1973/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Race Results](https://www.formula1.com/en/results/1973/races/328/united-states/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

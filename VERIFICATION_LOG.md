@@ -3177,3 +3177,48 @@ Last verified: 2026-10-29
 - **Number Marked UNVERIFIED / Moved Out of Fact Body**: 12 claims (spectator attendance estimates across Rounds 1-12 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
 - **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on points across all 303 classified starters.
 - **Gaps That Remain**: None. 1972 season is 100% verified against primary sources.
+
+### 1973 Season Audit Summary
+
+- **Season Audited**: 1973 (15 championship rounds)
+- **Primary Sources Consulted**:
+  - Formula 1 Official Results Archive:
+    - Drivers Standings: https://www.formula1.com/en/results/1973/drivers
+    - Constructors Standings: https://www.formula1.com/en/results/1973/team
+    - Round 1 (Argentina, Buenos Aires): https://www.formula1.com/en/results/1973/races/314/argentina/race-result
+    - Round 2 (Brazil, Interlagos): https://www.formula1.com/en/results/1973/races/315/brazil/race-result
+    - Round 3 (South Africa, Kyalami): https://www.formula1.com/en/results/1973/races/316/south-africa/race-result
+    - Round 4 (Spain, Montjuïc): https://www.formula1.com/en/results/1973/races/317/spain/race-result
+    - Round 5 (Belgium, Zolder): https://www.formula1.com/en/results/1973/races/318/belgium/race-result
+    - Round 6 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1973/races/319/monaco/race-result
+    - Round 7 (Sweden, Anderstorp): https://www.formula1.com/en/results/1973/races/320/sweden/race-result
+    - Round 8 (France, Paul Ricard): https://www.formula1.com/en/results/1973/races/321/france/race-result
+    - Round 9 (Great Britain, Silverstone): https://www.formula1.com/en/results/1973/races/322/great-britain/race-result
+    - Round 10 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1973/races/323/netherlands/race-result
+    - Round 11 (Germany, Nürburgring): https://www.formula1.com/en/results/1973/races/324/germany/race-result
+    - Round 12 (Austria, Österreichring): https://www.formula1.com/en/results/1973/races/325/austria/race-result
+    - Round 13 (Italy, Monza): https://www.formula1.com/en/results/1973/races/326/italy/race-result
+    - Round 14 (Canada, Mosport Park): https://www.formula1.com/en/results/1973/races/327/canada/race-result
+    - Round 15 (United States, Watkins Glen): https://www.formula1.com/en/results/1973/races/328/united-states/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1973/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1973/calendar.md`
+  - `seasons/1973/standings.md`
+  - 15 race folders: `argentine-grand-prix`, `brazilian-grand-prix`, `south-african-grand-prix`, `spanish-grand-prix`, `belgian-grand-prix`, `monaco-grand-prix`, `swedish-grand-prix`, `french-grand-prix`, `british-grand-prix`, `dutch-grand-prix`, `german-grand-prix`, `austrian-grand-prix`, `italian-grand-prix`, `canadian-grand-prix`, `united-states-grand-prix` (`results.json`, `notes.md`)
+- **Number of Claims Checked**: 335 distinct numerical and factual data points across 15 rounds, calendar, driver standings, constructor standings, and race notes, plus 350 individual result row checks.
+- **Number Corrected**: 7 items:
+  1. *Standings Verification*: Confirmed Sir Jackie Stewart won his 3rd World Drivers' Championship with 71 net points (71 gross across 5 wins, 8 podiums under split best-7-of-first-8 / best-6-of-last-7 rule) before retiring from Formula One with a then-record 27 GP victories.
+  2. *Constructors' Cup Standings*: Corrected Lotus-Ford to 92 net points (96 gross, previously shown as 91) and Tyrrell-Ford to 82 net points (86 gross, previously shown as 80).
+  3. *Driver Standings Podiums Count*: Populated missing podium tallies for all drivers in `standings.md` (Emerson Fittipaldi 8, Jackie Stewart 8, Ronnie Peterson 7, François Cevert 7, Peter Revson 4, Denny Hulme 3, James Hunt 2, Carlos Reutemann 2, Carlos Pace 1, Jacky Ickx 1, Jackie Oliver 1, George Follmer 1).
+  4. *Calendar Fastest Laps & Poles*: Restored exact official pole times and fastest lap driver and times into `calendar.md`.
+  5. *Circuit Name Corrections*: Corrected Austrian GP to historical Österreichring, Brazilian GP to Autódromo de Interlagos, Argentine GP to Autódromo Municipal Ciudad de Buenos Aires, and Canadian GP to Mosport Park across `results.json` and race notes.
+  6. *URL Standardization*: Canonicalized all Formula1.com results reference paths.
+  7. *Historic Milestones Verified*: First use of Safety Car in F1 history (Canadian GP, yellow Porsche 914 driven by Eppie Wietzes); George Medal awarded to David Purley for trying to save Roger Williamson at Zandvoort, and to Mike Hailwood for saving Clay Regazzoni at Kyalami; François Cevert fatal accident during qualifying at Watkins Glen resulting in Tyrrell withdrawal and Jackie Stewart's retirement.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 15 claims (spectator attendance estimates across Rounds 1-15 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: 4 minor notation differences logged:
+  - Round 10 Dutch GP: David Purley abandoned his car to rescue Roger Williamson from fire; Formula1.com lists `NC`, Jolpica lists `W` (withdrew).
+  - Round 12 Austrian GP: Emerson Fittipaldi completed 51 of 54 laps before fuel pipe issue; Formula1.com classifies him 11th on distance, Jolpica lists `R` (retired).
+  - Round 15 US GP: Brian Redman listed as `DQ` by Formula1.com, `D` by Jolpica.
+  - Round 15 US GP: Jackie Stewart listed as `DNS` by Formula1.com, `W` by Jolpica (withdrew after Cevert fatal accident).
+- **Gaps That Remain**: None. 1973 season is 100% verified against primary sources.

@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jackie Stewart (Tyrrell) — 1:42  
-- **Pole Position:** Jackie Stewart  
+- **Pole Position:** Jackie Stewart (7:07.800)
+- **Fastest Lap:** Carlos Pace (Surtees-Ford) — 7:11.400 (Lap 13)
 - **Weather & Track Conditions:** Warm, sunny, dry; 26°C ambient, perfect visibility  
-- **Spectator Attendance:** 250,000 spectators camping across the Eifel mountains  
 - **Grandstand & Infrastructure:** Start-und-Ziel grandstand, Karussell, and Brünnchen spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -57,8 +57,14 @@ Jackie Stewart's final career Grand Prix victory, widely considered his absolute
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 250,000 spectators camping across the Eifel mountains (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1973/11/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Round 11 Results](https://www.formula1.com/en/results.html/1973/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Race Results](https://www.formula1.com/en/results/1973/races/324/germany/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

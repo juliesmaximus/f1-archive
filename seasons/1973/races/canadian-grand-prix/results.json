@@ -18,7 +18,7 @@
           "Circuit": {
             "circuitId": "mosport",
             "url": "https://en.wikipedia.org/wiki/Canadian_Tire_Motorsport_Park",
-            "circuitName": "Mosport International Raceway",
+            "circuitName": "Mosport Park",
             "Location": {
               "lat": "44.0481",
               "long": "-78.6756",
@@ -558,7 +558,7 @@
               "Driver": {
                 "driverId": "cevert",
                 "url": "http://en.wikipedia.org/wiki/Fran%C3%A7ois_Cevert",
-                "givenName": "Fran\u00e7ois",
+                "givenName": "François",
                 "familyName": "Cevert",
                 "dateOfBirth": "1944-02-25",
                 "nationality": "French"

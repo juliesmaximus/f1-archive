@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Ronnie Peterson (Team Lotus) — 1:29  
-- **Pole Position:** Ronnie Peterson  
+- **Pole Position:** Ronnie Peterson (1:34.800)
+- **Fastest Lap:** Jackie Stewart (Tyrrell-Ford) — 1:35.300 (Lap 51)
 - **Weather & Track Conditions:** Warm, sunny, dry late summer weather; 28°C ambient  
-- **Spectator Attendance:** 130,000 spectators filling the parkland  
 - **Grandstand & Infrastructure:** Tribuna Centrale, Vedano, Ascari, and Parabolica spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -60,8 +60,14 @@ Jackie Stewart joined Juan Manuel Fangio and Jack Brabham as a triple Formula On
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 130,000 spectators filling the parkland (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1973/13/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Round 13 Results](https://www.formula1.com/en/results.html/1973/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Race Results](https://www.formula1.com/en/results/1973/races/326/italy/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

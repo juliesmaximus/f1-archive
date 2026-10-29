@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Emerson Fittipaldi (Team Lotus) — 1:48:18.700  
-- **Pole Position:** Ronnie Peterson  
+- **Pole Position:** Ronnie Peterson (1:21.800)
+- **Fastest Lap:** Ronnie Peterson (Lotus-Ford) — 1:23.800 (Lap 13)
 - **Weather & Track Conditions:** Warm, sunny, dry; 25°C ambient  
-- **Spectator Attendance:** 65,000 spectators lining the parkland street circuit  
 - **Grandstand & Infrastructure:** Estadi Olímpic terraces, Miramar grandstands, and Teatre Grec banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -57,8 +57,14 @@ Fittipaldi expanded his championship lead to 12 points over Stewart (31 pts vs. 
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 65,000 spectators lining the parkland street circuit (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1973/4/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Round 4 Results](https://www.formula1.com/en/results.html/1973/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Race Results](https://www.formula1.com/en/results/1973/races/317/spain/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Peter Revson (McLaren) — 1:29:18.500  
-- **Pole Position:** Ronnie Peterson  
+- **Pole Position:** Ronnie Peterson (1:16.300)
+- **Fastest Lap:** James Hunt (March-Ford) — 1:18.600 (Lap 63)
 - **Weather & Track Conditions:** Warm, sunny, dry; 25°C ambient  
-- **Spectator Attendance:** 120,000 spectators packing Silverstone  
 - **Grandstand & Infrastructure:** BRDC grandstands at Woodcote, Copse, and Abbey; crowded runway banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -64,8 +64,14 @@ Peter Revson became only the second American driver (after Dan Gurney) to win a 
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 120,000 spectators packing Silverstone (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1973/9/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Round 9 Results](https://www.formula1.com/en/results.html/1973/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Race Results](https://www.formula1.com/en/results/1973/races/322/great-britain/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

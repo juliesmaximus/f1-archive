@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jackie Stewart (Tyrrell) — 1:39:12.450  
-- **Pole Position:** Ronnie Peterson  
+- **Pole Position:** Ronnie Peterson (1:19.470)
+- **Fastest Lap:** Ronnie Peterson (Lotus-Ford) — 1:20.310 (Lap 42)
 - **Weather & Track Conditions:** Warm, sunny, dry; 24°C ambient  
-- **Spectator Attendance:** 65,000 spectators across the sand dunes  
 - **Grandstand & Infrastructure:** Covered main pit straight grandstand, Tarzan hairpin grandstands, and dune ridges  
 
 ### Race Anomalies, Incidents & Key Events
@@ -59,8 +59,14 @@ Jackie Stewart's 26th career victory broke Jim Clark's all-time Formula One win 
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 65,000 spectators across the sand dunes (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1973/10/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Round 10 Results](https://www.formula1.com/en/results.html/1973/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Race Results](https://www.formula1.com/en/results/1973/races/323/netherlands/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jackie Stewart (Tyrrell) — 1:42:13.430  
-- **Pole Position:** Ronnie Peterson  
+- **Pole Position:** Ronnie Peterson (1:22.460)
+- **Fastest Lap:** François Cevert (Tyrrell-Ford) — 1:25.420 (Lap 28)
 - **Weather & Track Conditions:** Warm, sunny, dry; 24°C ambient, freshly laid track surface disintegrating into loose gravel  
-- **Spectator Attendance:** 50,000 spectators at the newly resurfaced circuit  
 - **Grandstand & Infrastructure:** Covered start-finish grandstand and grass mounds around the Terlamen curve  
 
 ### Race Anomalies, Incidents & Key Events
@@ -58,8 +58,14 @@ The first World Championship Grand Prix at Circuit Zolder, which became the Belg
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 50,000 spectators at the newly resurfaced circuit (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1973/5/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Round 5 Results](https://www.formula1.com/en/results.html/1973/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Race Results](https://www.formula1.com/en/results/1973/races/318/belgium/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

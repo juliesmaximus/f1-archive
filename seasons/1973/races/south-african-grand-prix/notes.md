@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jackie Stewart (Tyrrell) — 1:43:11.070  
-- **Pole Position:** Denny Hulme  
+- **Pole Position:** Denny Hulme (1:16.280)
+- **Fastest Lap:** Emerson Fittipaldi (Lotus-Ford) — 1:17.100 (Lap 76)
 - **Weather & Track Conditions:** Warm, sunny, dry; 26°C ambient  
-- **Spectator Attendance:** 90,000 spectators across the Kyalami amphitheatre  
 - **Grandstand & Infrastructure:** Main pit straight covered grandstands and Crowthorne banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -60,8 +60,14 @@ Mike Hailwood's selfless heroism remains one of the most revered acts in motorsp
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 90,000 spectators across the Kyalami amphitheatre (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1973/3/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Round 3 Results](https://www.formula1.com/en/results.html/1973/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Race Results](https://www.formula1.com/en/results/1973/races/316/south-africa/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

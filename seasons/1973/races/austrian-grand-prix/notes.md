@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Ronnie Peterson (Team Lotus) — 1:28:48.780  
-- **Pole Position:** Emerson Fittipaldi  
+- **Pole Position:** Emerson Fittipaldi (1:34.980)
+- **Fastest Lap:** Carlos Pace (Surtees-Ford) — 1:37.290 (Lap 46)
 - **Weather & Track Conditions:** Warm, sunny, dry; 25°C ambient  
-- **Spectator Attendance:** 90,000 spectators across the Styrian hillside grandstands  
 - **Grandstand & Infrastructure:** Permanent start-finish grandstand and hillside banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -58,8 +58,14 @@ Stewart extended his championship lead to 66 points, needing only a 4th-place fi
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 90,000 spectators across the Styrian hillside grandstands (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1973/12/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Round 12 Results](https://www.formula1.com/en/results.html/1973/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Race Results](https://www.formula1.com/en/results/1973/races/325/austria/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

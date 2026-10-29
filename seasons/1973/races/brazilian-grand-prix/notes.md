@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Emerson Fittipaldi (Team Lotus) — 1:43:55.600  
-- **Pole Position:** Ronnie Peterson  
+- **Pole Position:** Ronnie Peterson (2:30.500)
+- **Fastest Lap:** Emerson Fittipaldi (Lotus-Ford) — 2:35.000 (Lap 14)
 - **Weather & Track Conditions:** Sunny, warm, dry; 28°C ambient, fast bumpy track  
-- **Spectator Attendance:** Over 100,000 ecstatic Brazilian fans packing Interlagos  
 - **Grandstand & Infrastructure:** Curva do Sol grandstands, Arquibancadas da Reta Oposta, and hillside slopes  
 
 ### Race Anomalies, Incidents & Key Events
@@ -55,8 +55,14 @@ Emerson Fittipaldi became an immortal sporting icon in Brazil, scoring back-to-b
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** Over 100,000 ecstatic Brazilian fans packing Interlagos (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1973/2/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Round 2 Results](https://www.formula1.com/en/results.html/1973/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1973 Race Results](https://www.formula1.com/en/results/1973/races/315/brazil/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.
