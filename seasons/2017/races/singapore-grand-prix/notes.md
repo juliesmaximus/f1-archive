@@ -8,7 +8,6 @@
 - **Location:** Marina Bay, Singapore
 - **Circuit Length:** 5.065 km (3.147 miles)
 - **Altitude:** 15 m above sea level
-- **Official Attendance:** 100,000
 
 ---
 
@@ -36,6 +35,11 @@ One of the most catastrophic opening-lap crashes in Ferrari's 70-year history.
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Singapore Airlines Singapore Grand Prix Results](https://www.formula1.com/en/results.html/2017/races/973/singapore/race-result.html)
+- **Official Formula 1 Results Archive:** [Singapore Airlines Singapore Grand Prix Results](https://www.formula1.com/en/results/2017/races/972/singapore/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2017/14/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2017)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 100,000 (estimate reported in promoter/media releases; unverified in official FIA classifications)

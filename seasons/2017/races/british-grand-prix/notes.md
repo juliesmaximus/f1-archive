@@ -8,7 +8,6 @@
 - **Location:** Silverstone, United Kingdom
 - **Circuit Length:** 5.891 km (3.660 miles)
 - **Altitude:** 155 m above sea level
-- **Official Attendance:** 140,000
 
 ---
 
@@ -36,6 +35,11 @@ Hamilton matched Jim Clark and Alain Prost's record of five British Grand Prix v
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Rolex British Grand Prix Results](https://www.formula1.com/en/results.html/2017/races/969/great-britain/race-result.html)
+- **Official Formula 1 Results Archive:** [Rolex British Grand Prix Results](https://www.formula1.com/en/results/2017/races/968/great-britain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2017/10/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2017)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 140,000 (estimate reported in promoter/media releases; unverified in official FIA classifications)

@@ -8,7 +8,6 @@
 - **Location:** Austin, Texas, USA
 - **Circuit Length:** 5.513 km (3.426 miles)
 - **Altitude:** 150 m above sea level
-- **Official Attendance:** 115,000
 
 ---
 
@@ -36,6 +35,11 @@ Verstappen being ejected from the podium cooldown room caused massive fan and Re
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [United States Grand Prix Results](https://www.formula1.com/en/results.html/2017/races/976/united-states/race-result.html)
+- **Official Formula 1 Results Archive:** [United States Grand Prix Results](https://www.formula1.com/en/results/2017/races/975/united-states/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2017/17/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2017)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 115,000 (estimate reported in promoter/media releases; unverified in official FIA classifications)

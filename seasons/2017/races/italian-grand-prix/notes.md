@@ -8,7 +8,6 @@
 - **Location:** Monza, Italy
 - **Circuit Length:** 5.793 km (3.600 miles)
 - **Altitude:** 162 m above sea level
-- **Official Attendance:** 125,000 tifosi
 
 ---
 
@@ -36,6 +35,11 @@ History at the Temple of Speed. In a wet, treacherous qualifying, Lewis Hamilton
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio Heineken d'Italia Results](https://www.formula1.com/en/results.html/2017/races/972/italy/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio Heineken d'Italia Results](https://www.formula1.com/en/results/2017/races/971/italy/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2017/13/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2017)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 125,000 tifosi (estimate reported in promoter/media releases; unverified in official FIA classifications)

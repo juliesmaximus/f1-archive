@@ -8,7 +8,6 @@
 - **Location:** Mogyoród, Hungary
 - **Circuit Length:** 4.381 km (2.722 miles)
 - **Altitude:** 240 m above sea level
-- **Official Attendance:** 85,000
 
 ---
 
@@ -36,6 +35,11 @@ Hamilton's sportsmanship in returning the podium position to Bottas cost him 3 c
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Pirelli Magyar Nagydíj Results](https://www.formula1.com/en/results.html/2017/races/970/hungary/race-result.html)
+- **Official Formula 1 Results Archive:** [Pirelli Magyar Nagydíj Results](https://www.formula1.com/en/results/2017/races/969/hungary/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2017/11/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2017)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 85,000 (estimate reported in promoter/media releases; unverified in official FIA classifications)

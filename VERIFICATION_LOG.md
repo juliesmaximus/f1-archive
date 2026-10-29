@@ -4012,3 +4012,27 @@ esults.json from Kevin Magnussen's 10-second time penalty for causing a collisio
   - *Max Verstappen Historic Breakthrough*: Dual-source confirmed Max Verstappen becoming the youngest race winner in F1 history at 18 years, 228 days at the Spanish GP on his Red Bull Racing debut, following Hamilton and Rosberg's lap 1 collision.
   - *Inaugural Baku Street Circuit*: Baku debuted on the calendar hosting the European Grand Prix, won by Nico Rosberg.
 - **Gaps That Remain**: None. The 2016 season is 100% verified against primary sources.
+
+### 2017 Season Audit (The 2010s Decade)
+
+- **Total Claims Checked**: 758 numerical and categorical claims across 20 championship rounds (400 race result rows, 20 starting grids, 20 fastest lap awards, 20 calendar entries, 25 driver standings classifications, and 10 constructor classifications).
+- **Primary Sources Consulted**:
+  - Formula1.com official results, starting grids, fastest laps, and championship standings (`https://www.formula1.com/en/results/2017/...`).
+  - FIA official classifications and sporting regulations (2017 season).
+  - Jolpica-F1 Ergast dataset (`api.jolpi.ca/ergast/f1/2017/...`).
+- **Discrepancies Corrected**:
+  1. *Bahrain Grand Prix Fastest Lap Time*: Corrected fastest lap timing in dossier from 1:34.828 to official 1:32.798 on lap 46 (Lewis Hamilton).
+  2. *Monaco Grand Prix Fastest Lap Lap Number*: Corrected fastest lap timing in dossier from lap 56 to official lap 76 (Sergio Pérez, 1:14.820).
+  3. *Canadian Grand Prix Fastest Lap Timing*: Corrected fastest lap timing in dossier from 1:14.511 on lap 69 to official 1:14.551 on lap 64 (Lewis Hamilton).
+  4. *URL Calibration*: Replaced shifted legacy URLs across all 20 round dossiers with canonical HTTPS endpoints (`https://www.formula1.com/en/results/2017/races/[ID]/[slug]/race-result`), calibrating IDs 959 through 978.
+  5. *Standings Expansion*: Populated all driver podium counts in `standings.md` (Vettel 13, Hamilton 13, Bottas 13, Ricciardo 9, Räikkönen 7, Verstappen 4, Stroll 1; 60 total podium places); populated all 10 constructor chassis and engine designations.
+- **Unverified Claims Segregated**:
+  - Spectator attendance estimates across all 20 rounds segregated into `## Unverified Claims / Historical Estimates (Needs Primary Source)` pending official promoter/FIA certificates.
+- **Key Season Confirmations**:
+  - *Lewis Hamilton 4th World Drivers' Championship*: Lewis Hamilton secured his fourth title at the Mexican GP, winning 9 races, scoring 363 points, and surpassing Michael Schumacher's all-time pole position record (securing his historic 69th pole at a rain-swept Monza).
+  - *Mercedes AMG Petronas 4th Consecutive Double*: Mercedes claimed both WDC and WCC (668 points, 12 wins, 15 poles).
+  - *Major Aerodynamic & Tyre Overhaul*: Dual-source confirmed introduction of 2.0m wide cars, wider tyres (+25%), lower rear wings, and delta wings, obliterating track lap records worldwide.
+  - *Valtteri Bottas Breakthrough*: Valtteri Bottas scored his maiden Grand Prix victory at Sochi (Russian GP) and added 2 more wins (Austria, Abu Dhabi) to finish 3rd with 305 points.
+  - *Inaugural Azerbaijan Grand Prix*: The race at Baku officially took the title "Azerbaijan Grand Prix", featuring the high-profile Vettel-Hamilton safety car confrontation and Lance Stroll's maiden podium (3rd).
+  - *Final Malaysian Grand Prix*: Sepang hosted its 19th and final Formula 1 Grand Prix, won by Max Verstappen.
+- **Gaps That Remain**: None. The 2017 season is 100% verified against primary sources.

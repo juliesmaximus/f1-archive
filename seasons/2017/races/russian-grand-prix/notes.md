@@ -8,7 +8,6 @@
 - **Location:** Sochi, Krasnodar Krai, Russia
 - **Circuit Length:** 5.848 km (3.634 miles)
 - **Altitude:** 15 m above sea level
-- **Official Attendance:** 60,000
 
 ---
 
@@ -36,6 +35,11 @@ Bottas became the fifth Finnish driver in F1 history to win a Grand Prix.
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [VTB Russian Grand Prix Results](https://www.formula1.com/en/results.html/2017/races/963/russia/race-result.html)
+- **Official Formula 1 Results Archive:** [VTB Russian Grand Prix Results](https://www.formula1.com/en/results/2017/races/962/russia/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2017/4/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2017)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 60,000 (estimate reported in promoter/media releases; unverified in official FIA classifications)

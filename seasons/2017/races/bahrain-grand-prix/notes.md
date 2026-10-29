@@ -8,7 +8,6 @@
 - **Location:** Sakhir, Bahrain
 - **Circuit Length:** 5.412 km (3.363 miles)
 - **Altitude:** 16 m above sea level
-- **Official Attendance:** 33,000
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Sebastian Vettel (Ferrari)
 - **Pole Position:** Valtteri Bottas (Mercedes) - 1:28.769
-- **Fastest Lap:** Lewis Hamilton (Mercedes) - 1:34.828 (lap 46)
+- **Fastest Lap:** Lewis Hamilton (Mercedes) - 1:32.798 (lap 46)
 
 ---
 
@@ -36,6 +35,11 @@ Hamilton's pitlane delay penalty cost Mercedes a potential victory.
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gulf Air Bahrain Grand Prix Results](https://www.formula1.com/en/results.html/2017/races/962/bahrain/race-result.html)
+- **Official Formula 1 Results Archive:** [Gulf Air Bahrain Grand Prix Results](https://www.formula1.com/en/results/2017/races/961/bahrain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2017/3/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2017)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 33,000 (estimate reported in promoter/media releases; unverified in official FIA classifications)

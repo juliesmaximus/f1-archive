@@ -8,7 +8,6 @@
 - **Location:** Monte Carlo, Monaco
 - **Circuit Length:** 3.337 km (2.074 miles)
 - **Altitude:** 15 m above sea level
-- **Official Attendance:** 45,000
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Sebastian Vettel (Ferrari)
 - **Pole Position:** Kimi Räikkönen (Ferrari) - 1:12.178
-- **Fastest Lap:** Sergio Pérez (Force India-Mercedes) - 1:14.820 (lap 56)
+- **Fastest Lap:** Sergio Pérez (Force India-Mercedes) - 1:14.820 (lap 76)
 
 ---
 
@@ -36,6 +35,11 @@ Räikkönen looked visibly devastated on the podium after losing the win to Vett
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Grand Prix de Monaco Results](https://www.formula1.com/en/results.html/2017/races/965/monaco/race-result.html)
+- **Official Formula 1 Results Archive:** [Grand Prix de Monaco Results](https://www.formula1.com/en/results/2017/races/964/monaco/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2017/6/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2017)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 45,000 (estimate reported in promoter/media releases; unverified in official FIA classifications)

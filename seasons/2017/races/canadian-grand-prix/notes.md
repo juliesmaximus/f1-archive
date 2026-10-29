@@ -8,7 +8,6 @@
 - **Location:** Montreal, Canada
 - **Circuit Length:** 4.361 km (2.710 miles)
 - **Altitude:** 14 m above sea level
-- **Official Attendance:** 120,000
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Lewis Hamilton (Mercedes)
 - **Pole Position:** Lewis Hamilton (Mercedes) - 1:11.459
-- **Fastest Lap:** Lewis Hamilton (Mercedes) - 1:14.511 (lap 69)
+- **Fastest Lap:** Lewis Hamilton (Mercedes) - 1:14.551 (lap 64)
 
 ---
 
@@ -36,6 +35,11 @@ Lance Stroll scored his maiden Formula 1 points in 9th place on home soil.
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Grand Prix du Canada Results](https://www.formula1.com/en/results.html/2017/races/966/canada/race-result.html)
+- **Official Formula 1 Results Archive:** [Grand Prix du Canada Results](https://www.formula1.com/en/results/2017/races/965/canada/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2017/7/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2017)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 120,000 (estimate reported in promoter/media releases; unverified in official FIA classifications)

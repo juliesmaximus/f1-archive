@@ -8,7 +8,6 @@
 - **Location:** Mexico City, Mexico
 - **Circuit Length:** 4.304 km (2.674 miles)
 - **Altitude:** 2240 m above sea level
-- **Official Attendance:** 135,857 sell-out crowd
 
 ---
 
@@ -36,6 +35,11 @@ Hamilton performed donuts in the Foro Sol baseball stadium draped in the Union J
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio de México Results](https://www.formula1.com/en/results.html/2017/races/977/mexico/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio de México Results](https://www.formula1.com/en/results/2017/races/976/mexico/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2017/18/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2017)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 135,857 sell-out crowd (estimate reported in promoter/media releases; unverified in official FIA classifications)

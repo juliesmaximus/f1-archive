@@ -8,7 +8,6 @@
 - **Location:** Shanghai, China
 - **Circuit Length:** 5.451 km (3.387 miles)
 - **Altitude:** 10 m above sea level
-- **Official Attendance:** 135,000
 
 ---
 
@@ -36,6 +35,11 @@ Hamilton and Vettel tied for the lead of the World Championship with 43 points e
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Heineken Chinese Grand Prix Results](https://www.formula1.com/en/results.html/2017/races/961/china/race-result.html)
+- **Official Formula 1 Results Archive:** [Heineken Chinese Grand Prix Results](https://www.formula1.com/en/results/2017/races/960/china/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2017/2/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2017)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 135,000 (estimate reported in promoter/media releases; unverified in official FIA classifications)
