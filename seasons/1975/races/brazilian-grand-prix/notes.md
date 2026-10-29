@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Carlos Pace (Brabham) — 1:44:41.170  
-- **Pole Position:** Jean-Pierre Jarier  
+- **Pole Position:** Jean-Pierre Jarier (2:29.880)
+- **Fastest Lap:** Jean-Pierre Jarier (Shadow-Ford) — 2:34.160 (Lap 10)
 - **Weather & Track Conditions:** Warm, sunny, dry; 28°C ambient  
-- **Spectator Attendance:** 120,000 ecstatic Brazilian fans packing Interlagos  
 - **Grandstand & Infrastructure:** Curva do Sol grandstands, Arquibancadas da Reta Oposta, and hillside slopes  
 
 ### Race Anomalies, Incidents & Key Events
@@ -58,8 +58,14 @@ The legendary 1-2 sweep for Brazilian drivers Carlos Pace and Emerson Fittipaldi
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 120,000 ecstatic Brazilian fans packing Interlagos (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1975/2/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Round 2 Results](https://www.formula1.com/en/results.html/1975/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Race Results](https://www.formula1.com/en/results/1975/races/345/brazil/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jochen Mass (McLaren) — 42:53.700  
-- **Pole Position:** Niki Lauda  
+- **Pole Position:** Niki Lauda (1:23.400)
+- **Fastest Lap:** Mario Andretti (Parnelli-Ford) — 1:25.100 (Lap 14)
 - **Weather & Track Conditions:** Sunny, warm, dry; 24°C ambient  
-- **Spectator Attendance:** 65,000 spectators on the parkland street circuit  
 - **Grandstand & Infrastructure:** Estadi Olímpic terraces, Miramar grandstands, and Teatre Grec banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -61,8 +61,14 @@ One of Formula One's darkest weekends. The race marked the permanent end of Gran
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 65,000 spectators on the parkland street circuit (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1975/4/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Round 4 Results](https://www.formula1.com/en/results.html/1975/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Race Results](https://www.formula1.com/en/results/1975/races/347/spain/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

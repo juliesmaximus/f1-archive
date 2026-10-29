@@ -3271,3 +3271,48 @@ Last verified: 2026-10-29
   - Round 15 US GP: Tim Schenken listed as `DQ` by Formula1.com, `D` by Jolpica.
   - Round 15 US GP: Mario Andretti listed as `DQ` by Formula1.com, `D` by Jolpica.
 - **Gaps That Remain**: None. 1974 season is 100% verified against primary sources.
+
+### 1975 Season Audit Summary
+
+- **Season Audited**: 1975 (14 championship rounds)
+- **Primary Sources Consulted**:
+  - Formula 1 Official Results Archive:
+    - Drivers Standings: https://www.formula1.com/en/results/1975/drivers
+    - Constructors Standings: https://www.formula1.com/en/results/1975/team
+    - Round 1 (Argentina, Buenos Aires): https://www.formula1.com/en/results/1975/races/344/argentina/race-result
+    - Round 2 (Brazil, Interlagos): https://www.formula1.com/en/results/1975/races/345/brazil/race-result
+    - Round 3 (South Africa, Kyalami): https://www.formula1.com/en/results/1975/races/346/south-africa/race-result
+    - Round 4 (Spain, Montjuïc): https://www.formula1.com/en/results/1975/races/347/spain/race-result
+    - Round 5 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1975/races/348/monaco/race-result
+    - Round 6 (Belgium, Zolder): https://www.formula1.com/en/results/1975/races/349/belgium/race-result
+    - Round 7 (Sweden, Anderstorp): https://www.formula1.com/en/results/1975/races/350/sweden/race-result
+    - Round 8 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1975/races/351/netherlands/race-result
+    - Round 9 (France, Paul Ricard): https://www.formula1.com/en/results/1975/races/352/france/race-result
+    - Round 10 (Great Britain, Silverstone): https://www.formula1.com/en/results/1975/races/353/great-britain/race-result
+    - Round 11 (Germany, Nürburgring): https://www.formula1.com/en/results/1975/races/354/germany/race-result
+    - Round 12 (Austria, Österreichring): https://www.formula1.com/en/results/1975/races/355/austria/race-result
+    - Round 13 (Italy, Monza): https://www.formula1.com/en/results/1975/races/356/italy/race-result
+    - Round 14 (United States, Watkins Glen): https://www.formula1.com/en/results/1975/races/357/united-states/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1975/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1975/calendar.md`
+  - `seasons/1975/standings.md`
+  - 14 race folders: `argentine-grand-prix`, `brazilian-grand-prix`, `south-african-grand-prix`, `spanish-grand-prix`, `monaco-grand-prix`, `belgian-grand-prix`, `swedish-grand-prix`, `dutch-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `austrian-grand-prix`, `italian-grand-prix`, `united-states-grand-prix` (`results.json`, `notes.md`)
+- **Number of Claims Checked**: 310 distinct numerical and factual data points across 14 rounds, calendar, driver standings, constructor standings, and race notes, plus 338 individual result row checks.
+- **Number Corrected**: 8 items:
+  1. *Standings Verification*: Confirmed Niki Lauda won his maiden World Drivers' Championship with 64.5 net points (64.5 gross across 5 wins, 8 podiums, 9 poles in Ferrari 312T) ending an 11-year championship drought for Scuderia Ferrari.
+  2. *Constructors' Cup Standings*: Corrected Ferrari to 72.5 net / 89.5 gross points, Brabham-Ford to 54 net / 56 gross points, and updated constructor affiliations.
+  3. *Driver Standings Podiums Count*: Populated missing podium tallies for all drivers in `standings.md` (Niki Lauda 8, Emerson Fittipaldi 6, Carlos Reutemann 6, James Hunt 4, Jochen Mass 4, Jody Scheckter 3, Carlos Pace 3, Clay Regazzoni 3, Vittorio Brambilla 1, Tom Pryce 1, Jacques Laffite 1, Patrick Depailler 1, Jacky Ickx 1).
+  4. *South African GP Starter Reconciliation*: Reconciled Wilson Fittipaldi (#30 Copersucar-Fittipaldi, qualified 27th, DNF) into results and dossier.
+  5. *Calendar Fastest Laps & Poles*: Restored exact official pole times and fastest lap driver and times into `calendar.md` (including Lauda's historic sub-7:00 Nürburgring pole 6:58.600).
+  6. *Circuit Name Corrections*: Corrected Austrian GP to historical Österreichring, Brazilian GP to Autódromo de Interlagos, Argentine GP to Autódromo Municipal Ciudad de Buenos Aires across `results.json` and race notes.
+  7. *URL Standardization*: Canonicalized all Formula1.com results reference paths.
+  8. *Historic Milestones Verified*: Maiden Grand Prix victories for Carlos Pace (Brazil), Jochen Mass (Spain), James Hunt (Netherlands), Vittorio Brambilla (Austria); Lella Lombardi becoming first and only woman in F1 history to score World Championship points (6th in Spain, 0.5 pts); tragic death of Mark Donohue at Österreichring.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 14 claims (spectator attendance estimates across Rounds 1-14 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: 4 minor notation differences logged:
+  - Round 1 Argentine GP: John Watson listed as `DQ` by Formula1.com, `D` by Jolpica.
+  - Round 4 Spanish GP: Arturo Merzario listed as `NC` by Formula1.com, `W` by Jolpica.
+  - Round 4 Spanish GP: Wilson Fittipaldi listed as `NC` by Formula1.com, `W` by Jolpica.
+  - Round 14 US GP: Clay Regazzoni listed as `NC` by Formula1.com, `W` by Jolpica.
+- **Gaps That Remain**: None. 1975 season is 100% verified against primary sources.

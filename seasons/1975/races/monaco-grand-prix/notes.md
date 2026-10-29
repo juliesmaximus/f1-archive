@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Niki Lauda (Ferrari) — 2:01:21.310  
-- **Pole Position:** Niki Lauda  
+- **Pole Position:** Niki Lauda (1:26.400)
+- **Fastest Lap:** Patrick Depailler (Tyrrell-Ford) — 1:28.670 (Lap 68)
 - **Weather & Track Conditions:** Damp start with intermittent drizzle, drying track; 19°C ambient  
-- **Spectator Attendance:** 45,000 spectators lining harbour balconies and terraces  
 - **Grandstand & Infrastructure:** Swimming Pool grandstands, Quai Albert 1er, and Casino square terraces  
 
 ### Race Anomalies, Incidents & Key Events
@@ -53,8 +53,14 @@ Launched Niki Lauda's dominant surge toward the 1975 World Championship.
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 45,000 spectators lining harbour balconies and terraces (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1975/5/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Round 5 Results](https://www.formula1.com/en/results.html/1975/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Race Results](https://www.formula1.com/en/results/1975/races/348/monaco/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

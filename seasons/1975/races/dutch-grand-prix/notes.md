@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** James Hunt (Hesketh) — 1:46:57.400  
-- **Pole Position:** Niki Lauda  
+- **Pole Position:** Niki Lauda (1:20.290)
+- **Fastest Lap:** Niki Lauda (Ferrari) — 1:21.540 (Lap 55)
 - **Weather & Track Conditions:** Wet start from morning rain, rapidly drying track under brisk sea winds; 20°C ambient  
-- **Spectator Attendance:** 70,000 spectators across the sand dunes  
 - **Grandstand & Infrastructure:** Covered main pit straight grandstand and Tarzan hairpin dunes  
 
 ### Race Anomalies, Incidents & Key Events
@@ -60,8 +60,14 @@ One of the most famous, romantic underdog victories in Grand Prix history. James
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 70,000 spectators across the sand dunes (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1975/8/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Round 8 Results](https://www.formula1.com/en/results.html/1975/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Race Results](https://www.formula1.com/en/results/1975/races/351/netherlands/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

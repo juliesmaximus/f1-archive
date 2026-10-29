@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Clay Regazzoni (Ferrari) — 1:22:42.600  
-- **Pole Position:** Niki Lauda  
+- **Pole Position:** Niki Lauda (1:32.240)
+- **Fastest Lap:** Clay Regazzoni (Ferrari) — 1:33.100 (Lap 47)
 - **Weather & Track Conditions:** Warm, sunny, dry late summer weather; 27°C ambient  
-- **Spectator Attendance:** Over 150,000 ecstatic tifosi packing the Autodromo  
 - **Grandstand & Infrastructure:** Tribuna Centrale, Vedano, Ascari, and Parabolica spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -61,8 +61,14 @@ Niki Lauda ended Ferrari's 11-year championship drought, crowned World Champion 
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** Over 150,000 ecstatic tifosi packing the Autodromo (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1975/13/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Round 13 Results](https://www.formula1.com/en/results.html/1975/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Race Results](https://www.formula1.com/en/results/1975/races/356/italy/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

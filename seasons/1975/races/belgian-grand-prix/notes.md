@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Niki Lauda (Ferrari) — 1:43:53.980  
-- **Pole Position:** Niki Lauda  
+- **Pole Position:** Niki Lauda (1:25.430)
+- **Fastest Lap:** Clay Regazzoni (Ferrari) — 1:26.760 (Lap 11)
 - **Weather & Track Conditions:** Warm, sunny, dry; 25°C ambient  
-- **Spectator Attendance:** 60,000 spectators across the Limburg pine woods  
 - **Grandstand & Infrastructure:** Covered start-finish grandstand and grass mounds around Terlamen  
 
 ### Race Anomalies, Incidents & Key Events
@@ -59,8 +59,14 @@ Lauda took the lead of the World Drivers' Championship with 23 points.
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 60,000 spectators across the Limburg pine woods (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1975/6/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Round 6 Results](https://www.formula1.com/en/results.html/1975/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Race Results](https://www.formula1.com/en/results/1975/races/349/belgium/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

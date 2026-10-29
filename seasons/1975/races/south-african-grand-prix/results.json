@@ -653,6 +653,29 @@
               "grid": "7",
               "laps": "16",
               "status": "Radiator"
+            },
+            {
+              "number": "30",
+              "position": "27",
+              "positionText": "R",
+              "points": "0",
+              "Driver": {
+                "driverId": "wilson_fittipaldi",
+                "url": "http://en.wikipedia.org/wiki/Wilson_Fittipaldi_J%C3%BAnior",
+                "givenName": "Wilson",
+                "familyName": "Fittipaldi",
+                "dateOfBirth": "1943-12-25",
+                "nationality": "Brazilian"
+              },
+              "Constructor": {
+                "constructorId": "fittipaldi",
+                "url": "http://en.wikipedia.org/wiki/Fittipaldi_Automotive",
+                "name": "Fittipaldi",
+                "nationality": "Brazilian"
+              },
+              "grid": "27",
+              "laps": "0",
+              "status": "Did not finish"
             }
           ]
         }

@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Niki Lauda (Ferrari) — 1:40:18.840  
-- **Pole Position:** Niki Lauda  
+- **Pole Position:** Niki Lauda (1:47.820)
+- **Fastest Lap:** Jochen Mass (McLaren-Ford) — 1:50.600 (Lap 9)
 - **Weather & Track Conditions:** Warm, sunny, dry; 28°C ambient  
-- **Spectator Attendance:** 85,000 spectators across the Paul Ricard terraces  
 - **Grandstand & Infrastructure:** Main pit grandstands, Virage du Pont, and wide paved runoffs  
 
 ### Race Anomalies, Incidents & Key Events
@@ -61,8 +61,14 @@ Lauda's 4th win of the season opened up a massive 22-point championship lead (47
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 85,000 spectators across the Paul Ricard terraces (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1975/9/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Round 9 Results](https://www.formula1.com/en/results.html/1975/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Race Results](https://www.formula1.com/en/results/1975/races/352/france/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Niki Lauda (Ferrari) — 1:59:18.319  
-- **Pole Position:** Vittorio Brambilla  
+- **Pole Position:** Vittorio Brambilla (1:24.630)
+- **Fastest Lap:** Niki Lauda (Ferrari) — 1:28.267 (Lap 61)
 - **Weather & Track Conditions:** Warm, sunny, dry; 24°C ambient  
-- **Spectator Attendance:** 55,000 spectators lining the runways  
 - **Grandstand & Infrastructure:** Runway grandstands and Karusellen spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -61,8 +61,14 @@ Niki Lauda expanded his championship lead to 32 points, holding a 10-point cushi
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 55,000 spectators lining the runways (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1975/7/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Round 7 Results](https://www.formula1.com/en/results.html/1975/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Race Results](https://www.formula1.com/en/results/1975/races/350/sweden/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

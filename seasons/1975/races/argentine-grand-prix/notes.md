@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Emerson Fittipaldi (McLaren) — 1:39:26.290  
-- **Pole Position:** Jean-Pierre Jarier  
+- **Pole Position:** Jean-Pierre Jarier (1:49.210)
+- **Fastest Lap:** James Hunt (Hesketh-Ford) — 1:50.910 (Lap 34)
 - **Weather & Track Conditions:** Hot, humid summer sun; 31°C ambient  
-- **Spectator Attendance:** 80,000 spectators packing the Buenos Aires stands  
 - **Grandstand & Infrastructure:** Permanent concrete stadium grandstands along the Curva del Ciervo and pit straight  
 
 ### Race Anomalies, Incidents & Key Events
@@ -58,8 +58,14 @@ Emerson Fittipaldi commenced his title defense with victory, while James Hunt se
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 80,000 spectators packing the Buenos Aires stands (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1975/1/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Round 1 Results](https://www.formula1.com/en/results.html/1975/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Race Results](https://www.formula1.com/en/results/1975/races/344/argentina/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

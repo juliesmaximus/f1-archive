@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Niki Lauda (Ferrari) — 1:42:58.175  
-- **Pole Position:** Niki Lauda  
+- **Pole Position:** Niki Lauda (1:42.003)
+- **Fastest Lap:** Emerson Fittipaldi (McLaren-Ford) — 1:43.374 (Lap 43)
 - **Weather & Track Conditions:** Cold, crisp, sunny autumn day; 13°C ambient  
-- **Spectator Attendance:** 115,000 spectators packing the Watkins Glen hills  
 - **Grandstand & Infrastructure:** Kendall main grandstand, The Boot, and Seneca spectator knolls  
 
 ### Race Anomalies, Incidents & Key Events
@@ -59,8 +59,14 @@ Niki Lauda concluded a transcendent season with 64.5 points, while Scuderia Ferr
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 115,000 spectators packing the Watkins Glen hills (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1975/14/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Round 14 Results](https://www.formula1.com/en/results.html/1975/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Race Results](https://www.formula1.com/en/results/1975/races/357/united-states/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Vittorio Brambilla (March) — 57:56.690  
-- **Pole Position:** Niki Lauda  
+- **Pole Position:** Niki Lauda (1:34.850)
+- **Fastest Lap:** Vittorio Brambilla (March-Ford) — 1:53.900 (Lap 21)
 - **Weather & Track Conditions:** Torrential rain, standing water, and thick fog; 14°C ambient  
-- **Spectator Attendance:** 90,000 soaked Austrian spectators  
 - **Grandstand & Infrastructure:** Permanent start-finish grandstand and hillside banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -63,8 +63,14 @@ Vittorio Brambilla scored his only Grand Prix victory and the final win for Marc
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 90,000 soaked Austrian spectators (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1975/12/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Round 12 Results](https://www.formula1.com/en/results.html/1975/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Race Results](https://www.formula1.com/en/results/1975/races/355/austria/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

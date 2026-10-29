@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Emerson Fittipaldi (McLaren) — 1:22  
-- **Pole Position:** Tom Pryce  
+- **Pole Position:** Tom Pryce (1:19.360)
+- **Fastest Lap:** Clay Regazzoni (Ferrari) — 1:20.900 (Lap 16)
 - **Weather & Track Conditions:** Warm dry start, followed by an apocalyptic flash flood and torrential hailstorm on lap 53  
-- **Spectator Attendance:** 110,000 spectators packing Silverstone  
 - **Grandstand & Infrastructure:** BRDC grandstands at Woodcote, Copse, and Abbey; crowded runway banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -61,8 +61,14 @@ Emerson Fittipaldi's 14th and final career Formula One World Championship victor
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 110,000 spectators packing Silverstone (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1975/10/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Round 10 Results](https://www.formula1.com/en/results.html/1975/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Race Results](https://www.formula1.com/en/results/1975/races/353/great-britain/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

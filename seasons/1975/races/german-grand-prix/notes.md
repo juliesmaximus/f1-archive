@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Carlos Reutemann (Brabham) — 1:41:14.100  
-- **Pole Position:** Niki Lauda  
+- **Pole Position:** Niki Lauda (6:58.600)
+- **Fastest Lap:** Clay Regazzoni (Ferrari) — 7:06.400 (Lap 7)
 - **Weather & Track Conditions:** Warm, sunny, dry; 25°C ambient, fast track conditions  
-- **Spectator Attendance:** 250,000 spectators packing the Eifel mountains  
 - **Grandstand & Infrastructure:** Start-und-Ziel tribüne, Karussell, and Brünnchen spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -60,8 +60,14 @@ Lauda's sub-7 minute lap cemented the Ferrari 312T's place in engineering legend
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 250,000 spectators packing the Eifel mountains (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1975/11/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Round 11 Results](https://www.formula1.com/en/results.html/1975/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1975 Race Results](https://www.formula1.com/en/results/1975/races/354/germany/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.
