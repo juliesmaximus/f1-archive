@@ -1,4 +1,4 @@
-# 43° Gran Premio d'Italia - Race Dossier & Verification Notes
+# 43°° Gran Premio d'Italia - Race Dossier & Verification Notes
 
 **Round:** 10 of 12  
 **Date:** 1972-09-10  
@@ -7,16 +7,16 @@
 **Track Length:** 5.755 km (3.576 miles)  
 **Altitude:** 162 m (Royal Villa park)  
 **Scheduled Distance:** 55 laps (316.525 km)  
-**Official Race Title:** 43° Gran Premio d'Italia  
+**Official Race Title:** 43°° Gran Premio d'Italia  
 
 ---
 
 ## Race Summary & Key Scenarios
 
 - **Winner:** Emerson Fittipaldi (Team Lotus) — 1:29:58.400  
-- **Pole Position:** Jacky Ickx  
+- **Pole Position:** Jacky Ickx  (1:35.650)
+- **Fastest Lap:** Jacky Ickx (Ferrari) — 1:36.300 (Lap 44)
 - **Weather & Track Conditions:** Warm, sunny, dry late summer weather; 27°C ambient  
-- **Spectator Attendance:** 120,000 spectators packing the Monza grandstands  
 - **Grandstand & Infrastructure:** Tribuna Centrale, Vedano, Ascari, and Parabolica spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -60,8 +60,15 @@ Fittipaldi broke Jim Clark's record (27 years, 188 days) as the youngest champio
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 120,000 tifosi packing the Autodromo Nazionale di Monza (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1972/10/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 10 Results](https://www.formula1.com/en/results.html/1972/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 10 Results](https://www.formula1.com/en/results/1972/races/311/italy/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

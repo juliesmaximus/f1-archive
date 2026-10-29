@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Emerson Fittipaldi (Team Lotus) — 2:03:41.200  
-- **Pole Position:** Jacky Ickx  
+- **Winner:** Emerson Fittipaldi (Team Lotus) — 2:03:41.230  
+- **Pole Position:** Jacky Ickx  (1:18.430)
+- **Fastest Lap:** Jacky Ickx (Ferrari) — 1:21.010 (Lap 52)
 - **Weather & Track Conditions:** Warm, sunny, dry; 26°C ambient  
-- **Spectator Attendance:** 55,000 spectators lining the Jarama bowl  
 - **Grandstand & Infrastructure:** Main pit grandstand, Pegaso curve terraces, and Farina hillsides  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ Emerson Fittipaldi moved into a tie with Denny Hulme at the top of the World Dri
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 5 | Emerson Fittipaldi | Team Lotus | 90 | 2:03:41.200 | 3 | 9 |
+| 1 | 5 | Emerson Fittipaldi | Team Lotus | 90 | 2:03:41.230 | 3 | 9 |
 | 2 | 4 | Jacky Ickx | Ferrari | 90 | +18.920 | 1 | 6 |
 | 3 | 6 | Clay Regazzoni | Ferrari | 89 | +1 Lap | 8 | 4 |
 | 4 | 26 | Andrea de Adamich | Surtees | 89 | +1 Lap | 13 | 3 |
@@ -60,8 +60,15 @@ Emerson Fittipaldi moved into a tie with Denny Hulme at the top of the World Dri
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 55,000 spectators at Circuito Permanente del Jarama (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1972/3/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 3 Results](https://www.formula1.com/en/results.html/1972/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 3 Results](https://www.formula1.com/en/results/1972/races/304/spain/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

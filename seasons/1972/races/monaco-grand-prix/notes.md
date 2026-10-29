@@ -3,7 +3,7 @@
 **Round:** 4 of 12  
 **Date:** 1972-05-14  
 **Circuit:** Circuit de Monaco  
-**Location:** Monte Carlo, Principality of Monaco (43°44'05"N, 7°25'14"E)  
+**Location:** Monte Carlo, Principality of Monaco (43°°44'05"N, 7°25'14"E)  
 **Track Length:** 3.145 km (1.954 miles)  
 **Altitude:** Sea level (Mediterranean harbour)  
 **Scheduled Distance:** 80 laps (251.600 km)  
@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jean-Pierre Beltoise (BRM) — 2:26:55.300  
-- **Pole Position:** Emerson Fittipaldi  
+- **Winner:** Jean-Pierre Beltoise (BRM) — 2:26:54.700  
+- **Pole Position:** Emerson Fittipaldi  (1:21.400)
+- **Fastest Lap:** Jean-Pierre Beltoise (BRM) — 1:40.000 (Lap 9)
 - **Weather & Track Conditions:** Relentless, torrential Mediterranean rain, blinding spray, and flooded streets; 17°C ambient  
-- **Spectator Attendance:** 40,000 spectators braving torrential rain  
 - **Grandstand & Infrastructure:** Quai Albert 1er, Casino square, and harbour berths  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ Jean-Pierre Beltoise scored his FIRST and ONLY career Formula One World Champion
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 17 | Jean-Pierre Beltoise | BRM | 80 | 2:26:55.300 | 4 | 9 |
+| 1 | 17 | Jean-Pierre Beltoise | BRM | 80 | 2:26:54.700 | 4 | 9 |
 | 2 | 6 | Jacky Ickx | Ferrari | 80 | +38.200 | 2 | 6 |
 | 3 | 8 | Emerson Fittipaldi | Team Lotus | 79 | +1 Lap | 1 | 4 |
 | 4 | 1 | Jackie Stewart | Tyrrell | 78 | +2 Laps | 8 | 3 |
@@ -60,8 +60,15 @@ Jean-Pierre Beltoise scored his FIRST and ONLY career Formula One World Champion
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 40,000 estimated spectators braving torrential rain along the harbor (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1972/4/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 4 Results](https://www.formula1.com/en/results.html/1972/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 4 Results](https://www.formula1.com/en/results/1972/races/305/monaco/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

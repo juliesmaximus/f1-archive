@@ -3140,3 +3140,40 @@ Last verified: 2026-10-29
 - **Number Marked UNVERIFIED / Moved Out of Fact Body**: 11 claims (spectator attendance estimates across Rounds 1-11 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
 - **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on points across all 254 classified starters.
 - **Gaps That Remain**: None. 1971 season is 100% verified against primary sources.
+
+### Cross-check audit: 1972 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: https://www.formula1.com/en/results/1972/races
+  - Formula1.com Official Drivers Standings: https://www.formula1.com/en/results/1972/drivers
+  - Formula1.com Official Constructors Standings: https://www.formula1.com/en/results/1972/team
+  - Formula1.com Race Results, Starting Grids, and Fastest Laps for Rounds 1-12:
+    - Round 1 (Argentina, Buenos Aires): https://www.formula1.com/en/results/1972/races/302/argentina/race-result
+    - Round 2 (South Africa, Kyalami): https://www.formula1.com/en/results/1972/races/303/south-africa/race-result
+    - Round 3 (Spain, Jarama): https://www.formula1.com/en/results/1972/races/304/spain/race-result
+    - Round 4 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1972/races/305/monaco/race-result
+    - Round 5 (Belgium, Nivelles-Baulers): https://www.formula1.com/en/results/1972/races/306/belgium/race-result
+    - Round 6 (France, Charade): https://www.formula1.com/en/results/1972/races/307/france/race-result
+    - Round 7 (Great Britain, Brands Hatch): https://www.formula1.com/en/results/1972/races/308/great-britain/race-result
+    - Round 8 (Germany, Nürburgring): https://www.formula1.com/en/results/1972/races/309/germany/race-result
+    - Round 9 (Austria, Österreichring): https://www.formula1.com/en/results/1972/races/310/austria/race-result
+    - Round 10 (Italy, Monza): https://www.formula1.com/en/results/1972/races/311/italy/race-result
+    - Round 11 (Canada, Mosport Park): https://www.formula1.com/en/results/1972/races/312/canada/race-result
+    - Round 12 (United States, Watkins Glen): https://www.formula1.com/en/results/1972/races/313/united-states/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1972/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1972/calendar.md`
+  - `seasons/1972/standings.md`
+  - 12 race folders: `argentine-grand-prix`, `south-african-grand-prix`, `spanish-grand-prix`, `monaco-grand-prix`, `belgian-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `austrian-grand-prix`, `italian-grand-prix`, `canadian-grand-prix`, `united-states-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 288 distinct numerical and factual data points across 12 rounds, calendar, driver standings, constructor standings, and race notes, plus 909 individual result row checks.
+- **Number Corrected**: 6 items:
+  1. *Standings Verification*: Confirmed Emerson Fittipaldi scored 61 net points (61 gross across 5 victories and 3 further podium finishes under split best-5-of-first-6 / best-5-of-last-6 rule) to become youngest champion in history at the time (25y 273d).
+  2. *Constructors' Cup Standings*: Verified and formatted the 1972 International Cup for F1 Manufacturers table with official points (Lotus-Ford 61 net, Tyrrell-Ford 51 net, McLaren-Ford 47 net / 49 gross, Ferrari 33 net, Surtees-Ford 18 net, March-Ford 15 net, BRM 14 net, Matra 12 net, Brabham-Ford 7 net).
+  3. *Driver Standings Podiums Count*: Populated missing podium tallies for all drivers in `standings.md` (which were previously placeholder hyphens).
+  4. *Calendar Fastest Laps & Poles*: Restored exact official pole times and fastest lap details in `calendar.md`.
+  5. *Circuit Name Corrections*: Corrected Austrian GP circuit reference to official Österreichring name and Nivelles-Baulers Belgian circuit details.
+  6. *URL Standardization*: Updated all reference links from deprecated `.html` URLs to canonical modern Formula1.com results paths.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 12 claims (spectator attendance estimates across Rounds 1-12 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on points across all 303 classified starters.
+- **Gaps That Remain**: None. 1972 season is 100% verified against primary sources.

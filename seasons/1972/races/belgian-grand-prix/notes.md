@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Emerson Fittipaldi (Team Lotus) — 1:44:07.300  
-- **Pole Position:** Emerson Fittipaldi  
+- **Winner:** Emerson Fittipaldi (Team Lotus) — 1:44:06.700  
+- **Pole Position:** Emerson Fittipaldi  (1:11.430)
+- **Fastest Lap:** Chris Amon (Matra) — 1:12.120 (Lap 66)
 - **Weather & Track Conditions:** Warm, sunny, dry; 25°C ambient  
-- **Spectator Attendance:** 50,000 Belgian spectators at the new circuit  
 - **Grandstand & Infrastructure:** Permanent start-finish grandstand and wide grass runoff banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ Emerson Fittipaldi established a clear 9-point lead in the World Drivers' Champi
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 32 | Emerson Fittipaldi | Team Lotus | 85 | 1:44:07.300 | 1 | 9 |
+| 1 | 32 | Emerson Fittipaldi | Team Lotus | 85 | 1:44:06.700 | 1 | 9 |
 | 2 | 8 | François Cevert | Tyrrell | 85 | +26.600 | 5 | 6 |
 | 3 | 9 | Denny Hulme | McLaren | 85 | +58.100 | 3 | 4 |
 | 4 | 34 | Mike Hailwood | Surtees | 85 | +1:12.000 | 8 | 3 |
@@ -60,8 +60,15 @@ Emerson Fittipaldi established a clear 9-point lead in the World Drivers' Champi
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 45,000 spectators at Nivelles-Baulers (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1972/5/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 5 Results](https://www.formula1.com/en/results.html/1972/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 5 Results](https://www.formula1.com/en/results/1972/races/306/belgium/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

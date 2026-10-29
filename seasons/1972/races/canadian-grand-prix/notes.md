@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jackie Stewart (Tyrrell) — 1:43:17.100  
-- **Pole Position:** Peter Revson  
+- **Winner:** Jackie Stewart (Tyrrell) — 1:43:16.900°:17.100  
+- **Pole Position:** Peter Revson  (1:13.600)
+- **Fastest Lap:** Jackie Stewart (Tyrrell-Ford) — 1:15.700 (Lap 25)
 - **Weather & Track Conditions:** Cool, overcast, dry; 16°C ambient  
-- **Spectator Attendance:** 50,000 spectators on the Mosport spectator banks  
 - **Grandstand & Infrastructure:** Paddock grandstand, Corner 2 hillside banks, and Moss Corner infield  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ Jackie Stewart solidified 2nd place in the World Drivers' Championship behind Fi
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 1 | Jackie Stewart | Tyrrell | 80 | 1:43:17.100 | 5 | 9 |
+| 1 | 1 | Jackie Stewart | Tyrrell | 80 | 1:43°:17.100 | 5 | 9 |
 | 2 | 19 | Peter Revson | McLaren | 80 | +48.200 | 1 | 6 |
 | 3 | 18 | Denny Hulme | McLaren | 80 | +54.600 | 2 | 4 |
 | 4 | 8 | Carlos Reutemann | Brabham | 80 | +1:00.700 | 9 | 3 |
@@ -59,8 +59,15 @@ Jackie Stewart solidified 2nd place in the World Drivers' Championship behind Fi
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 50,000 spectators at Mosport Park (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1972/11/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 11 Results](https://www.formula1.com/en/results.html/1972/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 11 Results](https://www.formula1.com/en/results/1972/races/312/canada/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

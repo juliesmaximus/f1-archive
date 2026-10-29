@@ -14,16 +14,16 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Emerson Fittipaldi (Team Lotus) — 1:47:50.200  
-- **Pole Position:** Jacky Ickx  
+- **Pole Position:** Jacky Ickx  (1:22.200)
+- **Fastest Lap:** Jackie Stewart (Tyrrell-Ford) — 1:24.000 (Lap 58)
 - **Weather & Track Conditions:** Warm, sunny, dry; 25°C ambient  
-- **Spectator Attendance:** 100,000 spectators packing the Kent amphitheatre  
 - **Grandstand & Infrastructure:** Brabham Straight grandstands, Druids grandstands, and South Bank natural terraces  
 
 ### Race Anomalies, Incidents & Key Events
 FITTIPALDI DEFEATS STEWART: Jacky Ickx took pole for Ferrari and led the opening 48 laps before oil pressure failure forced him out. Jackie Stewart took the lead in the Tyrrell 003 before Emerson Fittipaldi in the black-and-gold Lotus 72D mounted a relentless charge, overtaking Stewart on lap 49 and pulling away to win by 4.1 seconds! Peter Revson completed the podium in 3rd for McLaren. Chris Amon was 4th.
 
 ### Historical & Regulatory Context
-Fittipaldi expanded his championship lead to 16 points over Jackie Stewart (43 pts vs. 27 pts).
+Fittipaldi expanded his championship lead to 16 points over Jackie Stewart (43° pts vs. 27 pts).
 - **Regulatory Framework:** Scoring system: 9-6-4-3-2-1 for top 6. Scheduled for 76 laps (324.14 km).
 
 ---
@@ -61,8 +61,15 @@ Fittipaldi expanded his championship lead to 16 points over Jackie Stewart (43 p
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 100,000 spectators lining Brands Hatch Circuit (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1972/7/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 7 Results](https://www.formula1.com/en/results.html/1972/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 7 Results](https://www.formula1.com/en/results/1972/races/308/great-britain/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

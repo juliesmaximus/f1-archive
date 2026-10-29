@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Denny Hulme (McLaren) — 1:45:49.100  
-- **Pole Position:** Jackie Stewart  
+- **Pole Position:** Jackie Stewart  (1:17.000)
+- **Fastest Lap:** Mike Hailwood (Surtees-Ford) — 1:18.900 (Lap 20)
 - **Weather & Track Conditions:** Warm, sunny, dry; 25°C ambient  
-- **Spectator Attendance:** 85,000 spectators across the Kyalami amphitheatre  
 - **Grandstand & Infrastructure:** Main pit straight covered grandstands and Crowthorne spectator grass banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -61,8 +61,15 @@ Denny Hulme took the lead of the World Championship. Team Lotus unveiled the dis
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 85,000 spectators at Kyalami Grand Prix Circuit (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1972/2/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 2 Results](https://www.formula1.com/en/results.html/1972/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 2 Results](https://www.formula1.com/en/results/1972/races/303/south-africa/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

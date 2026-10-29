@@ -1,4 +1,4 @@
-# XXXIV Grosser Preis von Deutschland - Race Dossier & Verification Notes
+# XXXIV Großer Preis von Deutschland - Race Dossier & Verification Notes
 
 **Round:** 8 of 12  
 **Date:** 1972-07-30  
@@ -7,16 +7,16 @@
 **Track Length:** 22.835 km (14.189 miles)  
 **Altitude:** 620 m (Eifel mountains)  
 **Scheduled Distance:** 14 laps (319.690 km)  
-**Official Race Title:** XXXIV Grosser Preis von Deutschland  
+**Official Race Title:** XXXIV Großer Preis von Deutschland  
 
 ---
 
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jacky Ickx (Ferrari) — 1:42:12.300  
-- **Pole Position:** Jacky Ickx  
+- **Pole Position:** Jacky Ickx  (7:07.000)
+- **Fastest Lap:** Jacky Ickx (Ferrari) — 7:13.600 (Lap 10)
 - **Weather & Track Conditions:** Warm, clear, sunny; 26°C ambient  
-- **Spectator Attendance:** 250,000 spectators across the 14-mile mountain circuit  
 - **Grandstand & Infrastructure:** Start-und-Ziel tribüne, Karussell, and Brünnchen spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -41,7 +41,7 @@ Jacky Ickx's 8th and final career Formula One victory. Reignited Ferrari's mathe
 | 7 | 26 | Wilson Fittipaldi | Brabham | 14 | +3:00.100 | 21 | 0 |
 | 8 | 28 | Mike Beuttler | March | 14 | +5:10.700 | 27 | 0 |
 | 9 | 6 | Jean-Pierre Beltoise | BRM | 14 | +5:20.200 | 13 | 0 |
-| 10 | 7 | François Cevert | Tyrrell | 14 | +5:43.700 | 5 | 0 |
+| 10 | 7 | François Cevert | Tyrrell | 14 | +5:43°.700 | 5 | 0 |
 | 11 | 1 | Jackie Stewart | Tyrrell | 13 | Collision | 2 | 0 |
 | 12 | 19 | Arturo Merzario | Ferrari | 13 | +1 Lap | 22 | 0 |
 | 13 | 16 | Andrea de Adamich | Surtees | 13 | +1 Lap | 20 | 0 |
@@ -62,8 +62,15 @@ Jacky Ickx's 8th and final career Formula One victory. Reignited Ferrari's mathe
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 250,000 spectators lining the Nürburgring Nordschleife (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1972/8/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 8 Results](https://www.formula1.com/en/results.html/1972/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 8 Results](https://www.formula1.com/en/results/1972/races/309/germany/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

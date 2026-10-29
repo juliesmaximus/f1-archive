@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jackie Stewart (Tyrrell) — 1:52:22.500  
-- **Pole Position:** Chris Amon  
+- **Winner:** Jackie Stewart (Tyrrell) — 1:52:21.500  
+- **Pole Position:** Chris Amon  (2:53.400)
+- **Fastest Lap:** Chris Amon (Matra) — 2:53.900 (Lap 32)
 - **Weather & Track Conditions:** Warm, bright, sunny; 27°C ambient  
-- **Spectator Attendance:** 65,000 spectators across the volcanic hillsides  
 - **Grandstand & Infrastructure:** Permanent pits grandstand and volcanic hillside natural terraces  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ The final Formula One Grand Prix held at the magnificent Charade Circuit. Helmut
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 4 | Jackie Stewart | Tyrrell | 38 | 1:52:22.500 | 3 | 9 |
+| 1 | 4 | Jackie Stewart | Tyrrell | 38 | 1:52:21.500 | 3 | 9 |
 | 2 | 1 | Emerson Fittipaldi | Team Lotus | 38 | +27.700 | 8 | 6 |
 | 3 | 9 | Chris Amon | Matra | 38 | +31.900 | 1 | 4 |
 | 4 | 7 | François Cevert | Tyrrell | 38 | +49.300 | 7 | 3 |
@@ -59,8 +59,15 @@ The final Formula One Grand Prix held at the magnificent Charade Circuit. Helmut
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 65,000 spectators at Charade Circuit (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1972/6/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 6 Results](https://www.formula1.com/en/results.html/1972/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 6 Results](https://www.formula1.com/en/results/1972/races/307/france/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

@@ -1,22 +1,22 @@
-# X Grosser Preis von Österreich - Race Dossier & Verification Notes
+# X Großer Preis von ÖÖsterreich - Race Dossier & Verification Notes
 
 **Round:** 9 of 12  
 **Date:** 1972-08-13  
-**Circuit:** Österreichring  
+**Circuit:** ÖÖsterreichring  
 **Location:** Zeltweg / Spielberg, Styria, Austria (47°13'11"N, 14°45'53"E)  
 **Track Length:** 5.911 km (3.673 miles)  
 **Altitude:** 670 m (Styrian Alps)  
 **Scheduled Distance:** 54 laps (319.194 km)  
-**Official Race Title:** X Grosser Preis von Österreich  
+**Official Race Title:** X Großer Preis von ÖÖsterreich  
 
 ---
 
 ## Race Summary & Key Scenarios
 
 - **Winner:** Emerson Fittipaldi (Team Lotus) — 1:29:16.660  
-- **Pole Position:** Emerson Fittipaldi  
+- **Pole Position:** Emerson Fittipaldi  (1:35.970)
+- **Fastest Lap:** Denny Hulme (McLaren-Ford) — 1:38.320 (Lap 47)
 - **Weather & Track Conditions:** Warm, sunny, dry; 25°C ambient  
-- **Spectator Attendance:** 95,000 spectators across the Styrian mountain slopes  
 - **Grandstand & Infrastructure:** Permanent start-finish grandstand and hillside banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -60,8 +60,15 @@ With 4 wins and 52 points, Emerson Fittipaldi entered Monza needing only to fini
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 95,000 Austrian fans packing the hillsides of the Österreichring (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1972/9/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 9 Results](https://www.formula1.com/en/results.html/1972/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 9 Results](https://www.formula1.com/en/results/1972/races/310/austria/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

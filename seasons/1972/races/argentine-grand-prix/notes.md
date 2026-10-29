@@ -1,4 +1,4 @@
-# IX Gran Premio de la Republica Argentina - Race Dossier & Verification Notes
+# IX Gran Premio de la República Argentina - Race Dossier & Verification Notes
 
 **Round:** 1 of 12  
 **Date:** 1972-01-23  
@@ -7,16 +7,16 @@
 **Track Length:** 3.345 km (2.079 miles)  
 **Altitude:** 10 m  
 **Scheduled Distance:** 95 laps (317.775 km)  
-**Official Race Title:** IX Gran Premio de la Republica Argentina  
+**Official Race Title:** IX Gran Premio de la República Argentina  
 
 ---
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jackie Stewart (Tyrrell) — 1:57:59.100  
-- **Pole Position:** Carlos Reutemann  
+- **Winner:** Jackie Stewart (Tyrrell) — 1:57:58.820  
+- **Pole Position:** Carlos Reutemann  (1:12.460)
+- **Fastest Lap:** Jackie Stewart (Tyrrell-Ford) — 1:13.660 (Lap 25)
 - **Weather & Track Conditions:** Scorching summer heat; 32°C ambient, track temperature 48°C  
-- **Spectator Attendance:** 70,000 passionate Argentine fans  
 - **Grandstand & Infrastructure:** Permanent concrete stadium grandstands along the Curva del Ciervo and pit straight  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ The Argentine Grand Prix returned to the official championship calendar for the 
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 21 | Jackie Stewart | Tyrrell | 95 | 1:57:59.100 | 2 | 9 |
+| 1 | 21 | Jackie Stewart | Tyrrell | 95 | 1:57:58.820 | 2 | 9 |
 | 2 | 17 | Denny Hulme | McLaren | 95 | +25.960 | 4 | 6 |
 | 3 | 8 | Jacky Ickx | Ferrari | 95 | +59.390 | 8 | 4 |
 | 4 | 9 | Clay Regazzoni | Ferrari | 95 | +1:06.720 | 6 | 3 |
@@ -57,8 +57,15 @@ The Argentine Grand Prix returned to the official championship calendar for the 
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 80,000 enthusiastic Argentine fans packing Autódromo Municipal Ciudad de Buenos Aires (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1972/1/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 1 Results](https://www.formula1.com/en/results.html/1972/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 1 Results](https://www.formula1.com/en/results/1972/races/302/argentina/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

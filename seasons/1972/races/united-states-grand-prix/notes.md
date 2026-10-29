@@ -4,7 +4,7 @@
 **Date:** 1972-10-08  
 **Circuit:** Watkins Glen Grand Prix Race Course  
 **Location:** Watkins Glen, Schuyler County, New York, United States (42°20'13"N, 76°55'38"W)  
-**Track Length:** 5.435 km (3.377 miles)  
+**Track Length:** 5.43°5 km (3.377 miles)  
 **Altitude:** 320 m (Finger Lakes hills)  
 **Scheduled Distance:** 59 laps (320.665 km)  
 **Official Race Title:** XV United States Grand Prix  
@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jackie Stewart (Tyrrell) — 1:41:45.354  
-- **Pole Position:** Jackie Stewart  
+- **Pole Position:** Jackie Stewart  (1:40.481)
+- **Fastest Lap:** Jackie Stewart (Tyrrell-Ford) — 1:41.644 (Lap 33)
 - **Weather & Track Conditions:** Cold, crisp, sunny autumn day; 13°C ambient  
-- **Spectator Attendance:** 115,000 spectators packing the Watkins Glen hills  
 - **Grandstand & Infrastructure:** Kendall main grandstand, The Boot, and Seneca spectator knolls  
 
 ### Race Anomalies, Incidents & Key Events
@@ -55,7 +55,7 @@ The final Grand Prix of the 1972 season. Jackie Stewart concluded the year with 
 | R | 14 | Peter Gethin | BRM | 47 | Engine | 28 | 0 |
 | R | 16 | Howden Ganley | BRM | 44 | Engine | 17 | 0 |
 | R | 11 | David Walker | Team Lotus | 44 | Engine | 30 | 0 |
-| R | 30 | Wilson Fittipaldi | Brabham | 43 | Engine | 13 | 0 |
+| R | 30 | Wilson Fittipaldi | Brabham | 43° | Engine | 13 | 0 |
 | R | 17 | Jean-Pierre Beltoise | BRM | 40 | Ignition | 18 | 0 |
 | R | 15 | Brian Redman | BRM | 34 | Engine | 24 | 0 |
 | R | 29 | Carlos Reutemann | Brabham | 31 | Engine | 5 | 0 |
@@ -65,8 +65,15 @@ The final Grand Prix of the 1972 season. Jackie Stewart concluded the year with 
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 115,000 spectators throughout Watkins Glen State Park (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1972/12/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 12 Results](https://www.formula1.com/en/results.html/1972/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1972 Round 12 Results](https://www.formula1.com/en/results/1972/races/313/united-states/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.
