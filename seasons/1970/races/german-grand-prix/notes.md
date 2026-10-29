@@ -1,4 +1,4 @@
-# XXXII Grosser Preis von Deutschland - Race Dossier & Verification Notes
+# XXXII Großer Preis von Deutschland - Race Dossier & Verification Notes
 
 **Round:** 8 of 13  
 **Date:** 1970-08-02  
@@ -7,16 +7,16 @@
 **Track Length:** 6.789 km (4.218 miles)  
 **Altitude:** 102 m (Rhine valley forest)  
 **Scheduled Distance:** 50 laps (339.450 km)  
-**Official Race Title:** XXXII Grosser Preis von Deutschland  
+**Official Race Title:** XXXII Großer Preis von Deutschland  
 
 ---
 
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jochen Rindt (Team Lotus) — 1:42:00.300  
-- **Pole Position:** Jacky Ickx  
+- **Pole Position:** Jacky Ickx  (1:59.500)
+- **Fastest Lap:** Jacky Ickx (Ferrari) — 2:00.500 (Lap 49)
 - **Weather & Track Conditions:** Hot, humid summer sun; 31°C ambient  
-- **Spectator Attendance:** 110,000 spectators packing the Motodrom stadium  
 - **Grandstand & Infrastructure:** Colossal concrete Motodrom stadium grandstands and forest chicane banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -56,8 +56,15 @@ The first World Championship Grand Prix at Hockenheim. Tragically, this would be
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 110,000 spectators in the Motodrom grandstands at Hockenheimring (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1970/8/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 8 Results](https://www.formula1.com/en/results.html/1970/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 8 Results](https://www.formula1.com/en/results/1970/races/285/germany/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jacky Ickx (Ferrari) — 1:53:28.300  
-- **Pole Position:** Clay Regazzoni  
+- **Winner:** Jacky Ickx (Ferrari) — 1:53:28.360  
+- **Pole Position:** Clay Regazzoni  (1:41.860)
+- **Fastest Lap:** Jacky Ickx (Ferrari) — 1:43.110 (Lap 46)
 - **Weather & Track Conditions:** Sunny, warm, dry; 24°C ambient  
-- **Spectator Attendance:** Over 200,000 uncontrolled spectators spilling onto track margins  
 - **Grandstand & Infrastructure:** Colossal Estadio grandstands encircling Peraltada hairpin and grass verges  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ The chaotic crowd scenes and safety failures caused Formula One to cancel the Me
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 3 | Jacky Ickx | Ferrari | 65 | 1:53:28.300 | 3 | 9 |
+| 1 | 3 | Jacky Ickx | Ferrari | 65 | 1:53:28.360 | 3 | 9 |
 | 2 | 4 | Clay Regazzoni | Ferrari | 65 | +24.640 | 1 | 6 |
 | 3 | 8 | Denny Hulme | McLaren-Ford | 65 | +45.970 | 14 | 4 |
 | 4 | 12 | Chris Amon | March | 65 | +47.050 | 5 | 3 |
@@ -53,8 +53,15 @@ The chaotic crowd scenes and safety failures caused Formula One to cancel the Me
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 200,000 spectators crowding trackside at Magdalena Mixhuca (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1970/13/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 13 Results](https://www.formula1.com/en/results.html/1970/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 13 Results](https://www.formula1.com/en/results/1970/races/290/mexico/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

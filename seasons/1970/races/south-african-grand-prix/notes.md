@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jack Brabham (Brabham) — 1:49:35.400  
-- **Pole Position:** Jackie Stewart  
+- **Winner:** Jack Brabham (Brabham) — 1:49:34.600  
+- **Pole Position:** Jackie Stewart  (1:19.300)
+- **Fastest Lap:** John Surtees (McLaren-Ford) — 1:20.800 (Lap 6)
 - **Weather & Track Conditions:** Warm, sunny, dry; 25°C ambient  
-- **Spectator Attendance:** 85,000 spectators surrounding the Highveld circuit  
 - **Grandstand & Infrastructure:** Main pit straight covered grandstands and Crowthorne banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ Jack Brabham became the second-oldest winner of modern post-war Grands Prix afte
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 12 | Jack Brabham | Brabham | 80 | 1:49:35.400 | 3 | 9 |
+| 1 | 12 | Jack Brabham | Brabham | 80 | 1:49:34.600 | 3 | 9 |
 | 2 | 6 | Denny Hulme | McLaren-Ford | 80 | +8.100 | 6 | 6 |
 | 3 | 1 | Jackie Stewart | March | 80 | +17.100 | 1 | 4 |
 | 4 | 3 | Jean-Pierre Beltoise | Matra | 80 | +1:13.100 | 8 | 3 |
@@ -58,8 +58,15 @@ Jack Brabham became the second-oldest winner of modern post-war Grands Prix afte
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 85,000 spectators at Kyalami Grand Prix Circuit (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1970/1/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 1 Results](https://www.formula1.com/en/results.html/1970/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 1 Results](https://www.formula1.com/en/results/1970/races/278/south-africa/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

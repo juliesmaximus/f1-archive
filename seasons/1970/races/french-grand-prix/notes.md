@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jochen Rindt (Team Lotus) — 1:55  
-- **Pole Position:** Jacky Ickx  
+- **Winner:** Jochen Rindt (Team Lotus) — 1:55:57.000  
+- **Pole Position:** Jacky Ickx  (2:58.220)
+- **Fastest Lap:** Jack Brabham (Brabham-Ford) — 3:00.750 (Lap 29)
 - **Weather & Track Conditions:** Hot, bright, sunny; 29°C ambient  
-- **Spectator Attendance:** 60,000 spectators across the volcanic hillsides  
 - **Grandstand & Infrastructure:** Permanent pits grandstand and volcanic hillside natural terraces  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ Rindt took the lead of the World Drivers' Championship, establishing the Lotus 7
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 6 | Jochen Rindt | Team Lotus | 38 | 1:55 | 6 | 9 |
+| 1 | 6 | Jochen Rindt | Team Lotus | 38 | 1:55:57.000 | 6 | 9 |
 | 2 | 14 | Chris Amon | March | 38 | +7.610 | 3 | 6 |
 | 3 | 23 | Jack Brabham | Brabham | 38 | +44.830 | 5 | 4 |
 | 4 | 19 | Denny Hulme | McLaren-Ford | 38 | +45.660 | 7 | 3 |
@@ -55,8 +55,15 @@ Rindt took the lead of the World Drivers' Championship, establishing the Lotus 7
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 60,000 spectators at Charade Circuit (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1970/6/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 6 Results](https://www.formula1.com/en/results.html/1970/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 6 Results](https://www.formula1.com/en/results/1970/races/283/france/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

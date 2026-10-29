@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Emerson Fittipaldi (Team Lotus) — 1:57:32.790  
-- **Pole Position:** Jacky Ickx  
+- **Pole Position:** Jacky Ickx  (1:03.070)
+- **Fastest Lap:** Jacky Ickx (Ferrari) — 1:02.740 (Lap 105)
 - **Weather & Track Conditions:** Cold, crisp, sunny autumn day; 12°C ambient  
-- **Spectator Attendance:** 105,000 spectators packing the Watkins Glen hills  
 - **Grandstand & Infrastructure:** Kendall main grandstand, The Bog, and Seneca spectator knolls  
 
 ### Race Anomalies, Incidents & Key Events
@@ -59,8 +59,15 @@ One of the most emotional moments in Formula One history. Emerson Fittipaldi sco
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 105,000 spectators throughout Watkins Glen State Park (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1970/12/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 12 Results](https://www.formula1.com/en/results.html/1970/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 12 Results](https://www.formula1.com/en/results/1970/races/289/united-states/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

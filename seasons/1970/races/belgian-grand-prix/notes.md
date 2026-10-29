@@ -13,14 +13,14 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Pedro Rodríguez (BRM) — 1:38:10.100  
-- **Pole Position:** Jackie Stewart  
+- **Winner:** Pedro Rodríguez (BRM) — 1:38:09.900  
+- **Pole Position:** Jackie Stewart  (3:28.000)
+- **Fastest Lap:** Chris Amon (March-Ford) — 3:27.400 (Lap 28)
 - **Weather & Track Conditions:** Warm, sunny, dry, fast track; 23°C ambient  
-- **Spectator Attendance:** 65,000 spectators across the 14 km Ardennes road course  
 - **Grandstand & Infrastructure:** Covered main pit grandstand, Eau Rouge hillside banks, and Blanchimont slopes  
 
 ### Race Anomalies, Incidents & Key Events
-FINAL GP AT THE 14KM CLASSIC SPA: The paddock raced under heavy grief following the death of Bruce McLaren in a Can-Am testing crash at Goodwood on June 2. In the race, Mexican Pedro Rodríguez drove an inspired race in the Tony Southgate-designed BRM P153 V12, engaging in a 150 mph slipstreaming duel with Chris Amon's March-Cosworth. Rodríguez held on to win by just 1.1 seconds at an average speed of 149.94 mph (241.31 km/h)! Jean-Pierre Beltoise finished 3rd in the Matra V12.
+FINAL GP AT THE 14KM CLASSIC SPA: The paddock raced under heavy grief following the death of Bruce McLaren in a Can-Am testing crash at Goodwood on June 2. In the race, Mexican Pedro Rodríguez drove an inspired race in the Tony Southgate-designed BRM P153 V12, engaging in a 150 mph slipstreaming duel with Chris Amon's March-Cosworth. Rodríguez held on to win by just 1.1 seconds at an average speed of 149.94 mph (241°.31 km/h)! Jean-Pierre Beltoise finished 3rd in the Matra V12.
 
 ### Historical & Regulatory Context
 The final Formula One Grand Prix held on the legendary 14-kilometre public road circuit of Spa-Francorchamps. Pedro Rodríguez's second and final career Grand Prix victory.
@@ -32,7 +32,7 @@ The final Formula One Grand Prix held on the legendary 14-kilometre public road 
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 1 | Pedro Rodríguez | BRM | 28 | 1:38:10.100 | 6 | 9 |
+| 1 | 1 | Pedro Rodríguez | BRM | 28 | 1:38:09.900 | 6 | 9 |
 | 2 | 10 | Chris Amon | March | 28 | +1.100 | 3 | 6 |
 | 3 | 25 | Jean-Pierre Beltoise | Matra | 28 | +1:43.700 | 11 | 4 |
 | 4 | 28 | Ignazio Giunti | Ferrari | 28 | +2:38.500 | 8 | 3 |
@@ -52,8 +52,15 @@ The final Formula One Grand Prix held on the legendary 14-kilometre public road 
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 65,000 spectators in the Ardennes grandstands (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1970/4/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 4 Results](https://www.formula1.com/en/results.html/1970/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 4 Results](https://www.formula1.com/en/results/1970/races/281/belgium/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

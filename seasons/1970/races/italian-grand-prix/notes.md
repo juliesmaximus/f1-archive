@@ -1,4 +1,4 @@
-# 41° Gran Premio d'Italia - Race Dossier & Verification Notes
+# 41°° Gran Premio d'Italia - Race Dossier & Verification Notes
 
 **Round:** 10 of 13  
 **Date:** 1970-09-06  
@@ -7,16 +7,16 @@
 **Track Length:** 5.75 km (3.573 miles)  
 **Altitude:** 162 m (Royal Villa park)  
 **Scheduled Distance:** 68 laps (391.000 km)  
-**Official Race Title:** 41° Gran Premio d'Italia  
+**Official Race Title:** 41°° Gran Premio d'Italia  
 
 ---
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Clay Regazzoni (Ferrari) — 1:39:07.100  
-- **Pole Position:** Jacky Ickx  
+- **Winner:** Clay Regazzoni (Ferrari) — 1:39:06.880  
+- **Pole Position:** Jacky Ickx  (1:24.140)
+- **Fastest Lap:** Clay Regazzoni (Ferrari) — 1:25.200 (Lap 65)
 - **Weather & Track Conditions:** Warm, sunny, dry late summer weather; 26°C ambient  
-- **Spectator Attendance:** 120,000 tifosi packing the parkland  
 - **Grandstand & Infrastructure:** Tribuna Centrale, Vedano, Ascari, and Parabolica spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,11 +32,11 @@ Clay Regazzoni became a national hero in Italy. Jochen Rindt remained frozen at 
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 4 | Clay Regazzoni | Ferrari | 68 | 1:39:07.100 | 3 | 9 |
+| 1 | 4 | Clay Regazzoni | Ferrari | 68 | 1:39:06.880 | 3 | 9 |
 | 2 | 18 | Jackie Stewart | March | 68 | +5.730 | 4 | 6 |
 | 3 | 40 | Jean-Pierre Beltoise | Matra | 68 | +5.800 | 14 | 4 |
 | 4 | 30 | Denny Hulme | McLaren-Ford | 68 | +6.150 | 9 | 3 |
-| 5 | 46 | Rolf Stommelen | Brabham | 68 | +6.410 | 17 | 2 |
+| 5 | 46 | Rolf Stommelen | Brabham | 68 | +6.41°0 | 17 | 2 |
 | 6 | 20 | François Cevert | March | 68 | +1:03.460 | 11 | 1 |
 | 7 | 48 | Chris Amon | March | 67 | +1 Lap | 18 | 0 |
 | 8 | 34 | Andrea de Adamich | McLaren-Alfa Romeo | 61 | +7 Laps | 12 | 0 |
@@ -59,8 +59,15 @@ Clay Regazzoni became a national hero in Italy. Jochen Rindt remained frozen at 
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 130,000 tifosi packing the Autodromo Nazionale di Monza (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1970/10/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 10 Results](https://www.formula1.com/en/results.html/1970/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 10 Results](https://www.formula1.com/en/results/1970/races/287/italy/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

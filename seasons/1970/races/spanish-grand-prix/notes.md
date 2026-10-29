@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jackie Stewart (March) — 2:10:58.200  
-- **Pole Position:** Jack Brabham  
+- **Pole Position:** Jack Brabham  (1:23.900)
+- **Fastest Lap:** Jack Brabham (Brabham-Ford) — 1:24.300 (Lap 19)
 - **Weather & Track Conditions:** Sunny, hot, dry; 27°C ambient  
-- **Spectator Attendance:** 50,000 spectators across the Jarama hillsides  
 - **Grandstand & Infrastructure:** Main pit grandstands, Pegaso curve terraces, and Farina hillsides  
 
 ### Race Anomalies, Incidents & Key Events
@@ -52,8 +52,15 @@ Maiden World Championship victory for March Engineering in only their second Gra
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 50,000 spectators at Circuito Permanente del Jarama (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1970/2/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 2 Results](https://www.formula1.com/en/results.html/1970/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 2 Results](https://www.formula1.com/en/results/1970/races/279/spain/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

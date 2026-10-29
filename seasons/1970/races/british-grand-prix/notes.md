@@ -6,17 +6,17 @@
 **Location:** Fawkham, Longfield, Kent, United Kingdom (51°21'25"N, 0°15'45"E)  
 **Track Length:** 4.265 km (2.65 miles)  
 **Altitude:** 135 m (natural amphitheatre)  
-**Scheduled Distance:** 80 laps (341.200 km)  
+**Scheduled Distance:** 80 laps (341°.200 km)  
 **Official Race Title:** 23rd RAC British Grand Prix  
 
 ---
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jochen Rindt (Team Lotus) — 1:57  
-- **Pole Position:** Jochen Rindt  
+- **Winner:** Jochen Rindt (Team Lotus) — 1:57:02.000  
+- **Pole Position:** Jochen Rindt  (1:24.800)
+- **Fastest Lap:** Jack Brabham (Brabham-Ford) — 1:25.900 (Lap 70)
 - **Weather & Track Conditions:** Warm, sunny, dry; 24°C ambient  
-- **Spectator Attendance:** 100,000 spectators packing the Kent bowl  
 - **Grandstand & Infrastructure:** Brabham Straight grandstands, Druids grandstands, and South Bank natural terraces  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ Rindt's 3rd consecutive victory extended his championship lead to 36 points vs. 
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 5 | Jochen Rindt | Team Lotus | 80 | 1:57 | 1 | 9 |
+| 1 | 5 | Jochen Rindt | Team Lotus | 80 | 1:57:02.000 | 1 | 9 |
 | 2 | 17 | Jack Brabham | Brabham | 80 | +32.900 | 2 | 6 |
 | 3 | 9 | Denny Hulme | McLaren-Ford | 80 | +54.400 | 5 | 4 |
 | 4 | 4 | Clay Regazzoni | Ferrari | 80 | +54.800 | 6 | 3 |
@@ -47,7 +47,7 @@ Rindt's 3rd consecutive victory extended his championship lead to 36 points vs. 
 | R | 23 | Jackie Oliver | BRM | 54 | Engine | 4 | 0 |
 | R | 1 | Jackie Stewart | March | 52 | Clutch | 8 | 0 |
 | R | 20 | John Surtees | Surtees | 51 | Oil pressure | 19 | 0 |
-| R | 8 | Henri Pescarolo | Matra | 41 | Accident | 12 | 0 |
+| R | 8 | Henri Pescarolo | Matra | 41° | Accident | 12 | 0 |
 | R | 7 | Jean-Pierre Beltoise | Matra | 24 | Wheel | 10 | 0 |
 | R | 26 | Mario Andretti | March | 21 | Suspension | 9 | 0 |
 | R | 15 | Jo Siffert | March | 19 | Suspension | 20 | 0 |
@@ -58,8 +58,15 @@ Rindt's 3rd consecutive victory extended his championship lead to 36 points vs. 
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 100,000 spectators lining Brands Hatch Circuit (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1970/7/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 7 Results](https://www.formula1.com/en/results.html/1970/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 7 Results](https://www.formula1.com/en/results/1970/races/284/great-britain/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

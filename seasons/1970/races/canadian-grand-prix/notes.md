@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jacky Ickx (Ferrari) — 1:21:18.400  
-- **Pole Position:** Jackie Stewart  
+- **Winner:** Jacky Ickx (Ferrari) — 2:21:18.400  
+- **Pole Position:** Jackie Stewart  (1:31.500)
+- **Fastest Lap:** Clay Regazzoni (Ferrari) — 1:32.200 (Lap 75)
 - **Weather & Track Conditions:** Crisp, sunny autumn mountain weather; 16°C ambient  
-- **Spectator Attendance:** 50,000 spectators across the Laurentian hillside banks  
 - **Grandstand & Infrastructure:** Permanent pit straight grandstand and hillside banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ The maiden race for the Tyrrell Racing Organisation as a constructor. Set up the
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 18 | Jacky Ickx | Ferrari | 90 | 1:21:18.400 | 2 | 9 |
+| 1 | 18 | Jacky Ickx | Ferrari | 90 | 2:21:18.400 | 2 | 9 |
 | 2 | 19 | Clay Regazzoni | Ferrari | 90 | +14.800 | 3 | 6 |
 | 3 | 20 | Chris Amon | March | 90 | +57.900 | 6 | 4 |
 | 4 | 14 | Pedro Rodríguez | BRM | 89 | +1 Lap | 7 | 3 |
@@ -55,8 +55,15 @@ The maiden race for the Tyrrell Racing Organisation as a constructor. Set up the
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 50,000 spectators at Circuit Mont-Tremblant (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1970/11/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 11 Results](https://www.formula1.com/en/results.html/1970/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 11 Results](https://www.formula1.com/en/results/1970/races/288/canada/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

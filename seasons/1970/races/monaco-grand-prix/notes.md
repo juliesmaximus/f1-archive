@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jochen Rindt (Team Lotus) — 1:54:37.400  
-- **Pole Position:** Jackie Stewart  
+- **Winner:** Jochen Rindt (Team Lotus) — 1:54:36.600  
+- **Pole Position:** Jackie Stewart  (1:24.000)
+- **Fastest Lap:** Jochen Rindt (Lotus-Ford) — 1:23.200 (Lap 80)
 - **Weather & Track Conditions:** Warm, sunny, dry; 24°C ambient  
-- **Spectator Attendance:** 45,000 spectators lining harbour balconies and grandstands  
 - **Grandstand & Infrastructure:** Quai Albert 1er, Casino square, and harbour berths  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ One of the most famous final-lap moments in Formula One lore. Rindt's relentless
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 3 | Jochen Rindt | Team Lotus | 80 | 1:54:37.400 | 8 | 9 |
+| 1 | 3 | Jochen Rindt | Team Lotus | 80 | 1:54:36.600 | 8 | 9 |
 | 2 | 5 | Jack Brabham | Brabham | 80 | +23.100 | 4 | 6 |
 | 3 | 9 | Henri Pescarolo | Matra | 80 | +51.400 | 7 | 4 |
 | 4 | 11 | Denny Hulme | McLaren-Ford | 80 | +1:28.300 | 3 | 3 |
@@ -51,8 +51,15 @@ One of the most famous final-lap moments in Formula One lore. Rindt's relentless
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 45,000 estimated spectators lining the harbor, grandstands, and balconies (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1970/3/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 3 Results](https://www.formula1.com/en/results.html/1970/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 3 Results](https://www.formula1.com/en/results/1970/races/280/monaco/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

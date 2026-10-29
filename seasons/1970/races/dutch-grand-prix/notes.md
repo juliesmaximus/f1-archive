@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jochen Rindt (Team Lotus) — 1:50:43.400  
-- **Pole Position:** Jochen Rindt  
+- **Winner:** Jochen Rindt (Team Lotus) — 1:50:43.410  
+- **Pole Position:** Jochen Rindt  (1:18.500)
+- **Fastest Lap:** Jacky Ickx (Ferrari) — 1:19.230 (Lap 22)
 - **Weather & Track Conditions:** Warm, bright, dry, breezy; 22°C ambient  
-- **Spectator Attendance:** 65,000 spectators packing the seaside dunes  
 - **Grandstand & Infrastructure:** Main pit straight covered grandstand and Tarzan hairpin dunes  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ The first World Championship victory for the revolutionary Lotus 72—a design s
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 10 | Jochen Rindt | Team Lotus | 80 | 1:50:43.400 | 1 | 9 |
+| 1 | 10 | Jochen Rindt | Team Lotus | 80 | 1:50:43.410 | 1 | 9 |
 | 2 | 5 | Jackie Stewart | March | 80 | +30.000 | 2 | 6 |
 | 3 | 25 | Jacky Ickx | Ferrari | 79 | +1 Lap | 3 | 4 |
 | 4 | 26 | Clay Regazzoni | Ferrari | 79 | +1 Lap | 6 | 3 |
@@ -55,8 +55,15 @@ The first World Championship victory for the revolutionary Lotus 72—a design s
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 65,000 spectators on the coastal dunes and main grandstand (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1970/5/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 5 Results](https://www.formula1.com/en/results.html/1970/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 5 Results](https://www.formula1.com/en/results/1970/races/282/netherlands/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

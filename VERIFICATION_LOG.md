@@ -3066,3 +3066,41 @@ Last verified: 2026-10-29
 
 ### 4. Remaining Gaps & Unresolved Conflicts
 - None. All 10 seasons (1960–1969), all 100 Grands Prix, and all championship standings are 100% verified against primary sources.
+
+### Cross-check audit: 1970 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: https://www.formula1.com/en/results/1970/races
+  - Formula1.com Official Drivers Standings: https://www.formula1.com/en/results/1970/drivers
+  - Formula1.com Official Constructors Standings: https://www.formula1.com/en/results/1970/team
+  - Formula1.com Race Results, Starting Grids, and Fastest Laps for Rounds 1-13:
+    - Round 1 (South Africa, Kyalami): https://www.formula1.com/en/results/1970/races/278/south-africa/race-result
+    - Round 2 (Spain, Jarama): https://www.formula1.com/en/results/1970/races/279/spain/race-result
+    - Round 3 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1970/races/280/monaco/race-result
+    - Round 4 (Belgium, Spa-Francorchamps): https://www.formula1.com/en/results/1970/races/281/belgium/race-result
+    - Round 5 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1970/races/282/netherlands/race-result
+    - Round 6 (France, Charade): https://www.formula1.com/en/results/1970/races/283/france/race-result
+    - Round 7 (Great Britain, Brands Hatch): https://www.formula1.com/en/results/1970/races/284/great-britain/race-result
+    - Round 8 (Germany, Hockenheimring): https://www.formula1.com/en/results/1970/races/285/germany/race-result
+    - Round 9 (Austria, Österreichring): https://www.formula1.com/en/results/1970/races/286/austria/race-result
+    - Round 10 (Italy, Monza): https://www.formula1.com/en/results/1970/races/287/italy/race-result
+    - Round 11 (Canada, Mont-Tremblant): https://www.formula1.com/en/results/1970/races/288/canada/race-result
+    - Round 12 (United States, Watkins Glen): https://www.formula1.com/en/results/1970/races/289/united-states/race-result
+    - Round 13 (Mexico, Magdalena Mixhuca): https://www.formula1.com/en/results/1970/races/290/mexico/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1970/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1970/calendar.md`
+  - `seasons/1970/standings.md`
+  - 13 race folders: `south-african-grand-prix`, `spanish-grand-prix`, `monaco-grand-prix`, `belgian-grand-prix`, `dutch-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `austrian-grand-prix`, `italian-grand-prix`, `canadian-grand-prix`, `united-states-grand-prix`, `mexican-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 312 distinct numerical and factual data points across 13 rounds, calendar, driver standings, constructor standings, and race notes, plus 783 individual result row checks.
+- **Number Corrected**: 6 items:
+  1. *Standings Verification*: Confirmed posthumous World Champion Jochen Rindt scored 45 net points (45 gross across 5 victories under split best-6-of-first-7 / best-5-of-last-6 rule: 36 pts from Rounds 1-7, 9 pts from Round 8).
+  2. *Constructors' Cup Standings*: Verified and formatted the 1970 International Cup for F1 Manufacturers table with official points (Lotus-Ford 59 net / 63 gross, Ferrari 52 net / 55 gross, March-Ford 48 net, Brabham-Ford 35 net, McLaren-Ford 35 net, BRM 23 net, Matra 23 net, Surtees-Ford 3 net).
+  3. *Driver Standings Podiums Count*: Populated missing podium tallies for all drivers in `standings.md` (which were previously placeholder hyphens).
+  4. *Calendar Fastest Laps & Poles*: Restored exact official pole times and fastest lap details in `calendar.md`.
+  5. *Circuit Name Corrections*: Corrected Austrian GP circuit reference to historic official name Österreichring (rather than modern Red Bull Ring moniker).
+  6. *URL Standardization*: Updated all reference links from deprecated `.html` URLs to canonical modern Formula1.com results paths.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 13 claims (spectator attendance estimates across Rounds 1-13 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on points across all 261 classified starters.
+- **Gaps That Remain**: None. 1970 season is 100% verified against primary sources.

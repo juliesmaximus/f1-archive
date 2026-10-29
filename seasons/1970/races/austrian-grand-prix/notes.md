@@ -1,26 +1,26 @@
-# VIII Grosser Preis von Österreich - Race Dossier & Verification Notes
+# VIII Großer Preis von ÖÖsterreich - Race Dossier & Verification Notes
 
 **Round:** 9 of 13  
 **Date:** 1970-08-16  
-**Circuit:** Österreichring  
+**Circuit:** ÖÖsterreichring  
 **Location:** Zeltweg / Spielberg, Styria, Austria (47°13'11"N, 14°45'53"E)  
 **Track Length:** 5.911 km (3.673 miles)  
 **Altitude:** 670 m (Styrian Alps)  
 **Scheduled Distance:** 60 laps (354.660 km)  
-**Official Race Title:** VIII Grosser Preis von Österreich  
+**Official Race Title:** VIII Großer Preis von ÖÖsterreich  
 
 ---
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jacky Ickx (Ferrari) — 1:42:17.300  
-- **Pole Position:** Jochen Rindt  
+- **Winner:** Jacky Ickx (Ferrari) — 1:42:17.320  
+- **Pole Position:** Jochen Rindt  (1:39.230)
+- **Fastest Lap:** Jacky Ickx (Ferrari) — 1:40.400 (Lap 45)
 - **Weather & Track Conditions:** Warm, sunny, dry; 25°C ambient  
-- **Spectator Attendance:** 100,000 jubilant Austrian fans cheering home hero Jochen Rindt  
 - **Grandstand & Infrastructure:** Permanent start-finish grandstand and breathtaking hillside slopes overlooking the Styrian valley  
 
 ### Race Anomalies, Incidents & Key Events
-First World Championship Grand Prix held at the magnificent, ultra-fast Österreichring. Local hero Jochen Rindt took pole position to the roar of 100,000 Austrian fans. In the race, Rindt's engine blew on lap 21. Scuderia Ferrari dominated with their powerful 3.0L Flat-12 engine, Jacky Ickx and Swiss rookie Clay Regazzoni scoring a crushing 1-2 finish for Ferrari, Ickx winning by 0.61s. Rolf Stommelen finished 3rd in the Brabham.
+First World Championship Grand Prix held at the magnificent, ultra-fast ÖÖsterreichring. Local hero Jochen Rindt took pole position to the roar of 100,000 Austrian fans. In the race, Rindt's engine blew on lap 21. Scuderia Ferrari dominated with their powerful 3.0L Flat-12 engine, Jacky Ickx and Swiss rookie Clay Regazzoni scoring a crushing 1-2 finish for Ferrari, Ickx winning by 0.61s. Rolf Stommelen finished 3rd in the Brabham.
 
 ### Historical & Regulatory Context
 Ferrari's 1-2 sweep signalled a major resurgence, making Jacky Ickx the primary challenger to Jochen Rindt in the World Championship.
@@ -32,7 +32,7 @@ Ferrari's 1-2 sweep signalled a major resurgence, making Jacky Ickx the primary 
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 12 | Jacky Ickx | Ferrari | 60 | 1:42:17.300 | 3 | 9 |
+| 1 | 12 | Jacky Ickx | Ferrari | 60 | 1:42:17.320 | 3 | 9 |
 | 2 | 27 | Clay Regazzoni | Ferrari | 60 | +0.610 | 2 | 6 |
 | 3 | 11 | Rolf Stommelen | Brabham | 60 | +1:27.880 | 17 | 4 |
 | 4 | 17 | Pedro Rodríguez | BRM | 59 | +1 Lap | 22 | 3 |
@@ -59,8 +59,15 @@ Ferrari's 1-2 sweep signalled a major resurgence, making Jacky Ickx the primary 
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 100,000 Austrian fans packing the hillsides of the Österreichring (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1970/9/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 9 Results](https://www.formula1.com/en/results.html/1970/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1970 Round 9 Results](https://www.formula1.com/en/results/1970/races/286/austria/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.
