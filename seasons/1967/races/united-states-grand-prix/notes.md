@@ -3,7 +3,7 @@
 **Round:** 10 of 11  
 **Date:** 1967-10-01  
 **Circuit:** Watkins Glen Grand Prix Race Course  
-**Location:** Watkins Glen, Schuyler County, New York, United States (42°20'13"N, 76°55'38"W)  
+**Location:** Watkins Glen, Schuyler County, New York, United States (42°20'13"N, 76°55'38°"W)  
 **Track Length:** 3.701 km (2.3 miles)  
 **Altitude:** 320 m (Finger Lakes hills)  
 **Scheduled Distance:** 108 laps (399.708 km)  
@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jim Clark (Lotus-Ford) — 2:03:13.200  
-- **Pole Position:** Graham Hill  
+- **Pole Position:** Graham Hill  (1:05.480)
+- **Fastest Lap:** Graham Hill (Lotus-Ford) — 1:06.000 (Lap 81)
 - **Weather & Track Conditions:** Crisp, cool, sunny autumn day; 16°C ambient  
-- **Spectator Attendance:** 85,000 spectators packing the Watkins Glen hills  
 - **Grandstand & Infrastructure:** Kendall main grandstand, The Bog, and Seneca hillside mounds  
 
 ### Race Anomalies, Incidents & Key Events
@@ -53,8 +53,15 @@ Set up a tense two-man title showdown between Brabham teammates Denny Hulme and 
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 85,000 spectators throughout Watkins Glen State Park (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1967/10/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1967 Round 10 Results](https://www.formula1.com/en/results.html/1967/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1967 Round 10 Results](https://www.formula1.com/en/results/1967/races/253/united-states/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

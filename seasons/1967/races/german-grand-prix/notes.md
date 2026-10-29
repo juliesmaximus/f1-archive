@@ -1,4 +1,4 @@
-# XXIX Grosser Preis von Deutschland - Race Dossier & Verification Notes
+# XXIX Großer Preis von Deutschland - Race Dossier & Verification Notes
 
 **Round:** 7 of 11  
 **Date:** 1967-08-06  
@@ -7,20 +7,20 @@
 **Track Length:** 22.81 km (14.173 miles)  
 **Altitude:** 620 m (Eifel mountains)  
 **Scheduled Distance:** 15 laps (342.150 km)  
-**Official Race Title:** XXIX Grosser Preis von Deutschland  
+**Official Race Title:** XXIX Großer Preis von Deutschland  
 
 ---
 
 ## Race Summary & Key Scenarios
 
 - **Winner:** Denny Hulme (Brabham-Repco) — 2:05:55.700  
-- **Pole Position:** Jim Clark  
+- **Pole Position:** Jim Clark  (8:04.100)
+- **Fastest Lap:** Dan Gurney (Eagle-Weslake) — 8:15.100 (Lap 3)
 - **Weather & Track Conditions:** Warm, clear, and sunny; 24°C ambient, perfect Nordschleife conditions  
-- **Spectator Attendance:** 200,000 spectators across the 14-mile mountain circuit  
 - **Grandstand & Infrastructure:** Start-und-Ziel tribüne, Karussell spectator banks, and Adenau forests  
 
 ### Race Anomalies, Incidents & Key Events
-Jim Clark stunned the paddock by shattering the 8-minute barrier in practice with pole position of 8:04.1 in the Lotus 49. In the race, Clark built a massive 12-second lead before suspension failure forced him out on lap 4. Denny Hulme seized the lead to take a commanding victory by 38.5 seconds over teammate Jack Brabham, sealing another Brabham 1-2! Chris Amon took 3rd for Ferrari. Young Belgian Jacky Ickx caused an international sensation by qualifying his 1.6-litre Formula 2 Matra-Cosworth 3rd fastest overall behind only Clark and Hulme, outqualifying almost all 3.0L F1 cars!
+Jim Clark stunned the paddock by shattering the 8-minute barrier in practice with pole position of 8:04.1 in the Lotus 49. In the race, Clark built a massive 12-second lead before suspension failure forced him out on lap 4. Denny Hulme seized the lead to take a commanding victory by 38°.5 seconds over teammate Jack Brabham, sealing another Brabham 1-2! Chris Amon took 3rd for Ferrari. Young Belgian Jacky Ickx caused an international sensation by qualifying his 1.6-litre Formula 2 Matra-Cosworth 3rd fastest overall behind only Clark and Hulme, outqualifying almost all 3.0L F1 cars!
 
 ### Historical & Regulatory Context
 Denny Hulme expanded his championship lead over teammate Jack Brabham to 37 points vs. 25 points.
@@ -33,7 +33,7 @@ Denny Hulme expanded his championship lead over teammate Jack Brabham to 37 poin
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
 | 1 | 2 | Denny Hulme | Brabham-Repco | 15 | 2:05:55.700 | 2 | 9 |
-| 2 | 1 | Jack Brabham | Brabham-Repco | 15 | +38.500 | 7 | 6 |
+| 2 | 1 | Jack Brabham | Brabham-Repco | 15 | +38°.500 | 7 | 6 |
 | 3 | 8 | Chris Amon | Ferrari | 15 | +39.000 | 8 | 4 |
 | 4 | 7 | John Surtees | Honda | 15 | +2:25.700 | 6 | 3 |
 | 5 | 24 | Jackie Oliver | Lotus-Ford | 15 | +5:30.700 | 19 | 0 |
@@ -59,8 +59,15 @@ Denny Hulme expanded his championship lead over teammate Jack Brabham to 37 poin
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 200,000 spectators lining the Nürburgring Nordschleife (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1967/7/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1967 Round 7 Results](https://www.formula1.com/en/results.html/1967/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1967 Round 7 Results](https://www.formula1.com/en/results/1967/races/250/germany/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

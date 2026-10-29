@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Pedro Rodríguez (Cooper-Maserati) — 2:05:45.900  
-- **Pole Position:** Jack Brabham  
+- **Pole Position:** Jack Brabham  (1:28.300)
+- **Fastest Lap:** Denny Hulme (Brabham-Repco) — 1:29.900 (Lap 3)
 - **Weather & Track Conditions:** Warm, sunny, dry; 26°C ambient, thin high-altitude air  
-- **Spectator Attendance:** 90,000 enthusiastic spectators surrounding the Highveld circuit  
 - **Grandstand & Infrastructure:** Main pit straight covered grandstands and Crowthorne spectator grass banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -44,7 +44,7 @@ Kyalami replaced East London as the permanent home of the South African Grand Pr
 | R | 16 | Piers Courage | Lotus-BRM | 51 | Fuel system | 18 | 0 |
 | R | 9 | Dan Gurney | Eagle-Climax | 44 | Suspension | 11 | 0 |
 | R | 12 | Jo Siffert | Cooper-Maserati | 41 | Engine | 16 | 0 |
-| R | 3 | Jochen Rindt | Cooper-Maserati | 38 | Engine | 7 | 0 |
+| R | 3 | Jochen Rindt | Cooper-Maserati | 38° | Engine | 7 | 0 |
 | R | 6 | Mike Spence | BRM | 31 | Oil leak | 13 | 0 |
 | R | 15 | Jo Bonnier | Cooper-Maserati | 30 | Engine | 12 | 0 |
 | R | 7 | Jim Clark | Lotus-BRM | 22 | Engine | 3 | 0 |
@@ -53,8 +53,15 @@ Kyalami replaced East London as the permanent home of the South African Grand Pr
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 40,000 estimated spectators at Kyalami Grand Prix Circuit (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1967/1/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1967 Round 1 Results](https://www.formula1.com/en/results.html/1967/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1967 Round 1 Results](https://www.formula1.com/en/results/1967/races/244/south-africa/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

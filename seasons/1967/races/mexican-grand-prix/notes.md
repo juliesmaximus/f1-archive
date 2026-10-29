@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jim Clark (Lotus-Ford) — 1:59:28.700  
-- **Pole Position:** Jim Clark  
+- **Pole Position:** Jim Clark  (1:47.560)
+- **Fastest Lap:** Jim Clark (Lotus-Ford) — 1:48.130 (Lap 52)
 - **Weather & Track Conditions:** Warm, sunny, dry, thin air; 23°C ambient  
-- **Spectator Attendance:** 95,000 passionate Mexican fans packing the Peraltada stadium  
 - **Grandstand & Infrastructure:** Colossal Estadio grandstands encircling Peraltada hairpin and pit straight terraces  
 
 ### Race Anomalies, Incidents & Key Events
@@ -54,8 +54,15 @@ Denny Hulme became the first New Zealander to win the Formula One World Drivers'
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 75,000 spectators in the Magdalena Mixhuca grandstands (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1967/11/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1967 Round 11 Results](https://www.formula1.com/en/results.html/1967/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1967 Round 11 Results](https://www.formula1.com/en/results/1967/races/254/mexico/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

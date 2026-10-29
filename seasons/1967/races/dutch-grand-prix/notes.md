@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jim Clark (Lotus-Ford) — 2:14:45.100  
-- **Pole Position:** Graham Hill  
+- **Pole Position:** Graham Hill  (1:24.600)
+- **Fastest Lap:** Jim Clark (Lotus-Ford) — 1:28.080 (Lap 67)
 - **Weather & Track Conditions:** Sunny, pleasant sea breeze, dry track; 22°C ambient  
-- **Spectator Attendance:** 65,000 spectators packing the seaside dunes  
 - **Grandstand & Infrastructure:** Main pit straight covered grandstand, Tarzan hairpin grandstands, and dune crests  
 
 ### Race Anomalies, Incidents & Key Events
@@ -52,8 +52,15 @@ The debut of the Ford Cosworth DFV engine altered motorsport history forever. Th
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 65,000 spectators on the coastal dunes and main grandstand (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1967/3/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1967 Round 3 Results](https://www.formula1.com/en/results.html/1967/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1967 Round 3 Results](https://www.formula1.com/en/results/1967/races/246/netherlands/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

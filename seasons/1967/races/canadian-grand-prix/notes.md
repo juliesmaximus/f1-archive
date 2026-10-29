@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jack Brabham (Brabham-Repco) — 2:40  
-- **Pole Position:** Jim Clark  
+- **Winner:** Jack Brabham (Brabham-Repco) — 2:40:40.000  
+- **Pole Position:** Jim Clark  (1:22.400)
+- **Fastest Lap:** Jim Clark (Lotus-Ford) — 1:23.100 (Lap 54)
 - **Weather & Track Conditions:** Cold, wet, torrential rainstorms and thick spray throughout; 13°C ambient  
-- **Spectator Attendance:** 58,000 wet but thrilled Canadian fans  
 - **Grandstand & Infrastructure:** Permanent paddock grandstand, Corner 2 hillside banks, and Corner 5 bowl  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ First Formula One World Championship round hosted in Canada. Jack Brabham closed
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 1 | Jack Brabham | Brabham-Repco | 90 | 2:40 | 7 | 9 |
+| 1 | 1 | Jack Brabham | Brabham-Repco | 90 | 2:40:40.000 | 7 | 9 |
 | 2 | 2 | Denny Hulme | Brabham-Repco | 90 | +1:01.900 | 3 | 6 |
 | 3 | 10 | Dan Gurney | Eagle-Weslake | 89 | +1 Lap | 5 | 4 |
 | 4 | 4 | Graham Hill | Lotus-Ford | 88 | +2 Laps | 2 | 3 |
@@ -52,8 +52,15 @@ First Formula One World Championship round hosted in Canada. Jack Brabham closed
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 55,000 spectators at Mosport Park (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1967/8/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1967 Round 8 Results](https://www.formula1.com/en/results.html/1967/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1967 Round 8 Results](https://www.formula1.com/en/results/1967/races/251/canada/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

@@ -6,14 +6,14 @@ The 1967 season was one of the most technologically consequential seasons in Gra
 
 | Round | Official Grand Prix Name | Circuit | Location | Date | Laps | Distance | Winner | Pole Position | Fastest Lap |
 |:---:|:---|:---|:---|:---|:---:|:---:|:---|:---|:---|
-| 1 | 1st AA Grand Prix of South Africa | Kyalami Grand Prix Circuit | Midrand, Gauteng, South Africa | 1967-01-02 | 80 | 328.320 km | Pedro Rodríguez | Jack Brabham | Verified in dossier |
-| 2 | XXV Grand Prix de Monaco | Circuit de Monaco | Monte Carlo, Principality of Monaco | 1967-05-07 | 100 | 314.500 km | Denny Hulme | Jack Brabham | Verified in dossier |
-| 3 | XVI Grote Prijs van Nederland | Circuit Park Zandvoort | Zandvoort, North Holland, Netherlands | 1967-06-04 | 90 | 377.640 km | Jim Clark | Graham Hill | Verified in dossier |
-| 4 | XXVII Grand Prix de Belgique | Circuit de Spa-Francorchamps | Francorchamps, Stavelot, Ardennes, Belgium | 1967-06-18 | 28 | 394.800 km | Dan Gurney | Jim Clark | Verified in dossier |
-| 5 | 53e Grand Prix de l'ACF | Circuit Bugatti du Mans | Le Mans, Sarthe, France | 1967-07-02 | 80 | 353.760 km | Jack Brabham | Graham Hill | Verified in dossier |
-| 6 | 20th RAC British Grand Prix | Silverstone Circuit | Silverstone, Northamptonshire, United Kingdom | 1967-07-15 | 80 | 376.880 km | Jim Clark | Jim Clark | Verified in dossier |
-| 7 | XXIX Grosser Preis von Deutschland | Nürburgring Nordschleife | Nürburg, Rhineland-Palatinate, West Germany | 1967-08-06 | 15 | 342.150 km | Denny Hulme | Jim Clark | Verified in dossier |
-| 8 | 7th Player's Grand Prix du Canada | Mosport Park | Bowmanville, Ontario, Canada | 1967-08-27 | 90 | 356.130 km | Jack Brabham | Jim Clark | Verified in dossier |
-| 9 | 38° Gran Premio d'Italia | Autodromo Nazionale di Monza | Monza, Lombardy, Italy | 1967-09-10 | 68 | 391.000 km | John Surtees | Jim Clark | Verified in dossier |
-| 10 | X United States Grand Prix | Watkins Glen Grand Prix Race Course | Watkins Glen, Schuyler County, New York, United States | 1967-10-01 | 108 | 399.708 km | Jim Clark | Graham Hill | Verified in dossier |
-| 11 | VI Gran Premio de Mexico | Magdalena Mixhuca | Mexico City, Mexico | 1967-10-22 | 65 | 325.000 km | Jim Clark | Jim Clark | Verified in dossier |
+| 1 | 1st AA Grand Prix of South Africa | Kyalami Grand Prix Circuit | Midrand, Gauteng, South Africa | 1967-01-02 | 80 | 328.320 km | Pedro Rodríguez | Jack Brabham (1:28.300) | Denny Hulme (1:29.900) |
+| 2 | XXV Grand Prix de Monaco | Circuit de Monaco | Monte Carlo, Principality of Monaco | 1967-05-07 | 100 | 314.500 km | Denny Hulme | Jack Brabham (1:27.600) | Jim Clark (1:29.500) |
+| 3 | XVI Grote Prijs van Nederland | Circuit Park Zandvoort | Zandvoort, North Holland, Netherlands | 1967-06-04 | 90 | 377.640 km | Jim Clark | Graham Hill (1:24.600) | Jim Clark (1:28.080) |
+| 4 | XXVII Grand Prix de Belgique | Circuit de Spa-Francorchamps | Francorchamps, Stavelot, Ardennes, Belgium | 1967-06-18 | 28 | 394.800 km | Dan Gurney | Jim Clark (3:28.100) | Dan Gurney (3:31.900) |
+| 5 | 53e Grand Prix de l'ACF | Circuit Bugatti du Mans | Le Mans, Sarthe, France | 1967-07-02 | 80 | 353.760 km | Jack Brabham | Graham Hill (1:36.200) | Graham Hill (1:36.700) |
+| 6 | 20th RAC British Grand Prix | Silverstone Circuit | Silverstone, Northamptonshire, United Kingdom | 1967-07-15 | 80 | 376.880 km | Jim Clark | Jim Clark (1:25.300) | Denny Hulme (1:27.000) |
+| 7 | XXIX Grosser Preis von Deutschland | Nürburgring Nordschleife | Nürburg, Rhineland-Palatinate, West Germany | 1967-08-06 | 15 | 342.150 km | Denny Hulme | Jim Clark (8:04.100) | Dan Gurney (8:15.100) |
+| 8 | 7th Player's Grand Prix du Canada | Mosport Park | Bowmanville, Ontario, Canada | 1967-08-27 | 90 | 356.130 km | Jack Brabham | Jim Clark (1:22.400) | Jim Clark (1:23.100) |
+| 9 | 38° Gran Premio d'Italia | Autodromo Nazionale di Monza | Monza, Lombardy, Italy | 1967-09-10 | 68 | 391.000 km | John Surtees | Jim Clark (1:28.500) | Jim Clark (1:28.500) |
+| 10 | X United States Grand Prix | Watkins Glen Grand Prix Race Course | Watkins Glen, Schuyler County, New York, United States | 1967-10-01 | 108 | 399.708 km | Jim Clark | Graham Hill (1:05.480) | Graham Hill (1:06.000) |
+| 11 | VI Gran Premio de Mexico | Magdalena Mixhuca | Mexico City, Mexico | 1967-10-22 | 65 | 325.000 km | Jim Clark | Jim Clark (1:47.560) | Jim Clark (1:48.130) |

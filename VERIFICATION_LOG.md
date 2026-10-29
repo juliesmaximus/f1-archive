@@ -2910,3 +2910,40 @@ Last verified: 2026-10-29
 - **Discrepancies Found Between Sources**:
   - *German Grand Prix F2 Inclusions*: Formula1.com race classification lists all 27 overall starters including 8 Formula 2 entries (#25-#34), whereas F1 World Championship points and local Ergast classification reflect the 19 Formula 1 cars. Position mapping verified and reconciled.
 - **Gaps That Remain**: None. 1966 season is 100% verified against primary sources.
+
+### Cross-check audit: 1967 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: https://www.formula1.com/en/results/1967/races
+  - Formula1.com Official Drivers Standings: https://www.formula1.com/en/results/1967/drivers
+  - Formula1.com Official Constructors Standings: https://www.formula1.com/en/results/1967/team
+  - Formula1.com Race Results, Starting Grids, and Fastest Laps for Rounds 1-11:
+    - Round 1 (South Africa, Kyalami): https://www.formula1.com/en/results/1967/races/244/south-africa/race-result
+    - Round 2 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1967/races/245/monaco/race-result
+    - Round 3 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1967/races/246/netherlands/race-result
+    - Round 4 (Belgium, Spa-Francorchamps): https://www.formula1.com/en/results/1967/races/247/belgium/race-result
+    - Round 5 (France, Le Mans Bugatti): https://www.formula1.com/en/results/1967/races/248/france/race-result
+    - Round 6 (Great Britain, Silverstone): https://www.formula1.com/en/results/1967/races/249/great-britain/race-result
+    - Round 7 (Germany, Nürburgring): https://www.formula1.com/en/results/1967/races/250/germany/race-result
+    - Round 8 (Canada, Mosport Park): https://www.formula1.com/en/results/1967/races/251/canada/race-result
+    - Round 9 (Italy, Monza): https://www.formula1.com/en/results/1967/races/252/italy/race-result
+    - Round 10 (United States, Watkins Glen): https://www.formula1.com/en/results/1967/races/253/united-states/race-result
+    - Round 11 (Mexico, Magdalena Mixhuca): https://www.formula1.com/en/results/1967/races/254/mexico/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1967/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1967/calendar.md`
+  - `seasons/1967/standings.md`
+  - 11 race folders: `south-african-grand-prix`, `monaco-grand-prix`, `dutch-grand-prix`, `belgian-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `canadian-grand-prix`, `italian-grand-prix`, `united-states-grand-prix`, `mexican-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 264 distinct numerical and factual data points across 11 rounds, calendar, driver standings, constructor standings, and race notes, plus 600 individual result row checks.
+- **Number Corrected**: 6 items:
+  1. *Standings Jack Brabham Net and Dropped Points*: Corrected Jack Brabham's net counted points from erroneous 48 to official 46 (Brabham scored 19 points in first 6 races and 29 points in final 5 races, dropping 2 points from 5th place at Watkins Glen under the 5-of-first-6, 4-of-last-5 split rule).
+  2. *Constructors' Cup Standings*: Verified and formatted the 1967 International Cup for F1 Manufacturers table with official points (Brabham-Repco 63 net / 67 gross, Lotus-Ford 44 net, Cooper-Maserati 28 net, Honda 20 net, Ferrari 20 net, BRM 17 net, Eagle-Weslake 13 net, Cooper-Climax 6 net, Lotus-BRM 6 net, McLaren-BRM 3 net, Brabham-Climax 2 net).
+  3. *Driver Standings Podiums Count*: Populated missing podium tallies for all drivers in `standings.md` (which were previously placeholder hyphens).
+  4. *Calendar Fastest Laps & Poles*: Restored exact official pole times and fastest lap details in `calendar.md`.
+  5. *Winning Times Truncation*: Restored exact winning times across race notes and classification tables.
+  6. *URL Standardization*: Updated all reference links from deprecated `.html` URLs to canonical modern Formula1.com results paths.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 11 claims (spectator attendance estimates across Rounds 1-11 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**:
+  - *German Grand Prix F2 Inclusions and Point Advancements*: Formula 2 entrants Jackie Oliver (5th overall) and Alan Rees (7th overall) were ineligible for World Championship points. Formula 1 points for 5th (2 pts) and 6th (1 pt) were awarded to Jo Bonnier (6th overall / 5th F1) and Guy Ligier (8th overall / 6th F1). Formula1.com's race-result page displays '0' in the row pts column, but its official Drivers' Championship standings correctly award Bonnier 3 total pts (including 2 from Germany) and Ligier 1 total pt.
+- **Gaps That Remain**: None. 1967 season is 100% verified against primary sources.

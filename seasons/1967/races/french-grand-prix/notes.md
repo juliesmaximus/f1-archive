@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jack Brabham (Brabham-Repco) — 2:13:21.300  
-- **Pole Position:** Graham Hill  
+- **Pole Position:** Graham Hill  (1:36.200)
+- **Fastest Lap:** Graham Hill (Lotus-Ford) — 1:36.700 (Lap 7)
 - **Weather & Track Conditions:** Warm, overcast, dry; 24°C ambient  
-- **Spectator Attendance:** Sparse crowd of only 20,000 spectators (disliked following the 24 Hours of Le Mans)  
 - **Grandstand & Infrastructure:** Colossal 24 Hours of Le Mans permanent grandstands along the pit straight  
 
 ### Race Anomalies, Incidents & Key Events
@@ -50,8 +50,15 @@ The Bugatti Circuit was widely disliked by drivers and fans as dull and unworthy
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 20,000 spectators at Circuit Bugatti du Mans (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1967/5/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1967 Round 5 Results](https://www.formula1.com/en/results.html/1967/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1967 Round 5 Results](https://www.formula1.com/en/results/1967/races/248/france/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

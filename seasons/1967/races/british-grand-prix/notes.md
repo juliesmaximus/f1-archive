@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jim Clark (Lotus-Ford) — 1:59:25.600  
-- **Pole Position:** Jim Clark  
+- **Pole Position:** Jim Clark  (1:25.300)
+- **Fastest Lap:** Denny Hulme (Brabham-Repco) — 1:27.000 (Lap 3)
 - **Weather & Track Conditions:** Warm, sunny, dry; 25°C ambient  
-- **Spectator Attendance:** 110,000 spectators surrounding the former airfield  
 - **Grandstand & Infrastructure:** BRDC grandstands at Woodcote, Copse, and Abbey; crowded infield  
 
 ### Race Anomalies, Incidents & Key Events
@@ -56,8 +56,15 @@ Jim Clark became the first driver in history to win five British Grands Prix (19
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 110,000 spectators lining Silverstone Circuit (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1967/6/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1967 Round 6 Results](https://www.formula1.com/en/results.html/1967/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1967 Round 6 Results](https://www.formula1.com/en/results/1967/races/249/great-britain/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

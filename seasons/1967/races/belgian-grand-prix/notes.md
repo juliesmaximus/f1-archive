@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Dan Gurney (Eagle-Weslake) — 1:40:49.400  
-- **Pole Position:** Jim Clark  
+- **Pole Position:** Jim Clark  (3:28.100)
+- **Fastest Lap:** Dan Gurney (Eagle-Weslake) — 3:31.900 (Lap 19)
 - **Weather & Track Conditions:** Warm, sunny, dry; 25°C ambient, fast track conditions  
-- **Spectator Attendance:** 60,000 spectators across the 14-kilometre circuit  
 - **Grandstand & Infrastructure:** Covered main pit grandstand, Eau Rouge hillside banks, and Stavelot terraces  
 
 ### Race Anomalies, Incidents & Key Events
@@ -53,8 +53,15 @@ The first and only Formula One World Championship victory for an American-built 
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 60,000 estimated spectators in the Ardennes grandstands (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1967/4/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1967 Round 4 Results](https://www.formula1.com/en/results.html/1967/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1967 Round 4 Results](https://www.formula1.com/en/results/1967/races/247/belgium/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

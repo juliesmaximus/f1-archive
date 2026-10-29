@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Denny Hulme (Brabham-Repco) — 2:34:34.300  
-- **Pole Position:** Jack Brabham  
+- **Pole Position:** Jack Brabham  (1:27.600)
+- **Fastest Lap:** Jim Clark (Lotus-Climax) — 1:29.500 (Lap 38)
 - **Weather & Track Conditions:** Scorching sun and Mediterranean heat; 27°C ambient, track temperature 42°C  
-- **Spectator Attendance:** 45,000 spectators on harbour balconies and grandstands  
 - **Grandstand & Infrastructure:** Quai Albert 1er, Casino square, and palace hillside viewpoints  
 
 ### Race Anomalies, Incidents & Key Events
@@ -51,8 +51,15 @@ Denny Hulme's first career victory launched his 1967 championship campaign. Band
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 45,000 estimated spectators lining the harbor, grandstands, and balconies (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1967/2/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1967 Round 2 Results](https://www.formula1.com/en/results.html/1967/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1967 Round 2 Results](https://www.formula1.com/en/results/1967/races/245/monaco/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.
