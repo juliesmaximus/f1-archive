@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jackie Stewart (Tyrrell) — 1:52:21.300  
-- **Pole Position:** Jackie Stewart  
+- **Pole Position:** Jackie Stewart  (1:23.200)
+- **Fastest Lap:** Jackie Stewart (Tyrrell-Ford) — 1:22.200 (Lap 57)
 - **Weather & Track Conditions:** Heavy rain, standing puddles, persistent drizzle; 18°C ambient  
-- **Spectator Attendance:** 45,000 soaked spectators lining harbour balconies and cliffs  
 - **Grandstand & Infrastructure:** Quai Albert 1er grandstands and Casino square terraces  
 
 ### Race Anomalies, Incidents & Key Events
@@ -53,8 +53,15 @@ Jackie Stewart's second Monaco Grand Prix victory. Ronnie Peterson firmly establ
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 45,000 estimated spectators lining the harbor, grandstands, and balconies (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1971/3/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1971 Round 3 Results](https://www.formula1.com/en/results.html/1971/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1971 Round 3 Results](https://www.formula1.com/en/results/1971/races/293/monaco/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

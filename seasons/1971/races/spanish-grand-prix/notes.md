@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jackie Stewart (Tyrrell) — 1:49:03.400  
-- **Pole Position:** Jacky Ickx  
+- **Pole Position:** Jacky Ickx  (1:25.900)
+- **Fastest Lap:** Jacky Ickx (Ferrari) — 1:25.100 (Lap 69)
 - **Weather & Track Conditions:** Warm, sunny, dry; 24°C ambient  
-- **Spectator Attendance:** 60,000 spectators lining the parkland street circuit  
 - **Grandstand & Infrastructure:** Estadi Olímpic terraces, Miramar grandstands, and Teatre Grec spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -57,8 +57,15 @@ First Formula One World Championship victory for the Tyrrell 003 chassis, which 
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 60,000 spectators in the Montjuïc Park grandstands (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1971/2/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1971 Round 2 Results](https://www.formula1.com/en/results.html/1971/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1971 Round 2 Results](https://www.formula1.com/en/results/1971/races/292/spain/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

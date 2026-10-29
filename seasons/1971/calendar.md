@@ -8,14 +8,14 @@ The season also featured the **closest finish in Formula One World Championship 
 
 | Round | Official Grand Prix Name | Circuit | Location | Date | Laps | Distance | Winner | Pole Position | Fastest Lap |
 |:---:|:---|:---|:---|:---|:---:|:---:|:---|:---|:---|
-| 1 | 5th AA Grand Prix of South Africa | Kyalami Grand Prix Circuit | Midrand, Gauteng, South Africa | 1971-03-06 | 79 | 324.216 km | Mario Andretti | Jackie Stewart | Verified in dossier |
-| 2 | XVII Gran Premio de España | Montjuïc Circuit | Barcelona, Catalonia, Spain | 1971-04-18 | 75 | 284.325 km | Jackie Stewart | Jacky Ickx | Verified in dossier |
-| 3 | XXIX Grand Prix de Monaco | Circuit de Monaco | Monte Carlo, Principality of Monaco | 1971-05-23 | 80 | 251.600 km | Jackie Stewart | Jackie Stewart | Verified in dossier |
-| 4 | XX Grote Prijs van Nederland | Circuit Park Zandvoort | Zandvoort, North Holland, Netherlands | 1971-06-20 | 70 | 293.720 km | Jacky Ickx | Jacky Ickx | Verified in dossier |
-| 5 | 57e Grand Prix de France | Circuit Paul Ricard | Le Castellet, Var, Provence, France | 1971-07-04 | 55 | 319.550 km | Jackie Stewart | Jackie Stewart | Verified in dossier |
-| 6 | 24th RAC British Grand Prix | Silverstone Circuit | Silverstone, Northamptonshire, United Kingdom | 1971-07-17 | 68 | 320.348 km | Jackie Stewart | Clay Regazzoni | Verified in dossier |
-| 7 | XXXIII Grosser Preis von Deutschland | Nürburgring Nordschleife | Nürburg, Rhineland-Palatinate, West Germany | 1971-08-01 | 12 | 274.020 km | Jackie Stewart | Jackie Stewart | Verified in dossier |
-| 8 | IX Grosser Preis von Österreich | Österreichring | Zeltweg / Spielberg, Styria, Austria | 1971-08-15 | 54 | 319.194 km | Jo Siffert | Jo Siffert | Verified in dossier |
-| 9 | 42° Gran Premio d'Italia | Autodromo Nazionale di Monza | Monza, Lombardy, Italy | 1971-09-05 | 55 | 316.250 km | Peter Gethin | Chris Amon | Verified in dossier |
-| 10 | 11th Player's Grand Prix du Canada | Mosport Park | Bowmanville, Ontario, Canada | 1971-09-19 | 64 | 253.248 km | Jackie Stewart | Jackie Stewart | Verified in dossier |
-| 11 | XIV United States Grand Prix | Watkins Glen Grand Prix Race Course | Watkins Glen, Schuyler County, New York, United States | 1971-10-03 | 59 | 320.665 km | François Cevert | Jackie Stewart | Verified in dossier |
+| 1 | 5th AA Grand Prix of South Africa | Kyalami Grand Prix Circuit | Midrand, Gauteng, South Africa | 1971-03-06 | 79 | 324.216 km | Mario Andretti | Jackie Stewart (1:17.800) | Mario Andretti (1:20.300) |
+| 2 | XVII Gran Premio de España | Montjuïc Circuit | Barcelona, Catalonia, Spain | 1971-04-18 | 75 | 284.325 km | Jackie Stewart | Jacky Ickx (1:25.900) | Jacky Ickx (1:25.100) |
+| 3 | XXIX Grand Prix de Monaco | Circuit de Monaco | Monte Carlo, Principality of Monaco | 1971-05-23 | 80 | 251.600 km | Jackie Stewart | Jackie Stewart (1:23.200) | Jackie Stewart (1:22.200) |
+| 4 | XX Grote Prijs van Nederland | Circuit Park Zandvoort | Zandvoort, North Holland, Netherlands | 1971-06-20 | 70 | 293.720 km | Jacky Ickx | Jacky Ickx (1:17.420) | Jacky Ickx (1:34.950) |
+| 5 | 57e Grand Prix de France | Circuit Paul Ricard | Le Castellet, Var, Provence, France | 1971-07-04 | 55 | 319.550 km | Jackie Stewart | Jackie Stewart (1:50.710) | Jackie Stewart (1:54.090) |
+| 6 | 24th RAC British Grand Prix | Silverstone Circuit | Silverstone, Northamptonshire, United Kingdom | 1971-07-17 | 68 | 320.348 km | Jackie Stewart | Clay Regazzoni (1:18.100) | Jackie Stewart (1:19.900) |
+| 7 | XXXIII Grosser Preis von Deutschland | Nürburgring Nordschleife | Nürburg, Rhineland-Palatinate, West Germany | 1971-08-01 | 12 | 274.020 km | Jackie Stewart | Jackie Stewart (7:19.000) | François Cevert (7:20.100) |
+| 8 | IX Grosser Preis von Österreich | Österreichring | Zeltweg / Spielberg, Styria, Austria | 1971-08-15 | 54 | 319.194 km | Jo Siffert | Jo Siffert (1:37.440) | Jo Siffert (1:38.470) |
+| 9 | 42° Gran Premio d'Italia | Autodromo Nazionale di Monza | Monza, Lombardy, Italy | 1971-09-05 | 55 | 316.250 km | Peter Gethin | Chris Amon (1:22.400) | Henri Pescarolo (1:23.800) |
+| 10 | 11th Player's Grand Prix du Canada | Mosport Park | Bowmanville, Ontario, Canada | 1971-09-19 | 64 | 253.248 km | Jackie Stewart | Jackie Stewart (1:15.300) | Denny Hulme (1:43.500) |
+| 11 | XIV United States Grand Prix | Watkins Glen Grand Prix Race Course | Watkins Glen, Schuyler County, New York, United States | 1971-10-03 | 59 | 320.665 km | François Cevert | Jackie Stewart (1:42.642) | Jacky Ickx (1:43.474) |

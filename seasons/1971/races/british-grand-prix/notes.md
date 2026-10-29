@@ -14,13 +14,13 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jackie Stewart (Tyrrell) — 1:31:31.500  
-- **Pole Position:** Clay Regazzoni  
+- **Pole Position:** Clay Regazzoni  (1:18.100)
+- **Fastest Lap:** Jackie Stewart (Tyrrell-Ford) — 1:19.900 (Lap 45)
 - **Weather & Track Conditions:** Warm, sunny, dry; 26°C ambient  
-- **Spectator Attendance:** 110,000 spectators packed around the perimeter  
 - **Grandstand & Infrastructure:** BRDC grandstands at Woodcote, Copse, and Abbey; crowded infield  
 
 ### Race Anomalies, Incidents & Key Events
-STEWART CRUSHES THE FIELD: Clay Regazzoni took pole for Ferrari, but Jackie Stewart swept into the lead at the start in the Tyrrell 003. Stewart produced a crushing display of dominant driving, pulling away to win by 36.1 seconds over Ronnie Peterson's March 711. Emerson Fittipaldi took 3rd for Lotus. Stewart's 4th victory in 6 races gave him 42 points—more than double any rival.
+STEWART CRUSHES THE FIELD: Clay Regazzoni took pole for Ferrari, but Jackie Stewart swept into the lead at the start in the Tyrrell 003. Stewart produced a crushing display of dominant driving, pulling away to win by 36.1 seconds over Ronnie Peterson's March 711. Emerson Fittipaldi took 3rd for Lotus. Stewart's 4th victory in 6 races gave him 42° points—more than double any rival.
 
 ### Historical & Regulatory Context
 Jackie Stewart's 16th career victory moved him into 3rd on the all-time wins list behind Jim Clark and Juan Manuel Fangio.
@@ -59,8 +59,15 @@ Jackie Stewart's 16th career victory moved him into 3rd on the all-time wins lis
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 110,000 spectators lining Silverstone Circuit (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1971/6/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1971 Round 6 Results](https://www.formula1.com/en/results.html/1971/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1971 Round 6 Results](https://www.formula1.com/en/results/1971/races/296/great-britain/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

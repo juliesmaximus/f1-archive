@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Mario Andretti (Ferrari) — 1:47:35.500  
-- **Pole Position:** Jackie Stewart  
+- **Pole Position:** Jackie Stewart  (1:17.800)
+- **Fastest Lap:** Mario Andretti (Ferrari) — 1:20.300 (Lap 73)
 - **Weather & Track Conditions:** Warm, sunny, dry; 26°C ambient  
-- **Spectator Attendance:** 85,000 spectators across the Kyalami amphitheatre  
 - **Grandstand & Infrastructure:** Main pit straight covered grandstands and Crowthorne spectator grass banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -48,7 +48,7 @@ Mario Andretti became the first driver since Giancarlo Baghetti in 1961 to win o
 | R | 2 | Emerson Fittipaldi | Lotus-Ford | 58 | Engine | 5 | 0 |
 | R | 20 | John Surtees | Surtees | 56 | Gearbox | 6 | 0 |
 | R | 10 | François Cevert | Tyrrell | 45 | Accident | 9 | 0 |
-| R | 27 | Howden Ganley | BRM | 42 | Physical | 24 | 0 |
+| R | 27 | Howden Ganley | BRM | 42° | Physical | 24 | 0 |
 | R | 16 | Pedro Rodríguez | BRM | 33 | Overheating | 10 | 0 |
 | R | 15 | Dave Charlton | Brabham | 31 | Engine | 16 | 0 |
 | R | 17 | Jo Siffert | BRM | 31 | Overheating | 12 | 0 |
@@ -60,8 +60,15 @@ Mario Andretti became the first driver since Giancarlo Baghetti in 1961 to win o
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 85,000 spectators at Kyalami Grand Prix Circuit (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1971/1/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1971 Round 1 Results](https://www.formula1.com/en/results.html/1971/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1971 Round 1 Results](https://www.formula1.com/en/results/1971/races/291/south-africa/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

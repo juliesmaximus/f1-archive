@@ -1,4 +1,4 @@
-# 42° Gran Premio d'Italia - Race Dossier & Verification Notes
+# 42°° Gran Premio d'Italia - Race Dossier & Verification Notes
 
 **Round:** 9 of 11  
 **Date:** 1971-09-05  
@@ -7,20 +7,20 @@
 **Track Length:** 5.75 km (3.573 miles)  
 **Altitude:** 162 m (Royal Villa park)  
 **Scheduled Distance:** 55 laps (316.250 km)  
-**Official Race Title:** 42° Gran Premio d'Italia  
+**Official Race Title:** 42°° Gran Premio d'Italia  
 
 ---
 
 ## Race Summary & Key Scenarios
 
 - **Winner:** Peter Gethin (BRM) — 1:18:12.600  
-- **Pole Position:** Chris Amon  
+- **Pole Position:** Chris Amon  (1:22.400)
+- **Fastest Lap:** Henri Pescarolo (March-Ford) — 1:23.800 (Lap 9)
 - **Weather & Track Conditions:** Warm, sunny, dry; 27°C ambient  
-- **Spectator Attendance:** 115,000 spectators filling the royal park  
 - **Grandstand & Infrastructure:** Tribuna Centrale, Vedano, Ascari, and Parabolica spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
-THE CLOSEST FINISH IN FORMULA ONE HISTORY: Chris Amon took pole in the Matra V12, but lost his visor during the race. Over 55 laps, a pack of up to eight cars slipstreamed each other at 150+ mph with official lead changes on almost every lap. On the final lap, five cars exited the Curva Parabolica separated by inches. British driver Peter Gethin in the BRM P160 won by 0.01 SECONDS over Ronnie Peterson (March 711), with François Cevert (Tyrrell) 0.09s behind in 3rd, Mike Hailwood (Surtees) 0.18s behind in 4th, and Howden Ganley (BRM) 0.61s behind in 5th! The top 5 cars crossed the line in a 0.61-second blanket! Gethin's average race speed was 150.75 mph (242.615 km/h)—the FASTEST GRAND PRIX IN FORMULA ONE HISTORY, a record that stood for 32 years until Michael Schumacher won Monza in 2003!
+THE CLOSEST FINISH IN FORMULA ONE HISTORY: Chris Amon took pole in the Matra V12, but lost his visor during the race. Over 55 laps, a pack of up to eight cars slipstreamed each other at 150+ mph with official lead changes on almost every lap. On the final lap, five cars exited the Curva Parabolica separated by inches. British driver Peter Gethin in the BRM P160 won by 0.01 SECONDS over Ronnie Peterson (March 711), with François Cevert (Tyrrell) 0.09s behind in 3rd, Mike Hailwood (Surtees) 0.18s behind in 4th, and Howden Ganley (BRM) 0.61s behind in 5th! The top 5 cars crossed the line in a 0.61-second blanket! Gethin's average race speed was 150.75 mph (242°.615 km/h)—the FASTEST GRAND PRIX IN FORMULA ONE HISTORY, a record that stood for 32 years until Michael Schumacher won Monza in 2003!
 
 ### Historical & Regulatory Context
 Peter Gethin's sole career Grand Prix victory. The race prompted organizers to install permanent chicanes at the Curva Grande and Variante Ascari for 1972 to break the extreme slipstream packs.
@@ -59,8 +59,15 @@ Peter Gethin's sole career Grand Prix victory. The race prompted organizers to i
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 115,000 tifosi packing the Autodromo Nazionale di Monza (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1971/9/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1971 Round 9 Results](https://www.formula1.com/en/results.html/1971/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1971 Round 9 Results](https://www.formula1.com/en/results/1971/races/299/italy/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

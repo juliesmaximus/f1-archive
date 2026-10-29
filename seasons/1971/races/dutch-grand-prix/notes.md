@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jacky Ickx (Ferrari) — 1:56  
-- **Pole Position:** Jacky Ickx  
+- **Winner:** Jacky Ickx (Ferrari) — 1:56:20.090  
+- **Pole Position:** Jacky Ickx  (1:17.420)
+- **Fastest Lap:** Jacky Ickx (Ferrari) — 1:34.950 (Lap 49)
 - **Weather & Track Conditions:** Relentless torrential rain, thick spray, standing water, and gale-force coastal winds  
-- **Spectator Attendance:** 55,000 soaked spectators enduring the dunes  
 - **Grandstand & Infrastructure:** Covered main pit straight grandstand and Tarzan hairpin dunes  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ Tragically, this proved to be the final Grand Prix for Mexican hero Pedro Rodrí
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 2 | Jacky Ickx | Ferrari | 70 | 1:56 | 1 | 9 |
+| 1 | 2 | Jacky Ickx | Ferrari | 70 | 1:56:20.090 | 1 | 9 |
 | 2 | 8 | Pedro Rodríguez | BRM | 70 | +7.990 | 2 | 6 |
 | 3 | 3 | Clay Regazzoni | Ferrari | 69 | +1 Lap | 4 | 4 |
 | 4 | 16 | Ronnie Peterson | March-Ford | 68 | +2 Laps | 13 | 3 |
@@ -58,8 +58,15 @@ Tragically, this proved to be the final Grand Prix for Mexican hero Pedro Rodrí
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 65,000 spectators on the coastal dunes and main grandstand (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1971/4/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1971 Round 4 Results](https://www.formula1.com/en/results.html/1971/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1971 Round 4 Results](https://www.formula1.com/en/results/1971/races/294/netherlands/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

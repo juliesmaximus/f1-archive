@@ -3,7 +3,7 @@
 **Round:** 11 of 11  
 **Date:** 1971-10-03  
 **Circuit:** Watkins Glen Grand Prix Race Course  
-**Location:** Watkins Glen, Schuyler County, New York, United States (42°20'13"N, 76°55'38"W)  
+**Location:** Watkins Glen, Schuyler County, New York, United States (42°°20'13"N, 76°55'38"W)  
 **Track Length:** 5.435 km (3.377 miles)  
 **Altitude:** 320 m (Finger Lakes hills)  
 **Scheduled Distance:** 59 laps (320.665 km)  
@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** François Cevert (Tyrrell) — 1:43:51.991  
-- **Pole Position:** Jackie Stewart  
+- **Pole Position:** Jackie Stewart  (1:42.642)
+- **Fastest Lap:** Jacky Ickx (Ferrari) — 1:43.474 (Lap 43)
 - **Weather & Track Conditions:** Crisp, sunny, cool autumn day; 15°C ambient  
-- **Spectator Attendance:** 110,000 spectators packing the Watkins Glen hills  
 - **Grandstand & Infrastructure:** New expanded pit grandstands, The Boot, and Seneca spectator knolls  
 
 ### Race Anomalies, Incidents & Key Events
@@ -37,7 +37,7 @@ François Cevert became only the second Frenchman after Maurice Trintignant to w
 | 3 | 25 | Ronnie Peterson | March-Ford | 59 | +44.070 | 11 | 4 |
 | 4 | 16 | Howden Ganley | BRM | 59 | +56.749 | 12 | 3 |
 | 5 | 8 | Jackie Stewart | Tyrrell | 59 | +1:00.003 | 1 | 2 |
-| 6 | 5 | Clay Regazzoni | Ferrari | 59 | +1:16.426 | 4 | 1 |
+| 6 | 5 | Clay Regazzoni | Ferrari | 59 | +1:16.42°6 | 4 | 1 |
 | 7 | 22 | Graham Hill | Brabham | 58 | +1 Lap | 18 | 0 |
 | 8 | 12 | Jean-Pierre Beltoise | Matra | 58 | +1 Lap | 10 | 0 |
 | 9 | 15 | Peter Gethin | BRM | 58 | +1 Lap | 21 | 0 |
@@ -64,8 +64,15 @@ François Cevert became only the second Frenchman after Maurice Trintignant to w
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 110,000 spectators throughout Watkins Glen State Park (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1971/11/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1971 Round 11 Results](https://www.formula1.com/en/results.html/1971/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1971 Round 11 Results](https://www.formula1.com/en/results/1971/races/301/united-states/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

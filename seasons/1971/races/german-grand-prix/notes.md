@@ -1,4 +1,4 @@
-# XXXIII Grosser Preis von Deutschland - Race Dossier & Verification Notes
+# XXXIII Großer Preis von Deutschland - Race Dossier & Verification Notes
 
 **Round:** 7 of 11  
 **Date:** 1971-08-01  
@@ -7,16 +7,16 @@
 **Track Length:** 22.835 km (14.189 miles)  
 **Altitude:** 620 m (Eifel mountains)  
 **Scheduled Distance:** 12 laps (274.020 km)  
-**Official Race Title:** XXXIII Grosser Preis von Deutschland  
+**Official Race Title:** XXXIII Großer Preis von Deutschland  
 
 ---
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jackie Stewart (Tyrrell) — 1:29:16.300  
-- **Pole Position:** Jackie Stewart  
+- **Winner:** Jackie Stewart (Tyrrell) — 1:29:15.700  
+- **Pole Position:** Jackie Stewart  (7:19.000)
+- **Fastest Lap:** François Cevert (Tyrrell-Ford) — 7:20.100 (Lap 10)
 - **Weather & Track Conditions:** Warm, sunny, dry; 25°C ambient, excellent visibility  
-- **Spectator Attendance:** 250,000 spectators camping across the Eifel forests  
 - **Grandstand & Infrastructure:** Start-und-Ziel grandstand, South curve, Karussell, and Brünnchen banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ Stewart and Tyrrell stood on the absolute verge of the double World Championship
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 2 | Jackie Stewart | Tyrrell | 12 | 1:29:16.300 | 1 | 9 |
+| 1 | 2 | Jackie Stewart | Tyrrell | 12 | 1:29:15.700 | 1 | 9 |
 | 2 | 3 | François Cevert | Tyrrell | 12 | +30.100 | 5 | 6 |
 | 3 | 6 | Clay Regazzoni | Ferrari | 12 | +37.100 | 4 | 4 |
 | 4 | 5 | Mario Andretti | Ferrari | 12 | +2:05.000 | 11 | 3 |
@@ -57,8 +57,15 @@ Stewart and Tyrrell stood on the absolute verge of the double World Championship
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 250,000 spectators lining the Nürburgring Nordschleife (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1971/7/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1971 Round 7 Results](https://www.formula1.com/en/results.html/1971/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1971 Round 7 Results](https://www.formula1.com/en/results/1971/races/297/germany/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

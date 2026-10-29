@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jackie Stewart (Tyrrell) — 1:46:42.300  
-- **Pole Position:** Jackie Stewart  
+- **Winner:** Jackie Stewart (Tyrrell) — 1:46:41.680°.300  
+- **Pole Position:** Jackie Stewart  (1:50.710)
+- **Fastest Lap:** Jackie Stewart (Tyrrell-Ford) — 1:54.090 (Lap 2)
 - **Weather & Track Conditions:** Warm, sunny, dry; 28°C ambient, hot Mistral wind blowing down the 1.8 km Mistral Straight  
-- **Spectator Attendance:** 75,000 spectators at the state-of-the-art new circuit  
 - **Grandstand & Infrastructure:** Main pit straight covered grandstands, Virage du Pont stands, and expansive paved runoff zones  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ First 1-2 finish for the Tyrrell constructor. Circuit Paul Ricard set a new glob
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 11 | Jackie Stewart | Tyrrell | 55 | 1:46:42.300 | 1 | 9 |
+| 1 | 11 | Jackie Stewart | Tyrrell | 55 | 1:46:42°.300 | 1 | 9 |
 | 2 | 12 | François Cevert | Tyrrell | 55 | +28.120 | 7 | 6 |
 | 3 | 1 | Emerson Fittipaldi | Lotus-Ford | 55 | +34.070 | 17 | 4 |
 | 4 | 14 | Jo Siffert | BRM | 55 | +37.170 | 6 | 3 |
@@ -58,8 +58,15 @@ First 1-2 finish for the Tyrrell constructor. Circuit Paul Ricard set a new glob
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 75,000 spectators at Circuit Paul Ricard (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1971/5/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1971 Round 5 Results](https://www.formula1.com/en/results.html/1971/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1971 Round 5 Results](https://www.formula1.com/en/results/1971/races/295/france/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

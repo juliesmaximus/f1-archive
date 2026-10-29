@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jackie Stewart (Tyrrell) — 1:55:13.100  
-- **Pole Position:** Jackie Stewart  
+- **Winner:** Jackie Stewart (Tyrrell) — 1:55:12.900  
+- **Pole Position:** Jackie Stewart  (1:15.300)
+- **Fastest Lap:** Denny Hulme (McLaren-Ford) — 1:43.500 (Lap 57)
 - **Weather & Track Conditions:** Cold, torrential rain, thick fog, treacherous standing water; 11°C ambient  
-- **Spectator Attendance:** 45,000 shivering Canadian fans  
 - **Grandstand & Infrastructure:** Paddock grandstand, Corner 2 spectator banks, and Moss Corner infield  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ Jackie Stewart's 6th victory of the season and Mark Donohue's debut podium for R
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 11 | Jackie Stewart | Tyrrell | 64 | 1:55:13.100 | 1 | 9 |
+| 1 | 11 | Jackie Stewart | Tyrrell | 64 | 1:55:12.900 | 1 | 9 |
 | 2 | 17 | Ronnie Peterson | March-Ford | 64 | +38.300 | 6 | 6 |
 | 3 | 10 | Mark Donohue | McLaren | 64 | +1:35.800 | 8 | 4 |
 | 4 | 9 | Denny Hulme | McLaren | 63 | +1 Lap | 10 | 3 |
@@ -60,8 +60,15 @@ Jackie Stewart's 6th victory of the season and Mark Donohue's debut podium for R
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 50,000 spectators at Mosport Park (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1971/10/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1971 Round 10 Results](https://www.formula1.com/en/results.html/1971/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1971 Round 10 Results](https://www.formula1.com/en/results/1971/races/300/canada/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

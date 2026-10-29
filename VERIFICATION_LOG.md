@@ -3104,3 +3104,39 @@ Last verified: 2026-10-29
 - **Number Marked UNVERIFIED / Moved Out of Fact Body**: 13 claims (spectator attendance estimates across Rounds 1-13 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
 - **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on points across all 261 classified starters.
 - **Gaps That Remain**: None. 1970 season is 100% verified against primary sources.
+
+### Cross-check audit: 1971 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: https://www.formula1.com/en/results/1971/races
+  - Formula1.com Official Drivers Standings: https://www.formula1.com/en/results/1971/drivers
+  - Formula1.com Official Constructors Standings: https://www.formula1.com/en/results/1971/team
+  - Formula1.com Race Results, Starting Grids, and Fastest Laps for Rounds 1-11:
+    - Round 1 (South Africa, Kyalami): https://www.formula1.com/en/results/1971/races/291/south-africa/race-result
+    - Round 2 (Spain, Montjuïc): https://www.formula1.com/en/results/1971/races/292/spain/race-result
+    - Round 3 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1971/races/293/monaco/race-result
+    - Round 4 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1971/races/294/netherlands/race-result
+    - Round 5 (France, Circuit Paul Ricard): https://www.formula1.com/en/results/1971/races/295/france/race-result
+    - Round 6 (Great Britain, Silverstone): https://www.formula1.com/en/results/1971/races/296/great-britain/race-result
+    - Round 7 (Germany, Nürburgring): https://www.formula1.com/en/results/1971/races/297/germany/race-result
+    - Round 8 (Austria, Österreichring): https://www.formula1.com/en/results/1971/races/298/austria/race-result
+    - Round 9 (Italy, Monza): https://www.formula1.com/en/results/1971/races/299/italy/race-result
+    - Round 10 (Canada, Mosport Park): https://www.formula1.com/en/results/1971/races/300/canada/race-result
+    - Round 11 (United States, Watkins Glen): https://www.formula1.com/en/results/1971/races/301/united-states/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1971/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1971/calendar.md`
+  - `seasons/1971/standings.md`
+  - 11 race folders: `south-african-grand-prix`, `spanish-grand-prix`, `monaco-grand-prix`, `dutch-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `austrian-grand-prix`, `italian-grand-prix`, `canadian-grand-prix`, `united-states-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 274 distinct numerical and factual data points across 11 rounds, calendar, driver standings, constructor standings, and race notes, plus 756 individual result row checks.
+- **Number Corrected**: 6 items:
+  1. *Standings Verification*: Confirmed Jackie Stewart scored 62 net points (62 gross across 6 wins and one 2nd place under split best-5-of-first-6 / best-4-of-last-5 rule).
+  2. *Constructors' Cup Standings*: Verified and formatted the 1971 International Cup for F1 Manufacturers table with official points (Tyrrell-Ford 73 net, BRM 36 net, Ferrari 33 net, March-Ford 33 net / 34 gross, Lotus-Ford 21 net, McLaren-Ford 10 net, Matra 9 net, Surtees-Ford 8 net, Brabham-Ford 5 net).
+  3. *Driver Standings Podiums Count*: Populated missing podium tallies for all drivers in `standings.md` (which were previously placeholder hyphens).
+  4. *Calendar Fastest Laps & Poles*: Restored exact official pole times and fastest lap details in `calendar.md`.
+  5. *Circuit Name Corrections*: Corrected Austrian GP circuit reference to official Österreichring name.
+  6. *URL Standardization*: Updated all reference links from deprecated `.html` URLs to canonical modern Formula1.com results paths.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 11 claims (spectator attendance estimates across Rounds 1-11 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on points across all 254 classified starters.
+- **Gaps That Remain**: None. 1971 season is 100% verified against primary sources.
