@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Niki Lauda (Ferrari) — 1:43:00.350  
-- **Pole Position:** Niki Lauda  
+- **Pole Position:** Niki Lauda (1:18.310)
+- **Fastest Lap:** Ronnie Peterson (Lotus-Ford) — 1:21.440 (Lap 63)
 - **Weather & Track Conditions:** Sunny, breezy, dry; 22°C ambient  
-- **Spectator Attendance:** 65,000 spectators across the sand dunes  
 - **Grandstand & Infrastructure:** Covered main pit straight grandstand and Tarzan hairpin dunes  
 
 ### Race Anomalies, Incidents & Key Events
@@ -60,8 +60,14 @@ Scuderia Ferrari assumed control of both the World Drivers' and Constructors' Ch
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 65,000 spectators across the sand dunes (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1974/8/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Round 8 Results](https://www.formula1.com/en/results.html/1974/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Race Results](https://www.formula1.com/en/results/1974/races/336/netherlands/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

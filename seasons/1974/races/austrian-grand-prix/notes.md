@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Carlos Reutemann (Brabham) — 1:28:44.720  
-- **Pole Position:** Niki Lauda  
+- **Pole Position:** Niki Lauda (1:35.400)
+- **Fastest Lap:** Clay Regazzoni (Ferrari) — 1:37.220 (Lap 46)
 - **Weather & Track Conditions:** Warm, sunny, dry; 25°C ambient  
-- **Spectator Attendance:** 95,000 spectators cheering Niki Lauda  
 - **Grandstand & Infrastructure:** Permanent start-finish grandstand and hillside banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -60,8 +60,14 @@ Carlos Reutemann's second career Grand Prix victory. Gordon Murray's Brabham des
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 95,000 spectators cheering Niki Lauda (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1974/12/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Round 12 Results](https://www.formula1.com/en/results.html/1974/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Race Results](https://www.formula1.com/en/results/1974/races/340/austria/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

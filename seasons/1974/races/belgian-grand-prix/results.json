@@ -274,7 +274,7 @@
               },
               "Constructor": {
                 "constructorId": "trojan",
-                "url": "https://en.wikipedia.org/wiki/Trojan\u2013Tauranac_Racing",
+                "url": "https://en.wikipedia.org/wiki/Trojan–Tauranac_Racing",
                 "name": "Trojan",
                 "nationality": "British"
               },
@@ -405,7 +405,7 @@
               "Driver": {
                 "driverId": "migault",
                 "url": "http://en.wikipedia.org/wiki/Fran%C3%A7ois_Migault",
-                "givenName": "Fran\u00e7ois",
+                "givenName": "François",
                 "familyName": "Migault",
                 "dateOfBirth": "1944-12-04",
                 "nationality": "French"
@@ -612,7 +612,7 @@
               "Driver": {
                 "driverId": "larrousse",
                 "url": "http://en.wikipedia.org/wiki/G%C3%A9rard_Larrousse",
-                "givenName": "G\u00e9rard",
+                "givenName": "Gérard",
                 "familyName": "Larrousse",
                 "dateOfBirth": "1940-05-23",
                 "nationality": "French"
@@ -741,6 +741,29 @@
               "grid": "15",
               "laps": "12",
               "status": "Collision"
+            },
+            {
+              "number": "9",
+              "position": "31",
+              "positionText": "R",
+              "points": "0",
+              "Driver": {
+                "driverId": "stuck",
+                "url": "http://en.wikipedia.org/wiki/Hans-Joachim_Stuck",
+                "givenName": "Hans-Joachim",
+                "familyName": "Stuck",
+                "dateOfBirth": "1951-01-01",
+                "nationality": "German"
+              },
+              "Constructor": {
+                "constructorId": "march",
+                "url": "http://en.wikipedia.org/wiki/March_Engineering",
+                "name": "March",
+                "nationality": "British"
+              },
+              "grid": "10",
+              "laps": "6",
+              "status": "Clutch"
             }
           ]
         }

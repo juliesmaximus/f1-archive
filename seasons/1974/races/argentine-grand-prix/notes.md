@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Denny Hulme (McLaren) — 1:41:02.010  
-- **Pole Position:** Ronnie Peterson  
+- **Pole Position:** Ronnie Peterson (1:50.780)
+- **Fastest Lap:** Clay Regazzoni (Ferrari) — 1:52.100 (Lap 38)
 - **Weather & Track Conditions:** Scorching summer heat; 32°C ambient, track temperature 48°C  
-- **Spectator Attendance:** 85,000 spectators packing the municipal amphitheatre  
 - **Grandstand & Infrastructure:** Permanent concrete stadium grandstands along the Curva del Ciervo and pit straight  
 
 ### Race Anomalies, Incidents & Key Events
@@ -60,8 +60,14 @@ Denny Hulme's final Formula One victory. Niki Lauda announced his arrival as a f
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 85,000 spectators packing the municipal amphitheatre (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1974/1/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Round 1 Results](https://www.formula1.com/en/results.html/1974/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Race Results](https://www.formula1.com/en/results/1974/races/329/argentina/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

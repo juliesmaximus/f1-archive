@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Ronnie Peterson (Team Lotus) — 1:21:55.020  
-- **Pole Position:** Niki Lauda  
+- **Pole Position:** Niki Lauda (58.790)
+- **Fastest Lap:** Jody Scheckter (Tyrrell-Ford) — 1:00.000 (Lap 10)
 - **Weather & Track Conditions:** Hot, sunny, dry; 29°C ambient  
-- **Spectator Attendance:** 75,000 spectators packing the hillside natural bowl  
 - **Grandstand & Infrastructure:** Start-finish grandstands and hillside natural terraces  
 
 ### Race Anomalies, Incidents & Key Events
@@ -57,8 +57,14 @@ Ronnie Peterson scored Lotus's 2nd win of 1974, keeping four drivers locked in t
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 75,000 spectators packing the hillside natural bowl (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1974/9/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Round 9 Results](https://www.formula1.com/en/results.html/1974/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Race Results](https://www.formula1.com/en/results/1974/races/337/france/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Niki Lauda (Ferrari) — 2:00:29.560  
-- **Pole Position:** Niki Lauda  
+- **Pole Position:** Niki Lauda (1:18.440)
+- **Fastest Lap:** Niki Lauda (Ferrari) — 1:20.830 (Lap 47)
 - **Weather & Track Conditions:** Cold rain at the start, drying track in the second half; 16°C ambient  
-- **Spectator Attendance:** 60,000 spectators across the Jarama hillsides  
 - **Grandstand & Infrastructure:** Main pit grandstands, Pegaso curve terraces, and Farina hillsides  
 
 ### Race Anomalies, Incidents & Key Events
@@ -60,8 +60,14 @@ The first career Grand Prix victory for Austrian legend Niki Lauda, launching Fe
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 60,000 spectators across the Jarama hillsides (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1974/4/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Round 4 Results](https://www.formula1.com/en/results.html/1974/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Race Results](https://www.formula1.com/en/results/1974/races/332/spain/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

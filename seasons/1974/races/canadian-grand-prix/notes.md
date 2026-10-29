@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Emerson Fittipaldi (McLaren) — 1:40:26.136  
-- **Pole Position:** Emerson Fittipaldi  
+- **Pole Position:** Emerson Fittipaldi (1:13.188)
+- **Fastest Lap:** Niki Lauda (Ferrari) — 1:13.659 (Lap 60)
 - **Weather & Track Conditions:** Cool, bright, sunny autumn weather; 17°C ambient  
-- **Spectator Attendance:** 60,000 Canadian spectators lining the Mosport banks  
 - **Grandstand & Infrastructure:** Paddock grandstand, Corner 2 hillside banks, and Moss Corner infield  
 
 ### Race Anomalies, Incidents & Key Events
@@ -61,8 +61,14 @@ Created one of the most electric, evenly poised championship showdowns in Formul
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 60,000 Canadian spectators lining the Mosport banks (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1974/14/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Round 14 Results](https://www.formula1.com/en/results.html/1974/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Race Results](https://www.formula1.com/en/results/1974/races/342/canada/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

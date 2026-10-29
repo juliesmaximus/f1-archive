@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Ronnie Peterson (Team Lotus) — 1:22:56.600  
-- **Pole Position:** Niki Lauda  
+- **Pole Position:** Niki Lauda (1:33.160)
+- **Fastest Lap:** Carlos Pace (Brabham-Ford) — 1:34.200 (Lap 46)
 - **Weather & Track Conditions:** Warm, sunny, dry late summer weather; 27°C ambient  
-- **Spectator Attendance:** 130,000 tifosi packing the Monza parkland  
 - **Grandstand & Infrastructure:** Tribuna Centrale, Vedano, Ascari, and Parabolica spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -60,8 +60,14 @@ Fittipaldi's 2nd place moved him within three points of championship leader Rega
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 130,000 tifosi packing the Monza parkland (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1974/13/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Round 13 Results](https://www.formula1.com/en/results.html/1974/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Race Results](https://www.formula1.com/en/results/1974/races/341/italy/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

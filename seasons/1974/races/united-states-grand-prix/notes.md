@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Carlos Reutemann (Brabham) — 1:40:21.439  
-- **Pole Position:** Carlos Reutemann  
+- **Pole Position:** Carlos Reutemann (1:38.978)
+- **Fastest Lap:** Carlos Pace (Brabham-Ford) — 1:40.608 (Lap 54)
 - **Weather & Track Conditions:** Crisp, sunny, cool autumn day; 13°C ambient  
-- **Spectator Attendance:** 115,000 spectators packing the Watkins Glen hills  
 - **Grandstand & Infrastructure:** Kendall main grandstand, The Boot, and Seneca spectator knolls  
 
 ### Race Anomalies, Incidents & Key Events
@@ -62,8 +62,14 @@ Emerson Fittipaldi became a double World Champion at age 27. McLaren celebrated 
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 115,000 spectators packing the Watkins Glen hills (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1974/15/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Round 15 Results](https://www.formula1.com/en/results.html/1974/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Race Results](https://www.formula1.com/en/results/1974/races/343/united-states/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

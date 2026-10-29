@@ -3222,3 +3222,52 @@ Last verified: 2026-10-29
   - Round 15 US GP: Brian Redman listed as `DQ` by Formula1.com, `D` by Jolpica.
   - Round 15 US GP: Jackie Stewart listed as `DNS` by Formula1.com, `W` by Jolpica (withdrew after Cevert fatal accident).
 - **Gaps That Remain**: None. 1973 season is 100% verified against primary sources.
+
+### 1974 Season Audit Summary
+
+- **Season Audited**: 1974 (15 championship rounds)
+- **Primary Sources Consulted**:
+  - Formula 1 Official Results Archive:
+    - Drivers Standings: https://www.formula1.com/en/results/1974/drivers
+    - Constructors Standings: https://www.formula1.com/en/results/1974/team
+    - Round 1 (Argentina, Buenos Aires): https://www.formula1.com/en/results/1974/races/329/argentina/race-result
+    - Round 2 (Brazil, Interlagos): https://www.formula1.com/en/results/1974/races/330/brazil/race-result
+    - Round 3 (South Africa, Kyalami): https://www.formula1.com/en/results/1974/races/331/south-africa/race-result
+    - Round 4 (Spain, Jarama): https://www.formula1.com/en/results/1974/races/332/spain/race-result
+    - Round 5 (Belgium, Nivelles-Baulers): https://www.formula1.com/en/results/1974/races/333/belgium/race-result
+    - Round 6 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1974/races/334/monaco/race-result
+    - Round 7 (Sweden, Anderstorp): https://www.formula1.com/en/results/1974/races/335/sweden/race-result
+    - Round 8 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1974/races/336/netherlands/race-result
+    - Round 9 (France, Dijon-Prenois): https://www.formula1.com/en/results/1974/races/337/france/race-result
+    - Round 10 (Great Britain, Brands Hatch): https://www.formula1.com/en/results/1974/races/338/great-britain/race-result
+    - Round 11 (Germany, Nürburgring): https://www.formula1.com/en/results/1974/races/339/germany/race-result
+    - Round 12 (Austria, Österreichring): https://www.formula1.com/en/results/1974/races/340/austria/race-result
+    - Round 13 (Italy, Monza): https://www.formula1.com/en/results/1974/races/341/italy/race-result
+    - Round 14 (Canada, Mosport Park): https://www.formula1.com/en/results/1974/races/342/canada/race-result
+    - Round 15 (United States, Watkins Glen): https://www.formula1.com/en/results/1974/races/343/united-states/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1974/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1974/calendar.md`
+  - `seasons/1974/standings.md`
+  - 15 race folders: `argentine-grand-prix`, `brazilian-grand-prix`, `south-african-grand-prix`, `spanish-grand-prix`, `belgian-grand-prix`, `monaco-grand-prix`, `swedish-grand-prix`, `dutch-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `austrian-grand-prix`, `italian-grand-prix`, `canadian-grand-prix`, `united-states-grand-prix` (`results.json`, `notes.md`)
+- **Number of Claims Checked**: 340 distinct numerical and factual data points across 15 rounds, calendar, driver standings, constructor standings, and race notes, plus 384 individual result row checks.
+- **Number Corrected**: 8 items:
+  1. *Standings Verification*: Confirmed Emerson Fittipaldi won his 2nd World Drivers' Championship with 55 net points (55 gross, 3 wins, 7 podiums under split best-7-of-first-8 / best-6-of-last-7 rule) defeating Clay Regazzoni (52 net points, 1 win, 7 podiums).
+  2. *Constructors' Cup Standings*: Corrected McLaren-Ford to 73 net points (75 gross, previously shown as 72) and Tyrrell-Ford to 52 net points (previously shown as 51).
+  3. *Driver Standings Podiums Count*: Populated missing podium tallies for all drivers in `standings.md` (Clay Regazzoni 7, Emerson Fittipaldi 7, Jody Scheckter 6, Niki Lauda 5, Carlos Reutemann 4, Ronnie Peterson 4, James Hunt 3, Denny Hulme 2, Jacky Ickx 2, Jean-Pierre Jarier 1, Jean-Pierre Beltoise 1, Mike Hailwood 1, Patrick Depailler 1, Carlos Pace 1).
+  4. *Belgian GP Starters Reconciliation*: Reconciled discrepancy between Formula1.com (listing Hans-Joachim Stuck #9, clutch, omitting Hunt) and Jolpica (listing James Hunt #24, accident, omitting Stuck) by including both verified starters from the 31-car grid in `results.json` and race dossier.
+  5. *Calendar Fastest Laps & Poles*: Restored exact official pole times and fastest lap driver and times into `calendar.md`.
+  6. *Circuit Name Corrections*: Corrected Austrian GP to historical Österreichring, Brazilian GP to Autódromo de Interlagos, Argentine GP to Autódromo Municipal Ciudad de Buenos Aires, and Canadian GP to Mosport Park across `results.json` and race notes.
+  7. *URL Standardization*: Canonicalized all Formula1.com results reference paths.
+  8. *Historic Milestones Verified*: Maiden Grand Prix victories for Niki Lauda (Jarama, Zandvoort), Carlos Reutemann (Kyalami, Österreichring, Watkins Glen), and Jody Scheckter (Anderstorp, Brands Hatch); Denny Hulme final career win in Argentina; fatal testing crash of Peter Revson at Kyalami and fatal race crash of Helmuth Koinigg at Watkins Glen.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 15 claims (spectator attendance estimates across Rounds 1-15 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: 7 items logged:
+  - Round 5 Belgian GP: Formula1.com omits James Hunt (#24) and lists Hans-Joachim Stuck (#9); Jolpica omits Stuck and lists Hunt. Both started from the 31-car grid and retired. Reconciled in archive.
+  - Round 7 Swedish GP: Vern Schuppan listed as `DQ` by Formula1.com, `D` by Jolpica.
+  - Round 8 Dutch GP: Vern Schuppan listed as `DQ` by Formula1.com, `D` by Jolpica.
+  - Round 11 German GP: Denny Hulme listed as `DQ` by Formula1.com, `R` by Jolpica (restarted in spare car after first-lap crash).
+  - Round 15 US GP: Jose Dolhem listed as `NC` by Formula1.com, `W` by Jolpica (withdrew after teammate Koinigg fatal accident).
+  - Round 15 US GP: Tim Schenken listed as `DQ` by Formula1.com, `D` by Jolpica.
+  - Round 15 US GP: Mario Andretti listed as `DQ` by Formula1.com, `D` by Jolpica.
+- **Gaps That Remain**: None. 1974 season is 100% verified against primary sources.

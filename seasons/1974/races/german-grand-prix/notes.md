@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Clay Regazzoni (Ferrari) — 1:41  
-- **Pole Position:** Niki Lauda  
+- **Pole Position:** Niki Lauda (7:00.800)
+- **Fastest Lap:** Jody Scheckter (Tyrrell-Ford) — 7:11.100 (Lap 11)
 - **Weather & Track Conditions:** Warm, clear, dry; 26°C ambient, excellent visibility  
-- **Spectator Attendance:** 240,000 spectators across the 14-mile circuit  
 - **Grandstand & Infrastructure:** Start-und-Ziel tribüne, Karussell, and Brünnchen spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -61,8 +61,14 @@ Clay Regazzoni took sole possession of the World Drivers' Championship lead with
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 240,000 spectators across the 14-mile circuit (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1974/11/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Round 11 Results](https://www.formula1.com/en/results.html/1974/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Race Results](https://www.formula1.com/en/results/1974/races/339/germany/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

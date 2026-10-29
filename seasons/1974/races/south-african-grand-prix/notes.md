@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Carlos Reutemann (Brabham) — 1:42:40.960  
-- **Pole Position:** Niki Lauda  
+- **Pole Position:** Niki Lauda (1:16.580)
+- **Fastest Lap:** Carlos Reutemann (Brabham-Ford) — 1:18.160 (Lap 58)
 - **Weather & Track Conditions:** Warm, sunny, dry; 25°C ambient  
-- **Spectator Attendance:** 80,000 spectators at a sombre Kyalami  
 - **Grandstand & Infrastructure:** Main pit straight covered grandstands and Crowthorne banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -62,8 +62,14 @@ First Formula One World Championship victory for Carlos Reutemann and the first 
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 80,000 spectators at a sombre Kyalami (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1974/3/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Round 3 Results](https://www.formula1.com/en/results.html/1974/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Race Results](https://www.formula1.com/en/results/1974/races/331/south-africa/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

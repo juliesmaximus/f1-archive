@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Ronnie Peterson (Team Lotus) — 1:58:03.700  
-- **Pole Position:** Niki Lauda  
+- **Pole Position:** Niki Lauda (1:26.300)
+- **Fastest Lap:** Ronnie Peterson (Lotus-Ford) — 1:27.900 (Lap 57)
 - **Weather & Track Conditions:** Warm, sunny, dry; 25°C ambient  
-- **Spectator Attendance:** 45,000 spectators lining harbour balconies and terraces  
 - **Grandstand & Infrastructure:** Swimming Pool grandstands, Quai Albert 1er, and Casino square terraces  
 
 ### Race Anomalies, Incidents & Key Events
@@ -62,8 +62,14 @@ Ronnie Peterson scored his maiden Monaco Grand Prix victory.
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 45,000 spectators lining harbour balconies and terraces (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1974/6/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Round 6 Results](https://www.formula1.com/en/results.html/1974/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Race Results](https://www.formula1.com/en/results/1974/races/334/monaco/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

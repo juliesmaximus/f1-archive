@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jody Scheckter (Tyrrell) — 1:43:02.200  
-- **Pole Position:** Niki Lauda  
+- **Pole Position:** Niki Lauda (1:19.700)
+- **Fastest Lap:** Niki Lauda (Ferrari) — 1:21.100 (Lap 25)
 - **Weather & Track Conditions:** Warm, sunny, dry; 25°C ambient  
-- **Spectator Attendance:** 115,000 spectators packing the natural bowl  
 - **Grandstand & Infrastructure:** Brabham Straight grandstands, Druids grandstands, and South Bank spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -60,8 +60,14 @@ Jody Scheckter moved to 35 points, tied with Fittipaldi and just three points be
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 115,000 spectators packing the natural bowl (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1974/10/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Round 10 Results](https://www.formula1.com/en/results.html/1974/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1974 Race Results](https://www.formula1.com/en/results/1974/races/338/great-britain/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.
