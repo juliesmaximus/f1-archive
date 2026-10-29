@@ -3021,3 +3021,68 @@ Last verified: 2026-10-29
   - 20 documented non-starters across 16 rounds (Brazil: Berger, Pérez-Sala; San Marino: Alliot, Dalmas; Canada: Mansell DQ, Modena, Martini, Nannini DQ, Alboreto; France: Senna restart; Germany: Grouillard, Weidler DQ; Hungary: de Cesaris; Italy: Pirro, Modena DQ; Spain: Nakajima; Japan: Pérez-Sala, Barilla; Australia: Prost withdrew, Larini).
   - 2 documented disqualifications: Nigel Mansell at Estoril (ignoring black flag) and Ayrton Senna at Suzuka (cutting the chicane).
 - **Gaps That Remain**: None. 1989 season is 100% verified against primary sources.
+
+## DECADE CHECKPOINT AUDIT: THE 1980s (1980–1989)
+
+- **Total Seasons Audited & Reconciled**: 10 (1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989)
+- **Total Championship Grands Prix Completed**: Exactly 156 Rounds
+  - 1980: 14 rounds
+  - 1981: 15 rounds
+  - 1982: 16 rounds
+  - 1983: 15 rounds
+  - 1984: 16 rounds
+  - 1985: 16 rounds
+  - 1986: 16 rounds
+  - 1987: 16 rounds
+  - 1988: 16 rounds
+  - 1989: 16 rounds
+- **Completeness Verification**:
+  - `results.json`: 156 / 156 files verified and validated (100%)
+  - `qualifying.json`: 156 / 156 files verified and validated (100%)
+  - `notes.md`: 156 / 156 verified dossiers with coordinates, weather, regulations, primary source citations, and segregated unverified spectator attendance sections (100%)
+  - `calendar.md`: 10 / 10 seasons populated with verified winning times, pole times, and fastest lap times (100%)
+  - `standings.md`: 10 / 10 seasons populated with complete verified tables, driver net/gross points, podiums, wins, poles, fastest laps, constructor chassis-engine combinations, and regulatory rules (100%)
+
+- **World Drivers' Champions of the 1980s**:
+  1. 1980: Alan Jones (Williams-Ford) - 67 net / 71 gross pts (Australia's second World Champion)
+  2. 1981: Nelson Piquet (Brabham-Ford) - 50 net pts (Piquet's maiden World Championship)
+  3. 1982: Keke Rosberg (Williams-Ford) - 44 net pts (Finland's first World Champion; record 11 different winners)
+  4. 1983: Nelson Piquet (Brabham-BMW) - 59 net pts (Formula One's first Turbocharged World Champion)
+  5. 1984: Niki Lauda (McLaren-TAG Porsche) - 72 net pts (closest margin in F1 history: 0.5 points over Alain Prost)
+  6. 1985: Alain Prost (McLaren-TAG Porsche) - 73 net / 76 gross pts (France's first World Champion)
+  7. 1986: Alain Prost (McLaren-TAG Porsche) - 72 net / 74 gross pts (first back-to-back champion since Jack Brabham in 1960)
+  8. 1987: Nelson Piquet (Williams-Honda) - 73 net / 76 gross pts (Piquet's third World Championship)
+  9. 1988: Ayrton Senna (McLaren-Honda) - 90 net / 94 gross pts (Senna's maiden World Championship; 8 wins, 13 poles)
+  10. 1989: Alain Prost (McLaren-Honda) - 76 net / 81 gross pts (Prost's third World Championship)
+
+- **World Constructors' Champions of the 1980s**:
+  - Williams Grand Prix Engineering: 4 titles (1980, 1981, 1986, 1987)
+  - McLaren International: 4 titles (1984, 1985, 1988, 1989)
+  - Scuderia Ferrari: 2 titles (1982, 1983)
+
+- **Major Technological & Sporting Revolutions of the 1980s**:
+  - Carbon-fibre composite monocoque revolution (John Barnard / McLaren MP4/1, 1981)
+  - The Turbocharger Epoch: 1.5-litre turbocharged engines generating over 1,400+ brake horsepower in qualifying (BMW M12/13, Renault EF15, Honda RA166E/167E/168E, TAG-Porsche TTE PO1)
+  - Underbody sliding skirts ban (1981) and mandatory flat-bottom floor transition (1983)
+  - Gordon Murray planned mid-race pit stop and high-pressure refueling revolution (Brabham BT52, 1983)
+  - Fuel consumption restrictions and boost-limiting pop-off valves (4.0 bar in 1987, 2.5 bar in 1988)
+  - First computer-controlled Active Suspension victories (Ayrton Senna / Lotus 99T Honda, 1987; Nelson Piquet / Williams FW11B Honda, 1987)
+  - The Semi-Automatic Electro-Hydraulic Paddle-Shift Gearbox (John Barnard / Ferrari 640, 1989)
+  - Complete ban on turbochargers and return to 3.5-litre atmospheric engines (1989)
+
+- **All-Time Records Corrected or Newly Confirmed with Dual Sources**:
+  - Closest World Championship Margin in F1 History: Niki Lauda (72 pts) defeating Alain Prost (71.5 pts) by 0.5 points in 1984.
+  - Most Different Race Winners in a Single Season: 11 different winners across 16 rounds in 1982 (Prost, Lauda, Pironi, Watson, Patrese, Piquet, Tambay, de Angelis, K. Rosberg, Alboreto, Arnoux).
+  - Greatest Victory from Deepest Starting Grid Position: John Watson winning from 22nd on the grid at the 1983 United States Grand Prix West (Long Beach).
+  - All-Time Turbo Speed Trap Record: Gerhard Berger registering 351.22 km/h (218.2 mph) in the Benetton-BMW at Monza in 1986.
+  - All-Time Season Win Percentage Record: McLaren MP4/4 Honda winning 15 of 16 Grands Prix (93.75%) with 10 1-2 finishes in 1988.
+  - All-Time Career Grand Prix Wins Record: Alain Prost surpassing Sir Jackie Stewart's 14-year-old record of 27 wins at Estoril in 1987, extending to 39 career wins by end of 1989.
+  - Most Pole Positions in a Single Season: Ayrton Senna capturing 13 pole positions in 1988 and 13 pole positions in 1989.
+  - 100th Ford Cosworth DFV Grand Prix Victory: Escaping to 155 total DFV wins, sealed by Michele Alboreto (Tyrrell) at Detroit in 1983.
+
+- **Unresolved Conflicts and Primary Source Handling**:
+  - All 156 rounds 100% verified against Formula1.com official results, FIA documents, and Jolpica-F1 datasets.
+  - Disqualifications and unclassified finishes (< 90% distance) reconciled between Formula1.com online tables and regulatory classifications.
+  - Anachronistic modern circuit names across the 1980s (Red Bull Ring, Autódromo Internacional Nelson Piquet, Autodromo Enzo e Dino Ferrari, Caesars Palace, Fair Park) corrected to contemporary official names for each specific year.
+  - Spectator attendance estimates across all 156 rounds systematically segregated from primary facts into `## Unverified Claims / Historical Estimates (Needs Primary Source)`.
+  - Remaining gaps: None. The 1980s decade is 100% verified against primary sources.
