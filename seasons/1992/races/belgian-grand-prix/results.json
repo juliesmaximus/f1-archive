@@ -173,7 +173,7 @@
                 "driverId": "hakkinen",
                 "url": "http://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen",
                 "givenName": "Mika",
-                "familyName": "H\u00e4kkinen",
+                "familyName": "Häkkinen",
                 "dateOfBirth": "1968-09-28",
                 "nationality": "Finnish"
               },
@@ -200,7 +200,7 @@
                 "driverId": "lehto",
                 "url": "http://en.wikipedia.org/wiki/Jyrki_J%C3%A4rvilehto",
                 "givenName": "Jyrki",
-                "familyName": "J\u00e4rvilehto",
+                "familyName": "Järvilehto",
                 "dateOfBirth": "1966-01-31",
                 "nationality": "Finnish"
               },
@@ -353,7 +353,7 @@
                 "nationality": "British"
               },
               "grid": "10",
-              "laps": "43",
+              "laps": "42",
               "status": "Engine"
             },
             {
@@ -364,7 +364,7 @@
               "Driver": {
                 "driverId": "gugelmin",
                 "url": "http://en.wikipedia.org/wiki/Maur%C3%ADcio_Gugelmin",
-                "givenName": "Maur\u00edcio",
+                "givenName": "Maurício",
                 "familyName": "Gugelmin",
                 "dateOfBirth": "1963-04-20",
                 "nationality": "Brazilian"
@@ -663,7 +663,7 @@
               "Driver": {
                 "driverId": "comas",
                 "url": "http://en.wikipedia.org/wiki/%C3%89rik_Comas",
-                "givenName": "\u00c9rik",
+                "givenName": "Érik",
                 "familyName": "Comas",
                 "dateOfBirth": "1963-09-28",
                 "nationality": "French"

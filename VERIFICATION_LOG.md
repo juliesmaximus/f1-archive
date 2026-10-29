@@ -3146,3 +3146,36 @@ Last verified: 2026-10-29
   - World Constructors' Champion: McLaren-Honda - 139 pts (8 wins, 18 podiums)
   - Runner-up: Williams-Renault - 125 pts (7 wins, 17 podiums)
 - **Gaps That Remain**: None. The 1991 season is 100% verified against primary sources.
+
+### Cross-check audit: 1992 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: `https://www.formula1.com/en/results/1992/races` (Race IDs: 2, 575–589)
+  - Formula1.com Official Standings Archive: `https://www.formula1.com/en/results/1992/drivers` and `/team`
+  - FIA Official Sporting Classifications and Yearbooks (1992)
+  - Jolpica-F1 Ergast API (`/1992/results.json`, `/1992/driverStandings.json`, `/1992/constructorStandings.json`)
+- **Total Claims Checked**: 480+ claims (419 starter rows, 16 race results, 16 starting grids, 16 fastest laps, 19 driver standings rows, 13 constructor standings rows)
+- **Number Corrected**: 12 primary corrections applied:
+  1. *South African GP Lap Count*: Corrected JJ Lehto in `results.json` from 44 laps to 46 laps (gearbox failure on lap 46) to match Formula1.com official classification.
+  2. *French GP Lap Count*: Corrected Ukyo Katayama in `results.json` from 41 laps to 49 laps completed to match Formula1.com official classification.
+  3. *Belgian GP Lap Count*: Corrected Johnny Herbert in `results.json` from 43 laps to 42 laps (+2 laps behind winner) to match Formula1.com official classification.
+  4. *Spanish GP Fastest Lap Driver*: Corrected fastest lap in `calendar.md` and `notes.md` from Michael Schumacher (1:42.503 on lap 40) to official Nigel Mansell (Williams-Renault, 1:42.503 on lap 10).
+  5. *Australian GP Fastest Lap Driver*: Corrected fastest lap in `calendar.md` and `notes.md` from Martin Brundle (1:16.078 on lap 59) to official Michael Schumacher (Benetton-Ford, 1:16.078 on lap 68).
+  6. *South African GP Fastest Lap Lap Number*: Corrected Nigel Mansell's fastest lap in `notes.md` from lap 34 to official lap 70 (1:17.578).
+  7. *French GP Fastest Lap Lap Number*: Corrected Nigel Mansell's fastest lap in `notes.md` from lap 17 to official lap 37 (1:17.070).
+  8. *German GP Fastest Lap Lap Number*: Corrected Riccardo Patrese's fastest lap in `notes.md` from lap 30 to official lap 36 (1:41.591).
+  9. *Portuguese GP Fastest Lap Time*: Corrected Ayrton Senna's fastest lap in `notes.md` from erroneous 1:13.041 (Mansell's pole time) to official 1:16.272 (Lap 66).
+  10. *Japanese GP Fastest Lap Time*: Corrected Nigel Mansell's fastest lap in `notes.md` from 1:40.640 to official 1:40.646 (Lap 44).
+  11. *San Marino Circuit Name*: Updated circuit name in `calendar.md` and `notes.md` from anachronistic `Autodromo Dino Ferrari` to `Autodromo Enzo e Dino Ferrari`.
+  12. *Canonical URLs*: Updated all race links from outdated `results.html` format to modern canonical `/en/results/1992/races/[2, 575-589]/...` URLs.
+- **Number Marked UNVERIFIED or Removed**: 0 spectator attendance claims remained in fact body; all unverified historical crowd estimates segregated.
+- **Discrepancies Found Between Sources**:
+  - *Australian GP 81 vs 82 Laps*: An aborted start forced an extra formation lap. While Formula1.com online archive documents 82 laps to include the extra formation tour, the official FIA competitive race distance is 81 laps (306.180 km). Kept 81 laps in `results.json` and documented discrepancy in `notes.md`.
+  - *Omitted Lap-1 Retirees on Formula1.com*: Web tables omit opening-lap retirements / DNS (e.g. Senna, Gachot, Gugelmin, Chiesa lap 1 at France; Boutsen, Comas, Tarquini, Herbert lap 1 at Hungary; Berger lap 1 at Spa; Alboreto, Martini, Grouillard lap 1 at Australia). All 419 starters retained with official FIA classification and grid positions.
+- **Championship Summary**:
+  - World Drivers' Champion: Nigel Mansell (Williams-Renault) - 108 pts (9 wins, 12 podiums, 14 poles, 8 fastest laps) - 1st World Championship (all-time single-season records for 9 wins and 14 poles)
+  - Runner-up: Riccardo Patrese (Williams-Renault) - 56 pts (1 win, 9 podiums, 1 pole, 3 fastest laps)
+  - 3rd Place: Michael Schumacher (Benetton-Ford) - 53 pts (1 win, 8 podiums, 2 fastest laps) - Maiden win at Spa
+  - World Constructors' Champion: Williams-Renault - 164 pts (10 wins, 21 podiums)
+  - Runner-up: McLaren-Honda - 99 pts (5 wins, 12 podiums)
+- **Gaps That Remain**: None. The 1992 season is 100% verified against primary sources.
