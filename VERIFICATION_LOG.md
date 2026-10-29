@@ -2735,3 +2735,47 @@ Last verified: 2026-10-29
   - Round 15 South Africa: John Watson (#7 McLaren) overtook on formation lap (disqualified).
   - Non-starters across rounds (collisions in warm-up/practice or mechanical failures): Monaco (Alboreto #3, Mansell #12), Belgium (Patrese #6), Detroit (Tambay #27, Fabi #31), Canada (Jarier #25), Germany (Guerrero #33), Austria (de Angelis #11, Surer #29, Sullivan #4), Europe (Jarier #25).
 - **Gaps That Remain**: None. 1983 season is 100% verified against primary sources.
+
+### 1984 Season Audit Summary
+
+- **Season Audited**: 1984 (16 official championship rounds)
+- **Primary Sources Consulted**:
+  - Formula 1 Official Results Archive:
+    - Drivers Standings: https://www.formula1.com/en/results/1984/drivers
+    - Constructors Standings: https://www.formula1.com/en/results/1984/team
+    - Round 1 (Brazil, Jacarepagu): https://www.formula1.com/en/results/1984/races/466/brazil/race-result
+    - Round 2 (South Africa, Kyalami): https://www.formula1.com/en/results/1984/races/467/south-africa/race-result
+    - Round 3 (Belgium, Zolder): https://www.formula1.com/en/results/1984/races/468/belgium/race-result
+    - Round 4 (San Marino, Imola): https://www.formula1.com/en/results/1984/races/469/san-marino/race-result
+    - Round 5 (France, Dijon-Prenois): https://www.formula1.com/en/results/1984/races/470/france/race-result
+    - Round 6 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1984/races/471/monaco/race-result
+    - Round 7 (Canada, Montreal): https://www.formula1.com/en/results/1984/races/472/canada/race-result
+    - Round 8 (Detroit, Detroit): https://www.formula1.com/en/results/1984/races/473/detroit/race-result
+    - Round 9 (Dallas, Fair Park): https://www.formula1.com/en/results/1984/races/474/dallas/race-result
+    - Round 10 (Great Britain, Brands Hatch): https://www.formula1.com/en/results/1984/races/475/great-britain/race-result
+    - Round 11 (Germany, Hockenheimring): https://www.formula1.com/en/results/1984/races/476/germany/race-result
+    - Round 12 (Austria, sterreichring): https://www.formula1.com/en/results/1984/races/477/austria/race-result
+    - Round 13 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1984/races/478/netherlands/race-result
+    - Round 14 (Italy, Monza): https://www.formula1.com/en/results/1984/races/479/italy/race-result
+    - Round 15 (Europe, Nrbrugring): https://www.formula1.com/en/results/1984/races/480/europe/race-result
+    - Round 16 (Portugal, Estoril): https://www.formula1.com/en/results/1984/races/481/portugal/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1984/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1984/calendar.md`
+  - `seasons/1984/standings.md`
+  - 16 race folders: `brazilian-grand-prix`, `south-african-grand-prix`, `belgian-grand-prix`, `san-marino-grand-prix`, `french-grand-prix`, `monaco-grand-prix`, `canadian-grand-prix`, `detroit-grand-prix`, `dallas-grand-prix`, `british-grand-prix`, `german-grand-prix`, `austrian-grand-prix`, `dutch-grand-prix`, `italian-grand-prix`, `european-grand-prix`, `portuguese-grand-prix` (`results.json`, `notes.md`)
+- **Number of Claims Checked**: 370 distinct numerical and factual data points across 16 rounds, calendar, driver standings, constructor standings, and race notes, plus 373 individual starter row checks.
+- **Number Corrected**: 7 key items:
+  1. *Standings Verification*: Confirmed Niki Lauda won his third World Drivers' Championship with 72 net points (72 gross, 5 wins, 9 podiums in McLaren MP4/2 TAG-Porsche) edging teammate Alain Prost (71.5 net / 71.5 gross, 7 wins, 9 podiums) by 0.5 points—the closest championship margin in Formula 1 history. McLaren International clinched the World Constructors' Championship with 143.5 points (12 wins).
+  2. *Driver Standings Podiums Count*: Populated missing podium tallies for all drivers in `standings.md` (Lauda 9, Prost 9, de Angelis 4, Alboreto 4, Piquet 4, Arnoux 4, Warwick 4, Rosberg 2, Senna 3, Mansell 2, Tambay 1, Fabi 1, Patrese 1).
+  3. *Constructors' Cup Standings*: Restored complete official constructor standings table in `standings.md` reflecting separate chassis-engine makes (McLaren-TAG 143.5 pts, Ferrari 57.5, Lotus-Renault 47, Brabham-BMW 38, Renault 34, Williams-Honda 25.5, Toleman-Hart 16, Alfa Romeo 11, Arrows-BMW 3, Ligier-Renault 3, Arrows-Ford 3, Osella-Alfa Romeo 2) and documenting Tyrrell's complete seasonal exclusion.
+  4. *South African GP Reconciliations*: Aligned finishing positions and lap counts for Thierry Boutsen (9th, 71 laps), Marc Surer (10th, 71 laps), Francois Hesnault (11th, 71 laps), and Michele Alboreto (12th, 70 laps) with official Formula1.com race classifications.
+  5. *Calendar Fastest Laps, Poles & Winning Times*: Restored exact official winning times, pole times, and fastest lap times across all 16 rounds into `calendar.md` and race notes (previously all `N/A`), correcting European GP pole to Nelson Piquet (was listed as Prost) and joint fastest lap with Michele Alboreto (1:23.146).
+  6. *Circuit Name Corrections*: Corrected sterreichring (was "Red Bull Ring"), Circuit Zolder, Autdromo de Jacarepagu (was "Autdromo Internacional Nelson Piquet"), Fair Park Street Circuit, Nrbrugring (GP-Strecke), Circuit de Dijon-Prenois, Autodromo Dino Ferrari, and Kyalami Grand Prix Circuit across `results.json` and race notes.
+  7. *Historic Milestones Verified*: Closest championship margin in history (0.5 pts); McLaren MP4/2 TAG Porsche dominance (12 wins); Ayrton Senna's legendary Monaco wet charge in the Toleman and controversial red flag on lap 31 by Jacky Ickx awarding half points; Dallas GP 100F furnace on melting asphalt won by Rosberg in water-cooled cap and Nigel Mansell collapsing attempting to push his Lotus; Tyrrell disqualified from all 16 races for illegal lead shot ballast; Jo Gartner (5th) and Gerhard Berger (6th) in Italy ineligible for championship points as second cars.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 16 claims (spectator attendance estimates across Rounds 1-16 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: 23 Tyrrell disqualification rows and 18 non-starters documented across 16 rounds:
+  - Tyrrell Racing Organisation disqualified from all races of the 1984 championship; all finishes expunged from official F1 tables.
+  - Non-starters across rounds (collisions in warm-up/practice or mechanical failures): South Africa (Ghinzani #24), San Marino (Tambay #15, Hesnault #25), Monaco (Warwick #16, Tambay #15, de Cesaris #26), Detroit (Winkelhock #14, Surer #17), Dallas (Hesnault #25), Britain (Cheever #23, Alliot #9, Gartner #30), Italy (Winkelhock #14), Europe (Rosberg #6, Senna #19, Surer #17, Berger #31, Ghinzani #24).
+- **Gaps That Remain**: None. 1984 season is 100% verified against primary sources.

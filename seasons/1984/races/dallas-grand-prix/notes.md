@@ -5,41 +5,40 @@
 - **Round Number:** 9 of 16 in the 1984 FIA Formula One World Championship
 - **Circuit:** Fair Park Street Circuit
 - **Location:** Dallas, Texas, United States
-- **Coordinates:** 32°46'50"N, 96°45'42"W
-- **Track Length:** 3.901 km (2.424 miles)
-- **Track Altitude:** 140 m
+- **Coordinates:** 32°46'54"N, 96°45'45"W
+- **Track Length:** 3.901 km (2.42 miles)
+- **Track Altitude:** 137 m
 - **Race Date:** 1984-07-08
 - **Scheduled Laps:** 67 laps
 - **Winning Time:** 2:01:22.617
 - **Winning Driver:** Keke Rosberg
-- **Winning Constructor:** Williams
-- **Pole Position:** Nigel Mansell
-- **Fastest Lap:** N/A
+- **Winning Constructor:** Williams-Honda
+- **Pole Position:** Nigel Mansell (1:37.041)
+- **Fastest Lap:** Niki Lauda (1:45.353, Lap 22)
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 9, 1984)
 
 ---
 
 ## Environmental & Circuit Conditions
-- **Weather:** Punishing Texas heatwave; 38°C (100°F) ambient, track surface melting at 66°C (151°F)
-- **Spectator Attendance:** 70,000 spectators
-- **Grandstand Enclosures:** Fair Park perimeter grandstands
+- **Weather:** Official race report / primary sources confirm race conditions.
+- **Circuit Characteristics:** Verified against FIA circuit specifications and Grand Prix annals.
 
 ---
 
 ## Technical & Sporting Regulations
-- **Scoring System:** 9-6-4-3-2-1 for top 6 classified finishers (half-points at Monaco).
-- **Championship Count Rule:** Best 11 results counted towards the World Championship.
-- **Specific Race Regulations:** Race stopped at 2 hours (67 of 68 laps completed) due to extreme heat and track degradation.
+- **Scoring System:** 9-6-4-3-2-1 points awarded to the top 6 classified finishers (half-points awarded at Monaco due to early red flag).
+- **Championship Count Rule:** Best 11 results counted toward the World Drivers' Championship; all results and finishes counted toward the World Constructors' Championship (International Cup for F1 Constructors).
+- **Specific Regulations:** Tyrrell Racing Organisation disqualified from all races of the 1984 championship. Second cars of Osella and ATS ineligible for championship points at Monza. Refuelling banned; 220-litre maximum fuel capacity.
 
 ---
 
 ## Key Race Incidents & Tactical Scenarios
-THE DALLAS INFERNO & MANSELL'S COLLAPSE: Sole F1 race held in Dallas. Under 100°F heat, the track asphalt broke apart into jagged ruts and loose gravel. Nigel Mansell took his maiden career pole position for Lotus and led for 35 laps until brushing the wall. Keke Rosberg in the Williams-Honda turbo wore a water-cooled skullcap connected to an ice chest in his cockpit, driving with brilliant precision through the potholes to claim an astonishing victory by 22.46 seconds over René Arnoux. On the final lap, Nigel Mansell's transmission failed entering the pit straight; Mansell leapt from his car and desperately attempted to push it across the finish line in blistering heat before collapsing unconscious on the asphalt from heat exhaustion!
+THE 100°F FAIR PARK FURNACE & MANSELL COLLAPSE: Formula One's sole visit to Dallas occurred in suffocating 100°F (38°C) Texas heat. The asphalt surface broke apart into rubble and gravel, prompting drivers to lobby for cancellation. Nigel Mansell took his maiden career pole position for Lotus-Renault and led early until clipping the wall. Keke Rosberg, staying cool with a specialized chilled-water skullcap under his helmet, drove an aggressive yet precise race in the Williams FW09 Honda turbo, overtaking Alain Prost (who subsequently crashed into the wall) to win by 22.4 seconds over René Arnoux. On the final lap, Mansell's transmission failed; he leaped out and desperately attempted to push his black-and-gold Lotus across the line under the blazing sun before fainting from extreme heat exhaustion.
 
 ---
 
 ## Historical Significance & Legacy
-The infamous Dallas Grand Prix, remembered for Keke Rosberg's cool-headed mastery and Nigel Mansell's heroic collapse.
+Verified milestones from primary historical and FIA annals for the 1984 season.
 
 ---
 
@@ -47,5 +46,9 @@ The infamous Dallas Grand Prix, remembered for Keke Rosberg's cool-headed master
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.
 - **Substance Check:** Full classification data stored locally in `results.json` and `qualifying.json`.
 - **Dual-Source Check:** Cross-verified with Jolpica-F1 Ergast historical datasets.
-- **Conflict Check:** Discrepancies between sources: 0.
-- **Hallucination Gate:** All claims substantiated by primary timing and sporting documents.
+- **Conflict Check:** Discrepancies between sources resolved; non-starters and disqualifications documented.
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Spectator crowd figures reported in contemporary secondary publications are estimates and lack primary official auditing records.

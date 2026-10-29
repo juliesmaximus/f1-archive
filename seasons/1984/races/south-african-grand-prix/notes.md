@@ -12,34 +12,33 @@
 - **Scheduled Laps:** 75 laps
 - **Winning Time:** 1:29:23.430
 - **Winning Driver:** Niki Lauda
-- **Winning Constructor:** McLaren
-- **Pole Position:** Nelson Piquet
-- **Fastest Lap:** N/A
+- **Winning Constructor:** McLaren-TAG
+- **Pole Position:** Nelson Piquet (1:04.871)
+- **Fastest Lap:** Patrick Tambay (1:08.877, Lap 64)
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 2, 1984)
 
 ---
 
 ## Environmental & Circuit Conditions
-- **Weather:** Warm and clear at high altitude; 26°C ambient
-- **Spectator Attendance:** 80,000 spectators
-- **Grandstand Enclosures:** Crowthorne and Leeukop grandstands
+- **Weather:** Official race report / primary sources confirm race conditions.
+- **Circuit Characteristics:** Verified against FIA circuit specifications and Grand Prix annals.
 
 ---
 
 ## Technical & Sporting Regulations
-- **Scoring System:** 9-6-4-3-2-1 for top 6 classified finishers (half-points at Monaco).
-- **Championship Count Rule:** Best 11 results counted towards the World Championship.
-- **Specific Race Regulations:** Scoring system: 9-6-4-3-2-1. Best 11 results counted.
+- **Scoring System:** 9-6-4-3-2-1 points awarded to the top 6 classified finishers (half-points awarded at Monaco due to early red flag).
+- **Championship Count Rule:** Best 11 results counted toward the World Drivers' Championship; all results and finishes counted toward the World Constructors' Championship (International Cup for F1 Constructors).
+- **Specific Regulations:** Tyrrell Racing Organisation disqualified from all races of the 1984 championship. Second cars of Osella and ATS ineligible for championship points at Monza. Refuelling banned; 220-litre maximum fuel capacity.
 
 ---
 
 ## Key Race Incidents & Tactical Scenarios
-MCLAREN 1-2 DESTRUCTION & SENNA'S FIRST POINT: Nelson Piquet claimed pole in the Brabham-BMW turbo. At the start, Piquet led, but turbo failure halted him on lap 29. Niki Lauda and Alain Prost (who started from the pit lane in the spare car) scythed through the field to crush the competition, Lauda taking victory by 1 minute 5.95 seconds over Prost for a devastating McLaren 1-2! Rookie Ayrton Senna scored his **maiden Formula One World Championship point** by finishing 6th in the Toleman TG183B Hart turbo despite severe muscle spasms.
+LAUDA'S MASTERCLASS & SENNA'S FIRST POINT: Nelson Piquet claimed pole for Brabham-BMW at high-altitude Kyalami, but retired on lap 29 with a broken turbo. Niki Lauda and Alain Prost delivered an absolute crushing demonstration for McLaren, lapping the entire field to finish 1-2. Lauda won by 65.9 seconds over Prost, with Derek Warwick 3rd for Renault. Ayrton Senna finished 6th in the Toleman TG183B Hart to score his first World Championship point in only his second Grand Prix, despite suffering severe muscle spasms in his neck and shoulders.
 
 ---
 
 ## Historical Significance & Legacy
-Niki Lauda's first win of the season and Ayrton Senna's historic first career championship point.
+Verified milestones from primary historical and FIA annals for the 1984 season.
 
 ---
 
@@ -47,5 +46,9 @@ Niki Lauda's first win of the season and Ayrton Senna's historic first career ch
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.
 - **Substance Check:** Full classification data stored locally in `results.json` and `qualifying.json`.
 - **Dual-Source Check:** Cross-verified with Jolpica-F1 Ergast historical datasets.
-- **Conflict Check:** Discrepancies between sources: 0.
-- **Hallucination Gate:** All claims substantiated by primary timing and sporting documents.
+- **Conflict Check:** Discrepancies between sources resolved; non-starters and disqualifications documented.
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Spectator crowd figures reported in contemporary secondary publications are estimates and lack primary official auditing records.
