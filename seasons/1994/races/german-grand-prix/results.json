@@ -90,7 +90,7 @@
               "Driver": {
                 "driverId": "bernard",
                 "url": "http://en.wikipedia.org/wiki/%C3%89ric_Bernard",
-                "givenName": "\u00c9ric",
+                "givenName": "Éric",
                 "familyName": "Bernard",
                 "dateOfBirth": "1964-08-24",
                 "nationality": "French"
@@ -171,7 +171,7 @@
               "Driver": {
                 "driverId": "comas",
                 "url": "http://en.wikipedia.org/wiki/%C3%89rik_Comas",
-                "givenName": "\u00c9rik",
+                "givenName": "Érik",
                 "familyName": "Comas",
                 "dateOfBirth": "1963-09-28",
                 "nationality": "French"
@@ -419,7 +419,7 @@
                 "nationality": "Italian"
               },
               "grid": "2",
-              "laps": "1",
+              "laps": "0",
               "status": "Electrical"
             },
             {
@@ -454,7 +454,7 @@
                 "driverId": "hakkinen",
                 "url": "http://en.wikipedia.org/wiki/Mika_H%C3%A4kkinen",
                 "givenName": "Mika",
-                "familyName": "H\u00e4kkinen",
+                "familyName": "Häkkinen",
                 "dateOfBirth": "1968-09-28",
                 "nationality": "Finnish"
               },

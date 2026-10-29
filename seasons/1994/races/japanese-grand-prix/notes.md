@@ -25,6 +25,6 @@ One of Damon Hill's greatest career drives. In torrential monsoon rain, Martin B
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1994/races/15/japanese-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1994/races/619/japan/race-result
 - **FIA Official Sporting Archives & Yearbooks (1994)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1994/15/results.json`

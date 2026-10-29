@@ -25,6 +25,6 @@ Schumacher took pole and dominated the race using a clever three-stop strategy t
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1994/races/10/hungarian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1994/races/614/hungary/race-result
 - **FIA Official Sporting Archives & Yearbooks (1994)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1994/10/results.json`

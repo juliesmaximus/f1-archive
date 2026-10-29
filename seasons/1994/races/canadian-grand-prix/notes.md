@@ -25,6 +25,6 @@ Schumacher won from pole position, with Damon Hill finishing 2nd and Jean Alesi 
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1994/races/6/canadian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1994/races/610/canada/race-result
 - **FIA Official Sporting Archives & Yearbooks (1994)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1994/6/results.json`

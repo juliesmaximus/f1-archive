@@ -25,6 +25,6 @@ Damon Hill scored an emotional, cathartic victory for Williams-Renault—their f
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1994/races/5/spanish-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1994/races/609/spain/race-result
 - **FIA Official Sporting Archives & Yearbooks (1994)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1994/5/results.json`

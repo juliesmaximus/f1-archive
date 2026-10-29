@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Michael Schumacher (Benetton-Ford) - 1:22.762
-- **Fastest Lap:** Michael Schumacher (Benetton-Ford) - 1:25.040 (Lap 25)
+- **Fastest Lap:** Michael Schumacher (Benetton-Ford) - 1:25.040 (Lap 17)
 - **Race Winner:** Michael Schumacher (Benetton-Ford)
 
 ---
@@ -25,6 +25,6 @@ Schumacher returned from his two-race ban in commanding form, winning by 24 seco
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1994/races/14/european-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1994/races/618/europe/race-result
 - **FIA Official Sporting Archives & Yearbooks (1994)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1994/14/results.json`

@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Nigel Mansell (Williams-Renault) - 1:16.179
-- **Fastest Lap:** Michael Schumacher (Benetton-Ford) - 1:18.398 (Lap 29)
+- **Fastest Lap:** Michael Schumacher (Benetton-Ford) - 1:17.140 (Lap 29)
 - **Race Winner:** Nigel Mansell (Williams-Renault)
 
 ---
@@ -25,6 +25,6 @@ The dramatic, controversial championship showdown. Nigel Mansell took pole posit
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1994/races/16/australian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1994/races/620/australia/race-result
 - **FIA Official Sporting Archives & Yearbooks (1994)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1994/16/results.json`

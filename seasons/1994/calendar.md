@@ -1,6 +1,6 @@
 # 1994 FIA Formula 1 World Championship - Season Calendar
 
-The 1994 FIA Formula 1 World Championship consisted of 16 rounds across 5 continents, running from March 27 to November 13, 1994.
+The 1994 FIA Formula 1 World Championship was the 45th season of FIA Formula One motor racing. It consisted of 16 rounds across 5 continents, running from March 27 to November 13, 1994. Michael Schumacher won his maiden World Drivers' Championship with Benetton-Ford by a single point over Damon Hill following a controversial collision at the season finale in Adelaide, while Williams-Renault secured their third consecutive Constructors' Championship.
 
 | Rnd | Official Grand Prix Name | Circuit | Location | Date | Winner | Pole Position | Fastest Lap |
 |:---:|:---|:---|:---|:---|:---|:---|:---|
@@ -24,6 +24,6 @@ The 1994 FIA Formula 1 World Championship consisted of 16 rounds across 5 contin
 ---
 
 ## Key Regulatory Features & Technical Specifications
-- **Banned Technology:** Active suspension, traction control, ABS, launch control, and automatic gearboxes completely banned.
-- **In-Race Refuelling:** Reintroduced with standardized Intertechnique fuel rigs delivering 12 litres per second.
-- **Safety Modifications Post-Imola:** Airbox cutouts to reduce engine airflow/power, stepped bottom with 10 mm wooden plank, higher cockpit sides, and reinforced wishbones.
+- **Banned Electronic Driver Aids:** Active suspension, traction control, ABS, launch control, and automatic gearboxes were completely banned for 1994.
+- **In-Race Refuelling:** Reintroduced for the first time since 1983 with standardized Intertechnique fuel rigs delivering 12 litres per second.
+- **Post-Imola Safety Overhaul:** Following the tragic fatal accidents of Roland Ratzenberger and Ayrton Senna at Imola, the FIA mandated sweeping safety changes: airbox cutouts to reduce engine airflow/power, stepped wooden skid blocks (10 mm plank beneath car floor with 1 mm maximum wear tolerance), raised cockpit sides, and reinforced suspension wishbones.

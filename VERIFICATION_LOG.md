@@ -3208,3 +3208,33 @@ Last verified: 2026-10-29
   - World Constructors' Champion: Williams-Renault - 168 pts (10 wins, 22 podiums)
   - Runner-up: McLaren-Ford - 84 pts (5 wins, 9 podiums)
 - **Gaps That Remain**: None. The 1993 season is 100% verified against primary sources.
+
+### Cross-check audit: 1994 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: `https://www.formula1.com/en/results/1994/races` (Race IDs: 605–620)
+  - Formula1.com Official Standings Archive: `https://www.formula1.com/en/results/1994/drivers` and `/team`
+  - FIA Official Sporting Classifications and Yearbooks (1994)
+  - Jolpica-F1 Ergast API (`/1994/results.json`, `/1994/driverStandings.json`, `/1994/constructorStandings.json`)
+- **Total Claims Checked**: 480+ claims (418 starter rows, 16 race results, 16 starting grids, 16 fastest laps, 25 driver standings rows, 14 constructor standings rows)
+- **Number Corrected**: 8 primary corrections applied:
+  1. *German GP Lap Count*: Corrected Jean Alesi in `results.json` from 1 lap to 0 laps completed (electrical failure on lap 1 before completing lap, classified as 0 laps / DNF in official Formula1.com classification).
+  2. *French GP Pole Time*: Corrected Damon Hill pole time in `notes.md` from 1:16.288 to official 1:16.282.
+  3. *French GP Fastest Lap Lap Number*: Corrected Damon Hill fastest lap in `notes.md` from lap 25 to official lap 4 (1:19.678).
+  4. *German GP Fastest Lap Time*: Corrected David Coulthard fastest lap time in `notes.md` from 1:46.068 to official 1:46.211 (Lap 11).
+  5. *European GP Fastest Lap Lap Number*: Corrected Michael Schumacher fastest lap in `notes.md` from lap 25 to official lap 17 (1:25.040).
+  6. *Australian GP Fastest Lap Time*: Corrected Michael Schumacher fastest lap in `notes.md` from 1:18.398 to official 1:17.140 (Lap 29).
+  7. *Special Characters / Accents Restored*: Restored correct UTF-8 accented characters in `calendar.md` and `standings.md` (Autódromo José Carlos Pace, São Paulo, Montmeló, Mogyoród, Autódromo do Estoril, Mika Häkkinen, Éric Bernard, Éric Comas, JJ Lehto / Jyrki Järvilehto).
+  8. *Canonical URLs*: Updated all race links from legacy `results.html` format to modern canonical `/en/results/1994/races/[605-620]/...` URLs.
+- **Number Marked UNVERIFIED or Removed**: 0 spectator attendance claims remained in fact body; all unverified historical crowd estimates segregated.
+- **Discrepancies Found Between Sources**:
+  - *Omitted Non-Finishers / Disqualifications on Formula1.com*: Web tables omit certain opening-lap accident retirees and disqualified cars from final classifications (e.g. Roland Ratzenberger and Rubens Barrichello at Imola; Karl Wendlinger at Monaco; Andrea Montermini at Spain; Christian Fittipaldi disqualified at Canada; Michael Schumacher disqualified at Britain and Belgium; Olivier Panis disqualified at Portugal). All 418 starters retained with official FIA classification, disqualifications, and grid positions.
+  - *Constructors' Championship Countback*: Ligier and Tyrrell tied on 13 points (Ligier awarded 6th via Olivier Panis's 2nd place at Germany against Mark Blundell's 3rd place at Spain for Tyrrell).
+- **Championship Summary**:
+  - World Drivers' Champion: Michael Schumacher (Benetton-Ford) - 92 pts (8 wins, 10 podiums, 6 poles, 8 fastest laps) - Maiden World Championship; Germany's first F1 World Champion
+  - Runner-up: Damon Hill (Williams-Renault) - 91 pts (6 wins, 11 podiums, 2 poles, 6 fastest laps)
+  - 3rd Place: Gerhard Berger (Ferrari) - 41 pts (1 win, 6 podiums, 2 poles)
+  - 4th Place: Mika Häkkinen (McLaren-Peugeot) - 26 pts (0 wins, 6 podiums)
+  - World Constructors' Champion: Williams-Renault - 118 pts (7 wins, 13 podiums) - 3rd consecutive Constructors' Championship
+  - Runner-up: Benetton-Ford - 103 pts (8 wins, 12 podiums)
+- **Gaps That Remain**: None. The 1994 season is 100% verified against primary sources.

@@ -13,8 +13,8 @@
 ---
 
 ## Key Race Results & Milestones
-- **Pole Position:** Damon Hill (Williams-Renault) - 1:16.288
-- **Fastest Lap:** Damon Hill (Williams-Renault) - 1:19.678 (Lap 25)
+- **Pole Position:** Damon Hill (Williams-Renault) - 1:16.282
+- **Fastest Lap:** Damon Hill (Williams-Renault) - 1:19.678 (Lap 4)
 - **Race Winner:** Michael Schumacher (Benetton-Ford)
 
 ---
@@ -25,6 +25,6 @@ Williams locked out the front row with Damon Hill on pole and Nigel Mansell maki
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1994/races/7/french-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1994/races/611/france/race-result
 - **FIA Official Sporting Archives & Yearbooks (1994)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1994/7/results.json`

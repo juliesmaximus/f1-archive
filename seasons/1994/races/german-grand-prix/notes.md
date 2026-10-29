@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Gerhard Berger (Ferrari) - 1:43.582
-- **Fastest Lap:** David Coulthard (Williams-Renault) - 1:46.068 (Lap 11)
+- **Fastest Lap:** David Coulthard (Williams-Renault) - 1:46.211 (Lap 11)
 - **Race Winner:** Gerhard Berger (Ferrari)
 
 ---
@@ -25,6 +25,6 @@ Gerhard Berger gave Scuderia Ferrari their first victory in 59 races, breaking a
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1994/races/9/german-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1994/races/613/germany/race-result
 - **FIA Official Sporting Archives & Yearbooks (1994)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1994/9/results.json`
