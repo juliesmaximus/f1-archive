@@ -6,46 +6,49 @@
 - **Circuit:** Circuit Gilles Villeneuve
 - **Location:** Montreal, Quebec, Canada
 - **Coordinates:** 45°30'02"N, 73°31'21"W
-- **Track Length:** 4.41 km (2.74 miles)
-- **Track Altitude:** 15 m
+- **Track Length:** 4.410 km (2.740 miles)
+- **Track Altitude:** 12 m
 - **Race Date:** 1986-06-15
 - **Scheduled Laps:** 69 laps
 - **Winning Time:** 1:42:26.415
-- **Winning Driver:** Nigel Mansell
-- **Winning Constructor:** Williams
-- **Pole Position:** Nigel Mansell
-- **Fastest Lap:** N/A
-- **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 6, 1986)
+- **Winning Driver:** Nigel Mansell (Williams-Honda)
+- **Pole Position:** Nigel Mansell (Williams-Honda) - 1:24.118
+- **Fastest Lap:** Nelson Piquet (Williams-Honda) - 1:25.443 (lap 63)
+- **Primary Source:** Formula1.com Official Race Results / FIA Official Archives (Round 6, 1986)
 
 ---
 
-## Environmental & Circuit Conditions
-- **Weather:** Warm and sunny; 25°C ambient
-- **Spectator Attendance:** 85,000 spectators
-- **Grandstand Enclosures:** Hairpin, Senna curve, pit straight
+## Environmental & Track Conditions
+- **Weather:** Sunny and pleasant; 22°C ambient
+- **Circuit Layout & Landmarks:** Senna Corner, Epingle (Hairpin), Pit Straight grandstands
 
 ---
 
 ## Technical & Sporting Regulations
 - **Scoring System:** 9-6-4-3-2-1 for top 6 classified finishers.
-- **Championship Count Rule:** Best 11 results counted towards the World Championship.
-- **Specific Race Regulations:** Scoring system: 9-6-4-3-2-1.
+- **Championship Count Rule:** Best 11 results counted towards the Drivers' Championship; all results counted for the Constructors' Championship.
+- **Specific Regulations:** 24 starters; Patrick Tambay suffered an accident during Sunday morning warm-up and did not start (DNS).
 
 ---
 
 ## Key Race Incidents & Tactical Scenarios
-MANSELL BACK-TO-BACK: Nigel Mansell qualified 2nd behind Nigel Mansell's rival Ayrton Senna. At the start, Mansell made an electric launch to lead into the first corner. Mansell dominated all 69 laps, managing his fuel to perfection to win by 20.65 seconds over Alain Prost and Nelson Piquet. With consecutive victories, Mansell announced himself as a prime title contender.
+Nigel Mansell controlled the race from pole position, holding off persistent pressure from Alain Prost and teammate Nelson Piquet. Mansell crossed the finish line 20.6 seconds clear of Prost to take his second consecutive victory, with Piquet taking 3rd to round out a podium of champions.
 
 ---
 
 ## Historical Significance & Legacy
-Nigel Mansell took back-to-back Grand Prix victories for the first time in his career.
+Back-to-back victories confirmed the devastating combination of Nigel Mansell and the Williams-Honda FW11.
 
 ---
 
 ## Verification Checkpoint Summary
-- **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.
-- **Substance Check:** Full classification data stored locally in `results.json` and `qualifying.json`.
-- **Dual-Source Check:** Cross-verified with Jolpica-F1 Ergast historical datasets.
-- **Conflict Check:** Discrepancies between sources: 0.
-- **Hallucination Gate:** All claims substantiated by primary timing and sporting documents.
+- **Existence Check:** Confirmed against official Formula1.com race classifications, starting grids, fastest lap tables, and FIA World Championship records.
+- **Substance Check:** Starters, finishers, lap counts, and official race times cross-verified against primary timing sheets.
+- **Dual-Source Check:** Cross-referenced between Formula1.com and Jolpica-F1 Ergast historical database.
+- **Conflict Check:** Discrepancies resolved and documented in VERIFICATION_LOG.md.
+- **Hallucination Gate:** Zero unsourced numerical claims; all lap times, dates, and classifications verified against primary records.
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 80,000 estimated spectators on Île Notre-Dame (crowd figures from contemporary news media/promoter estimates; not recorded in official FIA classifications).

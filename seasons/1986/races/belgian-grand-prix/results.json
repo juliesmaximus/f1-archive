@@ -331,7 +331,7 @@
             {
               "number": "14",
               "position": "13",
-              "positionText": "13",
+              "positionText": "NC",
               "points": "0",
               "Driver": {
                 "driverId": "palmer",
@@ -349,7 +349,7 @@
               },
               "grid": "20",
               "laps": "37",
-              "status": "+6 Laps"
+              "status": "Not classified"
             },
             {
               "number": "23",
@@ -451,7 +451,7 @@
               "Driver": {
                 "driverId": "arnoux",
                 "url": "http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux",
-                "givenName": "Ren\u00e9",
+                "givenName": "René",
                 "familyName": "Arnoux",
                 "dateOfBirth": "1948-07-04",
                 "nationality": "French"

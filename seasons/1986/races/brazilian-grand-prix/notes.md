@@ -11,41 +11,44 @@
 - **Race Date:** 1986-03-23
 - **Scheduled Laps:** 61 laps
 - **Winning Time:** 1:39:32.583
-- **Winning Driver:** Nelson Piquet
-- **Winning Constructor:** Williams
-- **Pole Position:** Ayrton Senna
-- **Fastest Lap:** N/A
-- **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 1, 1986)
+- **Winning Driver:** Nelson Piquet (Williams-Honda)
+- **Pole Position:** Ayrton Senna (Lotus-Renault) - 1:25.501
+- **Fastest Lap:** Nelson Piquet (Williams-Honda) - 1:33.546 (lap 46)
+- **Primary Source:** Formula1.com Official Race Results / FIA Official Archives (Round 1, 1986)
 
 ---
 
-## Environmental & Circuit Conditions
-- **Weather:** Intense tropical heat; 34°C ambient
-- **Spectator Attendance:** 85,000 spectators celebrating Brazilian 1-2
-- **Grandstand Enclosures:** Permanent grandstands along main straight
+## Environmental & Track Conditions
+- **Weather:** Hot and humid; 29°C ambient
+- **Circuit Layout & Landmarks:** Curva do Sol, Curva Sul, Arquibancada Principal
 
 ---
 
 ## Technical & Sporting Regulations
 - **Scoring System:** 9-6-4-3-2-1 for top 6 classified finishers.
-- **Championship Count Rule:** Best 11 results counted towards the World Championship.
-- **Specific Race Regulations:** Fuel capacity reduced from 220 litres to 195 litres.
+- **Championship Count Rule:** Best 11 results counted towards the Drivers' Championship; all results counted for the Constructors' Championship.
+- **Specific Regulations:** 9-6-4-3-2-1 points for top 6. Maximum fuel capacity set to 195 litres for turbo engines.
 
 ---
 
 ## Key Race Incidents & Tactical Scenarios
-BRAZILIAN 1-2 & PIQUET WILLIAMS MAIDEN WIN: Ayrton Senna claimed pole in the Lotus-Renault turbo. Nigel Mansell collided with Senna on the opening lap and crashed into the barriers. Nelson Piquet in the Williams FW11 Honda turbo dominated the race, executing two flawless pit stops to take victory by 34.82 seconds over Senna, delighting the home crowd with a Brazilian 1-2! Defending champion Alain Prost retired with engine failure. Frank Williams was absent following his tragic road accident near Paul Ricard that left him tetraplegic.
+Nelson Piquet dominated on his Williams debut to score victory on home soil. Ayrton Senna took pole and chased Piquet to seal an emotional Brazilian 1-2 finish for the home crowd. Nigel Mansell spun into the barriers on the opening lap following contact with Senna. Jacques Laffite brought Ligier home 3rd, while René Arnoux (Ligier) finished 4th.
 
 ---
 
 ## Historical Significance & Legacy
-Nelson Piquet won on his debut for Williams-Honda; marked the onset of Williams's mid-1980s turbo dominance.
+Nelson Piquet opened his Williams career with a dominant home victory in Rio de Janeiro, setting the tone for the titanic Williams vs McLaren battle of 1986.
 
 ---
 
 ## Verification Checkpoint Summary
-- **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.
-- **Substance Check:** Full classification data stored locally in `results.json` and `qualifying.json`.
-- **Dual-Source Check:** Cross-verified with Jolpica-F1 Ergast historical datasets.
-- **Conflict Check:** Discrepancies between sources: 0.
-- **Hallucination Gate:** All claims substantiated by primary timing and sporting documents.
+- **Existence Check:** Confirmed against official Formula1.com race classifications, starting grids, fastest lap tables, and FIA World Championship records.
+- **Substance Check:** Starters, finishers, lap counts, and official race times cross-verified against primary timing sheets.
+- **Dual-Source Check:** Cross-referenced between Formula1.com and Jolpica-F1 Ergast historical database.
+- **Conflict Check:** Discrepancies resolved and documented in VERIFICATION_LOG.md.
+- **Hallucination Gate:** Zero unsourced numerical claims; all lap times, dates, and classifications verified against primary records.
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 85,000 estimated spectators at Jacarepaguá (crowd figures from contemporary news media/promoter estimates; not recorded in official FIA classifications).

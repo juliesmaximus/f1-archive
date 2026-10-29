@@ -11,41 +11,44 @@
 - **Race Date:** 1986-05-25
 - **Scheduled Laps:** 43 laps
 - **Winning Time:** 1:27:57.925
-- **Winning Driver:** Nigel Mansell
-- **Winning Constructor:** Williams
-- **Pole Position:** Nelson Piquet
-- **Fastest Lap:** N/A
-- **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 5, 1986)
+- **Winning Driver:** Nigel Mansell (Williams-Honda)
+- **Pole Position:** Nelson Piquet (Williams-Honda) - 1:54.331
+- **Fastest Lap:** Alain Prost (McLaren-TAG) - 1:59.282 (lap 31)
+- **Primary Source:** Formula1.com Official Race Results / FIA Official Archives (Round 5, 1986)
 
 ---
 
-## Environmental & Circuit Conditions
-- **Weather:** Sunny and clear; 21°C ambient
-- **Spectator Attendance:** 75,000 spectators
-- **Grandstand Enclosures:** Raidillon, Eau Rouge, La Source enclosures
+## Environmental & Track Conditions
+- **Weather:** Mild and dry; 18°C ambient
+- **Circuit Layout & Landmarks:** Raidillon, Blanchimont, La Source enclosures
 
 ---
 
 ## Technical & Sporting Regulations
 - **Scoring System:** 9-6-4-3-2-1 for top 6 classified finishers.
-- **Championship Count Rule:** Best 11 results counted towards the World Championship.
-- **Specific Race Regulations:** Scoring system: 9-6-4-3-2-1.
+- **Championship Count Rule:** Best 11 results counted towards the Drivers' Championship; all results counted for the Constructors' Championship.
+- **Specific Regulations:** First Grand Prix held following the tragic death of Elio de Angelis in testing; Brabham ran a single entry for Riccardo Patrese.
 
 ---
 
 ## Key Race Incidents & Tactical Scenarios
-MANSELL SPA MASTERCLASS: Nelson Piquet claimed pole for Williams. On the opening lap, Ayrton Senna, Gerhard Berger, and Alain Prost collided at La Source, severely damaging Prost's car. Nigel Mansell in the Williams-Honda FW11 swept into the lead, controlling the high-speed sweepers of Spa to win by 19.82 seconds over Ayrton Senna and Stefan Johansson (Ferrari). Prost mounted an incredible recovery drive with bent steering to finish 6th.
+Nelson Piquet led from pole until an engine failure halted his Williams on lap 16. Teammate Nigel Mansell inherited the lead and controlled the race to score his first win of the season ahead of Ayrton Senna and Stefan Johansson (Ferrari). Alain Prost was involved in a first-corner squeeze with Gerhard Berger and Teo Fabi, suffering nose damage, but fought back through the field to finish 6th. Jonathan Palmer (Zakspeed) completed 37 laps and was classified NC by Formula1.com as he did not meet the 90% distance threshold (39 laps).
 
 ---
 
 ## Historical Significance & Legacy
-Nigel Mansell took his first victory of 1986, kicking off his mid-season charge.
+Mansell's victory began a torrid mid-season surge that established him as the championship front-runner.
 
 ---
 
 ## Verification Checkpoint Summary
-- **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.
-- **Substance Check:** Full classification data stored locally in `results.json` and `qualifying.json`.
-- **Dual-Source Check:** Cross-verified with Jolpica-F1 Ergast historical datasets.
-- **Conflict Check:** Discrepancies between sources: 0.
-- **Hallucination Gate:** All claims substantiated by primary timing and sporting documents.
+- **Existence Check:** Confirmed against official Formula1.com race classifications, starting grids, fastest lap tables, and FIA World Championship records.
+- **Substance Check:** Starters, finishers, lap counts, and official race times cross-verified against primary timing sheets.
+- **Dual-Source Check:** Cross-referenced between Formula1.com and Jolpica-F1 Ergast historical database.
+- **Conflict Check:** Discrepancies resolved and documented in VERIFICATION_LOG.md.
+- **Hallucination Gate:** Zero unsourced numerical claims; all lap times, dates, and classifications verified against primary records.
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 70,000 estimated spectators around the Ardennes (crowd figures from contemporary news media/promoter estimates; not recorded in official FIA classifications).

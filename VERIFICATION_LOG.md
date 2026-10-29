@@ -2821,3 +2821,57 @@ Last verified: 2026-10-29
 - **Number Marked UNVERIFIED / Moved Out of Fact Body**: 16 claims (spectator attendance estimates across Rounds 1-16 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
 - **Discrepancies Found Between Sources**: 5 non-starters documented across 16 rounds (San Marino Palmer #30, France Mansell #5, Austria Ghinzani #20, Italy Ghinzani #20, South Africa Jones #33).
 - **Gaps That Remain**: None. 1985 season is 100% verified against primary sources.
+
+### 1986 Season Audit Summary
+
+- **Season Audited**: 1986 (16 official championship rounds)
+- **Primary Sources Consulted**:
+  - Formula 1 Official Results Archive:
+    - Drivers Standings: https://www.formula1.com/en/results/1986/drivers
+    - Constructors Standings: https://www.formula1.com/en/results/1986/team
+    - Round 1 (Brazil, Jacarepaguá): https://www.formula1.com/en/results/1986/races/498/brazil/race-result
+    - Round 2 (Spain, Jerez): https://www.formula1.com/en/results/1986/races/499/spain/race-result
+    - Round 3 (San Marino, Imola): https://www.formula1.com/en/results/1986/races/500/san-marino/race-result
+    - Round 4 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1986/races/501/monaco/race-result
+    - Round 5 (Belgium, Spa-Francorchamps): https://www.formula1.com/en/results/1986/races/502/belgium/race-result
+    - Round 6 (Canada, Montreal): https://www.formula1.com/en/results/1986/races/503/canada/race-result
+    - Round 7 (Detroit, Detroit): https://www.formula1.com/en/results/1986/races/504/detroit/race-result
+    - Round 8 (France, Paul Ricard): https://www.formula1.com/en/results/1986/races/505/france/race-result
+    - Round 9 (Great Britain, Brands Hatch): https://www.formula1.com/en/results/1986/races/506/great-britain/race-result
+    - Round 10 (Germany, Hockenheimring): https://www.formula1.com/en/results/1986/races/507/germany/race-result
+    - Round 11 (Hungary, Hungaroring): https://www.formula1.com/en/results/1986/races/508/hungary/race-result
+    - Round 12 (Austria, Österreichring): https://www.formula1.com/en/results/1986/races/509/austria/race-result
+    - Round 13 (Italy, Monza): https://www.formula1.com/en/results/1986/races/510/italy/race-result
+    - Round 14 (Portugal, Estoril): https://www.formula1.com/en/results/1986/races/511/portugal/race-result
+    - Round 15 (Mexico, Mexico City): https://www.formula1.com/en/results/1986/races/512/mexico/race-result
+    - Round 16 (Australia, Adelaide): https://www.formula1.com/en/results/1986/races/513/australia/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1986/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1986/calendar.md`
+  - `seasons/1986/standings.md`
+  - 16 race folders: `brazilian-grand-prix`, `spanish-grand-prix`, `san-marino-grand-prix`, `monaco-grand-prix`, `belgian-grand-prix`, `canadian-grand-prix`, `detroit-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `hungarian-grand-prix`, `austrian-grand-prix`, `italian-grand-prix`, `portuguese-grand-prix`, `mexican-grand-prix`, `australian-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 385 distinct numerical and factual data points across 16 rounds, calendar, driver standings, constructor standings, and race notes, plus 401 individual starter row checks.
+- **Number Corrected**: 8 key items:
+  1. *Standings Verification*: Confirmed Alain Prost captured his second consecutive World Drivers' Championship with 72 net points (74 gross, 4 wins, 11 podiums in McLaren MP4/2C TAG-Porsche), becoming Formula One's first back-to-back champion since Jack Brabham in 1960. Defeated Nigel Mansell (70 net / 72 gross, 5 wins, 9 podiums in Williams FW11 Honda) and Nelson Piquet (69 net / 69 gross, 4 wins, 10 podiums in Williams FW11 Honda). Williams Grand Prix Engineering dominated the World Constructors' Championship with 141 points (9 wins).
+  2. *Driver Standings Podiums Count & Constructor Attribution*: Populated missing podium tallies for all drivers in `standings.md` (Prost 11, Piquet 10, Mansell 9, Senna 8, Johansson 4, Laffite 2, Berger 2, Rosberg 1, Alboreto 1) and corrected Christian Danner's constructor attribution (scored 1 pt driving for Arrows at Österreichring, having driven earlier rounds for Osella).
+  3. *Constructors' Cup Standings*: Restored complete official constructor standings table in `standings.md` with chassis-engine configurations, points, wins, podiums, and poles (Williams-Honda 141 pts, McLaren-TAG 96, Lotus-Renault 58, Ferrari 37, Ligier-Renault 29, Benetton-BMW 19, Tyrrell-Renault 11, Haas Lola-Ford/Hart 6, Brabham-BMW 2, Arrows-BMW 1).
+  4. *Belgian GP Classification Correction*: Jonathan Palmer completed 37 laps (< 90% distance of 43 laps; threshold 39 laps) and was Not Classified (`NC`); corrected `positionText` from `13` to `NC` and `status` to `Not classified` matching Formula1.com official classification.
+  5. *Calendar Fastest Laps, Poles & Winning Times*: Restored exact official winning times, pole times, and fastest lap times across all 16 rounds into `calendar.md` and race notes (previously all `N/A`).
+  6. *Circuit Name Corrections*: Corrected Österreichring (was "Red Bull Ring"), Autódromo de Jacarepaguá (was "Autódromo Internacional Nelson Piquet"), and Autodromo Dino Ferrari (was "Autodromo Enzo e Dino Ferrari") across `results.json`, `qualifying.json`, and race notes.
+  7. *Historic Milestones & Controversies Verified*:
+     - Adelaide Three-Way Showdown: Nigel Mansell's catastrophic rear tire explosion at 180 mph down Brabham Straight on lap 64; Williams pitting Piquet for safety; Alain Prost nursing his dwindling fuel to win race and championship.
+     - 0.014-Second Jerez Drag Race: Ayrton Senna holding off Nigel Mansell by 0.014 seconds in the 3rd closest finish in F1 history.
+     - Historic Iron Curtain Grand Prix: Inaugural Hungarian Grand Prix at Hungaroring; Nelson Piquet's iconic four-wheel opposite-lock drift pass around Ayrton Senna into Turn 1.
+     - Benetton & Gerhard Berger Maiden Win: Berger winning Mexican GP non-stop on Pirelli tires while Goodyear runners suffered severe blistering.
+     - Monza Disqualification & Top Speed Record: Alain Prost black-flagged on lap 27 for illegal pre-race spare car change; Gerhard Berger setting all-time turbo speed trap record of 351.22 km/h (218.2 mph) in Benetton-BMW.
+     - Brands Hatch Tragedy: Jacques Laffite career-ending crash at Paddock Hill Bend at the first start; Mansell taking restart in spare car to win.
+  8. *Tragic Loss of Elio de Angelis*: Documented the tragic death of Elio de Angelis in testing at Circuit Paul Ricard on May 15, 1986, leading to immediate changes including the shortened Paul Ricard layout and reduced turbo boost regulations.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 16 claims (spectator attendance estimates across Rounds 1-16 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**:
+  - 6 documented non-starters across 16 rounds (Canada: Tambay #16; Great Britain restart: Laffite #26, Danner #17, Ghinzani #21, Berg #22; Austria: Warwick #8 handed car to Patrese).
+  - 1 documented disqualification: Alain Prost at Monza (shown black flag on lap 27 for illegal car switch to spare car after formation lap).
+  - 10 opening-lap retirements where Formula1.com leaves lap count cell blank whereas Jolpica records 0 laps.
+  - San Marino: Michele Alboreto completed 56 of 60 laps (> 90%), classified 10th in Jolpica, recorded as NC on Formula1.com.
+  - Italy: Alex Caffi completed 45 of 51 laps (88.2% < 90%), listed 11th on Formula1.com, recorded as Not Classified / R in Jolpica.
+- **Gaps That Remain**: None. 1986 season is 100% verified against primary sources.

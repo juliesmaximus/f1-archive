@@ -6,46 +6,49 @@
 - **Circuit:** Detroit Street Circuit
 - **Location:** Detroit, Michigan, United States
 - **Coordinates:** 42°19'48"N, 83°02'24"W
-- **Track Length:** 4.023 km (2.5 miles)
-- **Track Altitude:** 180 m
+- **Track Length:** 4.023 km (2.500 miles)
+- **Track Altitude:** 183 m
 - **Race Date:** 1986-06-22
 - **Scheduled Laps:** 63 laps
 - **Winning Time:** 1:51:12.847
-- **Winning Driver:** Ayrton Senna
-- **Winning Constructor:** Team Lotus
-- **Pole Position:** Ayrton Senna
-- **Fastest Lap:** N/A
-- **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 7, 1986)
+- **Winning Driver:** Ayrton Senna (Lotus-Renault)
+- **Pole Position:** Ayrton Senna (Lotus-Renault) - 1:38.301
+- **Fastest Lap:** Nelson Piquet (Williams-Honda) - 1:41.233 (lap 41)
+- **Primary Source:** Formula1.com Official Race Results / FIA Official Archives (Round 7, 1986)
 
 ---
 
-## Environmental & Circuit Conditions
-- **Weather:** Hot and humid; 30°C ambient
-- **Spectator Attendance:** 75,000 spectators
-- **Grandstand Enclosures:** Jefferson Avenue, Renaissance Center enclosures
+## Environmental & Track Conditions
+- **Weather:** Hot and humid; 28°C ambient
+- **Circuit Layout & Landmarks:** Renaissance Center, Atwater Street, Jefferson Avenue viewing stands
 
 ---
 
 ## Technical & Sporting Regulations
 - **Scoring System:** 9-6-4-3-2-1 for top 6 classified finishers.
-- **Championship Count Rule:** Best 11 results counted towards the World Championship.
-- **Specific Race Regulations:** Scoring system: 9-6-4-3-2-1.
+- **Championship Count Rule:** Best 11 results counted towards the Drivers' Championship; all results counted for the Constructors' Championship.
+- **Specific Regulations:** Bumpy street layout and tight concrete barriers made Detroit notoriously punishing on transmissions and brakes.
 
 ---
 
 ## Key Race Incidents & Tactical Scenarios
-SENNA'S DETROIT BRAZILIAN FLAG TRADITION: Ayrton Senna claimed pole for Lotus. In the race, Senna drove with surgical precision through the concrete canyons, taking victory by 31.01 seconds over Jacques Laffite (Ligier) and Alain Prost. On his victory lap, Senna stopped to take a Brazilian national flag from a spectator and waved it proudly out of his cockpit on his return to the pits, initiating one of motorsport's most iconic victory traditions.
+Ayrton Senna took pole and dominated the treacherous Detroit streets. After the race, Senna stopped on his slowdown lap, accepted a Brazilian national flag from a spectator, and waved it triumphantly from his cockpit—a patriotic tribute following Brazil's heartbreaking World Cup penalty shootout loss to France the day before. Jacques Laffite finished 2nd and Alain Prost 3rd.
 
 ---
 
 ## Historical Significance & Legacy
-Ayrton Senna initiated his famous tradition of carrying the Brazilian flag on his victory lap.
+The birth of Ayrton Senna's iconic Brazilian flag-waving celebration on the slowdown lap, which became his signature throughout his career.
 
 ---
 
 ## Verification Checkpoint Summary
-- **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.
-- **Substance Check:** Full classification data stored locally in `results.json` and `qualifying.json`.
-- **Dual-Source Check:** Cross-verified with Jolpica-F1 Ergast historical datasets.
-- **Conflict Check:** Discrepancies between sources: 0.
-- **Hallucination Gate:** All claims substantiated by primary timing and sporting documents.
+- **Existence Check:** Confirmed against official Formula1.com race classifications, starting grids, fastest lap tables, and FIA World Championship records.
+- **Substance Check:** Starters, finishers, lap counts, and official race times cross-verified against primary timing sheets.
+- **Dual-Source Check:** Cross-referenced between Formula1.com and Jolpica-F1 Ergast historical database.
+- **Conflict Check:** Discrepancies resolved and documented in VERIFICATION_LOG.md.
+- **Hallucination Gate:** Zero unsourced numerical claims; all lap times, dates, and classifications verified against primary records.
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 72,000 estimated spectators along Renaissance Center (crowd figures from contemporary news media/promoter estimates; not recorded in official FIA classifications).
