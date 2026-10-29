@@ -3,7 +3,7 @@
 - **Circuit**: Circuit de Spa-Francorchamps, Spa, Belgium
 - **Date**: 2020-08-30
 - **Winner**: Lewis Hamilton (Mercedes)
-- **Winning Grid Position**: P1
+- **Pole Position**: Lewis Hamilton (Mercedes) - 1:41.252
 - **Official Fastest Lap**: 1:47.483 (Lap 44, Daniel Ricciardo, Renault)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #11 | Sergio Pérez | Racing Point | 44 | +53.179 | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2020/races/7/belgian-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2020/races/1051/belgium/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2020/7/results.json
 
 Last verified: 2026-10-28

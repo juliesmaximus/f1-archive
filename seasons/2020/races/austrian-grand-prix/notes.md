@@ -3,7 +3,7 @@
 - **Circuit**: Red Bull Ring, Spielberg, Austria
 - **Date**: 2020-07-05
 - **Winner**: Valtteri Bottas (Mercedes)
-- **Winning Grid Position**: P1
+- **Pole Position**: Valtteri Bottas (Mercedes) - 1:02.939
 - **Official Fastest Lap**: 1:07.475 (Lap 71, Lando Norris, McLaren)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #5 | Sebastian Vettel | Ferrari | 71 | +24.545 | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2020/races/1/austrian-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2020/races/1045/austria/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2020/1/results.json
 
 Last verified: 2026-10-28

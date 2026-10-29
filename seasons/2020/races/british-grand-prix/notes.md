@@ -3,7 +3,7 @@
 - **Circuit**: Silverstone Circuit, Silverstone, UK
 - **Date**: 2020-08-02
 - **Winner**: Lewis Hamilton (Mercedes)
-- **Winning Grid Position**: P1
+- **Pole Position**: Lewis Hamilton (Mercedes) - 1:24.303
 - **Official Fastest Lap**: 1:27.097 (Lap 52, Max Verstappen, Red Bull)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #5 | Sebastian Vettel | Ferrari | 52 | +41.857 | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2020/races/4/british-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2020/races/1048/great-britain/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2020/4/results.json
 
 Last verified: 2026-10-28

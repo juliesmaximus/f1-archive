@@ -3,7 +3,7 @@
 - **Circuit**: Yas Marina Circuit, Abu Dhabi, UAE
 - **Date**: 2020-12-13
 - **Winner**: Max Verstappen (Red Bull)
-- **Winning Grid Position**: P1
+- **Pole Position**: Max Verstappen (Red Bull Racing Honda) - 1:35.246
 - **Official Fastest Lap**: 1:40.926 (Lap 55, Daniel Ricciardo, Renault)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #18 | Lance Stroll | Racing Point | 55 | +1.669 | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2020/races/17/abu-dhabi-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2020/races/1061/abu-dhabi/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2020/17/results.json
 
 Last verified: 2026-10-28

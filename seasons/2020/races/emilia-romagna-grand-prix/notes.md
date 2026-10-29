@@ -3,7 +3,7 @@
 - **Circuit**: Autodromo Enzo e Dino Ferrari, Imola, Italy
 - **Date**: 2020-11-01
 - **Winner**: Lewis Hamilton (Mercedes)
-- **Winning Grid Position**: P2
+- **Pole Position**: Valtteri Bottas (Mercedes) - 1:13.609
 - **Official Fastest Lap**: 1:15.484 (Lap 63, Lewis Hamilton, Mercedes)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #99 | Antonio Giovinazzi | Alfa Romeo | 63 | +26.398 | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2020/races/13/emilia-romagna-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2020/races/1057/emilia-romagna/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2020/13/results.json
 
 Last verified: 2026-10-28

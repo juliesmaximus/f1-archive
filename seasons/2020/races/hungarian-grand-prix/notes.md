@@ -3,7 +3,7 @@
 - **Circuit**: Hungaroring, Budapest, Hungary
 - **Date**: 2020-07-19
 - **Winner**: Lewis Hamilton (Mercedes)
-- **Winning Grid Position**: P1
+- **Pole Position**: Lewis Hamilton (Mercedes) - 1:13.447
 - **Official Fastest Lap**: 1:16.627 (Lap 70, Lewis Hamilton, Mercedes)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #20 | Kevin Magnussen | Haas F1 Team | 69 | +1 Lap | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2020/races/3/hungarian-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2020/races/1047/hungary/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2020/3/results.json
 
 Last verified: 2026-10-28

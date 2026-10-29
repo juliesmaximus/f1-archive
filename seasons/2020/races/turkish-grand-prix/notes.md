@@ -3,7 +3,7 @@
 - **Circuit**: Istanbul Park, Istanbul, Turkey
 - **Date**: 2020-11-15
 - **Winner**: Lewis Hamilton (Mercedes)
-- **Winning Grid Position**: P6
+- **Pole Position**: Lance Stroll (Racing Point BWT Mercedes) - 1:47.765
 - **Official Fastest Lap**: 1:36.806 (Lap 58, Lando Norris, McLaren)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #3 | Daniel Ricciardo | Renault | 58 | +1:35.460 | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2020/races/14/turkish-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2020/races/1058/turkey/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2020/14/results.json
 
 Last verified: 2026-10-28

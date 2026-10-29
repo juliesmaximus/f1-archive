@@ -3,7 +3,7 @@
 - **Circuit**: Sochi Autodrom, Sochi, Russia
 - **Date**: 2020-09-27
 - **Winner**: Valtteri Bottas (Mercedes)
-- **Winning Grid Position**: P3
+- **Pole Position**: Lewis Hamilton (Mercedes) - 1:31.304
 - **Official Fastest Lap**: 1:37.030 (Lap 51, Valtteri Bottas, Mercedes)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #23 | Alexander Albon | Red Bull | 53 | +1:37.860 | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2020/races/10/russian-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2020/races/1054/russia/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2020/10/results.json
 
 Last verified: 2026-10-28

@@ -3,7 +3,7 @@
 - **Circuit**: Autódromo Internacional do Algarve, Portimão, Portugal
 - **Date**: 2020-10-25
 - **Winner**: Lewis Hamilton (Mercedes)
-- **Winning Grid Position**: P1
+- **Pole Position**: Lewis Hamilton (Mercedes) - 1:16.652
 - **Official Fastest Lap**: 1:18.750 (Lap 63, Lewis Hamilton, Mercedes)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #5 | Sebastian Vettel | Ferrari | 65 | +1 Lap | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2020/races/12/portuguese-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2020/races/1056/portugal/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2020/12/results.json
 
 Last verified: 2026-10-28

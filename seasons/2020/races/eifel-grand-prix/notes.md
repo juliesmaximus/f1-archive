@@ -3,7 +3,7 @@
 - **Circuit**: Nürburgring, Nürburg, Germany
 - **Date**: 2020-10-11
 - **Winner**: Lewis Hamilton (Mercedes)
-- **Winning Grid Position**: P2
+- **Pole Position**: Valtteri Bottas (Mercedes) - 1:25.269
 - **Official Fastest Lap**: 1:28.139 (Lap 60, Max Verstappen, Red Bull)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #99 | Antonio Giovinazzi | Alfa Romeo | 60 | +40.035 | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2020/races/11/eifel-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2020/races/1055/eifel/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2020/11/results.json
 
 Last verified: 2026-10-28

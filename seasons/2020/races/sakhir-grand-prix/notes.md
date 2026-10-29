@@ -3,7 +3,7 @@
 - **Circuit**: Bahrain International Circuit, Sakhir, Bahrain
 - **Date**: 2020-12-06
 - **Winner**: Sergio Pérez (Racing Point)
-- **Winning Grid Position**: P5
+- **Pole Position**: Valtteri Bottas (Mercedes) - 53.377
 - **Official Fastest Lap**: 55.404 (Lap 80, George Russell, Mercedes)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #4 | Lando Norris | McLaren | 87 | +19.541 | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2020/races/16/sakhir-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2020/races/1060/sakhir/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2020/16/results.json
 
 Last verified: 2026-10-28
