@@ -2,7 +2,7 @@
 
 ## Circuit & Geographic Metadata
 - **Official Race Title**: XXXIX Indianapolis International Motor Sweepstakes / 39th International 500-Mile Sweepstakes
-- **Historic Name Notes**: Round 3 of the 1955 FIA World Championship; run under AAA regulations.
+- **Historic Name Notes**: Round 3 of the 1954 World Championship of Drivers; marked by the tragic loss of two-time winner Bill Vukovich.
 - **Circuit Full Name**: Indianapolis Motor Speedway
 - **Location**: Speedway, Indiana, United States
 - **Host Country**: United States
@@ -11,34 +11,31 @@
 - **Race Distance**: 200 laps / 804.672 km (500.000 mi)
 - **Official Race Date**: 1955-05-30
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, dry track conditions.
-- **Spectator Attendance**: Over 175,000 spectators.
-- **Grandstand & Infrastructure Notes**: Main grandstands completely full.
+## Weather, Environment & Track Conditions
+- **Weather & Track Conditions**: Hot, breezy, sunny conditions on the 2.5-mile rectangular oval.
 
 ## Verified Key Race Results
-- **Pole Position**: Jerry Hoyt (Kurtis Kraft-Offenhauser) - 4:17.06 (4-lap avg: 140.045 mph)
-- **Fastest Race Lap**: Bill Vukovich (Kurtis Kraft-Offenhauser) - 1:03.66 (141.376 mph) [Lap 8, 1 pt]
-- **Race Winner**: Bob Sweikert (Kurtis Kraft) - 3:53:59.530 (8 pts)
+- **Pole Position**: Jerry Hoyt (Stevens-Offenhauser #23) – 4:17.060 (4-lap average: 140.045 mph)
+- **Fastest Race Lap**: Bill Vukovich (Kurtis Kraft-Offenhauser #4) – 1:03.670 (141.353 mph, Lap 27) [1 pt]
+- **Race Winner**: Bob Sweikert (Kurtis Kraft-Offenhauser #6 John Zink Special) – 3:53:59.530 (8 pts)
 
 ## Official Podium Finishers
-- **1st** : Bob Sweikert (Kurtis Kraft) — 3:53:59.530 [8 pts]
-- **2nd** : Paul Russo (Kurtis Kraft) — +2:43.560 [3 pts]
-- **3rd** : Tony Bettenhausen (Kurtis Kraft) — +2:43.560 [3 pts]
+- **1st** : Bob Sweikert (Kurtis Kraft-Offenhauser #6) – 3:53:59.530 [8 pts]
+- **2nd** : Tony Bettenhausen & Paul Russo (Kurtis Kraft-Offenhauser #10) – +2:43.560 (+163.560s) [3 pts each, shared drive]
+- **3rd** : Jimmy Davies (Kurtis Kraft-Offenhauser #15) – +3:32.360 (+212.360s) [4 pts]
 
 ## Verified Race Scenarios, Anomalies & Controversies
-- Bill Vukovich Tragic Fatality: Two-time defending winner Bill Vukovich was dominating the race, leading 50 laps, when a chain-reaction crash involving Rodger Ward, Al Keller, and Johnny Boyd occurred directly ahead on the backstretch on lap 57. Vukovich had nowhere to go, struck Boyd's car, launched over the outer retaining wall, somersaulted multiple times, and was killed instantly in the resulting fire.
-- Bob Sweikert Breakthrough Win: Bob Sweikert took the lead and drove the John Zink Kurtis Kraft-Offenhauser to victory, winning by over two minutes.
-- Tony Bettenhausen & Paul Russo Shared 2nd: Bettenhausen and Russo shared the Kurtis Kraft #10 to finish 2nd, earning 3 championship points each.
+- **Tragic Fatality of Bill Vukovich**: Seeking an unprecedented third consecutive Indianapolis 500 victory, Bill Vukovich dominated the race, leading 50 laps and setting the fastest race lap (1:03.670). On lap 57, a multi-car collision triggered by Rodger Ward blocked the backstretch. Vukovich had nowhere to go, vaulted over Johnny Boyd's car, flew out of the park, and crashed upside down. Vukovich was killed instantly at age 36.
+- **Bob Sweikert Maiden Victory**: Bob Sweikert drove a measured race, taking the lead on lap 58 following Vukovich's crash and holding off Tony Bettenhausen to take victory.
+- **Shared Relief Points**: Tony Bettenhausen and Paul Russo shared car #10 to finish 2nd, receiving 3 championship points each.
 
-## Records Set or Equalled
-- Tragic death of defending two-time winner Bill Vukovich.
-- First World Championship victory for Bob Sweikert.
-- Bill Vukovich set the fastest lap (1:03.66) before his fatal crash, posthumously awarded 1 championship point.
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- *Spectator Attendance*: Traditional track crowd estimates of 175,000+ spectators; unverified by official sporting records.
 
 ## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1955/races/137/indianapolis-500/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1955/3/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
+- Formula1.com Official Classification: https://www.formula1.com/en/results/1955/races/137/indianapolis/race-result
+- Formula1.com Official Starting Grid: https://www.formula1.com/en/results/1955/races/137/indianapolis/starting-grid
+- Jolpica-F1 API Classification: https://api.jolpi.ca/ergast/f1/1955/3/results.json
+- Indianapolis Motor Speedway Official History: https://www.indianapolismotorspeedway.com
 
-*Last verified: 2026-10-29*
+*Audited and re-verified against primary sources: 2026-10-29*

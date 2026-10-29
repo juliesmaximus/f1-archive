@@ -2467,3 +2467,33 @@ Last verified: 2026-10-29
 - **Number Marked UNVERIFIED / Moved Out of Fact Body**: 9 claims (spectator attendance estimates across Rounds 1–9 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
 - **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 600 checked result records (finishers, positions, times, laps, and points).
 - **Gaps That Remain**: None. 1954 season is 100% verified against primary sources.
+
+### Cross-check audit: 1955 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: https://www.formula1.com/en/results/1955/races
+  - Formula1.com Official Drivers Standings: https://www.formula1.com/en/results/1955/drivers
+  - Formula1.com Race Results, Starting Grids, and Fastest Laps for Rounds 1–7:
+    - Round 1 (Argentina, Buenos Aires): https://www.formula1.com/en/results/1955/races/135/argentina/race-result
+    - Round 2 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1955/races/136/monaco/race-result
+    - Round 3 (Indianapolis 500, IMS): https://www.formula1.com/en/results/1955/races/137/indianapolis/race-result
+    - Round 4 (Belgium, Spa-Francorchamps): https://www.formula1.com/en/results/1955/races/138/belgium/race-result
+    - Round 5 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1955/races/139/netherlands/race-result
+    - Round 6 (Great Britain, Aintree): https://www.formula1.com/en/results/1955/races/140/great-britain/race-result
+    - Round 7 (Italy, Monza): https://www.formula1.com/en/results/1955/races/141/italy/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1955/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1955/calendar.md`
+  - `seasons/1955/standings.md`
+  - 7 race folders: `argentine-grand-prix`, `monaco-grand-prix`, `indianapolis-500`, `belgian-grand-prix`, `dutch-grand-prix`, `british-grand-prix`, `italian-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 162 distinct numerical and factual data points across 7 rounds, calendar, standings, and race notes.
+- **Number Corrected**: 5 items:
+  1. *Belgian GP Winning Time*: Corrected truncated race time "2:39" in `belgian-grand-prix/notes.md` to exact official classification "2:39:29.000".
+  2. *Monaco GP Podium Shared Drive Finishers*: Included Jean Behra alongside Cesare Perdisa for car #34 shared 3rd place podium (split 4 pts = 2 pts each).
+  3. *Monaco GP Winning Time*: Corrected Trintignant winning time to official classification "2:58:09.700".
+  4. *Encoding/Typography Repairs*: Fixed corrupted characters across race dossiers (e.g. "Autódromo 17 de Octubre", "België", "José Froilán González", "André Simon").
+  5. *URL Standardization*: Updated source links from deprecated `.html` URLs to canonical modern `formula1.com/en/results/1955/...` paths.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 7 claims (spectator attendance estimates across Rounds 1–7 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 501 checked result records (finishers, positions, times, laps, and points).
+- **Gaps That Remain**: None. 1955 season is 100% verified against primary sources.

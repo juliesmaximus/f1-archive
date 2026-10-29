@@ -11,33 +11,32 @@
 - **Race Distance**: 36 laps / 508.320 km (315.855 mi)
 - **Official Race Date**: 1955-06-05
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, calm across the Ardennes mountains.
-- **Spectator Attendance**: Estimated 65,000 spectators.
-- **Grandstand & Infrastructure Notes**: Grandstands at Eau Rouge and La Source packed.
+## Weather, Environment & Track Conditions
+- **Weather & Track Conditions**: Warm, sunny, calm across the Ardennes valleys.
 
 ## Verified Key Race Results
-- **Pole Position**: Eugenio Castellotti (Lancia D50) - 4:18.1
-- **Fastest Race Lap**: Juan Manuel Fangio (Mercedes-Benz W196) - 4:20.6 (Lap 18) [1 pt]
-- **Race Winner**: Juan Fangio (Mercedes) - 2:39 (9 pts)
+- **Pole Position**: Eugenio Castellotti (Lancia D50) – 4:18.100
+- **Fastest Race Lap**: Juan Manuel Fangio (Mercedes-Benz W196) – 4:20.600 (Lap 18) [1 pt]
+- **Race Winner**: Juan Manuel Fangio (Mercedes-Benz W196) – 2:39:29.000 (9 pts: 8 win + 1 FL)
 
 ## Official Podium Finishers
-- **1st** : Juan Fangio (Mercedes) — 2:39 [9 pts]
-- **2nd** : Stirling Moss (Mercedes) — +8.100 [6 pts]
-- **3rd** : Nino Farina (Ferrari) — +1:40.500 [4 pts]
+- **1st** : Juan Manuel Fangio (Mercedes-Benz W196) – 2:39:29.000 [9 pts]
+- **2nd** : Stirling Moss (Mercedes-Benz W196) – +8.100s [6 pts]
+- **3rd** : Nino Farina (Ferrari 625) – +1:40.500 (+100.500s) [4 pts]
 
 ## Verified Race Scenarios, Anomalies & Controversies
-- Castellotti Maiden Pole for Lancia: In the wake of Alberto Ascari's death, Gianni Lancia withdrew the team, but permitted 24-year-old protege Eugenio Castellotti to enter as a privateer. Castellotti took a sensational pole position (4:18.1) before retiring on lap 16 with gearbox failure.
-- Mercedes Dominant 1-2: Juan Manuel Fangio and Stirling Moss took control, lapping the entire field except 3rd-place Giuseppe Farina to score a dominant Mercedes 1-2 finish.
-- Prelude to Le Mans Disaster: This race occurred six days before the 1955 24 Hours of Le Mans disaster (11 June 1955), which killed 84 spectators and led to the immediate cancellation of the French, German, Swiss, and Spanish Grands Prix.
+- **Castellotti Maiden Pole for Lancia**: Following Alberto Ascari's death 10 days earlier, Gianni Lancia withdrew the factory team, but permitted 24-year-old protégé Eugenio Castellotti to enter as a privateer. Castellotti stunned the paddock by taking pole position (4:18.100).
+- **Mercedes 1-2 Finish**: Fangio and teammate Stirling Moss dominated the race, running 1-2 throughout and finishing just 8.1 seconds apart, nearly two minutes clear of Nino Farina's Ferrari.
+- **Official Winning Time Clarification**: The exact winning race time was 2:39:29.000 (correcting truncated historical notes).
 
-## Records Set or Equalled
-- Maiden World Championship pole position for Eugenio Castellotti.
-- Mercedes scored their 3rd 1-2 finish of the 2.5L era.
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- *Spectator Attendance*: Press estimates of 65,000 spectators; unverified in official sporting records.
 
 ## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1955/races/138/belgium/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1955/4/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
+- Formula1.com Official Classification: https://www.formula1.com/en/results/1955/races/138/belgium/race-result
+- Formula1.com Official Starting Grid: https://www.formula1.com/en/results/1955/races/138/belgium/starting-grid
+- Formula1.com Official Fastest Laps: https://www.formula1.com/en/results/1955/races/138/belgium/fastest-laps
+- Jolpica-F1 API Classification: https://api.jolpi.ca/ergast/f1/1955/4/results.json
+- FIA Hall of Fame: https://www.fia.com/hall-of-fame
 
-*Last verified: 2026-10-29*
+*Audited and re-verified against primary sources: 2026-10-29*
