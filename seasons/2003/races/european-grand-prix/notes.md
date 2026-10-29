@@ -1,41 +1,40 @@
-# 2003 Mobil 1 Grand Prix de France - Race Dossier & Encyclopedia Entry
+# 2003 Allianz Grand Prix of Europe - Race Dossier & Encyclopedia Entry
 
 ## 1. Official Session Metadata
-- **Official Grand Prix Title:** Mobil 1 Grand Prix de France
+- **Official Grand Prix Title:** Allianz Grand Prix of Europe
 - **Round Number:** 9 of 16
-- **Date:** 2003-06-29
-- **Circuit Full Name:** Circuit de Nevers Magny-Cours
-- **Location:** Magny-Cours, France
-- **Circuit Length:** 4.411 km (2.741 miles)
-- **Altitude:** 220 m above sea level
-- **Official Attendance:** 80,000
+- **Date:** 2003-06-15
+- **Circuit Full Name:** Nürburgring
+- **Location:** Nürburg, Germany
+- **Circuit Length:** 5.148 km (3.199 miles)
+- **Altitude:** 620 m above sea level
 
 ---
 
 ## 2. Weather & Track Conditions
-- **Atmospheric Conditions:** Scorching midsummer heatwave, ambient 31°C, track 48°C
+- **Atmospheric Conditions:** Overcast and warm, ambient 22°C, track 31°C
 - **Track Status:** Dry / variable grip surfaces
 
 ---
 
 ## 3. Official Race Classification Summary
 - **Winner:** Ralf Schumacher (Williams-BMW)
-- **Pole Position:** Ralf Schumacher (Williams-BMW) - 1:15.019
-- **Fastest Lap:** Juan Pablo Montoya (Williams-BMW) - 1:15.512 (lap 36)
+- **Pole Position:** Kimi Räikkönen (McLaren-Mercedes) - 1:31.523
+- **Fastest Lap:** Kimi Räikkönen (McLaren-Mercedes) - 1:32.621 (lap 14)
 
 ---
 
 ## 4. Notable Scenarios & Race Dynamics
-Williams-BMW dominance reached its peak with back-to-back 1-2 finishes as Ralf Schumacher controlled the race from pole position to beat teammate Juan Pablo Montoya. Michael Schumacher finished 3rd after holding off Räikkönen.
+Kimi Räikkönen looked dominant from pole until his Mercedes engine suffered a spectacular blowout on lap 25. Ralf Schumacher capitalized to lead a Williams-BMW 1-2 ahead of Montoya. Michael Schumacher clashed with Montoya at the Dunlop hairpin, was beached in the gravel, and was pushed back onto track by marshals to finish 5th.
 
 ---
 
 ## 5. Controversies, Penalties & Stewards Decisions
-Williams team radio friction erupted between Montoya and technical chief Sam Michael over pit stop timing.
+Schumacher being pushed out of the gravel by track marshals sparked debate over external assistance rules, but the stewards ruled marshals acted legitimately for safety reasons because the car was in a hazardous zone.
 
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Mobil 1 Grand Prix de France Results](https://www.formula1.com/en/results.html/2003/races/745/france/race-result.html)
-- **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2003/9/results.json`
+- **Official Formula 1 Results Archive:** [Allianz Grand Prix of Europe Results](https://www.formula1.com/en/results/2003/races/745/europe/race-result)
+- **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2003/8/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2003)

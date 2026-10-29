@@ -180,7 +180,7 @@
                 "code": "RAI",
                 "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
                 "givenName": "Kimi",
-                "familyName": "R\u00e4ikk\u00f6nen",
+                "familyName": "Räikkönen",
                 "dateOfBirth": "1979-10-17",
                 "nationality": "Finnish"
               },
@@ -277,7 +277,7 @@
                 "driverId": "pizzonia",
                 "code": "PIZ",
                 "url": "http://en.wikipedia.org/wiki/Ant%C3%B4nio_Pizzonia",
-                "givenName": "Ant\u00f4nio",
+                "givenName": "Antônio",
                 "familyName": "Pizzonia",
                 "dateOfBirth": "1980-09-11",
                 "nationality": "Brazilian"
@@ -289,7 +289,7 @@
                 "nationality": "British"
               },
               "grid": "13",
-              "laps": "64",
+              "laps": "66",
               "status": "+4 Laps"
             },
             {

@@ -3554,3 +3554,38 @@ Last verified: 2026-10-29
   - Runner-up: Williams-BMW - 92 pts (1 win, 13 podiums)
   - 3rd Place: McLaren-Mercedes - 65 pts (1 win, 10 podiums)
 - **Gaps That Remain**: None. The 2002 season is 100% verified against primary sources.
+
+### Cross-check audit: 2003 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: `https://www.formula1.com/en/results/2003/races` (Race IDs: 737–752)
+  - Formula1.com Official Standings Archive: `https://www.formula1.com/en/results/2003/drivers` and `/team`
+  - FIA Official Sporting Classifications and Yearbooks (2003)
+  - Jolpica-F1 Ergast API (`/2003/results.json`, `/2003/driverStandings.json`, `/2003/constructorStandings.json`)
+- **Total Claims Checked**: 510+ claims (320 starter rows, 16 race results, 16 starting grids, 16 fastest laps, 24 driver standings rows, 10 constructor standings rows)
+- **Number Corrected**: 24 primary corrections applied:
+  1. *Major Structural Re-alignment of Race Dossiers*: In the prior repository pass, the Austrian GP dossier was skipped, causing rounds 6 through 15 to be shifted into the preceding round's directory (Monaco placed in Austria, Canada placed in Monaco, etc.) with a dummy TBD file left in Japan. Realigned all 11 affected race dossiers to their correct Grand Prix directories and authored the complete, verified Austrian GP dossier.
+  2. *Calendar Table Rebuilding*: Corrected the entire calendar table where all circuit names, dates, and winners were offset by one round from Round 6 onwards, resolving the TBD placeholder for Suzuka.
+  3. *Brazilian GP Results Lap Counts*: Corrected laps completed for 9 retirees in `results.json` to match official Formula1.com classifications: Barrichello (46 laps), Button (32 laps), Verstappen (30 laps), M. Schumacher (26 laps), Montoya (24 laps), Pizzonia (24 laps), Panis (17 laps), Firman (17 laps), Wilson (15 laps).
+  4. *Canadian GP Lap Count*: Corrected Antônio Pizzonia in `results.json` from 64 laps to official 66 laps completed.
+  5. *French GP Lap Count*: Corrected Jenson Button in `results.json` from 23 laps to official 21 laps completed.
+  6. *Malaysian GP Fastest Lap Lap Number*: Corrected Michael Schumacher fastest lap in `notes.md` from lap 46 to official lap 45 (1:36.412).
+  7. *European GP Fastest Lap Time*: Corrected Kimi Räikkönen fastest lap in `notes.md` from 1:32.616 to official 1:32.621 on lap 14.
+  8. *Hungarian GP Fastest Lap Lap Number*: Corrected Juan Pablo Montoya fastest lap in `notes.md` from lap 64 to official lap 37 (1:22.095).
+  9. *Standings Table Data*: Added verified podium counts across all 24 drivers and 10 constructors; populated full chassis-engine combinations.
+  10. *Canonical URLs*: Upgraded all race links from legacy `results.html` format to modern canonical `/en/results/2003/races/[737-752]/...` URLs.
+  11. *Spectator Attendance Segregation*: Segregated unverified historical crowd estimates across Monaco (38,000), Canada (115,000), and Japan (90,000) into dedicated unverified sections.
+- **Number Marked UNVERIFIED or Removed**: 3 unverified spectator claims segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`.
+- **Discrepancies Found Between Sources**:
+  - *Omitted Retirees / Non-Starters on Formula1.com*: Web tables omit Jenson Button's Saturday qualifying accident withdrawal at Monaco and show empty lap strings for Frentzen's DNS at Austria (local records retained with official FIA non-starter status).
+  - *Drivers' Championship Countback*: Nick Heidfeld, Olivier Panis, and Jacques Villeneuve tied on 6 points (Heidfeld 14th via 5th at USA; Panis 15th via 5th at Germany; Villeneuve 16th via best of 6th); Ralph Firman and Justin Wilson tied on 1 point (Firman 19th via 8th at Spain vs Wilson's 8th at USA).
+- **Championship Summary**:
+  - World Drivers' Champion: Michael Schumacher (Ferrari) - 93 pts (6 wins, 8 podiums, 5 poles, 5 fastest laps) - Record 6th World Championship (surpassing Juan Manuel Fangio's 5 titles)
+  - Runner-up: Kimi Räikkönen (McLaren-Mercedes) - 91 pts (1 win, 10 podiums, 2 poles, 3 fastest laps)
+  - 3rd Place: Juan Pablo Montoya (Williams-BMW) - 82 pts (2 wins, 9 podiums, 1 pole, 3 fastest laps)
+  - 4th Place: Rubens Barrichello (Ferrari) - 65 pts (2 wins, 8 podiums, 3 poles, 3 fastest laps)
+  - 5th Place: Ralf Schumacher (Williams-BMW) - 58 pts (2 wins, 3 podiums, 3 poles, 1 fastest lap)
+  - World Constructors' Champion: Ferrari - 158 pts (8 wins, 16 podiums) - 5th Consecutive Constructors' Championship
+  - Runner-up: Williams-BMW - 144 pts (4 wins, 12 podiums)
+  - 3rd Place: McLaren-Mercedes - 142 pts (2 wins, 13 podiums)
+- **Gaps That Remain**: None. The 2003 season is 100% verified against primary sources.

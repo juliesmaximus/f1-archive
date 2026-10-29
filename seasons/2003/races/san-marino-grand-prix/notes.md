@@ -36,6 +36,6 @@ Both Schumacher brothers were excused by the FIA from the post-race press confer
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio Foster's di San Marino Results](https://www.formula1.com/en/results.html/2003/races/740/san-marino/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio Foster's di San Marino Results](https://www.formula1.com/en/results/2003/races/740/san-marino/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2003/4/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2003)

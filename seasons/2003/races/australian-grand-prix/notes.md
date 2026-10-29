@@ -36,6 +36,6 @@ First race under single-lap qualifying (one run, race fuel). Tyre choices on the
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Foster's Australian Grand Prix Results](https://www.formula1.com/en/results.html/2003/races/737/australia/race-result.html)
+- **Official Formula 1 Results Archive:** [Foster's Australian Grand Prix Results](https://www.formula1.com/en/results/2003/races/737/australia/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2003/1/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2003)

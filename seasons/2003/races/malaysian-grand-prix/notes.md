@@ -8,7 +8,6 @@
 - **Location:** Kuala Lumpur, Malaysia
 - **Circuit Length:** 5.543 km (3.444 miles)
 - **Altitude:** 45 m above sea level
-- **Official Attendance:** 85,000
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Kimi Räikkönen (McLaren-Mercedes)
 - **Pole Position:** Fernando Alonso (Renault) - 1:37.044
-- **Fastest Lap:** Michael Schumacher (Ferrari) - 1:36.412 (lap 46)
+- **Fastest Lap:** Michael Schumacher (Ferrari) - 1:36.412 (Lap 45)
 
 ---
 
@@ -36,6 +35,6 @@ Michael Schumacher collided with Jarno Trulli at Turn 2 on the opening lap and r
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Petronas Malaysian Grand Prix Results](https://www.formula1.com/en/results.html/2003/races/738/malaysia/race-result.html)
+- **Official Formula 1 Results Archive:** [Petronas Malaysian Grand Prix Results](https://www.formula1.com/en/results/2003/races/738/malaysia/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2003/2/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2003)

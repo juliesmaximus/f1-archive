@@ -36,6 +36,6 @@ Kimi Räikkönen started from the back after crashing in qualifying and collided
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio Marlboro de España Results](https://www.formula1.com/en/results.html/2003/races/741/spain/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio Marlboro de España Results](https://www.formula1.com/en/results/2003/races/741/spain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2003/5/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2003)

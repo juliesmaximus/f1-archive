@@ -1,41 +1,40 @@
-# 2003 Allianz Grand Prix of Europe - Race Dossier & Encyclopedia Entry
+# 2003 Grand Prix Air Canada - Race Dossier & Encyclopedia Entry
 
 ## 1. Official Session Metadata
-- **Official Grand Prix Title:** Allianz Grand Prix of Europe
+- **Official Grand Prix Title:** Grand Prix Air Canada
 - **Round Number:** 8 of 16
-- **Date:** 2003-06-15
-- **Circuit Full Name:** Nürburgring
-- **Location:** Nürburg, Germany
-- **Circuit Length:** 5.148 km (3.199 miles)
-- **Altitude:** 620 m above sea level
-- **Official Attendance:** 110,000
+- **Date:** 2003-06-01
+- **Circuit Full Name:** Circuit Gilles-Villeneuve
+- **Location:** Montreal, Canada
+- **Circuit Length:** 4.361 km (2.710 miles)
+- **Altitude:** 14 m above sea level
 
 ---
 
 ## 2. Weather & Track Conditions
-- **Atmospheric Conditions:** Overcast and warm, ambient 22°C, track 31°C
+- **Atmospheric Conditions:** Clear blue skies, ambient 24°C, track 38°C
 - **Track Status:** Dry / variable grip surfaces
 
 ---
 
 ## 3. Official Race Classification Summary
-- **Winner:** Ralf Schumacher (Williams-BMW)
-- **Pole Position:** Kimi Räikkönen (McLaren-Mercedes) - 1:31.523
-- **Fastest Lap:** Kimi Räikkönen (McLaren-Mercedes) - 1:32.616 (lap 14)
+- **Winner:** Michael Schumacher (Ferrari)
+- **Pole Position:** Ralf Schumacher (Williams-BMW) - 1:15.529
+- **Fastest Lap:** Fernando Alonso (Renault) - 1:16.040 (lap 53)
 
 ---
 
 ## 4. Notable Scenarios & Race Dynamics
-Kimi Räikkönen looked dominant from pole until his Mercedes engine suffered a spectacular blowout on lap 25. Ralf Schumacher capitalized to lead a Williams-BMW 1-2 ahead of Montoya. Michael Schumacher clashed with Montoya at the Dunlop hairpin, was beached in the gravel, and was pushed back onto track by marshals to finish 5th.
+Another Schumacher brothers 1-2 finish as Michael held off Ralf, Juan Pablo Montoya, and Fernando Alonso in a four-car freight train separated by just 4.4 seconds at the checkered flag. Michael Schumacher took over the championship lead for the first time in 2003.
 
 ---
 
 ## 5. Controversies, Penalties & Stewards Decisions
-Schumacher being pushed out of the gravel by track marshals sparked debate over external assistance rules, but the stewards ruled marshals acted legitimately for safety reasons because the car was in a hazardous zone.
+Ralf Schumacher criticized Williams' pit strategy for not allowing him to attack his brother.
 
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Allianz Grand Prix of Europe Results](https://www.formula1.com/en/results.html/2003/races/744/europe/race-result.html)
-- **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2003/8/results.json`
+- **Official Formula 1 Results Archive:** [Grand Prix Air Canada Results](https://www.formula1.com/en/results/2003/races/744/canada/race-result)
+- **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2003/7/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2003)
