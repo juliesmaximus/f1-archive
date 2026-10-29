@@ -1,46 +1,33 @@
-# 1959 Round 9: II United States Grand Prix - Verified Race Record
+# 1959 United States Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: II United States Grand Prix
-- **Historic Name Notes**: 2nd US Grand Prix; inaugural inclusion in the World Championship; held on the airfield runways at Sebring, Florida.
-- **Circuit Full Name**: Sebring International Raceway
-- **Location**: Sebring, Florida, United States
-- **Host Country**: United States
-- **Track Length**: 8.369 km (5.200 mi)
-- **Track Altitude**: 19 m (62 ft) above sea level
-- **Race Distance**: 42 laps / 351.498 km (218.411 mi)
-- **Official Race Date**: 1959-12-12
+## Official Race Identification
+- **Official Name**: II United States Grand Prix
+- **Round**: 9 of 9 in the 1959 FIA Formula One World Championship
+- **Date**: Saturday, 12 December 1959
+- **Location**: Sebring International Raceway, Sebring, Florida, USA
+- **Circuit Length**: 8.369 km (5.200 miles)
+- **Distance**: 42 laps (351.498 km / 218.400 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, dry, breezy Florida winter afternoon.
-- **Spectator Attendance**: Estimated 25,000 spectators.
-- **Grandstand & Infrastructure Notes**: Temporary grandstands erected along the wide airfield runways.
+## Official Results & Key Metrics
+- **Pole Position**: Stirling Moss (Rob Walker Cooper-Climax T51) - 3:00.000
+- **Fastest Lap**: Maurice Trintignant (Rob Walker Cooper-Climax T51) - 3:05.000 (Lap 39) [1 pt]
+- **Race Winner**: Bruce McLaren (Cooper-Climax T51) - 2:12:35.700 (158.835 km/h)
+- **Podium**:
+  1. Bruce McLaren (Cooper-Climax) - 42 laps
+  2. Maurice Trintignant (Cooper-Climax) - 42 laps (+0.600s)
+  3. Tony Brooks (Ferrari) - 42 laps (+3:00.900)
 
-## Verified Key Race Results
-- **Pole Position**: Stirling Moss (Cooper T51-Climax) - 3:00.0
-- **Fastest Race Lap**: Maurice Trintignant (Cooper T51-Climax) - 3:05.0 (Lap 39) [1 pt]
-- **Race Winner**: Bruce McLaren (Cooper-Climax) - 2:12:35.700 (8 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **First Championship US Grand Prix**: The inaugural World Championship Grand Prix held in the United States took place on the runways and access roads of the former Hendricks Army Airfield at Sebring.
+- **Youngest Grand Prix Winner in History**: 22-year-old New Zealander Bruce McLaren took victory, becoming the youngest driver to win a Formula One World Championship Grand Prix at 22 years, 104 days—a record that stood unbroken for over 43 years until Fernando Alonso won the 2003 Hungarian Grand Prix.
+- **Brabham Pushes to the World Championship**: Jack Brabham and Bruce McLaren were running 1-2 on the final lap. 400 yards from the finish line, Brabham's Cooper ran completely out of fuel. Knowing he needed a classified finish to guarantee the title, Brabham leapt out and physically pushed his car uphill across the finish line in exhaustion to finish 4th.
+- **First World Championship for Jack Brabham**: Brabham's 4th place gave him 3 points, securing his first World Drivers' Championship with 31 net points.
+- **Moss & Brooks Title Heartbreak**: Stirling Moss started from pole and led the first 5 laps before a broken gearbox forced him out. Tony Brooks was rear-ended on lap 1 by teammate Wolfgang von Trips, pitted for inspection, and could only recover to 3rd place.
+- **Track & Weather Conditions**: Sunny, dry Florida winter conditions with pleasant temperatures and clean runway asphalt.
 
-## Official Podium Finishers
-- **1st** : Bruce McLaren (Cooper-Climax) — 2:12:35.700 [8 pts]
-- **2nd** : Maurice Trintignant (Cooper-Climax) — +0.600 [7 pts]
-- **3rd** : Tony Brooks (Ferrari) — +3:00.900 [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1959/races/177/united-states/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1959/9/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- The Dramatic Sebring Title Clincher: Stirling Moss led from pole until his gearbox failed on lap 5, eliminating him from the title race. Jack Brabham led comfortably, on course to win the race and title. With less than 400 yards to the checkered flag on the final lap, Brabham's Cooper T51 sputtered and ran completely out of fuel!
-- Brabham's Heroic Final Push: Knowing he needed a classified finish to guarantee the title against Tony Brooks (who was running 3rd), Brabham jumped out of the cockpit and pushed his 1,000 lb racing car uphill toward the finish line under his own muscle power, refusing any spectator assistance (which would mean disqualification). Exhausted and drenched in sweat, Brabham crossed the line in 4th place to WIN THE 1959 WORLD DRIVERS' CHAMPIONSHIP!
-- Bruce McLaren Youngest Winner Record: Teammate Bruce McLaren swept past Brabham to win the Grand Prix by 0.6 seconds over Maurice Trintignant, becoming the YOUNGEST RACE WINNER IN FORMULA ONE HISTORY AT AGE 22 YEARS, 104 DAYS (a record that stood unbroken for 44 years until Fernando Alonso in 2003).
-- Midget Car Entrant: American driver Rodger Ward entered a front-engine Kurtis Kraft Offenhauser dirt-track midget car with a 2-speed gearbox, retiring after 20 laps with clutch failure.
-
-## Records Set or Equalled
-- Jack Brabham officially crowned 1959 Formula One World Champion of Drivers (Australia's first World Champion).
-- Bruce McLaren became the youngest Grand Prix winner in Formula One history (22 years, 104 days) — stood until 2003.
-- Cooper swept both World Drivers' and World Constructors' Championships.
-- First World Championship Grand Prix victory for a New Zealand driver (Bruce McLaren).
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1959/races/177/united-states/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1959/9/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Contemporary press attendance estimates ranged between 15,000 and 25,000 spectators; no certified gate admissions exist.

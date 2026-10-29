@@ -1,43 +1,32 @@
-# 1959 Round 5: XII RAC British Grand Prix - Verified Race Record
+# 1959 British Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: XII RAC British Grand Prix
-- **Historic Name Notes**: 12th running of the RAC British Grand Prix at Aintree.
-- **Circuit Full Name**: Aintree Motor Racing Circuit
-- **Location**: Aintree, Merseyside, England, United Kingdom
-- **Host Country**: United Kingdom
-- **Track Length**: 4.828 km (3.000 mi)
-- **Track Altitude**: 20 m (66 ft) above sea level
-- **Race Distance**: 75 laps / 362.100 km (224.999 mi)
-- **Official Race Date**: 1959-07-18
+## Official Race Identification
+- **Official Name**: XII RAC British Grand Prix
+- **Round**: 5 of 9 in the 1959 FIA Formula One World Championship
+- **Date**: Saturday, 18 July 1959
+- **Location**: Aintree Motor Racing Circuit, Liverpool, United Kingdom
+- **Circuit Length**: 4.828 km (3.000 miles)
+- **Distance**: 75 laps (362.100 km / 225.000 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, dry summer afternoon.
-- **Spectator Attendance**: Over 100,000 British spectators.
-- **Grandstand & Infrastructure Notes**: Grand National horse-racing grandstands filled.
+## Official Results & Key Metrics
+- **Pole Position**: Jack Brabham (Cooper-Climax T51) - 1:58.000
+- **Fastest Lap**: Stirling Moss (BRM P25) & Bruce McLaren (Cooper-Climax T51) - 1:57.000 [0.5 pts each]
+- **Race Winner**: Jack Brabham (Cooper-Climax T51) - 2:30:11.600 (144.664 km/h)
+- **Podium**:
+  1. Jack Brabham (Cooper-Climax) - 75 laps
+  2. Stirling Moss (BRM) - 75 laps (+22.200s)
+  3. Bruce McLaren (Cooper-Climax) - 75 laps (+22.400s)
 
-## Verified Key Race Results
-- **Pole Position**: Jack Brabham (Cooper T51-Climax) - 1:58.0
-- **Fastest Race Lap**: Stirling Moss (BRM P25) & Bruce McLaren (Cooper T51-Climax) - 1:57.0 [shared 0.5 pts each]
-- **Race Winner**: Jack Brabham (Cooper-Climax) - 2:30:11.600 (8 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Brabham Dominates from Pole**: Jack Brabham took pole position and led every lap of the race in the works Cooper-Climax, claiming his second Grand Prix win of the season and extending his championship lead.
+- **Shared Fastest Lap**: Stirling Moss (driving a BRM after his Rob Walker Cooper failed in practice) and 21-year-old Bruce McLaren set identical fastest laps of 1:57.000, splitting the bonus point (0.5 points each).
+- **Cooper 1-3 Finish**: Bruce McLaren finished just 0.2 seconds behind Moss in 3rd place, scoring his first career World Championship podium finish.
+- **Italian Strike Absence**: Ferrari was forced to withdraw from the race due to a national metalworkers' strike in Italy that prevented their transport trucks from traveling to England (Tony Brooks was granted permission to race a private Vanwall instead).
+- **Track & Weather Conditions**: Very warm, sunny British summer afternoon; dry asphalt throughout.
 
-## Official Podium Finishers
-- **1st** : Jack Brabham (Cooper-Climax) — 2:30:11.600 [8 pts]
-- **2nd** : Stirling Moss (BRM) — +22.200 [6.5 pts]
-- **3rd** : Bruce McLaren (Cooper-Climax) — +22.400 [4.5 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1959/races/173/great-britain/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1959/5/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Brabham Lights-to-Flag Victory: Jack Brabham took pole position and led all 75 laps in the works Cooper T51-Climax, controlling the gap to win by 22.2 seconds over Stirling Moss (driving a works BRM P25).
-- Bruce McLaren Maiden Podium: 21-year-old New Zealander Bruce McLaren finished 3rd in the second works Cooper T51, scoring his first career World Championship podium.
-- Shared Fastest Lap: Stirling Moss and Bruce McLaren both clocked 1:57.0, splitting the fastest lap bonus point (0.5 points each).
-
-## Records Set or Equalled
-- Maiden World Championship podium for Bruce McLaren (future founder of McLaren Racing).
-- Brabham extended his World Championship lead to 13 points.
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1959/races/173/great-britain/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1959/5/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Grandstand and perimeter crowds at Aintree were reported in the press as approximately 70,000 spectators; unverified in official sporting records.

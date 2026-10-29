@@ -1,44 +1,31 @@
-# 1959 Round 7: VIII Grande Prêmio de Portugal - Verified Race Record
+# 1959 Portuguese Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: VIII Grande Prêmio de Portugal
-- **Historic Name Notes**: 8th Portuguese Grand Prix; held at the undulating Monsanto Park street circuit near Lisbon.
-- **Circuit Full Name**: Circuito de Monsanto
-- **Location**: Monsanto Forest Park, Lisbon, Portugal
-- **Host Country**: Portugal
-- **Track Length**: 5.440 km (3.380 mi)
-- **Track Altitude**: 120 m (394 ft) above sea level
-- **Race Distance**: 62 laps / 337.280 km (209.576 mi)
-- **Official Race Date**: 1959-08-23
+## Official Race Identification
+- **Official Name**: VIII Grande Prémio de Portugal
+- **Round**: 7 of 9 in the 1959 FIA Formula One World Championship
+- **Date**: Sunday, 23 August 1959
+- **Location**: Circuito de Monsanto, Lisbon, Portugal
+- **Circuit Length**: 5.440 km (3.380 miles)
+- **Distance**: 62 laps (337.280 km / 209.576 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, calm conditions through the park.
-- **Spectator Attendance**: Over 70,000 spectators.
-- **Grandstand & Infrastructure Notes**: Main grandstands along the park boulevard filled.
+## Official Results & Key Metrics
+- **Pole Position**: Stirling Moss (Rob Walker Cooper-Climax T51) - 2:02.890
+- **Fastest Lap**: Stirling Moss (Rob Walker Cooper-Climax T51) - 2:05.070 (Lap 28) [1 pt]
+- **Race Winner**: Stirling Moss (Rob Walker Cooper-Climax T51) - 2:11:55.410 (153.320 km/h)
+- **Podium**:
+  1. Stirling Moss (Cooper-Climax) - 62 laps
+  2. Masten Gregory (Cooper-Climax) - 61 laps (+1 lap)
+  3. Dan Gurney (Ferrari) - 61 laps (+1 lap)
 
-## Verified Key Race Results
-- **Pole Position**: Stirling Moss (Cooper T51-Climax) - 2:02.9
-- **Fastest Race Lap**: Stirling Moss (Cooper T51-Climax) - 2:05.1 (Lap 28) [1 pt]
-- **Race Winner**: Stirling Moss (Cooper-Climax) - 2:11:55.410 (9 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Moss's Grand Slam Demolition**: Stirling Moss delivered one of the most dominant drives of his career in the Rob Walker Cooper-Climax. He qualified on pole, led every single lap, set the fastest lap, and crossed the finish line a full lap ahead of every other competitor.
+- **Monsanto Park Street Course**: Run through the scenic parkland streets of Monsanto near Lisbon, featuring undulating tarmac, tram tracks, and tree-lined curbs.
+- **Brabham's Violent Crash**: Championship leader Jack Brabham was running 2nd on lap 24 when he clipped a telegraph pole avoiding a spinning backmarker and was thrown onto the track; he escaped without serious injury, but his DNF allowed Moss and Brooks to close in on the title.
+- **Track & Weather Conditions**: Blazing Portuguese late-summer sunshine; very high track temperatures.
 
-## Official Podium Finishers
-- **1st** : Stirling Moss (Cooper-Climax) — 2:11:55.410 [9 pts]
-- **2nd** : Masten Gregory (Cooper-Climax) — +1 Lap [6 pts]
-- **3rd** : Dan Gurney (Ferrari) — +1 Lap [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1959/races/175/portugal/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1959/7/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Stirling Moss Grand Slam: Driving Rob Walker's Cooper T51-Climax, Stirling Moss was in supreme form, taking pole position, setting fastest lap, leading all 62 laps, and lapping the ENTIRE FIELD to win by over a lap.
-- Brabham's Frightening Crash: Championship leader Jack Brabham was running 2nd when local driver Mario de Araujo Cabral spun ahead of him. Brabham clipped a telegraph pole, was thrown out of his cockpit onto the track, and narrowly avoided being hit by trailing cars.
-- Cooper Clinches Inaugural Constructors' Title: With Moss's victory and Masten Gregory finishing 2nd, Cooper mathematically secured the 1959 INTERNATIONAL CUP FOR F1 MANUFACTURERS (World Constructors' Championship).
-
-## Records Set or Equalled
-- Cooper Car Company clinched their FIRST FIA Formula One World Constructors' Championship.
-- Grand Slam for Stirling Moss (pole, win, fastest lap, led every lap, lapped entire field).
-- Sole World Championship Grand Prix held at Circuito de Monsanto.
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1959/races/175/portugal/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1959/7/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Crowd attendance estimates along the park roads were reported at 40,000 to 50,000 spectators; unverified in official sporting records.

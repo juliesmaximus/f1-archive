@@ -1,43 +1,31 @@
-# 1959 Round 8: XXX Gran Premio d'Italia - Verified Race Record
+# 1959 Italian Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: XXX Gran Premio d'Italia
-- **Historic Name Notes**: 30th Italian Grand Prix at Monza; 5.750 km road course.
-- **Circuit Full Name**: Autodromo Nazionale di Monza
-- **Location**: Monza, Lombardy, Italy
-- **Host Country**: Italy
-- **Track Length**: 5.750 km (3.573 mi)
-- **Track Altitude**: 162 m (531 ft) above sea level
-- **Race Distance**: 72 laps / 414.000 km (257.248 mi)
-- **Official Race Date**: 1959-09-13
+## Official Race Identification
+- **Official Name**: XXX Gran Premio d'Italia
+- **Round**: 8 of 9 in the 1959 FIA Formula One World Championship
+- **Date**: Sunday, 13 September 1959
+- **Location**: Autodromo Nazionale di Monza (5.750 km Road Course), Monza, Italy
+- **Circuit Length**: 5.750 km (3.573 miles)
+- **Distance**: 72 laps (414.000 km / 257.248 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, dry autumn conditions.
-- **Spectator Attendance**: Over 100,000 tifosi.
-- **Grandstand & Infrastructure Notes**: Centrale and Vedano grandstands packed.
+## Official Results & Key Metrics
+- **Pole Position**: Stirling Moss (Rob Walker Cooper-Climax T51) - 1:39.700
+- **Fastest Lap**: Phil Hill (Ferrari Dino 246) - 1:40.400 (Lap 32) [1 pt]
+- **Race Winner**: Stirling Moss (Rob Walker Cooper-Climax T51) - 2:04:05.400 (200.177 km/h)
+- **Podium**:
+  1. Stirling Moss (Cooper-Climax) - 72 laps
+  2. Phil Hill (Ferrari) - 72 laps (+46.700s)
+  3. Jack Brabham (Cooper-Climax) - 72 laps (+1:12.500)
 
-## Verified Key Race Results
-- **Pole Position**: Stirling Moss (Cooper T51-Climax) - 1:39.7
-- **Fastest Race Lap**: Phil Hill (Ferrari Dino 246) - 1:40.4 (Lap 32) [1 pt]
-- **Race Winner**: Stirling Moss (Cooper-Climax) - 2:04:05.400 (8 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Masterclass Tyre Strategy**: Knowing that Ferrari's powerful Dino 246 cars had a top-speed advantage on the Monza straights, Rob Walker and Stirling Moss gambled on running the entire 72 laps without stopping for tires or fuel. Ferrari drivers Phil Hill and Dan Gurney were forced to pit for fresh rear tires. Moss took the lead and preserved his tires to perfection, winning by 46.7 seconds over Phil Hill.
+- **Cooper Wins Manufacturers' Cup**: Cooper-Climax clinched the 1959 International Cup for F1 Manufacturers on Italian soil, marking the first time in Formula One history that a mid-engine constructor won the World Championship of Constructors.
+- **Three-Way Title Fight**: Moss's back-to-back victories in Portugal and Italy set up a thrilling three-way championship decider for the season finale at Sebring: Brabham (31 pts), Moss (25.5 pts), and Brooks (27 pts).
+- **Track & Weather Conditions**: Warm, dry Italian autumn afternoon; dry asphalt throughout.
 
-## Official Podium Finishers
-- **1st** : Stirling Moss (Cooper-Climax) — 2:04:05.400 [8 pts]
-- **2nd** : Phil Hill (Ferrari) — +46.700 [7 pts]
-- **3rd** : Jack Brabham (Cooper-Climax) — +1:12.500 [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1959/races/176/italy/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1959/8/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Moss Masterful Strategy: Rob Walker and Stirling Moss gambled on running non-stop on Dunlop tyres, while the heavier factory Ferraris (Tony Brooks, Phil Hill, Dan Gurney) were forced to pit for fresh tyres mid-race.
-- Moss Monza Victory: The strategy worked to perfection; Moss cruised to victory by 46.7 seconds over Phil Hill, keeping his championship title hopes alive heading into the American finale.
-- Three-Way Title Showdown Set: Entering the final round, three drivers were mathematically in title contention: Jack Brabham (31 pts), Stirling Moss (25.5 pts), and Tony Brooks (23 pts).
-
-## Records Set or Equalled
-- Stirling Moss won his second consecutive Grand Prix, reducing Brabham's lead to 5.5 points.
-- Non-stop mid-engine victory over front-engine power on Monza's ultra-high-speed straights.
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1959/races/176/italy/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1959/8/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Monza parkland crowd estimates exceeded 80,000 spectators; unverified in official sporting records.

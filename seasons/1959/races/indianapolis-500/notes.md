@@ -1,43 +1,32 @@
-# 1959 Round 2: XLIII Indianapolis International Motor Sweepstakes / 43rd International 500-Mile Sweepstakes - Verified Race Record
+# 1959 Indianapolis 500 - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: XLIII Indianapolis International Motor Sweepstakes / 43rd International 500-Mile Sweepstakes
-- **Historic Name Notes**: Round 2 of the 1959 FIA World Championship; USAC sanctioned.
-- **Circuit Full Name**: Indianapolis Motor Speedway
-- **Location**: Speedway, Indiana, United States
-- **Host Country**: United States
-- **Track Length**: 4.023 km (2.500 mi)
-- **Track Altitude**: 218 m (715 ft) above sea level
-- **Race Distance**: 200 laps / 804.672 km (500.000 mi)
-- **Official Race Date**: 1959-05-30
+## Official Race Identification
+- **Official Name**: XLIII Indianapolis International Motor Sweepstakes
+- **Round**: 2 of 9 in the 1959 FIA Formula One World Championship
+- **Date**: Saturday, 30 May 1959
+- **Location**: Indianapolis Motor Speedway, Speedway, Indiana, USA
+- **Circuit Length**: 4.023 km (2.500 miles)
+- **Distance**: 200 laps (804.672 km / 500.000 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, dry conditions.
-- **Spectator Attendance**: Over 180,000 spectators.
-- **Grandstand & Infrastructure Notes**: Paddock grandstands completely filled.
+## Official Results & Key Metrics
+- **Pole Position**: Johnny Thomson (Lesovsky-Offenhauser) - 4:06.590 (4-lap average; 145.908 mph)
+- **Fastest Lap**: Johnny Thomson (Lesovsky-Offenhauser) - 1:01.890 (Lap 64; 145.419 mph) [1 pt]
+- **Race Winner**: Rodger Ward (Watson-Offenhauser) - 3:40:49.200 (218.641 km/h / 135.857 mph)
+- **Podium**:
+  1. Rodger Ward (Watson-Offenhauser) - 200 laps
+  2. Jim Rathmann (Watson-Offenhauser) - 200 laps (+23.280s)
+  3. Johnny Thomson (Lesovsky-Offenhauser) - 200 laps (+50.640s)
 
-## Verified Key Race Results
-- **Pole Position**: Johnny Thomson (Lesovsky-Offenhauser) - 4:15.42 (4-lap avg: 145.908 mph)
-- **Fastest Race Lap**: Johnny Thomson (Lesovsky-Offenhauser) - 1:01.89 (145.428 mph) [Lap 64, 1 pt]
-- **Race Winner**: Rodger Ward (Watson) - 3:40:49.200 (8 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Rodger Ward's Tire Management Masterclass**: Driving for car owner Bob Wilke and legendary chief mechanic A.J. Watson, Rodger Ward executed a perfectly calculated tire-wear strategy, leading 130 laps and holding off Jim Rathmann to claim his first 500 victory.
+- **AJ Watson Roadsters Sweep Top 2**: A.J. Watson's lightweight, narrow-track roadsters finished 1st and 2nd with Ward and Rathmann.
+- **New Speed Record**: Rodger Ward set a new 500-mile race record average speed of 135.857 mph.
+- **Track & Weather Conditions**: Very hot, sunny Midwestern afternoon; ambient temperatures above 30°C; clear, dry track.
 
-## Official Podium Finishers
-- **1st** : Rodger Ward (Watson) — 3:40:49.200 [8 pts]
-- **2nd** : Jim Rathmann (Watson) — +23.280 [6 pts]
-- **3rd** : Johnny Thomson (Lesovsky) — +50.640 [5 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1959/races/170/indianapolis/race-result
+- Indianapolis Motor Speedway Official Database & Archives
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1959/2/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Rodger Ward Breakthrough Win: Driving the Leader Card 500 Roadster Watson-Offenhauser, Rodger Ward won by 23.28 seconds over Jim Rathmann, averaging a record 135.857 mph.
-- Thomson Pole & Fastest Lap: Johnny Thomson captured pole position and set the fastest lap (1:01.89), finishing 3rd despite a late-race exhaust problem.
-- Clean Race: Unlike the 1958 disaster, all 33 starters completed the opening lap safely.
-
-## Records Set or Equalled
-- First World Championship victory for Rodger Ward.
-- Record average race speed for 500 miles: 135.857 mph (218.641 km/h).
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1959/races/170/indianapolis-500/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1959/2/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Crowd estimates exceeded 180,000 to 200,000 spectators; IMS historically does not release official gate admissions.

@@ -1,46 +1,32 @@
-# 1959 Round 6: XXI Großer Preis von Deutschland / Grand Prix d'Europe - Verified Race Record
+# 1959 German Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: XXI Großer Preis von Deutschland / Grand Prix d'Europe
-- **Historic Name Notes**: 21st German Grand Prix; held at the high-speed AVUS circuit in West Berlin; designated 'Grand Prix d'Europe' for 1959.
-- **Circuit Full Name**: AVUS (Automobil-Verkehrs- und Übungsstraße)
-- **Location**: Charlottenburg-Wilmersdorf, West Berlin, West Germany
-- **Host Country**: West Germany
-- **Track Length**: 8.300 km (5.157 mi)
-- **Track Altitude**: 45 m (148 ft) above sea level
-- **Race Distance**: 60 laps / 498.000 km (309.443 mi)
-- **Official Race Date**: 1959-08-02
+## Official Race Identification
+- **Official Name**: XXI Großer Preis von Deutschland / Grand Prix d'Europe
+- **Round**: 6 of 9 in the 1959 FIA Formula One World Championship
+- **Date**: Sunday, 2 August 1959
+- **Location**: AVUS (Automobil-Verkehrs- und Übungsstraße), West Berlin, Germany
+- **Circuit Length**: 8.300 km (5.157 miles)
+- **Distance**: 60 laps run in two 30-lap heats (498.000 km / 309.442 miles aggregate)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, dry track conditions.
-- **Spectator Attendance**: Over 300,000 spectators lining the Berlin autobahn.
-- **Grandstand & Infrastructure Notes**: Massive permanent grandstand alongside the 43-degree brick-paved Nordkurve banking.
+## Official Results & Key Metrics
+- **Pole Position**: Tony Brooks (Ferrari Dino 246) - 2:05.900
+- **Fastest Lap**: Tony Brooks (Ferrari Dino 246) - 2:04.500 (Heat 1, Lap 18) [1 pt]
+- **Race Winner**: Tony Brooks (Ferrari Dino 246) - 2:09:31.600 (230.433 km/h aggregate)
+- **Podium**:
+  1. Tony Brooks (Ferrari) - 60 laps
+  2. Dan Gurney (Ferrari) - 60 laps (+0.0s aggregate / +0.3s)
+  3. Phil Hill (Ferrari) - 60 laps (+1:00.600)
 
-## Verified Key Race Results
-- **Pole Position**: Tony Brooks (Ferrari Dino 246) - 2:05.9
-- **Fastest Race Lap**: Tony Brooks (Ferrari Dino 246) - 2:04.5 (Lap 18) [1 pt]
-- **Race Winner**: Tony Brooks (Ferrari) - 2:09:31.600 (9 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Ferrari 1-2-3 Historic Sweep**: The high-speed AVUS circuit, composed of two 4 km public highway straights joined by the terrifying 43-degree brick-banked North Curve ("The Wall of Death"), favored the high-horsepower front-engine Ferrari Dino 246 cars. Ferrari completely swept the podium with Tony Brooks 1st, rookie Dan Gurney 2nd (his first career F1 podium), and Phil Hill 3rd.
+- **Two-Heat Format**: Because tires could not survive 300 miles continuously on the brutal brick banking at over 260 km/h, organizers split the race into two separate 30-lap heats, deciding the final classification by aggregate time. Brooks won both heats.
+- **Jean Behra's Fatal Crash**: The race weekend was overshadowed by tragedy. The previous day, during a support sports car race in heavy rain, Jean Behra lost control of his Porsche RSK on the slippery banking, vaulted over the top lip, and was fatally thrown against a flagpole.
+- **Hans Herrmann's Miracle Escape**: In Heat 2, Hans Herrmann suffered brake failure in his BRM at the south hairpin; the car somersaulted multiple times down the track. Herrmann was ejected from the cockpit, sliding safely down the tarmac, escaping with only minor bruises.
+- **Track & Weather Conditions**: Clear, warm summer weather; completely dry track for the Grand Prix heats.
 
-## Official Podium Finishers
-- **1st** : Tony Brooks (Ferrari) — 2:09:31.600 [9 pts]
-- **2nd** : Dan Gurney (Ferrari) — +2.900 [6 pts]
-- **3rd** : Phil Hill (Ferrari) — +1:04.800 [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1959/races/174/germany/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1959/6/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- The Lethal 43-Degree AVUS Banking: Run on the Berlin autobahn with two 4 km straights connected by the South Turn and the fearsome 43-degree brick-paved *Nordkurve* (The Wall of Death), built without any upper retaining lip or safety barriers.
-- Jean Behra Fatality: The day before the Grand Prix, popular French veteran Jean Behra lost control of his Porsche RSK sports car in wet conditions on the Nordkurve, launched over the top lip of the banking, struck a concrete flagpole base, and was killed instantly.
-- Two-Heat Format: Due to extreme centrifugal forces shredding tyres on the banking, the Grand Prix was split into two 30-lap heats, with aggregate times determining the final classification.
-- Hans Herrmann Miracle Crash: During Heat 2, Hans Herrmann's BRM suffered brake failure at the South Turn, flipped violently end-over-end down the road; Herrmann was thrown clear and slid along the track, miraculously suffering only minor bruises.
-- Ferrari 1-2-3 Clean Sweep: The raw straight-line power of the Ferrari Dino 246 V6s overwhelmed the agile Coopers. Tony Brooks won on aggregate, leading home Dan Gurney (2nd) and Phil Hill (3rd) in a complete Ferrari podium sweep.
-
-## Records Set or Equalled
-- Only World Championship Grand Prix held at the AVUS circuit in Berlin.
-- Fastest Grand Prix average speed of the front-engine era: 230.686 km/h (Tony Brooks).
-- First World Championship podium for future American icon Dan Gurney (2nd).
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1959/races/174/germany/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1959/6/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Press reports estimated between 150,000 and 200,000 spectators lined the Berlin autobahn. Unverified in official race documentation.

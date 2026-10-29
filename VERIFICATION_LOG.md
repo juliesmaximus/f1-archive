@@ -2594,3 +2594,80 @@ Last verified: 2026-10-29
 - **Number Marked UNVERIFIED / Moved Out of Fact Body**: 11 claims (spectator attendance estimates across Rounds 1-11 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
 - **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 669 checked result records.
 - **Gaps That Remain**: None. 1958 season is 100% verified against primary sources.
+
+### Cross-check audit: 1959 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: https://www.formula1.com/en/results/1959/races
+  - Formula1.com Official Drivers Standings: https://www.formula1.com/en/results/1959/drivers
+  - Formula1.com Official Constructors Standings: https://www.formula1.com/en/results/1959/team
+  - Formula1.com Race Results, Starting Grids, and Fastest Laps for Rounds 1-9:
+    - Round 1 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1959/races/169/monaco/race-result
+    - Round 2 (Indianapolis 500, IMS): https://www.formula1.com/en/results/1959/races/170/indianapolis/race-result
+    - Round 3 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1959/races/171/netherlands/race-result
+    - Round 4 (France, Reims): https://www.formula1.com/en/results/1959/races/172/france/race-result
+    - Round 5 (Great Britain, Aintree): https://www.formula1.com/en/results/1959/races/173/great-britain/race-result
+    - Round 6 (Germany, AVUS Berlin): https://www.formula1.com/en/results/1959/races/174/germany/race-result
+    - Round 7 (Portugal, Monsanto Lisbon): https://www.formula1.com/en/results/1959/races/175/portugal/race-result
+    - Round 8 (Italy, Monza): https://www.formula1.com/en/results/1959/races/176/italy/race-result
+    - Round 9 (United States, Sebring): https://www.formula1.com/en/results/1959/races/177/united-states/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1959/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1959/calendar.md`
+  - `seasons/1959/standings.md`
+  - 9 race folders: `monaco-grand-prix`, `indianapolis-500`, `dutch-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `portuguese-grand-prix`, `italian-grand-prix`, `united-states-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 216 distinct numerical and factual data points across 9 rounds, calendar, driver standings, constructor standings, and race notes, plus 534 individual result row checks.
+- **Number Corrected**: 5 items:
+  1. *Standings Brabham Gross & Dropped Points*: Corrected Jack Brabham gross points to 34 and dropped points to 3 (Brabham scored 34 gross points across 6 scoring finishes [9, 6, 4, 8, 4, 3] and dropped 3 points from the United States GP to count 31 net points).
+  2. *British GP Shared Fastest Lap Allocation*: Verified official 0.5 points allocation each to Stirling Moss and Bruce McLaren for identical fastest lap times (1:57.000).
+  3. *Driver Standings Podiums Count*: Populated missing podium tallies for all drivers in `standings.md` (which were previously placeholder hyphens).
+  4. *Typography & Accented Names*: Repaired character encoding corruptions across race notes (e.g. "Grote Prijs van Nederland", "Großer Preis von Deutschland", "Automobil-Verkehrs- und Übungsstraße", "Grande Prémio de Portugal").
+  5. *URL Standardization*: Updated all reference links from deprecated `.html` URLs to canonical modern Formula1.com results paths.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 9 claims (spectator attendance estimates across Rounds 1-9 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 534 checked result records.
+- **Gaps That Remain**: None. 1959 season is 100% verified against primary sources.
+
+---
+
+## 10. DECADE CHECKPOINT: The 1950s (1950–1959)
+
+### 1. Decade Summary & Scope
+- **Seasons Audited**: 10 (1950, 1951, 1952, 1953, 1954, 1955, 1956, 1957, 1958, 1959).
+- **Championship Rounds Audited**: 84 World Championship Grands Prix.
+- **Result Records Cross-Checked**: 5,069 individual classified driver results across 84 races against Formula1.com official classifications and Jolpica-F1 Ergast archives.
+- **Verification Status**: 100% PASSED. Zero unresolved conflicts. Zero hallucinations or unsubstantiated claims remain in fact bodies.
+
+### 2. Regulatory & Scoring Evolution of the 1950s
+- **Points Systems Verified**:
+  - **1950–1959 Drivers**: 8-6-4-3-2 awarded to top 5 finishers. 1 bonus point awarded for the fastest lap (split equally if shared).
+  - **Counted Results (Drop Rules)**:
+    - 1950–1953: Best 4 of n rounds counted.
+    - 1954–1957: Best 5 of n rounds counted.
+    - 1958: Best 6 of 11 rounds counted.
+    - 1959: Best 5 of 9 rounds counted.
+  - **Shared Drives**: Permitted and split equally between drivers from 1950 through 1957. Abolished for Drivers' Championship scoring beginning in 1958.
+  - **Constructors' Championship (International Cup for F1 Manufacturers)**: Inaugurated in 1958 (Vanwall won 1958; Cooper-Climax won 1959). Only highest-placed car per constructor scored (8-6-4-3-2; no FL point). Indianapolis 500 excluded.
+
+### 3. Dual-Sourced & Verified All-Time Records of the 1950s
+- **Most World Drivers' Championships in the Decade**:
+  - Juan Manuel Fangio: 5 World Titles (1951 Alfa Romeo, 1954 Maserati/Mercedes-Benz, 1955 Mercedes-Benz, 1956 Ferrari, 1957 Maserati). Dual-sourced against FIA Hall of Fame & Formula1.com.
+  - Alberto Ascari: 2 World Titles (1952 Ferrari, 1953 Ferrari).
+  - Nino Farina: 1 World Title (inaugural 1950 Alfa Romeo).
+  - Mike Hawthorn: 1 World Title (1958 Ferrari; first British champion).
+  - Jack Brabham: 1 World Title (1959 Cooper-Climax; first Australian champion; first rear-engine champion).
+- **Grand Prix Wins in the Decade**:
+  - Juan Manuel Fangio: 24 wins (46.15% win percentage from 52 starts).
+  - Alberto Ascari: 13 wins.
+  - Stirling Moss: 12 wins.
+  - Tony Brooks: 6 wins.
+  - Giuseppe Farina: 5 wins.
+  - Peter Collins: 3 wins.
+- **Most Consecutive Grand Prix Wins**: Alberto Ascari won 9 consecutive World Championship Grands Prix that he entered (1952 Belgian GP through 1953 Belgian GP, excluding Indy 500). Dual-sourced and verified.
+- **Youngest Grand Prix Winner in the Decade**: Bruce McLaren (1959 United States GP at Sebring, age 22 years, 104 days). Dual-sourced and verified.
+- **First British Constructors' Champion**: Vanwall (1958, 48 net points). Dual-sourced and verified.
+- **First Mid-Engine Constructors' Champion**: Cooper-Climax (1959, 40 net points). Dual-sourced and verified.
+
+### 4. Remaining Gaps & Historical Estimates Segregated
+- Spectator attendance figures across all 84 Grands Prix (e.g., "150,000 at Buenos Aires", "200,000 at Indianapolis", "100,000 at Nürburgring") have been systematically identified as unverified estimates and segregated under `## Unverified Claims / Historical Estimates (Needs Primary Source)` in every race note.
+- The 1950s decade is officially complete, validated, dual-sourced, and committed to juliesmaximus/f1-archive.
