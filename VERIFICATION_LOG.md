@@ -3392,3 +3392,64 @@ Last verified: 2026-10-29
   - Runner-up: McLaren-Mercedes - 124 pts (7 wins, 16 podiums)
   - 3rd Place: Jordan-Mugen-Honda - 61 pts (2 wins, 6 podiums) - Best season in team history
 - **Gaps That Remain**: None. The 1999 season is 100% verified against primary sources.
+
+## DECADE CHECKPOINT AUDIT: THE 1990s (1990–1999)
+
+- **Total Seasons Audited & Reconciled**: 10 (1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999)
+- **Total Championship Grands Prix Completed**: Exactly 162 Rounds
+  - 1990: 16 rounds
+  - 1991: 16 rounds
+  - 1992: 16 rounds
+  - 1993: 16 rounds
+  - 1994: 16 rounds
+  - 1995: 17 rounds
+  - 1996: 16 rounds
+  - 1997: 17 rounds
+  - 1998: 16 rounds
+  - 1999: 16 rounds
+- **Completeness Verification**:
+  - `results.json`: 162 / 162 files verified, dual-sourced, and validated (100%)
+  - `qualifying.json`: 162 / 162 files verified and validated (100%)
+  - `notes.md`: 162 / 162 verified dossiers with coordinates, weather, regulations, primary source citations, modern canonical URLs, and segregated unverified spectator attendance sections (100%)
+  - `calendar.md`: 10 / 10 seasons populated with verified winning times, pole times, and fastest lap times (100%)
+  - `standings.md`: 10 / 10 seasons populated with complete verified tables, driver points, podium counts, wins, poles, fastest laps, constructor chassis-engine combinations, and regulatory rules (100%)
+
+- **World Drivers' Champions of the 1990s**:
+  1. 1990: Ayrton Senna (McLaren-Honda) - 78 pts (Senna's 2nd World Championship; Suzuka Turn 1 collision with Prost)
+  2. 1991: Ayrton Senna (McLaren-Honda) - 96 pts (Senna's 3rd World Championship; youngest 3-time champion at the time)
+  3. 1992: Nigel Mansell (Williams-Renault) - 108 pts (Mansell's maiden World Championship; record 14 pole positions and 9 race wins)
+  4. 1993: Alain Prost (Williams-Renault) - 99 pts (Prost's 4th World Championship; retired with all-time record 51 Grand Prix wins)
+  5. 1994: Michael Schumacher (Benetton-Ford) - 92 pts (Schumacher's maiden World Championship; Adelaide collision with Hill)
+  6. 1995: Michael Schumacher (Benetton-Renault) - 102 pts (Schumacher's 2nd World Championship; matched Mansell's record 9 wins; Benetton's maiden WCC)
+  7. 1996: Damon Hill (Williams-Renault) - 97 pts (Hill's maiden World Championship; first father-and-son champions in F1 history with Graham Hill)
+  8. 1997: Jacques Villeneuve (Williams-Renault) - 81 pts (Villeneuve's maiden World Championship in sophomore season; Schumacher disqualified from championship classification)
+  9. 1998: Mika Häkkinen (McLaren-Mercedes) - 100 pts (Häkkinen's maiden World Championship; debut of narrow track and grooved tyres)
+  10. 1999: Mika Häkkinen (McLaren-Mercedes) - 76 pts (Häkkinen's 2nd consecutive World Championship; Ferrari claims first WCC in 16 years)
+
+- **World Constructors' Champions of the 1990s**:
+  1. 1990: McLaren-Honda - 121 pts (6 wins, 18 podiums)
+  2. 1991: McLaren-Honda - 139 pts (8 wins, 18 podiums)
+  3. 1992: Williams-Renault - 164 pts (10 wins, 21 podiums)
+  4. 1993: Williams-Renault - 168 pts (10 wins, 22 podiums)
+  5. 1994: Williams-Renault - 118 pts (7 wins, 12 podiums)
+  6. 1995: Benetton-Renault - 137 pts (11 wins, 15 podiums; post-appeal net score)
+  7. 1996: Williams-Renault - 175 pts (12 wins, 21 podiums)
+  8. 1997: Williams-Renault - 123 pts (8 wins, 15 podiums)
+  9. 1998: McLaren-Mercedes - 156 pts (9 wins, 20 podiums)
+  10. 1999: Ferrari - 128 pts (6 wins, 17 podiums; first WCC since 1983)
+
+- **All-Time Records & Critical Discrepancies Resolved**:
+  - *Nigel Mansell's Dominant 1992*: Re-verified 14 pole positions (standing as an all-time record until 2011) and 9 wins in a single season.
+  - *Alain Prost's Career Pinnacle*: Re-verified Prost's 51st career Grand Prix win (Germany 1993) and retirement tally of 51 wins, which stood as the all-time record until 2001.
+  - *Michael Schumacher Single-Season Wins Record (1995)*: Re-verified Schumacher matching Mansell's record of 9 wins in a 17-race season.
+  - *First Father-Son Champions*: Damon Hill (1996) verified as the first son of a World Champion (Graham Hill, 1962 & 1968) to win the title.
+  - *Jacques Villeneuve Rookie & Sophomore Records*: Confirmed 4 wins in debut 1996 season and 1997 Drivers' Championship in his 33rd Grand Prix start.
+  - *1997 Jerez Triple Pole Position Tie*: Verified to the thousandth of a second (1:21.072) between Jacques Villeneuve, Michael Schumacher, and Heinz-Harald Frentzen.
+  - *1997 Schumacher Season Disqualification*: Confirmed Schumacher was stripped of 2nd place in the Drivers' Championship for the Jerez collision, while retaining his 78 points towards Ferrari's Constructors' tally (102 pts).
+  - *1995 Brazilian GP Fuel Appeal Reversal*: Re-verified Constructors' points deduction for Benetton and Williams (leaving Benetton on 137 pts and Williams on 112 pts) while drivers retained points.
+  - *1998 British GP Fastest Lap Correction*: Corrected historical error attributing fastest lap to Mika Häkkinen; primary records confirm Michael Schumacher set the fastest lap (1:35.704 on lap 12).
+  - *1999 Monaco GP Fastest Lap Correction*: Corrected historical error attributing fastest lap to Jarno Trulli; primary records confirm Mika Häkkinen set the fastest lap (1:22.259 on lap 67).
+  - *1994 Australian GP Championship Decider*: Dual-source re-verification of the lap 36 collision between Schumacher and Hill at East Terrace corner in Adelaide.
+  - *Modern Canonical URLs*: Upgraded all 162 race dossiers in the 1990s from legacy `.html` links to canonical Formula1.com URLs.
+
+- **Seasons with Gaps or Unresolved Conflicts**: None. All 10 seasons (1990–1999) and 162 Grands Prix are fully verified against Formula1.com and FIA primary sources.
