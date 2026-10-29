@@ -2,27 +2,28 @@
 
 - **Circuit**: Silverstone Circuit, Silverstone, UK
 - **Date**: 2023-07-09
-- **Winner**: Max Verstappen (Red Bull)
+- **Winner**: Max Verstappen (Red Bull Racing Honda RBPT)
 - **Winning Grid Position**: P1
-- **Official Fastest Lap**: 1:30.275 (Lap 42, Max Verstappen, Red Bull)
+- **Pole Position**: Max Verstappen (Red Bull Racing Honda RBPT, 1:26.720)
+- **Official Fastest Lap**: 1:30.275 (Lap 42, Max Verstappen, Red Bull Racing Honda RBPT)
 
 ### Classified Top 10 Finishers & Points
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Pts |
 | :---: | :---: | :--- | :--- | :---: | :--- | :---: |
-| 1 | #1 | Max Verstappen | Red Bull | 52 | 1:25:16.938 | 26 |
-| 2 | #4 | Lando Norris | McLaren | 52 | +3.798 | 18 |
-| 3 | #44 | Lewis Hamilton | Mercedes | 52 | +6.783 | 15 |
-| 4 | #81 | Oscar Piastri | McLaren | 52 | +7.776 | 12 |
-| 5 | #63 | George Russell | Mercedes | 52 | +11.206 | 10 |
-| 6 | #11 | Sergio Pérez | Red Bull | 52 | +12.882 | 8 |
-| 7 | #14 | Fernando Alonso | Aston Martin | 52 | +17.193 | 6 |
-| 8 | #23 | Alexander Albon | Williams | 52 | +17.878 | 4 |
-| 9 | #16 | Charles Leclerc | Ferrari | 52 | +18.689 | 2 |
-| 10 | #55 | Carlos Sainz | Ferrari | 52 | +19.448 | 1 |
+| 1 | #1 | Max Verstappen | Red Bull Racing Honda RBPT | 52 | 1:25:16.938 | 26 |
+| 2 | #4 | Lando Norris | McLaren Mercedes | 52 | +3.798s | 18 |
+| 3 | #44 | Lewis Hamilton | Mercedes | 52 | +6.783s | 15 |
+| 4 | #81 | Oscar Piastri | McLaren Mercedes | 52 | +7.776s | 12 |
+| 5 | #63 | George Russell | Mercedes | 52 | +11.206s | 10 |
+| 6 | #11 | Sergio Perez | Red Bull Racing Honda RBPT | 52 | +12.882s | 8 |
+| 7 | #14 | Fernando Alonso | Aston Martin Aramco Mercedes | 52 | +17.193s | 6 |
+| 8 | #23 | Alexander Albon | Williams Mercedes | 52 | +17.878s | 4 |
+| 9 | #16 | Charles Leclerc | Ferrari | 52 | +18.689s | 2 |
+| 10 | #55 | Carlos Sainz | Ferrari | 52 | +19.448s | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2023/races/10/british-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2023/races/1214/great-britain/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2023/10/results.json
 
-Last verified: 2026-10-28
+Last verified: 2026-10-29
