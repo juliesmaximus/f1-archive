@@ -18,7 +18,7 @@
           "Circuit": {
             "circuitId": "jacarepagua",
             "url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Internacional_Nelson_Piquet",
-            "circuitName": "Aut\u00f3dromo Internacional Nelson Piquet",
+            "circuitName": "Autódromo Internacional Nelson Piquet",
             "Location": {
               "lat": "-22.9756",
               "long": "-43.395",
@@ -90,7 +90,7 @@
               "Driver": {
                 "driverId": "gugelmin",
                 "url": "http://en.wikipedia.org/wiki/Maur%C3%ADcio_Gugelmin",
-                "givenName": "Maur\u00edcio",
+                "givenName": "Maurício",
                 "familyName": "Gugelmin",
                 "dateOfBirth": "1963-04-20",
                 "nationality": "Brazilian"
@@ -377,7 +377,7 @@
             {
               "number": "6",
               "position": "15",
-              "positionText": "15",
+              "positionText": "NC",
               "points": "0",
               "Driver": {
                 "driverId": "patrese",
@@ -395,7 +395,7 @@
               },
               "grid": "2",
               "laps": "51",
-              "status": "Alternator"
+              "status": "Not classified"
             },
             {
               "number": "10",
@@ -636,7 +636,7 @@
                 "driverId": "sala",
                 "url": "http://en.wikipedia.org/wiki/Luis_Perez-Sala",
                 "givenName": "Luis",
-                "familyName": "P\u00e9rez-Sala",
+                "familyName": "Pérez-Sala",
                 "dateOfBirth": "1959-05-15",
                 "nationality": "Spanish"
               },

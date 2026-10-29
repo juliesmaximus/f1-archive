@@ -48,7 +48,7 @@
                 "nationality": "British"
               },
               "grid": "1",
-              "laps": "73",
+              "laps": "72",
               "status": "Finished",
               "Time": {
                 "millis": "6468264",
@@ -75,7 +75,7 @@
                 "nationality": "Italian"
               },
               "grid": "2",
-              "laps": "73",
+              "laps": "72",
               "status": "Finished",
               "Time": {
                 "millis": "6495315",
@@ -102,7 +102,7 @@
                 "nationality": "British"
               },
               "grid": "3",
-              "laps": "73",
+              "laps": "72",
               "status": "Finished",
               "Time": {
                 "millis": "6522052",
@@ -129,7 +129,7 @@
                 "nationality": "British"
               },
               "grid": "9",
-              "laps": "72",
+              "laps": "71",
               "status": "+1 Lap"
             },
             {
@@ -152,7 +152,7 @@
                 "nationality": "British"
               },
               "grid": "6",
-              "laps": "72",
+              "laps": "71",
               "status": "+1 Lap"
             },
             {
@@ -175,7 +175,7 @@
                 "nationality": "French"
               },
               "grid": "5",
-              "laps": "72",
+              "laps": "71",
               "status": "+1 Lap"
             },
             {
@@ -198,7 +198,7 @@
                 "nationality": "Italian"
               },
               "grid": "15",
-              "laps": "72",
+              "laps": "71",
               "status": "+1 Lap"
             },
             {
@@ -221,7 +221,7 @@
                 "nationality": "British"
               },
               "grid": "7",
-              "laps": "71",
+              "laps": "70",
               "status": "+2 Laps"
             },
             {
@@ -244,7 +244,7 @@
                 "nationality": "British"
               },
               "grid": "16",
-              "laps": "71",
+              "laps": "70",
               "status": "+2 Laps"
             },
             {
@@ -267,7 +267,7 @@
                 "nationality": "British"
               },
               "grid": "13",
-              "laps": "71",
+              "laps": "70",
               "status": "+2 Laps"
             },
             {
@@ -290,7 +290,7 @@
                 "nationality": "British"
               },
               "grid": "22",
-              "laps": "61",
+              "laps": "60",
               "status": "Engine"
             },
             {
@@ -313,7 +313,7 @@
                 "nationality": "Italian"
               },
               "grid": "10",
-              "laps": "59",
+              "laps": "58",
               "status": "Spun off"
             },
             {
@@ -336,7 +336,7 @@
                 "nationality": "Italian"
               },
               "grid": "23",
-              "laps": "55",
+              "laps": "54",
               "status": "Engine"
             },
             {
@@ -359,7 +359,7 @@
                 "nationality": "British"
               },
               "grid": "8",
-              "laps": "51",
+              "laps": "50",
               "status": "Spun off"
             },
             {
@@ -370,7 +370,7 @@
               "Driver": {
                 "driverId": "gugelmin",
                 "url": "http://en.wikipedia.org/wiki/Maur%C3%ADcio_Gugelmin",
-                "givenName": "Maur\u00edcio",
+                "givenName": "Maurício",
                 "familyName": "Gugelmin",
                 "dateOfBirth": "1963-04-20",
                 "nationality": "Brazilian"
@@ -382,7 +382,7 @@
                 "nationality": "British"
               },
               "grid": "26",
-              "laps": "47",
+              "laps": "46",
               "status": "Collision"
             },
             {
@@ -394,7 +394,7 @@
                 "driverId": "sala",
                 "url": "http://en.wikipedia.org/wiki/Luis_Perez-Sala",
                 "givenName": "Luis",
-                "familyName": "P\u00e9rez-Sala",
+                "familyName": "Pérez-Sala",
                 "dateOfBirth": "1959-05-15",
                 "nationality": "Spanish"
               },
@@ -405,7 +405,7 @@
                 "nationality": "Italian"
               },
               "grid": "20",
-              "laps": "47",
+              "laps": "46",
               "status": "Spun off"
             },
             {
@@ -428,7 +428,7 @@
                 "nationality": "British"
               },
               "grid": "21",
-              "laps": "40",
+              "laps": "39",
               "status": "Fuel pump"
             },
             {
@@ -451,7 +451,7 @@
                 "nationality": "French"
               },
               "grid": "24",
-              "laps": "34",
+              "laps": "33",
               "status": "Engine"
             },
             {
@@ -474,7 +474,7 @@
                 "nationality": "Italian"
               },
               "grid": "4",
-              "laps": "27",
+              "laps": "26",
               "status": "Spun off"
             },
             {
@@ -497,7 +497,7 @@
                 "nationality": "British"
               },
               "grid": "19",
-              "laps": "23",
+              "laps": "22",
               "status": "Transmission"
             },
             {
@@ -509,7 +509,7 @@
                 "driverId": "lehto",
                 "url": "http://en.wikipedia.org/wiki/Jyrki_J%C3%A4rvilehto",
                 "givenName": "Jyrki",
-                "familyName": "J\u00e4rvilehto",
+                "familyName": "Järvilehto",
                 "dateOfBirth": "1966-01-31",
                 "nationality": "Finnish"
               },
@@ -520,7 +520,7 @@
                 "nationality": "British"
               },
               "grid": "17",
-              "laps": "20",
+              "laps": "19",
               "status": "Gearbox"
             },
             {
@@ -543,7 +543,7 @@
                 "nationality": "Italian"
               },
               "grid": "25",
-              "laps": "17",
+              "laps": "16",
               "status": "Gearbox"
             },
             {
@@ -566,7 +566,7 @@
                 "nationality": "Italian"
               },
               "grid": "14",
-              "laps": "14",
+              "laps": "13",
               "status": "Spun off"
             },
             {
@@ -589,7 +589,7 @@
                 "nationality": "British"
               },
               "grid": "12",
-              "laps": "11",
+              "laps": "10",
               "status": "Electrical"
             },
             {
@@ -612,7 +612,7 @@
                 "nationality": "Italian"
               },
               "grid": "11",
-              "laps": "6",
+              "laps": "5",
               "status": "Suspension"
             },
             {

@@ -1,79 +1,83 @@
-# 1989 FIA Formula 1 World Championship - Final Standings
+# Formula 1 World Championship Season 1989 - Final Standings
 
-## World Drivers' Championship (WDC)
-*Scoring system: 9-6-4-3-2-1 for top 6 finishers. Only the best 11 results counted toward the Drivers' Championship.*
+## World Drivers' Championship
 
-| Pos | Driver | Nationality | Constructor | Wins | Podiums | Counted Points | Gross Points |
-|:---:|:---|:---|:---|:---:|:---:|:---:|:---:|
-| 1 | Alain Prost | French | McLaren | 4 | - | **76** | 81 (5 dropped) |
-| 2 | Ayrton Senna | Brazilian | McLaren | 6 | - | **60** | 60 |
-| 3 | Riccardo Patrese | Italian | Williams | 0 | - | **40** | 40 |
-| 4 | Nigel Mansell | British | Ferrari | 2 | - | **38** | 38 |
-| 5 | Thierry Boutsen | Belgian | Williams | 2 | - | **37** | 37 |
-| 6 | Alessandro Nannini | Italian | Benetton | 1 | - | **32** | 32 |
-| 7 | Gerhard Berger | Austrian | Ferrari | 1 | - | **21** | 21 |
-| 8 | Nelson Piquet | Brazilian | Team Lotus | 0 | - | **12** | 12 |
-| 9 | Jean Alesi | French | Tyrrell | 0 | - | **8** | 8 |
-| 10 | Derek Warwick | British | Arrows | 0 | - | **7** | 7 |
-| 11 | Eddie Cheever | American | Arrows | 0 | - | **6** | 6 |
-| 12 | Stefan Johansson | Swedish | Onyx | 0 | - | **6** | 6 |
-| 13 | Michele Alboreto | Italian | Tyrrell | 0 | - | **6** | 6 |
-| 14 | Johnny Herbert | British | Benetton | 0 | - | **5** | 5 |
-| 15 | Pierluigi Martini | Italian | Minardi | 0 | - | **5** | 5 |
-| 16 | Maurício Gugelmin | Brazilian | March | 0 | - | **4** | 4 |
-| 17 | Andrea de Cesaris | Italian | Dallara | 0 | - | **4** | 4 |
-| 18 | Stefano Modena | Italian | Brabham | 0 | - | **4** | 4 |
-| 19 | Alex Caffi | Italian | Dallara | 0 | - | **4** | 4 |
-| 20 | Martin Brundle | British | Brabham | 0 | - | **4** | 4 |
-| 21 | Satoru Nakajima | Japanese | Team Lotus | 0 | - | **3** | 3 |
-| 22 | Christian Danner | German | Rial | 0 | - | **3** | 3 |
-| 23 | Emanuele Pirro | Italian | Benetton | 0 | - | **2** | 2 |
-| 24 | René Arnoux | French | Ligier | 0 | - | **2** | 2 |
-| 25 | Jonathan Palmer | British | Tyrrell | 0 | - | **2** | 2 |
-| 26 | Olivier Grouillard | French | Ligier | 0 | - | **1** | 1 |
-| 27 | Gabriele Tarquini | Italian | AGS | 0 | - | **1** | 1 |
-| 28 | Luis Pérez-Sala | Spanish | Minardi | 0 | - | **1** | 1 |
-| 29 | Philippe Alliot | French | Larrousse | 0 | - | **1** | 1 |
-| - | Ivan Capelli | Italian | March | 0 | - | **0** | 0 |
+The 1989 FIA Formula One World Drivers' Championship was decided by the best 11 results out of 16 rounds. Points were awarded to the top six finishers on a 9-6-4-3-2-1 basis.
 
----
+Alain Prost captured his third World Drivers' Championship driving the McLaren MP4/5 Honda V10, scoring 76 net points (81 gross) with 4 victories and 11 podium finishes. Teammate Ayrton Senna finished runner-up with 60 points (6 victories, 7 podiums, 13 poles) after his disqualification from the Japanese Grand Prix following the infamous Casino Chicane collision with Prost. Riccardo Patrese finished 3rd with 40 points for Williams-Renault, edging Nigel Mansell (38 points, 2 victories for Ferrari) and teammate Thierry Boutsen (37 points, 2 victories).
 
-## World Constructors' Championship (WCC)
-*All results counted towards the Constructors' Championship.*
-
-| Pos | Constructor | Nationality | Wins | Points |
-|:---:|:---|:---|:---:|:---:|
-| 1 | McLaren | British | 10 | **141** |
-| 2 | Williams | British | 2 | **77** |
-| 3 | Ferrari | Italian | 3 | **59** |
-| 4 | Benetton | Italian | 1 | **39** |
-| 5 | Tyrrell | British | 0 | **16** |
-| 6 | Team Lotus | British | 0 | **15** |
-| 7 | Arrows | British | 0 | **13** |
-| 8 | Dallara | Italian | 0 | **8** |
-| 9 | Brabham | British | 0 | **8** |
-| 10 | Onyx | British | 0 | **6** |
-| 11 | Minardi | Italian | 0 | **6** |
-| 12 | March | British | 0 | **4** |
-| 13 | Rial | German | 0 | **3** |
-| 14 | Ligier | French | 0 | **3** |
-| 15 | AGS | French | 0 | **1** |
-| 16 | Larrousse | French | 0 | **1** |
-| - | Osella | Italian | 0 | **0** |
-| - | Coloni | Italian | 0 | **0** |
-| - | Zakspeed | German | 0 | **0** |
+| Position | Driver | Nationality | Constructor / Engine | Points (Net / Gross) | Wins | Podiums | Poles | Fastest Laps |
+|:---:|:---|:---|:---|:---:|:---:|:---:|:---:|:---:|
+| 1 | Alain Prost | French | McLaren-Honda | **76 (81)** | 4 | 11 | 2 | 5 |
+| 2 | Ayrton Senna | Brazilian | McLaren-Honda | **60** | 6 | 7 | 13 | 3 |
+| 3 | Riccardo Patrese | Italian | Williams-Renault | **40** | 0 | 6 | 1 | 1 |
+| 4 | Nigel Mansell | British | Ferrari | **38** | 2 | 6 | 0 | 3 |
+| 5 | Thierry Boutsen | Belgian | Williams-Renault | **37** | 2 | 5 | 0 | 0 |
+| 6 | Alessandro Nannini | Italian | Benetton-Ford | **32** | 1 | 4 | 0 | 0 |
+| 7 | Gerhard Berger | Austrian | Ferrari | **21** | 1 | 3 | 0 | 1 |
+| 8 | Nelson Piquet | Brazilian | Lotus-Judd | **12** | 0 | 0 | 0 | 0 |
+| 9 | Jean Alesi | French | Tyrrell-Ford | **8** | 0 | 0 | 0 | 0 |
+| 10 | Derek Warwick | British | Arrows-Ford | **7** | 0 | 0 | 0 | 0 |
+| 11 | Eddie Cheever | American | Arrows-Ford | **6** | 0 | 1 | 0 | 0 |
+| 12 | Stefan Johansson | Swedish | Onyx-Ford | **6** | 0 | 1 | 0 | 0 |
+| 13 | Michele Alboreto | Italian | Tyrrell-Ford / Larrousse Lola-Lamborghini | **6** | 0 | 1 | 0 | 0 |
+| 14 | Johnny Herbert | British | Benetton-Ford / Tyrrell-Ford | **5** | 0 | 0 | 0 | 0 |
+| 15 | Pierluigi Martini | Italian | Minardi-Ford | **5** | 0 | 0 | 0 | 0 |
+| 16 | Maurício Gugelmin | Brazilian | March-Judd | **4** | 0 | 1 | 0 | 1 |
+| 17 | Andrea de Cesaris | Italian | Dallara-Ford | **4** | 0 | 1 | 0 | 0 |
+| 18 | Stefano Modena | Italian | Brabham-Judd | **4** | 0 | 1 | 0 | 0 |
+| 19 | Alex Caffi | Italian | Dallara-Ford | **4** | 0 | 0 | 0 | 0 |
+| 20 | Martin Brundle | British | Brabham-Judd | **4** | 0 | 0 | 0 | 0 |
+| 21 | Satoru Nakajima | Japanese | Lotus-Judd | **3** | 0 | 0 | 0 | 1 |
+| 22 | Christian Danner | German | Rial-Ford | **3** | 0 | 0 | 0 | 0 |
+| 23 | Emanuele Pirro | Italian | Benetton-Ford | **2** | 0 | 0 | 0 | 0 |
+| 24 | René Arnoux | French | Ligier-Ford | **2** | 0 | 0 | 0 | 0 |
+| 25 | Jonathan Palmer | British | Tyrrell-Ford | **2** | 0 | 0 | 0 | 1 |
+| 26 | Olivier Grouillard | French | Ligier-Ford | **1** | 0 | 0 | 0 | 0 |
+| 27 | Gabriele Tarquini | Italian | AGS-Ford | **1** | 0 | 0 | 0 | 0 |
+| 28 | Luis Pérez-Sala | Spanish | Minardi-Ford | **1** | 0 | 0 | 0 | 0 |
+| 29 | Philippe Alliot | French | Larrousse Lola-Lamborghini | **1** | 0 | 0 | 0 | 0 |
+| - | Ivan Capelli | Italian | March-Judd | **0** | 0 | 0 | 0 | 0 |
+| - | Éric Bernard | French | Larrousse Lola-Lamborghini | **0** | 0 | 0 | 0 | 0 |
+| - | Bertrand Gachot | Belgian | Onyx-Ford / Rial-Ford | **0** | 0 | 0 | 0 | 0 |
+| - | Nicola Larini | Italian | Osella-Ford | **0** | 0 | 0 | 0 | 0 |
+| - | Martin Donnelly | British | Arrows-Ford | **0** | 0 | 0 | 0 | 0 |
+| - | Roberto Moreno | Brazilian | Coloni-Ford | **0** | 0 | 0 | 0 | 0 |
+| - | Piercarlo Ghinzani | Italian | Osella-Ford | **0** | 0 | 0 | 0 | 0 |
+| - | Bernd Schneider | German | Zakspeed-Yamaha | **0** | 0 | 0 | 0 | 0 |
+| - | JJ Lehto | Finnish | Onyx-Ford | **0** | 0 | 0 | 0 | 0 |
+| - | Yannick Dalmas | French | Larrousse Lola-Lamborghini / AGS-Ford | **0** | 0 | 0 | 0 | 0 |
+| - | Paolo Barilla | Italian | Minardi-Ford | **0** | 0 | 0 | 0 | 0 |
+| - | Volker Weidler | German | Rial-Ford | **0** | 0 | 0 | 0 | 0 |
+| - | Gregor Foitek | Swiss | EuroBrun-Judd / Rial-Ford | **0** | 0 | 0 | 0 | 0 |
+| - | Aguri Suzuki | Japanese | Zakspeed-Yamaha | **0** | 0 | 0 | 0 | 0 |
+| - | Pierre-Henri Raphanel | French | Coloni-Ford / Rial-Ford | **0** | 0 | 0 | 0 | 0 |
 
 ---
 
-## Championship Nuances & Regulatory Milestones
-- **The Ban on Turbochargers:** Turbocharged engines were completely banned for 1989, ending the first turbo era. All competitors were required to use 3.5-litre naturally aspirated engines (atmospheric) with up to 12 cylinders.
-- **The First Semi-Automatic Gearbox:** Ferrari introduced the John Barnard-designed 640 equipped with electro-hydraulic paddle shifters on the steering wheel. Nigel Mansell won on its debut in Brazil, proving the concept that became the universal standard for all modern racing transmissions.
-- **The Suzuka Collision & Disqualification:** The championship was decided in dramatic fashion when teammates Alain Prost and Ayrton Senna collided at the Casino Triangle chicane on lap 46. While Prost retired on the spot, Senna was push-started by marshals and went on to win the race, but was subsequently disqualified for cutting the chicane, handing the title to Prost.
-- **Prost's Third Crown:** Alain Prost became a three-time World Champion (1985, 1986, 1989), matching Jack Brabham, Jackie Stewart, Niki Lauda, and Nelson Piquet.
+## World Constructors' Championship (International Cup for F1 Constructors)
 
----
+All results counted towards the World Constructors' Championship. McLaren-Honda defended their crown with 141 points (10 victories) ahead of Williams-Renault (77 points, 2 victories) and Scuderia Ferrari (59 points, 3 victories).
 
-## Primary Verification Sources
-- FIA Official Formula 1 World Championship Classifications (1989)
-- Formula 1 Official Results Archive: `https://www.formula1.com/en/results.html/1989/`
-- Jolpica-F1 Ergast API Standings: `https://api.jolpi.ca/ergast/f1/1989/driverStandings.json`
+| Position | Constructor | Engine | Points | Wins | Podiums | Poles |
+|:---:|:---|:---|:---:|:---:|:---:|:---:|
+| 1 | McLaren | Honda RA109E 3.5 V10 | **141** | 10 | 18 | 15 |
+| 2 | Williams | Renault RS1 3.5 V10 | **77** | 2 | 11 | 1 |
+| 3 | Ferrari | Ferrari 035/5 3.5 V12 | **59** | 3 | 9 | 0 |
+| 4 | Benetton | Ford HBA1/HBA4 3.5 V8 | **39** | 1 | 4 | 0 |
+| 5 | Tyrrell | Ford Cosworth DFR 3.5 V8 | **16** | 0 | 1 | 0 |
+| 6 | Lotus | Judd CV 3.5 V8 | **15** | 0 | 0 | 0 |
+| 7 | Arrows | Ford Cosworth DFR 3.5 V8 | **13** | 0 | 1 | 0 |
+| 8 | Dallara | Ford Cosworth DFR 3.5 V8 | **8** | 0 | 1 | 0 |
+| 9 | Brabham | Judd EV 3.5 V8 | **8** | 0 | 1 | 0 |
+| 10 | Onyx | Ford Cosworth DFR 3.5 V8 | **6** | 0 | 1 | 0 |
+| 11 | Minardi | Ford Cosworth DFR 3.5 V8 | **6** | 0 | 0 | 0 |
+| 12 | March | Judd EV 3.5 V8 | **4** | 0 | 1 | 0 |
+| 13 | Rial | Ford Cosworth DFR 3.5 V8 | **3** | 0 | 0 | 0 |
+| 14 | Ligier | Ford Cosworth DFR 3.5 V8 | **3** | 0 | 0 | 0 |
+| 15 | AGS | Ford Cosworth DFR 3.5 V8 | **1** | 0 | 0 | 0 |
+| 16 | Larrousse Lola | Lamborghini 3512 3.5 V12 | **1** | 0 | 0 | 0 |
+| - | Osella | Ford Cosworth DFR 3.5 V8 | **0** | 0 | 0 | 0 |
+| - | Coloni | Ford Cosworth DFR 3.5 V8 | **0** | 0 | 0 | 0 |
+| - | Zakspeed | Yamaha OX88 3.5 V8 | **0** | 0 | 0 | 0 |
+| - | EuroBrun | Judd CV 3.5 V8 | **0** | 0 | 0 | 0 |

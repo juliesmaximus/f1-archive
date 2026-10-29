@@ -1,30 +1,29 @@
-# 1989 FIA Formula 1 World Championship - Season Calendar
+# Formula 1 World Championship Season 1989 - Calendar
 
-The 1989 FIA Formula 1 World Championship consisted of 16 rounds across 5 continents, running from March 26 to November 5, 1989.
+The 1989 Formula One season was the 40th season of FIA Formula One motor racing. It consisted of 16 championship rounds between March 26 and November 5, 1989.
 
-| Rnd | Official Grand Prix Name | Circuit | Location | Date | Winner | Pole Position | Fastest Lap |
-|:---:|:---|:---|:---|:---|:---|:---|:---|
-| 1 | [Brazilian Grand Prix](races/brazilian-grand-prix/notes.md) | Autódromo Internacional Nelson Piquet (Jacarepaguá) | Rio de Janeiro, Brazil | 1989-03-26 | Nigel Mansell | Ayrton Senna | Riccardo Patrese |
-| 2 | [San Marino Grand Prix](races/san-marino-grand-prix/notes.md) | Autodromo Dino Ferrari | Imola, Italy | 1989-04-23 | Ayrton Senna | Ayrton Senna | Alain Prost |
-| 3 | [Monaco Grand Prix](races/monaco-grand-prix/notes.md) | Circuit de Monaco | Monte Carlo, Monaco | 1989-05-07 | Ayrton Senna | Ayrton Senna | Alain Prost |
-| 4 | [Mexican Grand Prix](races/mexican-grand-prix/notes.md) | Autódromo Hermanos Rodríguez | Mexico City, Mexico | 1989-05-28 | Ayrton Senna | Ayrton Senna | Nigel Mansell |
-| 5 | [United States Grand Prix](races/united-states-grand-prix/notes.md) | Phoenix street circuit | Phoenix, Arizona, USA | 1989-06-04 | Alain Prost | Ayrton Senna | Ayrton Senna |
-| 6 | [Canadian Grand Prix](races/canadian-grand-prix/notes.md) | Circuit Gilles Villeneuve | Montreal, Canada | 1989-06-18 | Thierry Boutsen | Alain Prost | Jonathan Palmer |
-| 7 | [French Grand Prix](races/french-grand-prix/notes.md) | Circuit Paul Ricard | Le Castellet, France | 1989-07-09 | Alain Prost | Alain Prost | Maurício Gugelmin |
-| 8 | [British Grand Prix](races/british-grand-prix/notes.md) | Silverstone Circuit | Silverstone, United Kingdom | 1989-07-16 | Alain Prost | Ayrton Senna | Nigel Mansell |
-| 9 | [German Grand Prix](races/german-grand-prix/notes.md) | Hockenheimring | Hockenheim, Germany | 1989-07-30 | Ayrton Senna | Ayrton Senna | Gerhard Berger |
-| 10 | [Hungarian Grand Prix](races/hungarian-grand-prix/notes.md) | Hungaroring | Mogyoród, Hungary | 1989-08-13 | Nigel Mansell | Riccardo Patrese | Nigel Mansell |
-| 11 | [Belgian Grand Prix](races/belgian-grand-prix/notes.md) | Circuit de Spa-Francorchamps | Stavelot, Belgium | 1989-08-27 | Ayrton Senna | Ayrton Senna | Alain Prost |
-| 12 | [Italian Grand Prix](races/italian-grand-prix/notes.md) | Autodromo Nazionale di Monza | Monza, Italy | 1989-09-10 | Alain Prost | Ayrton Senna | Alain Prost |
-| 13 | [Portuguese Grand Prix](races/portuguese-grand-prix/notes.md) | Autódromo do Estoril | Estoril, Portugal | 1989-09-24 | Gerhard Berger | Ayrton Senna | Gerhard Berger |
-| 14 | [Spanish Grand Prix](races/spanish-grand-prix/notes.md) | Circuito de Jerez | Jerez de la Frontera, Spain | 1989-10-01 | Ayrton Senna | Ayrton Senna | Ayrton Senna |
-| 15 | [Japanese Grand Prix](races/japanese-grand-prix/notes.md) | Suzuka International Racing Course | Suzuka, Japan | 1989-10-22 | Alessandro Nannini | Ayrton Senna | Alain Prost |
-| 16 | [Australian Grand Prix](races/australian-grand-prix/notes.md) | Adelaide Street Circuit | Adelaide, Australia | 1989-11-05 | Thierry Boutsen | Ayrton Senna | Satoru Nakajima |
+The 1989 season was defined by monumental technical transition, bitter intra-team warfare, and the most controversial championship conclusion in Formula One history:
+- **The Dawn of the 3.5-Litre Atmospheric Era:** Turbocharged engines were completely banned, ushering in the golden era of high-revving 3.5-litre naturally aspirated V8, V10, and V12 engines.
+- **The Semi-Automatic Gearbox Revolution:** At the season opener in Rio de Janeiro, Nigel Mansell won on his Ferrari debut driving the John Barnard-designed Ferrari 640—the first Formula One car equipped with an electro-hydraulic paddle-shift semi-automatic transmission, fundamentally transforming racecar engineering forever.
+- **The McLaren Civil War & Alain Prost's Third Title:** Teammates Alain Prost and Ayrton Senna engaged in a bitter feud following a broken pre-race agreement at Imola. Prost secured his **third World Drivers' Championship** with 76 net points (81 gross, 4 wins, 11 podiums) over Senna (60 points, 6 wins, 13 poles).
+- **The Suzuka Collision & Disqualification:** The championship culminated in the legendary collision on lap 47 of the Japanese Grand Prix at Suzuka when Senna dived inside Prost at the Casino Chicane. Prost retired on the spot; Senna received a push-start from marshals, pitted for repairs, and crossed the finish line first, but was controversially disqualified for cutting the chicane, crowning Prost World Champion and handing Alessandro Nannini his maiden victory.
+- **Williams-Renault V10 Arrival:** Williams began their historic partnership with Renault, with Thierry Boutsen taking wet-weather victories in Canada and Australia.
 
----
-
-## Key Regulatory Features & Technical Specifications
-- **Engine Regulations:** 3.5-litre naturally aspirated engines (maximum 12 cylinders). Turbos completely banned.
-- **Fuel:** Standard unleaded aviation/racing petrol, no refuelling during the race.
-- **Minimum Weight:** 500 kg for all cars.
-- **Safety Innovations:** Crash test standards upgraded, including mandatory survival cell frontal impact tests.
+| Round | Official Grand Prix Name | Circuit | Location | Date | Laps | Distance | Winner | Pole Position | Fastest Lap |
+|:---:|:---|:---|:---|:---|:---:|:---:|:---|:---|:---|
+| 1 | [XVIII Grande Prêmio do Brasil](races/brazilian-grand-prix/notes.md) | Autódromo Internacional Nelson Piquet | Rio de Janeiro, Brazil | 1989-03-26 | 61 | 5.031 km | Nigel Mansell (Ferrari) | Ayrton Senna (1:25.302) | Riccardo Patrese (1:32.507, lap 47) |
+| 2 | [IX Gran Premio di San Marino](races/san-marino-grand-prix/notes.md) | Autodromo Enzo e Dino Ferrari | Imola, Emilia-Romagna, Italy | 1989-04-23 | 58 | 5.040 km | Ayrton Senna (McLaren-Honda) | Ayrton Senna (1:26.010) | Alain Prost (1:26.795, lap 45) |
+| 3 | [XLVII Grand Prix de Monaco](races/monaco-grand-prix/notes.md) | Circuit de Monaco | Monte Carlo, Monaco | 1989-05-07 | 77 | 3.328 km | Ayrton Senna (McLaren-Honda) | Ayrton Senna (1:22.308) | Alain Prost (1:25.501, lap 59) |
+| 4 | [XIII Gran Premio de Mexico](races/mexican-grand-prix/notes.md) | Autódromo Hermanos Rodríguez | Mexico City, Mexico | 1989-05-28 | 69 | 4.421 km | Ayrton Senna (McLaren-Honda) | Ayrton Senna (1:17.876) | Nigel Mansell (1:20.420, lap 41) |
+| 5 | [I Iceberg United States Grand Prix](races/united-states-grand-prix/notes.md) | Phoenix Street Circuit | Phoenix, Arizona, United States | 1989-06-04 | 75 | 3.798 km | Alain Prost (McLaren-Honda) | Ayrton Senna (1:30.108) | Ayrton Senna (1:33.969, lap 38) |
+| 6 | [XXVIII Grand Prix du Canada](races/canadian-grand-prix/notes.md) | Circuit Gilles Villeneuve | Montreal, Quebec, Canada | 1989-06-18 | 69 | 4.410 km | Thierry Boutsen (Williams-Renault) | Alain Prost (1:20.973) | Jonathan Palmer (1:31.925, lap 11) |
+| 7 | [LXXV Grand Prix de France](races/french-grand-prix/notes.md) | Circuit Paul Ricard | Le Castellet, Var, France | 1989-07-09 | 80 | 3.813 km | Alain Prost (McLaren-Honda) | Alain Prost (1:07.203) | Maurício Gugelmin (1:12.090, lap 29) |
+| 8 | [XLII Shell Oils British Grand Prix](races/british-grand-prix/notes.md) | Silverstone Circuit | Silverstone, Northamptonshire, England | 1989-07-16 | 64 | 4.778 km | Alain Prost (McLaren-Honda) | Ayrton Senna (1:09.099) | Nigel Mansell (1:12.017, lap 57) |
+| 9 | [LI Großer Mobil 1 Preis von Deutschland](races/german-grand-prix/notes.md) | Hockenheimring | Hockenheim, Baden-Württemberg, West Germany | 1989-07-30 | 45 | 6.797 km | Ayrton Senna (McLaren-Honda) | Ayrton Senna (1:42.300) | Ayrton Senna (1:45.884, lap 43) |
+| 10 | [IV Magyar Nagydij](races/hungarian-grand-prix/notes.md) | Hungaroring | Mogyoród, Pest County, Hungary | 1989-08-13 | 77 | 3.968 km | Nigel Mansell (Ferrari) | Riccardo Patrese (1:19.726) | Nigel Mansell (1:22.637, lap 66) |
+| 11 | [XLVII Grote Prijs van Belgie](races/belgian-grand-prix/notes.md) | Circuit de Spa-Francorchamps | Stavelot, Liège, Belgium | 1989-08-27 | 44 | 6.940 km | Ayrton Senna (McLaren-Honda) | Ayrton Senna (1:50.867) | Alain Prost (2:11.571, lap 44) |
+| 12 | [LX Gran Premio d'Italia](races/italian-grand-prix/notes.md) | Autodromo Nazionale di Monza | Monza, Lombardy, Italy | 1989-09-10 | 53 | 5.800 km | Alain Prost (McLaren-Honda) | Ayrton Senna (1:23.720) | Alain Prost (1:28.107, lap 43) |
+| 13 | [XIV Grande Prémio de Portugal](races/portuguese-grand-prix/notes.md) | Autódromo do Estoril | Alcabideche, Cascais, Portugal | 1989-09-24 | 71 | 4.350 km | Gerhard Berger (Ferrari) | Ayrton Senna (1:15.468) | Gerhard Berger (1:18.986, lap 49) |
+| 14 | [XXX Gran Premio Tio Pepe de España](races/spanish-grand-prix/notes.md) | Circuito Permanente de Jerez | Jerez de la Frontera, Andalusia, Spain | 1989-10-01 | 72 | 4.218 km | Ayrton Senna (McLaren-Honda) | Ayrton Senna (1:20.291) | Ayrton Senna (1:25.779, lap 55) |
+| 15 | [XV Fuji Television Japanese Grand Prix](races/japanese-grand-prix/notes.md) | Suzuka International Racing Course | Suzuka, Mie Prefecture, Japan | 1989-10-22 | 53 | 5.859 km | Alessandro Nannini (Benetton-Ford) | Ayrton Senna (1:38.041) | Alain Prost (1:43.506, lap 43) |
+| 16 | [V Foster's Australian Grand Prix](races/australian-grand-prix/notes.md) | Adelaide Street Circuit | Adelaide, South Australia, Australia | 1989-11-05 | 70 | 3.780 km | Thierry Boutsen (Williams-Renault) | Ayrton Senna (1:16.665) | Satoru Nakajima (1:38.480, lap 64) |

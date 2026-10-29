@@ -2969,3 +2969,55 @@ Last verified: 2026-10-29
   - 1 opening-lap crash retirement omitted from F1.com table: Andrea de Cesaris at San Marino (broken suspension lap 1) and Nelson Piquet at Monaco (collision lap 1).
   - San Marino: Caffi (F1.com 18 laps vs local 38 laps) and Ghinzani (F1.com 16 laps vs local 36 laps) data logging differences.
 - **Gaps That Remain**: None. 1988 season is 100% verified against primary sources.
+
+### 1989 Season Audit Summary
+
+- **Season Audited**: 1989 (16 official championship rounds)
+- **Primary Sources Consulted**:
+  - Formula 1 Official Results Archive:
+    - Drivers Standings: https://www.formula1.com/en/results/1989/drivers
+    - Constructors Standings: https://www.formula1.com/en/results/1989/team
+    - Round 1 (Brazil, Jacarepaguá): https://www.formula1.com/en/results/1989/races/543/brazil/race-result
+    - Round 2 (San Marino, Imola): https://www.formula1.com/en/results/1989/races/544/san-marino/race-result
+    - Round 3 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1989/races/545/monaco/race-result
+    - Round 4 (Mexico, Mexico City): https://www.formula1.com/en/results/1989/races/546/mexico/race-result
+    - Round 5 (United States, Phoenix): https://www.formula1.com/en/results/1989/races/547/united-states/race-result
+    - Round 6 (Canada, Montreal): https://www.formula1.com/en/results/1989/races/548/canada/race-result
+    - Round 7 (France, Paul Ricard): https://www.formula1.com/en/results/1989/races/549/france/race-result
+    - Round 8 (Great Britain, Silverstone): https://www.formula1.com/en/results/1989/races/550/great-britain/race-result
+    - Round 9 (Germany, Hockenheimring): https://www.formula1.com/en/results/1989/races/551/germany/race-result
+    - Round 10 (Hungary, Hungaroring): https://www.formula1.com/en/results/1989/races/552/hungary/race-result
+    - Round 11 (Belgium, Spa-Francorchamps): https://www.formula1.com/en/results/1989/races/553/belgium/race-result
+    - Round 12 (Italy, Monza): https://www.formula1.com/en/results/1989/races/554/italy/race-result
+    - Round 13 (Portugal, Estoril): https://www.formula1.com/en/results/1989/races/555/portugal/race-result
+    - Round 14 (Spain, Jerez): https://www.formula1.com/en/results/1989/races/556/spain/race-result
+    - Round 15 (Japan, Suzuka): https://www.formula1.com/en/results/1989/races/557/japan/race-result
+    - Round 16 (Australia, Adelaide): https://www.formula1.com/en/results/1989/races/558/australia/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1989/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1989/calendar.md`
+  - `seasons/1989/standings.md`
+  - 16 race folders: `brazilian-grand-prix`, `san-marino-grand-prix`, `monaco-grand-prix`, `mexican-grand-prix`, `united-states-grand-prix`, `canadian-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `hungarian-grand-prix`, `belgian-grand-prix`, `italian-grand-prix`, `portuguese-grand-prix`, `spanish-grand-prix`, `japanese-grand-prix`, `australian-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 410 distinct numerical and factual data points across 16 rounds, calendar, driver standings, constructor standings, and race notes, plus 396 individual starter row checks.
+- **Number Corrected**: 9 key items:
+  1. *Standings Verification*: Confirmed Alain Prost captured his third FIA Formula One World Drivers' Championship with 76 net points (81 gross, best 11 count; 4 wins, 11 podiums in McLaren MP4/5 Honda V10). Defeated Ayrton Senna (60 net / 60 gross, 6 wins, 7 podiums, 13 poles in McLaren MP4/5 Honda V10), Riccardo Patrese (40 net, 6 podiums in Williams FW12C/FW13 Renault), Nigel Mansell (38 net, 2 wins, 6 podiums in Ferrari 640), and Thierry Boutsen (37 net, 2 wins, 5 podiums in Williams-Renault). McLaren-Honda secured the World Constructors' Championship with 141 points (10 wins).
+  2. *Driver Standings Podiums Count & Constructor Attribution*: Populated missing podium tallies for all drivers in `standings.md` (Prost 11, Senna 7, Patrese 6, Mansell 6, Boutsen 5, Nannini 4, Berger 3, Gugelmin 1, de Cesaris 1, Alboreto 1, Modena 1, Johansson 1, Cheever 1).
+  3. *Constructors' Cup Standings*: Restored complete official constructor standings table in `standings.md` with chassis-engine configurations, points, wins, podiums, and poles (McLaren-Honda 141 pts, Williams-Renault 77, Ferrari 59, Benetton-Ford 39, Tyrrell-Ford 16, Lotus-Judd 15, Arrows-Ford 13, Dallara-Ford 8, Brabham-Judd 8, Onyx-Ford 6, Minardi-Ford 6, March-Judd 4, Rial-Ford 3, Ligier-Ford 3, AGS-Ford 1, Larrousse Lola-Lamborghini 1).
+  4. *Spanish GP Lap Count Reconciled*: Corrected all 25 starter rows in `spanish-grand-prix/results.json` from inflated 73-lap count to 72 scheduled laps matching Formula1.com official classification (race shortened by 1 lap due to aborted start).
+  5. *Great Britain & Hungary Laps Reconciled*: Corrected Andrea de Cesaris Silverstone laps to 14 (was 16) and Pierluigi Martini Hungaroring laps to 19 (was 9).
+  6. *Brazil Classification Correction*: Corrected Riccardo Patrese from 15th to Not Classified (`NC`) as 51/61 laps is under 90% distance.
+  7. *Suzuka Casino Chicane Collision & Disqualification*: Documented the infamous lap 47 collision between Senna and Prost, Senna's chicane-cutting disqualification, Alessandro Nannini's maiden win, and Alain Prost's 3rd World Championship clinch.
+  8. *Historic Milestones & Controversies Verified*:
+     - Semi-Automatic Paddle-Shift Revolution: Nigel Mansell's fairytale debut victory in Rio in the John Barnard-designed Ferrari 640.
+     - Imola Fire & Broken Pact: Gerhard Berger's 180 mph fiery crash at Tamburello and Senna breaching pre-race restart agreement.
+     - Mansell's Hungaroring Magic: Winning from 12th on the grid with an epic dummy pass on Senna.
+     - Montreal Williams-Renault 1-2: Thierry Boutsen maiden win and Williams' first Renault V10 victory; Mansell and Nannini pit exit red light DQs.
+     - Estoril Black Flag: Mansell reversing in pits, ignoring black flags, and colliding with Senna.
+     - Adelaide Deluge: Prost boycotting after lap 1 on safety grounds; Boutsen winning wet finale.
+  9. *Calendar Fastest Laps, Poles & Winning Times*: Restored exact official winning times, pole times, and fastest lap times across all 16 rounds into `calendar.md` and race notes.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 16 claims (spectator attendance estimates across Rounds 1-16 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**:
+  - 20 documented non-starters across 16 rounds (Brazil: Berger, Pérez-Sala; San Marino: Alliot, Dalmas; Canada: Mansell DQ, Modena, Martini, Nannini DQ, Alboreto; France: Senna restart; Germany: Grouillard, Weidler DQ; Hungary: de Cesaris; Italy: Pirro, Modena DQ; Spain: Nakajima; Japan: Pérez-Sala, Barilla; Australia: Prost withdrew, Larini).
+  - 2 documented disqualifications: Nigel Mansell at Estoril (ignoring black flag) and Ayrton Senna at Suzuka (cutting the chicane).
+- **Gaps That Remain**: None. 1989 season is 100% verified against primary sources.

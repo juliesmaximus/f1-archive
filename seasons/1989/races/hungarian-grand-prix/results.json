@@ -364,7 +364,7 @@
                 "driverId": "sala",
                 "url": "http://en.wikipedia.org/wiki/Luis_Perez-Sala",
                 "givenName": "Luis",
-                "familyName": "P\u00e9rez-Sala",
+                "familyName": "Pérez-Sala",
                 "dateOfBirth": "1959-05-15",
                 "nationality": "Spanish"
               },
@@ -524,7 +524,7 @@
               "Driver": {
                 "driverId": "gugelmin",
                 "url": "http://en.wikipedia.org/wiki/Maur%C3%ADcio_Gugelmin",
-                "givenName": "Maur\u00edcio",
+                "givenName": "Maurício",
                 "familyName": "Gugelmin",
                 "dateOfBirth": "1963-04-20",
                 "nationality": "Brazilian"
@@ -628,7 +628,7 @@
                 "nationality": "Italian"
               },
               "grid": "10",
-              "laps": "9",
+              "laps": "19",
               "status": "Wheel"
             },
             {
