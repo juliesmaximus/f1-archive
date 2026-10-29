@@ -8,7 +8,6 @@
 - **Location:** Imola, Italy
 - **Circuit Length:** 4.933 km (3.065 miles)
 - **Altitude:** 48 m above sea level
-- **Official Attendance:** 82,000 tifosi
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Michael Schumacher (Ferrari)
 - **Pole Position:** Michael Schumacher (Ferrari) - 1:22.795
-- **Fastest Lap:** Fernando Alonso (Renault) - 1:24.569 (lap 13)
+- **Fastest Lap:** Fernando Alonso (Renault) - 1:24.569 (Lap 23)
 
 ---
 
@@ -35,7 +34,12 @@ Christijan Albers survived a horrific high-speed barrel roll into the gravel on 
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 82,000 tifosi. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio Foster's di San Marino Results](https://www.formula1.com/en/results.html/2006/races/792/san-marino/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio Foster's di San Marino Results](https://www.formula1.com/en/results/2006/races/793/san-marino/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2006/4/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2006)

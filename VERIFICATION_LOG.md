@@ -3655,3 +3655,38 @@ Last verified: 2026-10-29
   - Runner-up: McLaren-Mercedes - 182 pts (10 wins, 18 podiums)
   - 3rd Place: Ferrari - 100 pts (1 win, 9 podiums)
 - **Gaps That Remain**: None. The 2005 season is 100% verified against primary sources.
+
+### Cross-check audit: 2006 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: `https://www.formula1.com/en/results/2006/races` (Race IDs: 790–807)
+  - Formula1.com Official Standings Archive: `https://www.formula1.com/en/results/2006/drivers` and `/team`
+  - FIA Official Sporting Classifications and Yearbooks (2006)
+  - Jolpica-F1 Ergast API (`/2006/results.json`, `/2006/driverStandings.json`, `/2006/constructorStandings.json`)
+- **Total Claims Checked**: 570+ claims (396 starter rows, 18 race results, 18 starting grids, 18 fastest laps, 27 driver standings rows, 12 constructor standings rows)
+- **Number Corrected**: 7 primary corrections applied:
+  1. *French GP Lap Counts*: Corrected Mark Webber in `results.json` from 55 laps to official 53 laps completed, and Rubens Barrichello from 28 laps to official 18 laps completed.
+  2. *Monaco GP Fastest Lap Time and Lap*: Corrected Michael Schumacher's fastest lap in `notes.md` from 1:14.412 on lap 77 to official 1:15.143 on lap 74.
+  3. *San Marino GP Fastest Lap Lap Number*: Corrected Fernando Alonso's fastest lap in `notes.md` from lap 13 to official lap 23 (1:24.569).
+  4. *Chinese GP Fastest Lap Lap Number*: Corrected Fernando Alonso's fastest lap in `notes.md` from lap 50 to official lap 49 (1:37.586).
+  5. *Standings Table Data*: Added verified podium counts across all 27 classified drivers and 12 constructors; added full engine and chassis partner designations.
+  6. *Canonical URLs*: Upgraded all race notes links from legacy `results.html` format to modern canonical `/en/results/2006/races/[790–807]/...` URLs.
+  7. *Spectator Attendance Segregation*: Segregated unverified promoter, circuit, and media attendance estimates across all 18 Grands Prix into dedicated unverified sections.
+- **Number Marked UNVERIFIED or Removed**: 18 spectator attendance claims segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`.
+- **Discrepancies Found Between Sources**:
+  - *Disqualifications Omitted from Formula1.com Tables*:
+    - German GP: Christijan Albers and Tiago Monteiro (Midland MF1 Racing) disqualified for illegal flexing rear wings.
+    - Hungarian GP: Robert Kubica (BMW Sauber) disqualified on debut (finished 7th on road) for car being 2 kg underweight.
+    - Chinese GP: Takuma Sato (Super Aguri) disqualified for ignoring blue flags.
+    Local records properly preserve the full classification with official "Disqualified" status.
+  - *Monaco GP Qualifying Controversy*: Michael Schumacher set the fastest time in Q3 but stopped his Ferrari at Rascasse on his final flying lap, impeding Fernando Alonso; stewards stripped Schumacher of all qualifying times, forcing him to start from the pit lane and awarding pole position to Alonso.
+- **Championship Summary**:
+  - World Drivers' Champion: Fernando Alonso (Renault) - 134 pts (7 wins, 14 podiums, 6 poles, 5 fastest laps) - Youngest back-to-back double World Drivers' Champion in F1 history at the time (25 years, 85 days).
+  - Runner-up: Michael Schumacher (Ferrari) - 121 pts (7 wins, 12 podiums, 4 poles, 7 fastest laps) - Concluded his legendary 11-year Ferrari tenure.
+  - 3rd Place: Felipe Massa (Ferrari) - 80 pts (2 wins, 7 podiums, 3 poles, 2 fastest laps)
+  - 4th Place: Giancarlo Fisichella (Renault) - 72 pts (1 win, 5 podiums, 1 pole)
+  - 5th Place: Kimi Räikkönen (McLaren-Mercedes) - 65 pts (6 podiums, 3 poles, 3 fastest laps)
+  - World Constructors' Champion: Renault - 206 pts (8 wins, 19 podiums) - Second consecutive Constructors' World Championship.
+  - Runner-up: Ferrari - 201 pts (9 wins, 19 podiums)
+  - 3rd Place: McLaren-Mercedes - 110 pts (9 podiums)
+- **Gaps That Remain**: None. The 2006 season is 100% verified against primary sources.

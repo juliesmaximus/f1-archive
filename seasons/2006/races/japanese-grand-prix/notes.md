@@ -8,7 +8,6 @@
 - **Location:** Suzuka, Mie, Japan
 - **Circuit Length:** 5.807 km (3.608 miles)
 - **Altitude:** 45 m above sea level
-- **Official Attendance:** 161,000 record crowd
 
 ---
 
@@ -35,7 +34,12 @@ Schumacher's gracious handling of his engine failure was widely hailed as a lege
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 161,000 record crowd. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Fuji Television Japanese Grand Prix Results](https://www.formula1.com/en/results.html/2006/races/805/japan/race-result.html)
+- **Official Formula 1 Results Archive:** [Fuji Television Japanese Grand Prix Results](https://www.formula1.com/en/results/2006/races/806/japan/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2006/17/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2006)

@@ -8,7 +8,6 @@
 - **Location:** Monte Carlo, Monaco
 - **Circuit Length:** 3.340 km (2.075 miles)
 - **Altitude:** 15 m above sea level
-- **Official Attendance:** 45,000
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Fernando Alonso (Renault)
 - **Pole Position:** Fernando Alonso (Renault) - 1:13.962 (inherited)
-- **Fastest Lap:** Michael Schumacher (Ferrari) - 1:14.412 (lap 77)
+- **Fastest Lap:** Michael Schumacher (Ferrari) - 1:15.143 (Lap 74)
 
 ---
 
@@ -35,7 +34,12 @@ Schumacher's 'Rascasse parking' provoked international fury, with rival drivers 
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 45,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Grand Prix de Monaco Results](https://www.formula1.com/en/results.html/2006/races/795/monaco/race-result.html)
+- **Official Formula 1 Results Archive:** [Grand Prix de Monaco Results](https://www.formula1.com/en/results/2006/races/796/monaco/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2006/7/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2006)

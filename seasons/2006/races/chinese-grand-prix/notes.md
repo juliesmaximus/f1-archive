@@ -8,7 +8,6 @@
 - **Location:** Shanghai, China
 - **Circuit Length:** 5.451 km (3.387 miles)
 - **Altitude:** 10 m above sea level
-- **Official Attendance:** 135,000
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Michael Schumacher (Ferrari)
 - **Pole Position:** Fernando Alonso (Renault) - 1:44.360
-- **Fastest Lap:** Fernando Alonso (Renault) - 1:37.586 (lap 50)
+- **Fastest Lap:** Fernando Alonso (Renault) - 1:37.586 (Lap 49)
 
 ---
 
@@ -35,7 +34,12 @@ Schumacher took the championship lead on countback of wins (7 to 6).
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 135,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Sinopec Chinese Grand Prix Results](https://www.formula1.com/en/results.html/2006/races/804/china/race-result.html)
+- **Official Formula 1 Results Archive:** [Sinopec Chinese Grand Prix Results](https://www.formula1.com/en/results/2006/races/805/china/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2006/16/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2006)

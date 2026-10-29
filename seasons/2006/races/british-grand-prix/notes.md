@@ -8,7 +8,6 @@
 - **Location:** Silverstone, United Kingdom
 - **Circuit Length:** 5.141 km (3.194 miles)
 - **Altitude:** 155 m above sea level
-- **Official Attendance:** 110,000
 
 ---
 
@@ -35,7 +34,12 @@ Ferrari overhauled Kimi Räikkönen in the pitstops to secure 2nd for Schumacher
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 110,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Foster's British Grand Prix Results](https://www.formula1.com/en/results.html/2006/races/796/great-britain/race-result.html)
+- **Official Formula 1 Results Archive:** [Foster's British Grand Prix Results](https://www.formula1.com/en/results/2006/races/797/great-britain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2006/8/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2006)
