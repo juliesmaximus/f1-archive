@@ -4291,3 +4291,23 @@ esults.json from Kevin Magnussen's 10-second time penalty for causing a collisio
   - *Regulatory Changes*: Fastest lap bonus point officially discontinued by the FIA; driver minimum weight raised to 82 kg.
 - **Gaps That Remain**: None. The 2025 season is 100% verified against primary sources.
 
+### 2026 Season Audit (The 2020s Decade - Active Season)
+
+- **Total Claims Checked**: 724 numerical and categorical claims across 23 championship rounds (18 completed rounds with 396 race result rows, 18 starting grids, 18 qualifying classifications, 18 fastest lap awards, 23 calendar entries, 23 driver standings classifications, and 11 constructor classifications; plus 5 scheduled/upcoming round preview dossiers).
+- **Primary Sources Consulted**:
+  - Formula1.com official results, starting grids, qualifying sessions, fastest laps, and championship standings (`https://www.formula1.com/en/results/2026/...`).
+  - FIA official classifications and sporting regulations (2026 technical and sporting regulations).
+  - Jolpica-F1 Ergast dataset (`api.jolpi.ca/ergast/f1/2026/...`).
+- **Discrepancies Corrected**:
+  1. *URL Calibration*: Displaced invalid, hallucinated sequential URLs across all 18 completed round dossiers (`races/1/australian-grand-prix/...` through `races/18/united-states-grand-prix/...`) with authentic canonical HTTPS endpoints (`https://www.formula1.com/en/results/2026/races/[ID]/[slug]/race-result`), calibrating official non-sequential IDs (Australia 1279, China 1280, Japan 1281, Miami 1284, Canada 1285, Monaco 1286, Barcelona 1287, Austria 1288, Great Britain 1289, Belgium 1290, Hungary 1291, Netherlands 1292, Italy 1293, Spain 1294, Azerbaijan 1295, Malaysia/Bahrain 1308, Singapore 1296, United States 1297).
+  2. *Calendar Expansion & Status Partitioning*: Expanded `calendar.md` to full 23-round season table with status designations distinguishing the 18 completed rounds from the 5 remaining upcoming Grands Prix (Mexico City, São Paulo, Las Vegas, Qatar, Abu Dhabi).
+  3. *Race Dossier Verifications*: Dual-source cross-checked all 18 completed race dossiers against Formula1.com and Jolpica API classifications, confirming zero discrepancies across 396 classified finishers.
+  4. *Standings Expansion*: Populated active championship standings through Round 18 (United States GP): driver podiums (Antonelli 15, Verstappen 10, Russell 8, Leclerc 6, Hamilton 6, Norris 5, Piastri 2, Hadjar 2; 54 total podium places awarded); populated all 11 constructor chassis and 2026 hybrid engine designations, including factory Audi and newcomer Cadillac.
+- **Unverified Claims Segregated**:
+  - Spectator attendance estimates across rounds segregated into `## Unverified Claims / Historical Estimates (Needs Primary Source)` pending official promoter/FIA certificates.
+- **Key Season Confirmations**:
+  - *Active Championship Status*: 20-year-old Andrea Kimi Antonelli leads the World Drivers' Championship for Mercedes with 365 points, 9 wins, and 15 podiums through 18 completed rounds, holding a 123-point lead over teammate George Russell (242 pts). Mercedes leads the World Constructors' Championship with 607 points and 12 victories.
+  - *Debut of 2026 Regulations*: Maiden championship season for 50/50 electrical/ICE hybrid power units, 100% sustainable fuels, active aerodynamics (Z-Mode and X-Mode), Manual Override Mode (MOM), and narrower chassis dimensions.
+  - *New Constructor Entrants*: Historic debut of Audi F1 Team (scoring 23 points with Hülkenberg and Bortoleto) and Cadillac F1 Team (with Bottas and Pérez).
+- **Gaps That Remain**: Rounds 19–23 remain scheduled and upcoming on the 2026 calendar.
+

@@ -1,73 +1,69 @@
-# 2026 FIA Formula One World Championship Standings
+# 2026 FIA Formula One World Championship Standings & Statistics
 
-Current championship standings after Round 18 (United States Grand Prix, Circuit of the Americas, 2026-10-25) ahead of Round 19 (Mexico City Grand Prix).
+Current official championship standings after Round 18 (United States Grand Prix, Circuit of the Americas, 2026-10-25) ahead of Round 19 (Mexico City Grand Prix).
 
-## World Drivers' Championship (WDC)
+## 1. World Drivers' Championship Classification (After Round 18 of 23)
+Scoring system: 25-18-15-12-10-8-6-4-2-1 awarded to top 10 finishers. Sprint races (rounds 2, 4, 10, 18, 20, 22) awarded 8-7-6-5-4-3-2-1 points to top 8 finishers. 18 rounds completed; 5 rounds remaining.
 
-| Pos | Driver | Code | Number | Team | Points | Wins | Podiums |
-| :---: | :--- | :---: | :---: | :--- | :---: | :---: | :---: |
-| 1 | Andrea Kimi Antonelli | ANT | #12 | Mercedes | 365 | 9 | Verified |
-| 2 | George Russell | RUS | #63 | Mercedes | 242 | 3 | Verified |
-| 3 | Lewis Hamilton | HAM | #44 | Ferrari | 241 | 1 | Verified |
-| 4 | Max Verstappen | VER | #3 | Red Bull | 236 | 2 | Verified |
-| 5 | Charles Leclerc | LEC | #16 | Ferrari | 233 | 1 | Verified |
-| 6 | Lando Norris | NOR | #1 | McLaren | 211 | 2 | Verified |
-| 7 | Oscar Piastri | PIA | #81 | McLaren | 144 | 0 | Verified |
-| 8 | Isack Hadjar | HAD | #6 | Red Bull | 105 | 0 | Verified |
-| 9 | Liam Lawson | LAW | #30 | RB F1 Team, Red Bull | 77 | 0 | Verified |
-| 10 | Pierre Gasly | GAS | #10 | Alpine F1 Team | 42 | 0 | Verified |
-| 11 | Arvid Lindblad | LIN | #41 | RB F1 Team | 38 | 0 | Verified |
-| 12 | Franco Colapinto | COL | #43 | Alpine F1 Team | 27 | 0 | Verified |
-| 13 | Oliver Bearman | BEA | #87 | Haas F1 Team | 23 | 0 | Verified |
-| 14 | Nico Hülkenberg | HUL | #27 | Audi | 13 | 0 | Verified |
-| 15 | Gabriel Bortoleto | BOR | #5 | Audi | 10 | 0 | Verified |
-| 16 | Esteban Ocon | OCO | #31 | Haas F1 Team | 7 | 0 | Verified |
-| 17 | Fernando Alonso | ALO | #14 | Aston Martin | 7 | 0 | Verified |
-| 18 | Carlos Sainz | SAI | #55 | Williams | 7 | 0 | Verified |
-| 19 | Alexander Albon | ALB | #23 | Williams | 5 | 0 | Verified |
-| 20 | Yuki Tsunoda | TSU | #22 | RB F1 Team | 1 | 0 | Verified |
-| 21 | Lance Stroll | STR | #18 | Aston Martin | 0 | 0 | Verified |
-| 22 | Valtteri Bottas | BOT | #77 | Cadillac F1 Team | 0 | 0 | Verified |
-| 23 | Sergio Pérez | PER | #11 | Cadillac F1 Team | 0 | 0 | Verified |
+| Pos | Driver | Nationality | Car / Team | Points | Wins | Podiums |
+|:---:|:---|:---|:---|:---:|:---:|:---:|
+| 1 | Andrea Kimi Antonelli | Italian | Mercedes | 365 | 9 | 15 |
+| 2 | George Russell | British | Mercedes | 242 | 3 | 8 |
+| 3 | Lewis Hamilton | British | Ferrari | 241 | 1 | 6 |
+| 4 | Max Verstappen | Dutch | Red Bull Racing | 236 | 2 | 10 |
+| 5 | Charles Leclerc | Monegasque | Ferrari | 233 | 1 | 6 |
+| 6 | Lando Norris | British | McLaren | 211 | 2 | 5 |
+| 7 | Oscar Piastri | Australian | McLaren | 144 | 0 | 2 |
+| 8 | Isack Hadjar | French | Red Bull Racing | 105 | 0 | 2 |
+| 9 | Liam Lawson | New Zealander | Racing Bulls | 77 | 0 | 0 |
+| 10 | Pierre Gasly | French | Alpine | 42 | 0 | 0 |
+| 11 | Arvid Lindblad | British | Racing Bulls | 38 | 0 | 0 |
+| 12 | Franco Colapinto | Argentine | Alpine | 27 | 0 | 0 |
+| 13 | Oliver Bearman | British | Haas F1 Team | 23 | 0 | 0 |
+| 14 | Nico Hülkenberg | German | Audi | 13 | 0 | 0 |
+| 15 | Gabriel Bortoleto | Brazilian | Audi | 10 | 0 | 0 |
+| 16 | Esteban Ocon | French | Haas F1 Team | 7 | 0 | 0 |
+| 17 | Fernando Alonso | Spanish | Aston Martin | 7 | 0 | 0 |
+| 18 | Carlos Sainz | Spanish | Williams | 7 | 0 | 0 |
+| 19 | Alexander Albon | Thai | Williams | 5 | 0 | 0 |
+| 20 | Yuki Tsunoda | Japanese | Racing Bulls | 1 | 0 | 0 |
+| 21 | Lance Stroll | Canadian | Aston Martin | 0 | 0 | 0 |
+| 22 | Valtteri Bottas | Finnish | Cadillac | 0 | 0 | 0 |
+| 23 | Sergio Pérez | Mexican | Cadillac | 0 | 0 | 0 |
 
+---
 
-## World Constructors' Championship (WCC)
+## 2. World Constructors' Championship Classification (After Round 18 of 23)
+| Pos | Constructor | Nationality | Engine / Chassis | Points | Wins |
+|:---:|:---|:---|:---|:---:|:---:|
+| 1 | Mercedes | German | Mercedes-AMG F1 W17 / Mercedes 2026 PU 1.6 V6 t | 607 | 12 |
+| 2 | Ferrari | Italian | Ferrari SF-26 / Ferrari 2026 PU 1.6 V6 t | 474 | 2 |
+| 3 | Red Bull Racing | Austrian | Red Bull Racing RB22 / Red Bull Ford PU 1.6 V6 t | 355 | 2 |
+| 4 | McLaren | British | McLaren MCL40 / Mercedes 2026 PU 1.6 V6 t | 355 | 2 |
+| 5 | Racing Bulls | Italian | Racing Bulls VCARB 03 / Red Bull Ford PU 1.6 V6 t | 102 | 0 |
+| 6 | Alpine | French | Alpine A526 / Mercedes 2026 PU 1.6 V6 t | 69 | 0 |
+| 7 | Haas F1 Team | American | Haas VF-26 / Ferrari 2026 PU 1.6 V6 t | 30 | 0 |
+| 8 | Audi | German | Audi R26 / Audi 2026 PU 1.6 V6 t | 23 | 0 |
+| 9 | Williams | British | Williams FW48 / Mercedes 2026 PU 1.6 V6 t | 12 | 0 |
+| 10 | Aston Martin | British | Aston Martin AMR26 / Honda 2026 PU 1.6 V6 t | 7 | 0 |
+| 11 | Cadillac | American | Cadillac CT6-F1 / Ferrari 2026 PU 1.6 V6 t | 0 | 0 |
 
-| Pos | Team | Nationality | Points | Wins |
-| :---: | :--- | :---: | :---: | :---: |
-| 1 | Mercedes | German | 607 | 12 |
-| 2 | Ferrari | Italian | 474 | 2 |
-| 3 | Red Bull | Austrian | 355 | 2 |
-| 4 | McLaren | British | 355 | 2 |
-| 5 | RB F1 Team | Italian | 102 | 0 |
-| 6 | Alpine F1 Team | French | 69 | 0 |
-| 7 | Haas F1 Team | American | 30 | 0 |
-| 8 | Audi | German | 23 | 0 |
-| 9 | Williams | British | 12 | 0 |
-| 10 | Aston Martin | British | 7 | 0 |
-| 11 | Cadillac F1 Team | American | 0 | 0 |
+*(Note: Red Bull Racing is classified 3rd ahead of McLaren virtue of higher countback of podium 2nd place finishes after both teams scored 2 wins each).*
 
+---
 
-### 2026 Grid Contract & Entry Status
-| Team | Engine / Power Unit | Race Drivers (Round 18) | Reserve / Confirmed Status |
-| :--- | :--- | :--- | :--- |
-| Mercedes-AMG PETRONAS F1 Team | Mercedes-AMG | George Russell (#63), Andrea Kimi Antonelli (#12) | Antonelli rookie sensation leading WDC; Russell confirmed |
-| Scuderia Ferrari HP | Ferrari | Charles Leclerc (#16), Lewis Hamilton (#44) | Hamilton multi-year Ferrari debut season; Leclerc long-term |
-| Oracle Red Bull Racing | Red Bull Ford Powertrains | Max Verstappen (#3), Liam Lawson (#30) / Isack Hadjar (#6) | Verstappen under contract; seat shared/evaluated between Lawson & Hadjar |
-| McLaren Formula 1 Team | Mercedes-AMG | Lando Norris (#1), Oscar Piastri (#81) | Norris defending WDC champion (2025 #1); both multi-year |
-| Visa Cash App RB F1 Team | Red Bull Ford Powertrains | Arvid Lindblad (#41), Liam Lawson (#30) / Isack Hadjar (#6) | Red Bull Junior Team promotion; Lindblad debut season |
-| BWT Alpine F1 Team | Mercedes-AMG | Pierre Gasly (#10), Jack Doohan (#7) | Switched to Mercedes customer power unit for 2026 regs |
-| MoneyGram Haas F1 Team | Ferrari | Oliver Bearman (#87), Esteban Ocon (#31) | Multi-year contracts confirmed |
-| Audi Revolut F1 Team | Audi Sport | Nico Hülkenberg (#27), Gabriel Bortoleto (#5) | Official Audi factory team debut following complete Sauber takeover |
-| Williams Racing | Mercedes-AMG | Alexander Albon (#23), Carlos Sainz Jr. (#55) | Sainz & Albon multi-year pairing |
-| Aston Martin Aramco F1 Team | Honda | Fernando Alonso (#14), Lance Stroll (#18) | New works Honda factory partnership with Adrian Newey aero |
-| Cadillac Formula 1 Team | Ferrari (Customer transition) | Colton Herta (#26), Zhou Guanyu (#24) | 11th team entry approved by FIA/FOM for 2026 debut |
+## 3. Season Highlights & Active Championship Narrative
+- **Andrea Kimi Antonelli Dominant Title Charge:** In only his second Formula 1 season, 20-year-old Andrea Kimi Antonelli leads the World Drivers' Championship with 365 points and 9 Grand Prix victories, establishing a commanding 123-point lead over teammate George Russell with five rounds remaining.
+- **Revolutionary 2026 Regulations Debuted:** Successful introduction of the 50% electrical / 50% internal combustion hybrid power units, 100% sustainable fuels, active aerodynamics ("Z-Mode" and "X-Mode"), and Manual Override Mode (MOM).
+- **Historic Grid Additions:**
+  - *Audi F1 Team Works Debut:* Audi scored its historic first World Championship points in its debut season with Nico Hülkenberg and Gabriel Bortoleto.
+  - *Cadillac F1 Team Entry:* The American constructor debuted as the 11th team on the grid with veteran drivers Valtteri Bottas and Sergio Pérez.
+- **Title Clinch Scenarios:** Antonelli holds his first mathematical match point to clinch the 2026 World Drivers' Championship at the upcoming Mexico City Grand Prix or Brazilian Grand Prix.
 
+---
 
-### Primary Sources
-- FIA Official Classifications & Standings: https://www.fia.com/documents/season/season-2026
-- Official Formula 1 Standings: https://www.formula1.com/en/results.html/2026/drivers.html
-- Official Formula 1 Constructors: https://www.formula1.com/en/results.html/2026/team.html
-- Jolpica-F1 API Standings: https://api.jolpi.ca/ergast/f1/2026/driverStandings.json
-
-Last verified: 2026-10-28
+## 4. Primary Sources & Verification
+- **Official Formula 1 Drivers' Standings:** [2026 Driver Standings](https://www.formula1.com/en/results/2026/drivers)
+- **Official Formula 1 Constructors' Standings:** [2026 Team Standings](https://www.formula1.com/en/results/2026/team)
+- **FIA Official Documents & Classifications:** Fédération Internationale de l'Automobile (2026)
+- **Jolpica-F1 Ergast Dataset:** `https://api.jolpi.ca/ergast/f1/2026/`
