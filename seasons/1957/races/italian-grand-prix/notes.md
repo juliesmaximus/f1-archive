@@ -1,45 +1,33 @@
-# 1957 Round 8: XXVIII Gran Premio d'Italia - Verified Race Record
+# 1957 Italian Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: XXVIII Gran Premio d'Italia
-- **Historic Name Notes**: 28th Italian Grand Prix at Monza; season finale.
-- **Circuit Full Name**: Autodromo Nazionale di Monza (5.750 km Road Course)
-- **Location**: Monza, Lombardy, Italy
-- **Host Country**: Italy
-- **Track Length**: 5.750 km (3.573 mi)
-- **Track Altitude**: 162 m (531 ft) above sea level
-- **Race Distance**: 87 laps / 500.250 km (310.841 mi)
-- **Official Race Date**: 1957-09-08
+## Official Race Identification
+- **Official Name**: XXVIII Gran Premio d'Italia
+- **Round**: 8 of 8 in the 1957 FIA Formula One World Championship
+- **Date**: Sunday, 8 September 1957
+- **Location**: Autodromo Nazionale di Monza (5.750 km Road Course), Monza, Italy
+- **Circuit Length**: 5.750 km (3.573 miles)
+- **Distance**: 87 laps (500.250 km / 310.841 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, dry autumn conditions.
-- **Spectator Attendance**: Over 100,000 spectators.
-- **Grandstand & Infrastructure Notes**: Centrale and Vedano grandstands packed.
+## Official Results & Key Metrics
+- **Pole Position**: Stuart Lewis-Evans (Vanwall) - 1:42.400
+- **Fastest Lap**: Tony Brooks (Vanwall) - 1:43.700 (Lap 74) [1 pt]
+- **Race Winner**: Stirling Moss (Vanwall) - 2:35:03.900 (193.564 km/h)
+- **Podium**:
+  1. Stirling Moss (Vanwall) - 87 laps
+  2. Juan Manuel Fangio (Maserati) - 87 laps (+41.200s)
+  3. Wolfgang von Trips (Ferrari) - 85 laps (+2 laps)
 
-## Verified Key Race Results
-- **Pole Position**: Stuart Lewis-Evans (Vanwall) - 1:42.4
-- **Fastest Race Lap**: Tony Brooks (Vanwall) - 1:43.7 (Lap 74) [1 pt]
-- **Race Winner**: Stirling Moss (Vanwall) - 2:35:03.900 (8 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Vanwall Front-Row Lockout**: In a stunning demonstration of British engineering superiority, Vanwall swept the front row of the starting grid (Stuart Lewis-Evans on pole at 1:42.400, Moss 2nd, Brooks 3rd)—the first front-row lockout by a British manufacturer in World Championship history.
+- **Oval Banking Bypassed**: Following severe tire blistering and chassis breakage on the high-speed banking in 1955 and 1956, organizers ran the race exclusively on the 5.750 km road circuit.
+- **Moss Conquers Monza**: Stirling Moss won the race comfortably by 41.2 seconds over Fangio, cementing Vanwall's place at the pinnacle of Grand Prix racing and earning 2nd place in the World Drivers' Championship.
+- **Tony Brooks Fastest Lap**: Tony Brooks set the fastest lap of the race (1:43.700 on lap 74), securing an extra championship point.
+- **Wolfgang von Trips Maiden Podium**: German driver Wolfgang von Trips drove a strong race for Ferrari to finish 3rd (+2 laps), scoring his first career World Championship podium.
+- **Track & Weather Conditions**: Warm, pleasant late summer weather; completely dry track throughout.
 
-## Official Podium Finishers
-- **1st** : Stirling Moss (Vanwall) — 2:35:03.900 [8 pts]
-- **2nd** : Juan Fangio (Maserati) — +41.200 [6 pts]
-- **3rd** : Wolfgang von Trips (Ferrari) — +2 Laps [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1957/races/157/italy/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1957/8/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Banked Oval Abandoned: Due to safety concerns and driver boycott threats over the brutal concrete banking bumps, organizers abandoned the 10 km combined layout and used the 5.750 km road course.
-- Vanwall Front Row Lockout: Stuart Lewis-Evans took a shock maiden pole position (1:42.4), leading a Vanwall 1-2-3 front-row lockout with Moss and Brooks.
-- Moss Victorious on Italian Soil: Stirling Moss drove a brilliant race to win by 41.2 seconds over Fangio's Maserati, confirming Vanwall as the fastest car in Grand Prix racing.
-- Fangio's Final European Podium: 5-time champion Fangio finished 2nd, the final European podium finish of his illustrious career.
-
-## Records Set or Equalled
-- Maiden pole position for Stuart Lewis-Evans.
-- First front-row lockout for a British constructor: Vanwall (Lewis-Evans, Moss, Brooks).
-- Stirling Moss finished 2nd in the World Championship for the 3rd consecutive year.
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1957/races/157/italy/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1957/8/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Italian attendance estimates reported 90,000 to 110,000 spectators in the parkland and grandstands. Unverified in official race documentation.

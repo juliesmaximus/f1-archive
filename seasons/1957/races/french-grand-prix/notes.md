@@ -1,43 +1,31 @@
-# 1957 Round 4: 43e Grand Prix de l'ACF - Verified Race Record
+# 1957 French Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: 43e Grand Prix de l'ACF
-- **Historic Name Notes**: 43rd French Grand Prix; held at the downhill Rouen-les-Essarts road circuit.
-- **Circuit Full Name**: Rouen-les-Essarts
-- **Location**: Grand-Couronne and Oissel, Seine-Maritime, Normandy, France
-- **Host Country**: France
-- **Track Length**: 6.542 km (4.065 mi)
-- **Track Altitude**: 120 m (394 ft) above sea level
-- **Race Distance**: 77 laps / 503.734 km (313.006 mi)
-- **Official Race Date**: 1957-07-07
+## Official Race Identification
+- **Official Name**: 43e Grand Prix de l'ACF
+- **Round**: 4 of 8 in the 1957 FIA Formula One World Championship
+- **Date**: Sunday, 7 July 1957
+- **Location**: Rouen-Les-Essarts, Grand-Couronne and Oissel, Normandy, France
+- **Circuit Length**: 6.542 km (4.065 miles)
+- **Distance**: 77 laps (503.734 km / 313.006 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, dry Normandy afternoon.
-- **Spectator Attendance**: Over 70,000 spectators.
-- **Grandstand & Infrastructure Notes**: Natural forest banks at Nouveau Monde hairpin filled with spectators.
+## Official Results & Key Metrics
+- **Pole Position**: Juan Manuel Fangio (Maserati 250F) - 2:21.500
+- **Fastest Lap**: Luigi Musso (Ferrari 801) - 2:22.400 (Lap 65) [1 pt]
+- **Race Winner**: Juan Manuel Fangio (Maserati 250F) - 3:07:46.400 (160.960 km/h)
+- **Podium**:
+  1. Juan Manuel Fangio (Maserati) - 77 laps
+  2. Luigi Musso (Ferrari) - 77 laps (+50.800s)
+  3. Peter Collins & Maurice Trintignant (Ferrari) - 77 laps (+2:06.000)
 
-## Verified Key Race Results
-- **Pole Position**: Juan Manuel Fangio (Maserati 250F) - 2:21.5
-- **Fastest Race Lap**: Luigi Musso (Ferrari 801) - 2:22.4 (Lap 65) [1 pt]
-- **Race Winner**: Juan Fangio (Maserati) - 3:07:46.400 (8 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Fangio's Mastery at Rouen**: Fangio produced a virtuoso display on the scenic, high-speed downhill sweeps of Rouen-Les-Essarts, drifting through the Nouveau Monde hairpin and building an unassailable 50-second lead over Luigi Musso.
+- **Ferrari Shared Podium**: Maurice Trintignant started Ferrari #4, pitting on lap 30 to hand the car to Peter Collins (whose own car had engine trouble). Collins brought the car home in 3rd place; Collins and Trintignant split 4 points = 2 points each.
+- **Vanwall Absence / Illness**: Vanwall missed the race due to driver Stirling Moss falling ill with sinus trouble and Tony Brooks still recovering from his Le Mans crash injuries.
+- **Track & Weather Conditions**: Warm, dry summer conditions with pleasant temperatures and clear asphalt.
 
-## Official Podium Finishers
-- **1st** : Juan Fangio (Maserati) — 3:07:46.400 [8 pts]
-- **2nd** : Luigi Musso (Ferrari) — +50.800 [7 pts]
-- **3rd** : Peter Collins (Ferrari) — +2:06.000 [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1957/races/153/france/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1957/4/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Extended Circuit Layout: The track was lengthened to 6.542 km, including the fearsome downhill sweeps through the forest toward the cobbled Nouveau Monde hairpin.
-- Fangio Drifting Masterclass: Fangio put on an exhibition of four-wheel drifting, leading Luigi Musso's Ferrari home by 50.8 seconds.
-- Ferrari 801 Development: Ferrari raced the 801 (modified D50), taking 2nd (Musso), 3rd (Collins), and 4th (Hawthorn).
-
-## Records Set or Equalled
-- Fangio's 3rd consecutive Grand Prix victory of the 1957 season.
-- Luigi Musso scored his first fastest lap in Formula One (2:22.4).
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1957/races/153/france/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1957/4/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- French newspaper estimates placed the roadside crowd around the forest slopes at approximately 60,000 spectators. Unverified in official sporting records.

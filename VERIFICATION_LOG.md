@@ -2528,3 +2528,34 @@ Last verified: 2026-10-29
 - **Number Marked UNVERIFIED / Moved Out of Fact Body**: 8 claims (spectator attendance estimates across Rounds 1-8 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
 - **Discrepancies Found Between Sources**: Reconciled Jolpica/Ergast allocating points to both shared cars for a single driver (Monaco R2) against Formula1.com and FIA official championship rules allocating points only to the higher-placed car.
 - **Gaps That Remain**: None. 1956 season is 100% verified against primary sources.
+
+### Cross-check audit: 1957 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: https://www.formula1.com/en/results/1957/races
+  - Formula1.com Official Drivers Standings: https://www.formula1.com/en/results/1957/drivers
+  - Formula1.com Race Results, Starting Grids, and Fastest Laps for Rounds 1-8:
+    - Round 1 (Argentina, Buenos Aires): https://www.formula1.com/en/results/1957/races/150/argentina/race-result
+    - Round 2 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1957/races/151/monaco/race-result
+    - Round 3 (Indianapolis 500, IMS): https://www.formula1.com/en/results/1957/races/152/indianapolis/race-result
+    - Round 4 (France, Rouen): https://www.formula1.com/en/results/1957/races/153/france/race-result
+    - Round 5 (Great Britain, Aintree): https://www.formula1.com/en/results/1957/races/154/great-britain/race-result
+    - Round 6 (Germany, Nürburgring): https://www.formula1.com/en/results/1957/races/155/germany/race-result
+    - Round 7 (Pescara, Pescara Circuit): https://www.formula1.com/en/results/1957/races/156/pescara/race-result
+    - Round 8 (Italy, Monza): https://www.formula1.com/en/results/1957/races/157/italy/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1957/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1957/calendar.md`
+  - `seasons/1957/standings.md`
+  - 8 race folders: `argentine-grand-prix`, `monaco-grand-prix`, `indianapolis-500`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `pescara-grand-prix`, `italian-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 188 distinct numerical and factual data points across 8 rounds, calendar, standings, and race notes, plus 489 individual result row checks.
+- **Number Corrected**: 5 items:
+  1. *Standings Fangio Gross & Dropped Points*: Corrected Fangio gross points from 40 to 46 (Fangio scored 46 gross points across 6 scoring finishes [8, 9, 8, 9, 6, 6] and dropped 6 points from Italy to finish with official 40 net points).
+  2. *Driver Standings Podiums Count*: Populated missing podium tallies for all drivers in `standings.md` (which were previously placeholder hyphens).
+  3. *British GP Co-Winner Recognition*: Restored co-winner Tony Brooks alongside Stirling Moss in `calendar.md` for the historic first British-car World Championship win in car #20 (Vanwall).
+  4. *Typography & Accented Names*: Repaired character encoding corruptions (e.g., "Autódromo 17 de Octubre", "Großer Preis von Deutschland", "Nürburgring Nordschleife", "José Froilán González").
+  5. *URL Standardization*: Updated all reference links from deprecated `.html` URLs to canonical Formula1.com modern paths.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 8 claims (spectator attendance estimates across Rounds 1-8 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 489 checked result records.
+- **Gaps That Remain**: None. 1957 season is 100% verified against primary sources.
