@@ -1,43 +1,31 @@
-# 1958 Round 2: XVI Grand Prix Automobile de Monaco - Verified Race Record
+# 1958 Monaco Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: XVI Grand Prix Automobile de Monaco
-- **Historic Name Notes**: 16th Monaco Grand Prix; debut of Graham Hill and Team Lotus in the World Championship.
-- **Circuit Full Name**: Circuit de Monaco
-- **Location**: Monte Carlo and La Condamine, Principality of Monaco
-- **Host Country**: Monaco
-- **Track Length**: 3.145 km (1.954 mi)
-- **Track Altitude**: 15 m (49 ft) above sea level
-- **Race Distance**: 100 laps / 314.500 km (195.421 mi)
-- **Official Race Date**: 1958-05-18
+## Official Race Identification
+- **Official Name**: XVI Grand Prix Automobile de Monaco
+- **Round**: 2 of 11 in the 1958 FIA Formula One World Championship
+- **Date**: Sunday, 18 May 1958
+- **Location**: Circuit de Monaco, Monte Carlo, Monaco
+- **Circuit Length**: 3.145 km (1.954 miles)
+- **Distance**: 100 laps (314.500 km / 195.421 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, calm Mediterranean afternoon.
-- **Spectator Attendance**: Over 45,000 spectators.
-- **Grandstand & Infrastructure Notes**: Harbour terrace balconies packed.
+## Official Results & Key Metrics
+- **Pole Position**: Tony Brooks (Vanwall) - 1:39.800
+- **Fastest Lap**: Mike Hawthorn (Ferrari 246 Dino) - 1:40.600 (Lap 36) [1 pt]
+- **Race Winner**: Maurice Trintignant (Cooper-Climax T45) - 2:52:27.900 (109.414 km/h)
+- **Podium**:
+  1. Maurice Trintignant (Cooper-Climax) - 100 laps
+  2. Luigi Musso (Ferrari) - 100 laps (+20.200s)
+  3. Peter Collins (Ferrari) - 100 laps (+38.800s)
 
-## Verified Key Race Results
-- **Pole Position**: Tony Brooks (Vanwall) - 1:39.8
-- **Fastest Race Lap**: Mike Hawthorn (Ferrari Dino 246) - 1:40.6 (Lap 36) [1 pt]
-- **Race Winner**: Maurice Trintignant (Cooper) - 2:52:27.900 (8 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Second Straight Cooper Win**: Maurice Trintignant won from 5th on the grid in Rob Walker's Cooper-Climax T45, securing Rob Walker Racing's second consecutive Grand Prix victory and Trintignant's second career Monaco Grand Prix win (after 1955).
+- **Hawthorn's Fastest Lap & DNF**: Mike Hawthorn set the fastest lap (1:40.600) and led until a broken fuel pump forced him to retire on lap 47, leaving Trintignant in the lead.
+- **First Woman World Championship Participant**: Italian driver Maria Teresa de Filippis entered a private Maserati 250F, failing to qualify (set a time of 1:50.8, missing the 16-car cut-off). Future F1 supremo Bernie Ecclestone also entered as a driver in a Connaught-Alta, failing to qualify.
+- **Track & Weather Conditions**: Warm, sunny Mediterranean spring weather; dry track.
 
-## Official Podium Finishers
-- **1st** : Maurice Trintignant (Cooper) — 2:52:27.900 [8 pts]
-- **2nd** : Luigi Musso (Ferrari) — +20.200 [6 pts]
-- **3rd** : Peter Collins (Ferrari) — +38.800 [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1958/races/159/monaco/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1958/2/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Cooper Mid-Engine Supremacy Confirmed: Maurice Trintignant scored another sensational victory for Rob Walker's Cooper T43-Climax, proving the Argentine win was no fluke.
-- Team Lotus World Championship Debut: Colin Chapman's Team Lotus made their official Formula One World Championship debut with Cliff Allison and Graham Hill (qualifying 15th on debut).
-- Heavy Front-Running Attrition: Vanwall and Ferrari suffered repeated mechanical failures; Brooks retired on lap 22, Moss on lap 38, Hawthorn on lap 47.
-
-## Records Set or Equalled
-- World Championship debut for Team Lotus and future two-time World Champion Graham Hill.
-- Second consecutive World Championship victory for Cooper-Climax and Rob Walker Racing.
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1958/races/159/monaco/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1958/2/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Crowd estimates along the harbor were claimed at 30,000 spectators; unverified in official sporting records.

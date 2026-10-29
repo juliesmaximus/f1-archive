@@ -1,44 +1,31 @@
-# 1958 Round 5: XIX Grote Prijs van België / XIX Grand Prix de Belgique / Grand Prix d'Europe - Verified Race Record
+# 1958 Belgian Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: XIX Grote Prijs van België / XIX Grand Prix de Belgique / Grand Prix d'Europe
-- **Historic Name Notes**: 19th Belgian Grand Prix; designated the honorary 'Grand Prix d'Europe' for 1958.
-- **Circuit Full Name**: Circuit de Spa-Francorchamps
-- **Location**: Francorchamps, Stavelot, Malmedy, Belgium
-- **Host Country**: Belgium
-- **Track Length**: 14.120 km (8.774 mi)
-- **Track Altitude**: 410 m (1345 ft) above sea level
-- **Race Distance**: 24 laps / 338.880 km (210.570 mi)
-- **Official Race Date**: 1958-06-15
+## Official Race Identification
+- **Official Name**: XIX Grand Prix de Belgique
+- **Round**: 5 of 11 in the 1958 FIA Formula One World Championship
+- **Date**: Sunday, 15 June 1958
+- **Location**: Circuit de Spa-Francorchamps, Stavelot, Belgium
+- **Circuit Length**: 14.120 km (8.774 miles)
+- **Distance**: 24 laps (338.880 km / 210.570 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, dry Ardennes afternoon.
-- **Spectator Attendance**: Over 70,000 spectators.
-- **Grandstand & Infrastructure Notes**: Eau Rouge and Blanchimont packed.
+## Official Results & Key Metrics
+- **Pole Position**: Mike Hawthorn (Ferrari 246 Dino) - 3:57.100
+- **Fastest Lap**: Mike Hawthorn (Ferrari 246 Dino) - 3:58.300 (Lap 24) [1 pt]
+- **Race Winner**: Tony Brooks (Vanwall) - 1:37:06.300 (209.093 km/h)
+- **Podium**:
+  1. Tony Brooks (Vanwall) - 24 laps
+  2. Mike Hawthorn (Ferrari) - 24 laps (+20.700s)
+  3. Stuart Lewis-Evans (Vanwall) - 24 laps (+3:00.900)
 
-## Verified Key Race Results
-- **Pole Position**: Mike Hawthorn (Ferrari Dino 246) - 3:57.1
-- **Fastest Race Lap**: Mike Hawthorn (Ferrari Dino 246) - 3:58.3 (Lap 24) [1 pt]
-- **Race Winner**: Tony Brooks (Vanwall) - 1:37:06.300 (8 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **First Solo Win for Tony Brooks**: Tony Brooks scored his first solo World Championship Grand Prix victory (after his 1957 Aintree shared win with Moss), surviving gearbox trouble in the closing laps where his gearbox seized as he crossed the finish line.
+- **Historic Milestone for Women in F1**: Maria Teresa de Filippis qualified her private Maserati 250F in 19th position and finished 10th (2 laps down), becoming the first female driver to start and finish a Formula One World Championship Grand Prix.
+- **High-Speed Spa Attrition**: Stirling Moss blew his Vanwall engine on lap 1 after missing a gearshift. Peter Collins retired on lap 6 with engine failure.
+- **Track & Weather Conditions**: Warm, dry Ardennes summer afternoon.
 
-## Official Podium Finishers
-- **1st** : Tony Brooks (Vanwall) — 1:37:06.300 [8 pts]
-- **2nd** : Mike Hawthorn (Ferrari) — +20.700 [7 pts]
-- **3rd** : Stuart Lewis-Evans (Vanwall) — +3:00.900 [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1958/races/162/belgium/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1958/5/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Sub-4-Minute Lap: Mike Hawthorn broke the 4-minute barrier around the 14.12 km circuit in qualifying (3:57.1), taking pole position in the new Dino 246 V6.
-- Tony Brooks Spa Masterpiece: Tony Brooks drove a flawless race in the Vanwall to win by 20.7 seconds over Mike Hawthorn.
-- Vanwall Gearbox Woes on Final Lap: Brooks' gearbox seized as he shifted down across the finish line; Hawthorn's engine blew on the final lap, coasting across the line in 2nd; Stuart Lewis-Evans crossed the line 3rd with snapped suspension wishbone!
-- First Female F1 Driver: Maria Teresa de Filippis made history as the FIRST WOMAN TO COMPETE IN A FORMULA ONE WORLD CHAMPIONSHIP GRAND PRIX, finishing 10th in a private Maserati 250F.
-
-## Records Set or Equalled
-- First female driver to start and finish a Formula One World Championship Grand Prix: Maria Teresa de Filippis.
-- First sub-4-minute lap around Spa-Francorchamps (Mike Hawthorn, 3:57.1).
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1958/races/162/belgium/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1958/5/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Trackside crowd estimates ranged between 50,000 and 70,000 spectators. Unverified in official sporting records.

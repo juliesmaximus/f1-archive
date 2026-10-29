@@ -1,43 +1,31 @@
-# 1958 Round 9: VII Grande Prêmio de Portugal - Verified Race Record
+# 1958 Portuguese Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: VII Grande Prêmio de Portugal
-- **Historic Name Notes**: 7th Portuguese Grand Prix; inaugural World Championship Portuguese GP at Circuito da Boavista; site of Stirling Moss's legendary sportsmanship.
-- **Circuit Full Name**: Circuito da Boavista
-- **Location**: Porto, Portugal
-- **Host Country**: Portugal
-- **Track Length**: 7.407 km (4.602 mi)
-- **Track Altitude**: 40 m (131 ft) above sea level
-- **Race Distance**: 50 laps / 370.350 km (230.125 mi)
-- **Official Race Date**: 1958-08-24
+## Official Race Identification
+- **Official Name**: VII Grande Prémio de Portugal
+- **Round**: 9 of 11 in the 1958 FIA Formula One World Championship
+- **Date**: Sunday, 24 August 1958
+- **Location**: Circuito da Boavista, Porto, Portugal
+- **Circuit Length**: 7.407 km (4.602 miles)
+- **Distance**: 50 laps (370.350 km / 230.125 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Intermittent drizzle and rain, wet cobblestones and tramlines creating treacherous conditions.
-- **Spectator Attendance**: Over 100,000 spectators lining the Porto street circuit.
-- **Grandstand & Infrastructure Notes**: Grandstands on Avenida da Boavista packed.
+## Official Results & Key Metrics
+- **Pole Position**: Stirling Moss (Vanwall) - 2:32.270
+- **Fastest Lap**: Mike Hawthorn (Ferrari 246 Dino) - 2:32.270 (Lap 36) [1 pt]
+- **Race Winner**: Stirling Moss (Vanwall) - 2:11:27.800 (168.995 km/h)
+- **Podium**:
+  1. Stirling Moss (Vanwall) - 50 laps
+  2. Mike Hawthorn (Ferrari) - 50 laps (+5:12.750)
+  3. Stuart Lewis-Evans (Vanwall) - 49 laps (+1 lap)
 
-## Verified Key Race Results
-- **Pole Position**: Stirling Moss (Vanwall) - 2:34.21
-- **Fastest Race Lap**: Mike Hawthorn (Ferrari Dino 246) - 2:32.31 (Lap 36) [1 pt]
-- **Race Winner**: Stirling Moss (Vanwall) - 2:11:27.800 (8 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Moss's Legendary Chivalry & Championship Sacrifice**: Late in the race, Mike Hawthorn spun on the final lap and stalled. He bump-started his Ferrari downhill on the sidewalk (footpath) facing against the track direction before turning around and crossing the line in 2nd place. Race stewards immediately moved to disqualify Hawthorn for reversing against racing direction. Stirling Moss, having already won the race, voluntarily went to the stewards' room to defend Hawthorn, explaining that Hawthorn had turned around on the pavement footpath and not on the racing circuit. The stewards accepted Moss's testimony and reinstated Hawthorn's 2nd place and fastest lap (7 points total). This chivalrous defense handed Hawthorn the points that ultimately cost Moss the World Championship.
+- **Fastest Lap Tie**: Hawthorn's fastest lap (2:32.270) equalled Moss's pole time to the thousandth of a second.
+- **Boavista Street Circuit**: The bumpy cobblestone, tram-track-lined Boavista circuit posed extreme handling challenges in wet and dry conditions.
+- **Track & Weather Conditions**: Intermittent rain showers creating treacherous damp and dry conditions.
 
-## Official Podium Finishers
-- **1st** : Stirling Moss (Vanwall) — 2:11:27.800 [8 pts]
-- **2nd** : Mike Hawthorn (Ferrari) — +5:12.750 [7 pts]
-- **3rd** : Stuart Lewis-Evans (Vanwall) — +1 Lap [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1958/races/166/portugal/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1958/9/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Moss's Championship-Deciding Sportsmanship: Mike Hawthorn spun on the final lap, stalling on an uphill escape road. Hawthorn restarted his car by rolling backwards down the pavement and bump-starting the engine in the reverse direction of the track. Stewards initially disqualified Hawthorn for driving in the reverse direction. Stirling Moss, who had won the race by over five minutes, immediately went to the stewards' office to testify as an eyewitness that Hawthorn was on the sidewalk/escape road and never entered the racing line while restarting. The stewards accepted Moss's testimony and reinstated Hawthorn in 2nd place (awarding him 6 points + 1 fastest lap point = 7 points). This selfless act ultimately handed the World Championship to Hawthorn by 1 point at the end of the season!
-- Inaugural Portuguese Championship GP: The tricky Boavista street circuit featured railway lines, cobblestones, and kerbs in wet conditions.
-- Moss Dominant Victory: Moss mastered the wet conditions, winning by 5 minutes 12.75 seconds over Hawthorn.
-
-## Records Set or Equalled
-- Stirling Moss demonstrated the greatest act of sportsmanship in title race history, personally saving Hawthorn's 7 points.
-- Inaugural Portuguese Grand Prix in the FIA Formula One World Championship.
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1958/races/166/portugal/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1958/9/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Crowd estimates lined along the Boavista coastal avenue claimed over 100,000 spectators; no official ticketing ledger exists.

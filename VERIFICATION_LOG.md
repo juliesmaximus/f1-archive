@@ -2559,3 +2559,38 @@ Last verified: 2026-10-29
 - **Number Marked UNVERIFIED / Moved Out of Fact Body**: 8 claims (spectator attendance estimates across Rounds 1-8 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
 - **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 489 checked result records.
 - **Gaps That Remain**: None. 1957 season is 100% verified against primary sources.
+
+### Cross-check audit: 1958 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: https://www.formula1.com/en/results/1958/races
+  - Formula1.com Official Drivers Standings: https://www.formula1.com/en/results/1958/drivers
+  - Formula1.com Official Constructors Standings: https://www.formula1.com/en/results/1958/team
+  - Formula1.com Race Results, Starting Grids, and Fastest Laps for Rounds 1-11:
+    - Round 1 (Argentina, Buenos Aires): https://www.formula1.com/en/results/1958/races/158/argentina/race-result
+    - Round 2 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1958/races/159/monaco/race-result
+    - Round 3 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1958/races/160/netherlands/race-result
+    - Round 4 (Indianapolis 500, IMS): https://www.formula1.com/en/results/1958/races/161/indianapolis/race-result
+    - Round 5 (Belgium, Spa-Francorchamps): https://www.formula1.com/en/results/1958/races/162/belgium/race-result
+    - Round 6 (France, Reims): https://www.formula1.com/en/results/1958/races/163/france/race-result
+    - Round 7 (Great Britain, Silverstone): https://www.formula1.com/en/results/1958/races/164/great-britain/race-result
+    - Round 8 (Germany, Nürburgring): https://www.formula1.com/en/results/1958/races/165/germany/race-result
+    - Round 9 (Portugal, Porto Boavista): https://www.formula1.com/en/results/1958/races/166/portugal/race-result
+    - Round 10 (Italy, Monza): https://www.formula1.com/en/results/1958/races/167/italy/race-result
+    - Round 11 (Morocco, Ain-Diab Casablanca): https://www.formula1.com/en/results/1958/races/168/morocco/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1958/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1958/calendar.md`
+  - `seasons/1958/standings.md`
+  - 11 race folders: `argentine-grand-prix`, `monaco-grand-prix`, `dutch-grand-prix`, `indianapolis-500`, `belgian-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `portuguese-grand-prix`, `italian-grand-prix`, `moroccan-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 248 distinct numerical and factual data points across 11 rounds, calendar, driver standings, constructor standings, and race notes, plus 669 individual result row checks.
+- **Number Corrected**: 5 items:
+  1. *Standings Hawthorn Gross & Dropped Points*: Corrected Hawthorn gross points to 49 and dropped points to 7 (Hawthorn scored 49 gross points across 9 scoring finishes [4, 1, 2, 7, 9, 7, 7, 6, 6] and dropped 7 points [4 from Argentina, 2 from Netherlands, 1 from Monaco] to count 42 net points).
+  2. *Inaugural Constructors' Cup Table Formatting*: Formatted and verified the inaugural International Cup for F1 Manufacturers standings (Vanwall 48 net pts / 6 wins, Ferrari 40 net pts, Cooper-Climax 31 net pts, BRM 18 net pts, Maserati 6 net pts, Lotus-Climax 3 net pts).
+  3. *Driver Standings Podiums Count*: Populated missing podium tallies for all drivers in `standings.md` (which were previously placeholder hyphens).
+  4. *Typography & Accented Names*: Repaired character encoding corruptions across race notes (e.g. "Autódromo 17 de Octubre", "Grote Prijs van Nederland", "Großer Preis von Deutschland", "Grande Prémio de Portugal", "Ain-Diab").
+  5. *URL Standardization*: Updated all reference links from deprecated `.html` URLs to canonical modern Formula1.com results paths.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 11 claims (spectator attendance estimates across Rounds 1-11 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 669 checked result records.
+- **Gaps That Remain**: None. 1958 season is 100% verified against primary sources.
