@@ -1,43 +1,31 @@
-# 1960 Round 2: XVIII Grand Prix Automobile de Monaco - Verified Race Record
+# 1960 Monaco Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: XVIII Grand Prix Automobile de Monaco
-- **Historic Name Notes**: 18th Monaco Grand Prix; milestone maiden victory for Team Lotus.
-- **Circuit Full Name**: Circuit de Monaco
-- **Location**: Monte Carlo and La Condamine, Principality of Monaco
-- **Host Country**: Monaco
-- **Track Length**: 3.145 km (1.954 mi)
-- **Track Altitude**: 15 m (49 ft) above sea level
-- **Race Distance**: 100 laps / 314.500 km (195.421 mi)
-- **Official Race Date**: 1960-05-29
+## Official Race Identification
+- **Official Name**: XVIII Grand Prix Automobile de Monaco
+- **Round**: 2 of 10 in the 1960 FIA Formula One World Championship
+- **Date**: Sunday, 29 May 1960
+- **Location**: Circuit de Monaco, Monte Carlo, Monaco
+- **Circuit Length**: 3.145 km (1.954 miles)
+- **Distance**: 100 laps (314.500 km / 195.421 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, calm Mediterranean afternoon with light seaside showers late in race.
-- **Spectator Attendance**: Over 45,000 spectators.
-- **Grandstand & Infrastructure Notes**: Quai Albert 1er grandstands and yachts packed.
+## Official Results & Key Metrics
+- **Pole Position**: Stirling Moss (Rob Walker Lotus-Climax 18) - 1:36.300
+- **Fastest Lap**: Bruce McLaren (Cooper-Climax T53) - 1:36.200 (Lap 11) [0 pts]
+- **Race Winner**: Stirling Moss (Rob Walker Lotus-Climax 18) - 2:53:45.500 (108.599 km/h)
+- **Podium**:
+  1. Stirling Moss (Lotus-Climax) - 100 laps
+  2. Bruce McLaren (Cooper-Climax) - 100 laps (+52.100s)
+  3. Phil Hill (Ferrari) - 100 laps (+1:01.900)
 
-## Verified Key Race Results
-- **Pole Position**: Stirling Moss (Lotus 18-Climax) - 1:36.3
-- **Fastest Race Lap**: Bruce McLaren (Cooper T53-Climax) - 1:36.2 (Lap 11)
-- **Race Winner**: Stirling Moss (Team Lotus) - 2:53:45.500 (8 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **First World Championship Victory for Lotus**: Stirling Moss delivered the historic maiden World Championship Grand Prix victory for Colin Chapman's Lotus marque, driving the nimble, boxy Lotus 18 entered by Rob Walker Racing.
+- **Wet-and-Dry Masterclass**: Rain began falling around lap 35, making the tight street circuit treacherous. Moss controlled the tricky conditions with sublime touch, opening an unassailable lead over Bruce McLaren and Phil Hill.
+- **Brabham Disqualification**: Defending champion Jack Brabham spun on the wet track at Sainte Dévote, stalled, and received an illegal outside push-start from marshals, resulting in his disqualification on lap 40.
+- **Track & Weather Conditions**: Overcast start, followed by mid-race rain showers creating damp, slick cobblestones before drying out in the final laps.
 
-## Official Podium Finishers
-- **1st** : Stirling Moss (Team Lotus) — 2:53:45.500 [8 pts]
-- **2nd** : Bruce McLaren (Cooper-Climax) — +52.100 [6 pts]
-- **3rd** : Phil Hill (Ferrari) — +1:01.900 [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1960/races/179/monaco/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1960/2/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- First F1 Win for Lotus: Stirling Moss drove Rob Walker's private dark-blue Lotus 18-Climax to victory, scoring the FIRST-EVER FORMULA ONE WORLD CHAMPIONSHIP GRAND PRIX VICTORY FOR A LOTUS CHASSIS.
-- Brabham Disqualification: Defending champion Jack Brabham led from lap 17 to lap 40 in his new Cooper T53 before spinning into the escape road on damp tramlines, receiving a push-start and being disqualified.
-- Bruce McLaren 2nd: McLaren finished 2nd, expanding his World Championship lead to 14 points.
-
-## Records Set or Equalled
-- First World Championship Grand Prix victory for a Lotus chassis (Colin Chapman / Rob Walker / Stirling Moss).
-- Stirling Moss won his 2nd Monaco Grand Prix.
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1960/races/179/monaco/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1960/2/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Monaco harbor and hillside crowds were estimated at 35,000 spectators. Unverified in official sporting records.

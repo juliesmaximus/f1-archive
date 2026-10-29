@@ -1,43 +1,31 @@
-# 1960 Round 4: VIII Grote Prijs van Nederland - Verified Race Record
+# 1960 Dutch Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: VIII Grote Prijs van Nederland
-- **Historic Name Notes**: 8th Dutch Grand Prix at Zandvoort; Jim Clark's World Championship debut.
-- **Circuit Full Name**: Circuit Park Zandvoort
-- **Location**: Zandvoort, North Holland, Netherlands
-- **Host Country**: Netherlands
-- **Track Length**: 4.193 km (2.605 mi)
-- **Track Altitude**: 8 m (26 ft) above sea level
-- **Race Distance**: 75 laps / 314.475 km (195.405 mi)
-- **Official Race Date**: 1960-06-05
+## Official Race Identification
+- **Official Name**: VIII Grote Prijs van Nederland
+- **Round**: 4 of 10 in the 1960 FIA Formula One World Championship
+- **Date**: Monday, 6 June 1960
+- **Location**: Circuit Zandvoort, Zandvoort, Netherlands
+- **Circuit Length**: 4.193 km (2.605 miles)
+- **Distance**: 75 laps (314.475 km / 195.405 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Sunny, warm, coastal breeze.
-- **Spectator Attendance**: Over 60,000 spectators.
-- **Grandstand & Infrastructure Notes**: Main grandstand opposite pits filled.
+## Official Results & Key Metrics
+- **Pole Position**: Stirling Moss (Rob Walker Lotus-Climax 18) - 1:33.200
+- **Fastest Lap**: Stirling Moss (Rob Walker Lotus-Climax 18) - 1:33.800 [0 pts]
+- **Race Winner**: Jack Brabham (Cooper-Climax T53) - 2:01:47.200 (154.930 km/h)
+- **Podium**:
+  1. Jack Brabham (Cooper-Climax) - 75 laps
+  2. Innes Ireland (Lotus-Climax) - 75 laps (+24.000s)
+  3. Graham Hill (BRM) - 75 laps (+56.600s)
 
-## Verified Key Race Results
-- **Pole Position**: Stirling Moss (Lotus 18-Climax) - 1:33.2
-- **Fastest Race Lap**: Stirling Moss (Lotus 18-Climax) - 1:33.8 (Lap 75)
-- **Race Winner**: Jack Brabham (Cooper-Climax) - 2:01:47.200 (8 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Brabham Kicks Off Five-Race Streak**: Jack Brabham debuted the new, sleeker "Lowline" Cooper-Climax T53 and led from start to finish, beginning an unstoppable five-race winning streak that would secure his second world title.
+- **Jim Clark's World Championship Debut**: Future two-time World Champion and racing icon Jim Clark made his World Championship Grand Prix debut driving for Team Lotus. Starting 11th, Clark mounted an astonishing drive up to 4th place, battling wheel-to-wheel with Graham Hill until his transmission failed on lap 42.
+- **Dan Gurney's Spectator Fatality Accident**: Dan Gurney suffered a catastrophic brake failure in his BRM at the Tarzan hairpin on lap 11. The car flew over the sandbank and crashed into a prohibited spectator area, fatally injuring an 18-year-old spectator.
+- **Track & Weather Conditions**: Pleasant, clear North Sea coastal weather with dry asphalt.
 
-## Official Podium Finishers
-- **1st** : Jack Brabham (Cooper-Climax) — 2:01:47.200 [8 pts]
-- **2nd** : Innes Ireland (Team Lotus) — +24.000 [6 pts]
-- **3rd** : Graham Hill (BRM) — +56.600 [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1960/races/181/netherlands/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1960/4/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Jim Clark World Championship Debut: 24-year-old Scottish prodigy Jim Clark made his official Formula One World Championship debut in a factory Lotus 18-Climax, qualifying 11th and running 5th before retiring with transmission failure on lap 42.
-- Brabham's 5-Race Winning Streak Begins: Jack Brabham drove the new Cooper T53 'Lowline' to a commanding victory by 24.0 seconds over Innes Ireland's works Lotus, beginning his streak of 5 consecutive Grand Prix victories.
-- Dan Gurney Brake Failure Crash: Dan Gurney suffered total brake failure in his BRM at the end of the straight, crashing through the wire fence into the sand dunes, killing a young spectator standing in a prohibited area.
-
-## Records Set or Equalled
-- World Championship debut of two-time World Champion Jim Clark.
-- Beginning of Jack Brabham's historic 5-race consecutive victory streak in 1960.
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1960/races/181/netherlands/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1960/4/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Sand dune spectator estimates claimed 50,000 attendees. Unverified in official sporting records.

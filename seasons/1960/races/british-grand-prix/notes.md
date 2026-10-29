@@ -1,43 +1,31 @@
-# 1960 Round 7: XIII RAC British Grand Prix - Verified Race Record
+# 1960 British Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: XIII RAC British Grand Prix
-- **Historic Name Notes**: 13th running of the RAC British Grand Prix at Silverstone.
-- **Circuit Full Name**: Silverstone Circuit
-- **Location**: Silverstone, Northamptonshire, United Kingdom
-- **Host Country**: United Kingdom
-- **Track Length**: 4.711 km (2.927 mi)
-- **Track Altitude**: 150 m (492 ft) above sea level
-- **Race Distance**: 77 laps / 362.747 km (225.401 mi)
-- **Official Race Date**: 1960-07-16
+## Official Race Identification
+- **Official Name**: XIII RAC British Grand Prix
+- **Round**: 7 of 10 in the 1960 FIA Formula One World Championship
+- **Date**: Saturday, 16 July 1960
+- **Location**: Silverstone Circuit, Silverstone, Northamptonshire, United Kingdom
+- **Circuit Length**: 4.711 km (2.927 miles)
+- **Distance**: 77 laps (362.747 km / 225.380 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Dry, overcast, blustery wind.
-- **Spectator Attendance**: Over 110,000 British spectators.
-- **Grandstand & Infrastructure Notes**: Woodcote and Copse enclosures packed.
+## Official Results & Key Metrics
+- **Pole Position**: Jack Brabham (Cooper-Climax T53) - 1:34.600
+- **Fastest Lap**: Graham Hill (BRM P48) - 1:34.400 [0 pts]
+- **Race Winner**: Jack Brabham (Cooper-Climax T53) - 2:04:24.600 (174.944 km/h)
+- **Podium**:
+  1. Jack Brabham (Cooper-Climax) - 77 laps
+  2. John Surtees (Lotus-Climax) - 77 laps (+49.600s)
+  3. Innes Ireland (Lotus-Climax) - 77 laps (+1:29.600)
 
-## Verified Key Race Results
-- **Pole Position**: Jack Brabham (Cooper T53-Climax) - 1:34.6
-- **Fastest Race Lap**: Graham Hill (BRM P48) - 1:34.4 (Lap 56)
-- **Race Winner**: Jack Brabham (Cooper-Climax) - 2:04:24.300 (8 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Graham Hill's Agonizing Heartbreak**: Graham Hill stalled his BRM P48 on the grid and was pushed to restart in dead last. He launched into an astonishing charge through the field, passing car after car until he remarkably overtook Jack Brabham for the race lead on lap 55. Leading by 4 seconds with just 6 laps remaining, Hill spun off under intense pressure at Copse corner, handing Brabham his 4th consecutive win.
+- **John Surtees' Maiden Podium**: In only his second Formula One World Championship race, motorcycle racing legend John Surtees finished 2nd for Team Lotus, demonstrating his extraordinary transition from two wheels to four.
+- **Brabham Extends Lead**: With 4 consecutive victories, Brabham opened an almost insurmountable championship lead over teammate Bruce McLaren.
+- **Track & Weather Conditions**: Typical mild, breezy British summer afternoon; dry track throughout.
 
-## Official Podium Finishers
-- **1st** : Jack Brabham (Cooper-Climax) — 2:04:24.300 [8 pts]
-- **2nd** : John Surtees (Team Lotus) — +49.600 [6 pts]
-- **3rd** : Innes Ireland (Team Lotus) — +1:29.600 [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1960/races/184/great-britain/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1960/7/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Graham Hill's Heartbreak Spin: Graham Hill started 2nd, stalled on the grid, dropped to 22nd, and mounted a heroic charge through the entire field in the rear-engined BRM P48, passing Brabham for the lead on lap 55. With just 5 laps remaining and victory in his grasp, Hill spun under braking at Copse, stalling his car and retiring in tears.
-- Brabham 4th Consecutive Win: Brabham inherited the lead and won by 49.6 seconds over John Surtees in the Lotus 18.
-- John Surtees Maiden F1 Podium: Motorcycle World Champion John Surtees (in only his second Formula One Grand Prix start) finished 2nd, announcing himself as a future car racing superstar.
-
-## Records Set or Equalled
-- First World Championship podium for John Surtees (2nd on only his 2nd GP start).
-- Brabham's 4th consecutive victory of the 1960 season.
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1960/races/184/great-britain/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1960/7/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Silverstone crowd estimates were reported between 80,000 and 100,000 spectators; unverified in official sporting records.

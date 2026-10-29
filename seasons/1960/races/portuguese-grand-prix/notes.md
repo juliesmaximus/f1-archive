@@ -1,45 +1,32 @@
-# 1960 Round 8: IX Grande Prêmio de Portugal - Verified Race Record
+# 1960 Portuguese Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: IX Grande Prêmio de Portugal
-- **Historic Name Notes**: 9th Portuguese Grand Prix; held at the Circuito da Boavista in Porto; 1960 title decider.
-- **Circuit Full Name**: Circuito da Boavista
-- **Location**: Porto, Portugal
-- **Host Country**: Portugal
-- **Track Length**: 7.407 km (4.602 mi)
-- **Track Altitude**: 40 m (131 ft) above sea level
-- **Race Distance**: 55 laps / 407.385 km (253.137 mi)
-- **Official Race Date**: 1960-08-14
+## Official Race Identification
+- **Official Name**: IX Grande Prémio de Portugal
+- **Round**: 8 of 10 in the 1960 FIA Formula One World Championship
+- **Date**: Sunday, 14 August 1960
+- **Location**: Circuito da Boavista, Porto, Portugal
+- **Circuit Length**: 7.407 km (4.602 miles)
+- **Distance**: 55 laps (407.385 km / 253.110 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, dry street circuit.
-- **Spectator Attendance**: Over 80,000 spectators.
-- **Grandstand & Infrastructure Notes**: Boavista boulevard grandstands filled.
+## Official Results & Key Metrics
+- **Pole Position**: John Surtees (Lotus-Climax 18) - 2:25.560
+- **Fastest Lap**: John Surtees (Lotus-Climax 18) - 2:27.530 [0 pts]
+- **Race Winner**: Jack Brabham (Cooper-Climax T53) - 2:19:00.030 (175.847 km/h)
+- **Podium**:
+  1. Jack Brabham (Cooper-Climax) - 55 laps
+  2. Bruce McLaren (Cooper-Climax) - 55 laps (+57.210s)
+  3. Jim Clark (Lotus-Climax) - 55 laps (+1:53.230)
 
-## Verified Key Race Results
-- **Pole Position**: John Surtees (Lotus 18-Climax) - 2:25.56
-- **Fastest Race Lap**: John Surtees (Lotus 18-Climax) - 2:27.53 (Lap 36)
-- **Race Winner**: Jack Brabham (Cooper-Climax) - 2:19:00.030 (8 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Brabham Clinches 2nd World Championship**: Jack Brabham took his 5th consecutive Grand Prix victory (a feat unmatched since Ascari in 1952–1953), mathematically securing his second consecutive World Drivers' Championship title.
+- **Cooper Wins Second Manufacturers' Cup**: Brabham and McLaren's 1-2 finish sealed the 1960 International Cup for F1 Manufacturers for Cooper-Climax.
+- **Jim Clark's Maiden Podium**: In only his 5th World Championship start, 24-year-old Scotsman Jim Clark drove brilliantly to finish 3rd for Team Lotus, claiming his maiden Formula One podium.
+- **Surtees' Drama**: Pole-sitter John Surtees led the race before spinning off when his fuel tank leaked onto his pedals on lap 36.
+- **Track & Weather Conditions**: Warm, sunny coastal weather; bumpy street circuit lined with tram rails.
 
-## Official Podium Finishers
-- **1st** : Jack Brabham (Cooper-Climax) — 2:19:00.030 [8 pts]
-- **2nd** : Bruce McLaren (Cooper-Climax) — +57.970 [6 pts]
-- **3rd** : Jim Clark (Team Lotus) — +1:53.230 [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1960/races/185/portugal/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1960/8/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Brabham Clinches 2nd World Championship: Jack Brabham took his 5th consecutive Grand Prix victory, winning by 57.29 seconds over Bruce McLaren. With this win, Brabham mathematically clinched his SECOND CONSECUTIVE WORLD DRIVERS' CHAMPIONSHIP with two rounds remaining.
-- Cooper Clinches 2nd Constructors' Title: Cooper-Climax secured their SECOND CONSECUTIVE INTERNATIONAL CUP FOR F1 MANUFACTURERS.
-- Surtees Sensational Pole: In only his 3rd Grand Prix start, John Surtees took pole position and led until fuel vapor lock and a radiator puncture ended his race on lap 37.
-
-## Records Set or Equalled
-- Jack Brabham clinched his 2nd Formula One World Drivers' Championship.
-- Jack Brabham achieved 5 consecutive Grand Prix victories in a single season.
-- Cooper Car Company clinched their 2nd consecutive World Constructors' Championship.
-- Maiden pole position for future World Champion John Surtees (in only his 3rd GP start).
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1960/races/185/portugal/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1960/8/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Street circuit spectators along the Boavista promenade were estimated at 60,000 attendees. Unverified in official sporting records.

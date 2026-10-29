@@ -1,43 +1,31 @@
-# 1960 Round 6: 46e Grand Prix de l'ACF - Verified Race Record
+# 1960 French Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: 46e Grand Prix de l'ACF
-- **Historic Name Notes**: 46th French Grand Prix at Reims.
-- **Circuit Full Name**: Reims-Gueux
-- **Location**: Gueux, Marne, Champagne, France
-- **Host Country**: France
-- **Track Length**: 8.302 km (5.159 mi)
-- **Track Altitude**: 88 m (289 ft) above sea level
-- **Race Distance**: 50 laps / 415.100 km (257.931 mi)
-- **Official Race Date**: 1960-07-03
+## Official Race Identification
+- **Official Name**: 46e Grand Prix de l'ACF
+- **Round**: 6 of 10 in the 1960 FIA Formula One World Championship
+- **Date**: Sunday, 3 July 1960
+- **Location**: Reims-Gueux, Reims, France
+- **Circuit Length**: 8.302 km (5.159 miles)
+- **Distance**: 50 laps (415.100 km / 257.931 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, dry Champagne afternoon.
-- **Spectator Attendance**: Over 90,000 spectators.
-- **Grandstand & Infrastructure Notes**: Start-finish straight grandstands filled.
+## Official Results & Key Metrics
+- **Pole Position**: Jack Brabham (Cooper-Climax T53) - 2:16.800
+- **Fastest Lap**: Jack Brabham (Cooper-Climax T53) - 2:17.500 [0 pts]
+- **Race Winner**: Jack Brabham (Cooper-Climax T53) - 1:57:24.900 (212.115 km/h)
+- **Podium**:
+  1. Jack Brabham (Cooper-Climax) - 50 laps
+  2. Olivier Gendebien (Cooper-Climax) - 50 laps (+48.300s)
+  3. Bruce McLaren (Cooper-Climax) - 50 laps (+51.900s)
 
-## Verified Key Race Results
-- **Pole Position**: Jack Brabham (Cooper T53-Climax) - 2:16.8
-- **Fastest Race Lap**: Jack Brabham (Cooper T53-Climax) - 2:17.5 (Lap 31)
-- **Race Winner**: Jack Brabham (Cooper-Climax) - 1:57:24.900 (8 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Second Consecutive Cooper 1-2-3**: Cooper-Climax demonstrated total mastery of Formula One, sweeping the podium for the second consecutive Grand Prix (Brabham 1st, Gendebien 2nd, McLaren 3rd).
+- **Brabham Grand Slam**: Brabham qualified on pole, led all 50 laps, and set the fastest lap (2:17.500) to take his third straight victory.
+- **Ferrari Transmission Disaster**: Ferrari suffered widespread gearbox and transmission failures in the high-speed slipstreaming battles at Reims, with Phil Hill, Wolfgang von Trips, and Willy Mairesse all retiring with mechanical breakage.
+- **Track & Weather Conditions**: Warm, pleasant summer weather; dry road circuit.
 
-## Official Podium Finishers
-- **1st** : Jack Brabham (Cooper-Climax) — 1:57:24.900 [8 pts]
-- **2nd** : Olivier Gendebien (Cooper-Climax) — +48.300 [6 pts]
-- **3rd** : Bruce McLaren (Cooper-Climax) — +51.900 [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1960/races/183/france/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1960/6/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Brabham's 3rd Consecutive Win: Brabham led from pole position and dominated to beat teammate Bruce McLaren by 48.3 seconds in another Cooper 1-2 sweep.
-- Ferrari Complete Transmission Collapse: All three factory Ferrari Dino 246s (Phil Hill, Wolfgang von Trips, Willy Mairesse) suffered transmission and crownwheel/pinion failures, all retiring before half-distance.
-- Cooper 1-2-3-4 Clean Sweep: Coopers occupied the top 4 positions: Brabham 1st, McLaren 2nd, Olivier Gendebien 3rd, and Bruce Halford 4th.
-
-## Records Set or Equalled
-- Brabham's 3rd consecutive Grand Prix win in 1960.
-- Cooper achieved a 1-2-3-4 finishing lockout.
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1960/races/183/french/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1960/6/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Grandstand and roadside attendance was reported at 60,000 spectators; unverified in official sporting records.
