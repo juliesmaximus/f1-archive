@@ -7,9 +7,15 @@
 - **Circuit Length & Distance:** 3.337 km (2.074 mi), 78 laps, 260.286 km
 - **Circuit Elevation / Altitude:** 15 m
 - **Ambient & Track Weather:** Dry, overcast, ambient 22°C, track 34°C
-- **Spectator Attendance:** 40,000 race day
 
 ---
+
+---
+
+## Official Race Classification Summary
+- **Winner:** Lewis Hamilton (Mercedes)
+- **Pole Position:** Lewis Hamilton (Mercedes) - 1:10.166
+- **Fastest Lap:** Pierre Gasly (Red Bull Racing Honda) - 1:14.279 (lap 72)
 
 ## Strategic Overview & Race Scenario
 Emotional weekend following the passing of triple world champion Niki Lauda. Hamilton wears a tribute red helmet and survives 67 laps on graining medium tyres under relentless pressure and a late dive at the chicane from Max Verstappen (who carried a 5-second unsafe release penalty) to win in Lauda's memory.
@@ -24,6 +30,11 @@ Emotional weekend following the passing of triple world champion Niki Lauda. Ham
 ---
 
 ## Primary Sources
-- Formula1.com Official Grand Prix Classification and Lap Charts (2019)
+- **Official Formula 1 Results Archive:** [Monaco Grand Prix Results](https://www.formula1.com/en/results/2019/races/1005/monaco/race-result)
 - FIA Official Race Director Communications & Stewards Decision Documents
 - Jolpica-F1 Historical Database (`https://api.jolpi.ca/ergast/f1/2019/6/`)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 40,000 race day (estimate reported in promoter/media releases; unverified in official FIA classifications)

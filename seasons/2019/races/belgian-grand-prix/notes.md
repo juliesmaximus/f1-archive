@@ -7,9 +7,15 @@
 - **Circuit Length & Distance:** 7.004 km (4.352 mi), 44 laps, 308.052 km
 - **Circuit Elevation / Altitude:** 415 m
 - **Ambient & Track Weather:** Dry, sunny, ambient 17°C, track 30°C
-- **Spectator Attendance:** 89,000 race day
 
 ---
+
+---
+
+## Official Race Classification Summary
+- **Winner:** Charles Leclerc (Ferrari)
+- **Pole Position:** Charles Leclerc (Ferrari) - 1:42.519
+- **Fastest Lap:** Sebastian Vettel (Ferrari) - 1:46.409 (lap 36)
 
 ## Strategic Overview & Race Scenario
 Sombre weekend overshadowed by the tragic death of F2 driver Anthoine Hubert in Saturday's feature race. Charles Leclerc converts pole into his emotional maiden Formula 1 victory, dedicating the win to his childhood friend Hubert while resisting Hamilton by 0.9s.
@@ -24,6 +30,11 @@ Sombre weekend overshadowed by the tragic death of F2 driver Anthoine Hubert in 
 ---
 
 ## Primary Sources
-- Formula1.com Official Grand Prix Classification and Lap Charts (2019)
+- **Official Formula 1 Results Archive:** [Belgium Grand Prix Results](https://www.formula1.com/en/results/2019/races/1012/belgium/race-result)
 - FIA Official Race Director Communications & Stewards Decision Documents
 - Jolpica-F1 Historical Database (`https://api.jolpi.ca/ergast/f1/2019/13/`)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 89,000 race day (estimate reported in promoter/media releases; unverified in official FIA classifications)

@@ -19,7 +19,7 @@
 | 15 | Singapore Grand Prix | Marina Bay Street Circuit | 2019-09-22 | Sebastian Vettel | Charles Leclerc | Kevin Magnussen |
 | 16 | Russian Grand Prix | Sochi Autodrom | 2019-09-29 | Lewis Hamilton | Charles Leclerc | Lewis Hamilton |
 | 17 | Japanese Grand Prix | Suzuka Circuit | 2019-10-13 | Valtteri Bottas | Sebastian Vettel | Lewis Hamilton |
-| 18 | Mexican Grand Prix | Autódromo Hermanos Rodríguez | 2019-10-27 | Lewis Hamilton | Max Verstappen | Charles Leclerc |
+| 18 | Mexican Grand Prix | Autódromo Hermanos Rodríguez | 2019-10-27 | Lewis Hamilton | Charles Leclerc | Charles Leclerc |
 | 19 | United States Grand Prix | Circuit of the Americas | 2019-11-03 | Valtteri Bottas | Valtteri Bottas | Charles Leclerc |
 | 20 | Brazilian Grand Prix | Autódromo José Carlos Pace | 2019-11-17 | Max Verstappen | Max Verstappen | Valtteri Bottas |
 | 21 | Abu Dhabi Grand Prix | Yas Marina Circuit | 2019-12-01 | Lewis Hamilton | Lewis Hamilton | Lewis Hamilton |

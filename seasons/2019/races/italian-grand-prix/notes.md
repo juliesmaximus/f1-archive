@@ -7,9 +7,15 @@
 - **Circuit Length & Distance:** 5.793 km (3.600 mi), 53 laps, 306.720 km
 - **Circuit Elevation / Altitude:** 183 m
 - **Ambient & Track Weather:** Dry, sunny, threat of rain, ambient 22°C, track 34°C
-- **Spectator Attendance:** 100,000 race day (200,000 weekend record)
 
 ---
+
+---
+
+## Official Race Classification Summary
+- **Winner:** Charles Leclerc (Ferrari)
+- **Pole Position:** Charles Leclerc (Ferrari) - 1:19.307
+- **Fastest Lap:** Lewis Hamilton (Mercedes) - 1:21.779 (lap 51)
 
 ## Strategic Overview & Race Scenario
 The Tifosi erupt: Charles Leclerc defends heroically at over 200 mph against both Hamilton and Bottas to claim Ferrari's first victory at Monza since Fernando Alonso in 2010. Vettel spins at Ascari and collects Stroll, receiving a 10-second stop-go penalty.
@@ -24,6 +30,11 @@ The Tifosi erupt: Charles Leclerc defends heroically at over 200 mph against bot
 ---
 
 ## Primary Sources
-- Formula1.com Official Grand Prix Classification and Lap Charts (2019)
+- **Official Formula 1 Results Archive:** [Italy Grand Prix Results](https://www.formula1.com/en/results/2019/races/1013/italy/race-result)
 - FIA Official Race Director Communications & Stewards Decision Documents
 - Jolpica-F1 Historical Database (`https://api.jolpi.ca/ergast/f1/2019/14/`)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 100,000 race day (200,000 weekend record) (estimate reported in promoter/media releases; unverified in official FIA classifications)

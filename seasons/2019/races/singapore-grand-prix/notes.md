@@ -7,9 +7,15 @@
 - **Circuit Length & Distance:** 5.063 km (3.146 mi), 61 laps, 308.706 km
 - **Circuit Elevation / Altitude:** 15 m
 - **Ambient & Track Weather:** Dry, hazy tropical night, ambient 30°C, track 36°C
-- **Spectator Attendance:** 89,000 race day (268,000 weekend)
 
 ---
+
+---
+
+## Official Race Classification Summary
+- **Winner:** Sebastian Vettel (Ferrari)
+- **Pole Position:** Charles Leclerc (Ferrari) - 1:36.217
+- **Fastest Lap:** Kevin Magnussen (Haas Ferrari) - 1:42.301 (lap 58)
 
 ## Strategic Overview & Race Scenario
 Sebastian Vettel takes his 53rd and final career Formula 1 victory, undercutting pole-sitter Leclerc on strategy to lead a Ferrari 1-2 under the Marina Bay floodlights.
@@ -24,6 +30,11 @@ Sebastian Vettel takes his 53rd and final career Formula 1 victory, undercutting
 ---
 
 ## Primary Sources
-- Formula1.com Official Grand Prix Classification and Lap Charts (2019)
+- **Official Formula 1 Results Archive:** [Singapore Grand Prix Results](https://www.formula1.com/en/results/2019/races/1014/singapore/race-result)
 - FIA Official Race Director Communications & Stewards Decision Documents
 - Jolpica-F1 Historical Database (`https://api.jolpi.ca/ergast/f1/2019/15/`)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 89,000 race day (268,000 weekend) (estimate reported in promoter/media releases; unverified in official FIA classifications)

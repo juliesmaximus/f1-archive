@@ -7,9 +7,15 @@
 - **Circuit Length & Distance:** 4.318 km (2.683 mi), 71 laps, 306.452 km
 - **Circuit Elevation / Altitude:** 660 m
 - **Ambient & Track Weather:** Dry, blistering heat, ambient 30°C, track 51°C
-- **Spectator Attendance:** 82,000 race day
 
 ---
+
+---
+
+## Official Race Classification Summary
+- **Winner:** Max Verstappen (Red Bull Racing Honda)
+- **Pole Position:** Charles Leclerc (Ferrari) - 1:03.003
+- **Fastest Lap:** Max Verstappen (Red Bull Racing Honda) - 1:07.475 (lap 60)
 
 ## Strategic Overview & Race Scenario
 Max Verstappen produces a breathtaking comeback victory at Red Bull's home track: anti-stall drops him to 8th on lap 1, but he charges through the field, overtaking Charles Leclerc with a wheel-banging pass at Turn 3 on lap 69 to take Honda's first victory in F1 since 2006.
@@ -24,6 +30,11 @@ Max Verstappen produces a breathtaking comeback victory at Red Bull's home track
 ---
 
 ## Primary Sources
-- Formula1.com Official Grand Prix Classification and Lap Charts (2019)
+- **Official Formula 1 Results Archive:** [Austria Grand Prix Results](https://www.formula1.com/en/results/2019/races/1008/austria/race-result)
 - FIA Official Race Director Communications & Stewards Decision Documents
 - Jolpica-F1 Historical Database (`https://api.jolpi.ca/ergast/f1/2019/9/`)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 82,000 race day (estimate reported in promoter/media releases; unverified in official FIA classifications)

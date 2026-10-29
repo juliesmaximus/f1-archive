@@ -7,9 +7,15 @@
 - **Circuit Length & Distance:** 5.513 km (3.426 mi), 56 laps, 308.405 km
 - **Circuit Elevation / Altitude:** 157 m
 - **Ambient & Track Weather:** Dry, cool, sunny, ambient 19°C, track 28°C
-- **Spectator Attendance:** 115,000 race day (268,000 weekend)
 
 ---
+
+---
+
+## Official Race Classification Summary
+- **Winner:** Valtteri Bottas (Mercedes)
+- **Pole Position:** Valtteri Bottas (Mercedes) - 1:32.029
+- **Fastest Lap:** Charles Leclerc (Ferrari) - 1:36.169 (lap 44)
 
 ## Strategic Overview & Race Scenario
 Valtteri Bottas wins from pole, but Lewis Hamilton finishes 2nd to officially clinch his 6th FIA Formula 1 World Drivers' Championship, moving ahead of Juan Manuel Fangio into standalone second in all-time history behind Michael Schumacher.
@@ -24,6 +30,11 @@ Valtteri Bottas wins from pole, but Lewis Hamilton finishes 2nd to officially cl
 ---
 
 ## Primary Sources
-- Formula1.com Official Grand Prix Classification and Lap Charts (2019)
+- **Official Formula 1 Results Archive:** [United-States Grand Prix Results](https://www.formula1.com/en/results/2019/races/1018/united-states/race-result)
 - FIA Official Race Director Communications & Stewards Decision Documents
 - Jolpica-F1 Historical Database (`https://api.jolpi.ca/ergast/f1/2019/19/`)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 115,000 race day (268,000 weekend) (estimate reported in promoter/media releases; unverified in official FIA classifications)

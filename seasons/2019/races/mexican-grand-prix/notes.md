@@ -7,9 +7,15 @@
 - **Circuit Length & Distance:** 4.304 km (2.674 mi), 71 laps, 305.354 km
 - **Circuit Elevation / Altitude:** 2,285 m (7,500 ft)
 - **Ambient & Track Weather:** Dry, sunny, ambient 23°C, track 47°C
-- **Spectator Attendance:** 138,435 race day (345,694 weekend record)
 
 ---
+
+---
+
+## Official Race Classification Summary
+- **Winner:** Lewis Hamilton (Mercedes)
+- **Pole Position:** Charles Leclerc (Ferrari) - 1:15.024
+- **Fastest Lap:** Charles Leclerc (Ferrari) - 1:19.232 (lap 53)
 
 ## Strategic Overview & Race Scenario
 Verstappen stripped of pole for yellow flag infringement in quali, tangles with Hamilton on lap 1. Hamilton executes an audacious 48-lap stint on hard tyres to defeat Ferrari's two-stop strategy and win in Mexico City.
@@ -24,6 +30,11 @@ Verstappen stripped of pole for yellow flag infringement in quali, tangles with 
 ---
 
 ## Primary Sources
-- Formula1.com Official Grand Prix Classification and Lap Charts (2019)
+- **Official Formula 1 Results Archive:** [Mexico Grand Prix Results](https://www.formula1.com/en/results/2019/races/1017/mexico/race-result)
 - FIA Official Race Director Communications & Stewards Decision Documents
 - Jolpica-F1 Historical Database (`https://api.jolpi.ca/ergast/f1/2019/18/`)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 138,435 race day (345,694 weekend record) (estimate reported in promoter/media releases; unverified in official FIA classifications)

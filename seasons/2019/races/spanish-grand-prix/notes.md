@@ -7,9 +7,15 @@
 - **Circuit Length & Distance:** 4.655 km (2.892 mi), 66 laps, 307.104 km
 - **Circuit Elevation / Altitude:** 120 m
 - **Ambient & Track Weather:** Dry, warm, ambient 22°C, track 41°C
-- **Spectator Attendance:** 87,511 race day (160,428 weekend)
 
 ---
+
+---
+
+## Official Race Classification Summary
+- **Winner:** Lewis Hamilton (Mercedes)
+- **Pole Position:** Valtteri Bottas (Mercedes) - 1:15.406
+- **Fastest Lap:** Lewis Hamilton (Mercedes) - 1:18.492 (lap 54)
 
 ## Strategic Overview & Race Scenario
 Hamilton leads from the start to take victory and fastest lap point ahead of Bottas, delivering an unprecedented fifth straight 1-2 finish for Mercedes.
@@ -24,6 +30,11 @@ Hamilton leads from the start to take victory and fastest lap point ahead of Bot
 ---
 
 ## Primary Sources
-- Formula1.com Official Grand Prix Classification and Lap Charts (2019)
+- **Official Formula 1 Results Archive:** [Spain Grand Prix Results](https://www.formula1.com/en/results/2019/races/1004/spain/race-result)
 - FIA Official Race Director Communications & Stewards Decision Documents
 - Jolpica-F1 Historical Database (`https://api.jolpi.ca/ergast/f1/2019/5/`)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 87,511 race day (160,428 weekend) (estimate reported in promoter/media releases; unverified in official FIA classifications)
