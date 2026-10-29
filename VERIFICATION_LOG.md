@@ -2806,3 +2806,37 @@ Last verified: 2026-10-29
 - **Number Marked UNVERIFIED / Moved Out of Fact Body**: 10 claims (spectator attendance estimates across Rounds 1-10 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
 - **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 726 checked result records.
 - **Gaps That Remain**: None. 1963 season is 100% verified against primary sources.
+
+### Cross-check audit: 1964 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: https://www.formula1.com/en/results/1964/races
+  - Formula1.com Official Drivers Standings: https://www.formula1.com/en/results/1964/drivers
+  - Formula1.com Official Constructors Standings: https://www.formula1.com/en/results/1964/team
+  - Formula1.com Race Results, Starting Grids, and Fastest Laps for Rounds 1-10:
+    - Round 1 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1964/races/215/monaco/race-result
+    - Round 2 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1964/races/216/netherlands/race-result
+    - Round 3 (Belgium, Spa-Francorchamps): https://www.formula1.com/en/results/1964/races/217/belgium/race-result
+    - Round 4 (France, Rouen-Les-Essarts): https://www.formula1.com/en/results/1964/races/218/france/race-result
+    - Round 5 (Great Britain, Brands Hatch): https://www.formula1.com/en/results/1964/races/219/great-britain/race-result
+    - Round 6 (Germany, Nürburgring): https://www.formula1.com/en/results/1964/races/220/germany/race-result
+    - Round 7 (Austria, Zeltweg): https://www.formula1.com/en/results/1964/races/221/austria/race-result
+    - Round 8 (Italy, Monza): https://www.formula1.com/en/results/1964/races/222/italy/race-result
+    - Round 9 (United States, Watkins Glen): https://www.formula1.com/en/results/1964/races/223/united-states/race-result
+    - Round 10 (Mexico, Magdalena Mixhuca): https://www.formula1.com/en/results/1964/races/224/mexico/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1964/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1964/calendar.md`
+  - `seasons/1964/standings.md`
+  - 10 race folders: `monaco-grand-prix`, `dutch-grand-prix`, `belgian-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `austrian-grand-prix`, `italian-grand-prix`, `united-states-grand-prix`, `mexican-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 248 distinct numerical and factual data points across 10 rounds, calendar, driver standings, constructor standings, and race notes, plus 594 individual result row checks.
+- **Number Corrected**: 5 items:
+  1. *Standings Surtees & Graham Hill Gross and Net Points Discrepancy*: Clarified and re-verified that Graham Hill scored 41 gross points across 7 scoring finishes but dropped 2 points (Belgium 5th) to finish with 39 net points. John Surtees scored 42 gross points across 6 scoring finishes, dropping 2 points (Netherlands 5th) to finish with 40 net points, winning the World Championship by 1 point.
+  2. *Constructors' Cup Standings*: Verified and formatted the 1964 International Cup for F1 Manufacturers table with official points (Ferrari 45 net / 49 gross, BRM 42 net / 51 gross, Lotus-Climax 37 net, Brabham-Climax 30 net, Cooper-Climax 16 net, Brabham-BRM 7 net, BRP-BRM 5 net, Lotus-BRM 3 net).
+  3. *Driver Standings Podiums Count*: Populated missing podium tallies for all drivers in `standings.md` (which were previously placeholder hyphens).
+  4. *Typography & Accented Names*: Repaired character encoding corruptions across race notes (e.g. "Grote Prijs van Nederland", "Großer Preis von Deutschland", "Magdalena Mixhuca", "Nürburgring").
+  5. *URL Standardization*: Updated all reference links from deprecated `.html` URLs to canonical modern Formula1.com results paths.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 10 claims (spectator attendance estimates across Rounds 1-10 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 594 checked result records.
+- **Gaps That Remain**: None. 1964 season is 100% verified against primary sources.

@@ -1,43 +1,31 @@
-# 1964 Round 4: 50e Grand Prix de l'ACF - Verified Race Record
+# 1964 French Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: 50e Grand Prix de l'ACF
-- **Historic Name Notes**: 50th French Grand Prix; held at Rouen-les-Essarts; historic maiden victory for Brabham as a constructor.
-- **Circuit Full Name**: Rouen-les-Essarts
-- **Location**: Grand-Couronne and Oissel, Seine-Maritime, Normandy, France
-- **Host Country**: France
-- **Track Length**: 6.542 km (4.065 mi)
-- **Track Altitude**: 120 m (394 ft) above sea level
-- **Race Distance**: 57 laps / 372.894 km (231.706 mi)
-- **Official Race Date**: 1964-06-28
+## Official Race Identification
+- **Official Name**: 50e Grand Prix de l'ACF
+- **Round**: 4 of 10 in the 1964 FIA Formula One World Championship
+- **Date**: Sunday, 28 June 1964
+- **Location**: Rouen-Les-Essarts, Grand-Couronne and Oissel, Normandy, France
+- **Circuit Length**: 6.542 km (4.065 miles)
+- **Distance**: 57 laps (372.894 km / 231.706 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, dry Normandy afternoon.
-- **Spectator Attendance**: Over 75,000 spectators.
-- **Grandstand & Infrastructure Notes**: Nouveau Monde amphitheatre packed.
+## Official Results & Key Metrics
+- **Pole Position**: Jim Clark (Lotus-Climax 33) - 2:09.600
+- **Fastest Lap**: Jack Brabham (Brabham-Climax BT7) - 2:11.400 (Lap 44)
+- **Race Winner**: Dan Gurney (Brabham-Climax BT7) - 2:07:49.100 (175.291 km/h)
+- **Podium**:
+  1. Dan Gurney (Brabham-Climax) - 57 laps
+  2. Graham Hill (BRM) - 57 laps (+24.100s)
+  3. Jack Brabham (Brabham-Climax) - 57 laps (+24.900s)
 
-## Verified Key Race Results
-- **Pole Position**: Jim Clark (Lotus 25-Climax) - 2:09.6
-- **Fastest Race Lap**: Jack Brabham (Brabham BT7-Climax) - 2:11.4 (Lap 44)
-- **Race Winner**: Dan Gurney (Brabham-Climax) - 2:07:49.100 (9 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **First World Championship Victory for Brabham**: Dan Gurney scored the historic first-ever Formula One World Championship Grand Prix victory for the Brabham chassis (Motor Racing Developments / Brabham-Climax BT7).
+- **Brabham Double Podium**: Team founder Jack Brabham finished 3rd, just 0.8 seconds behind Graham Hill, giving the Brabham constructor a double podium celebration.
+- **Clark's Engine Failure**: Jim Clark started from pole and led early until a broken camshaft ended his race on lap 31.
+- **Track & Weather Conditions**: Warm, pleasant summer weather; dry road circuit.
 
-## Official Podium Finishers
-- **1st** : Dan Gurney (Brabham-Climax) — 2:07:49.100 [9 pts]
-- **2nd** : Graham Hill (BRM) — +24.100 [6 pts]
-- **3rd** : Jack Brabham (Brabham-Climax) — +24.900 [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1964/races/218/france/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1964/4/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Brabham Chassis Maiden Grand Prix Win: American star Dan Gurney drove a magnificent race in the Brabham BT7-Climax to score the FIRST-EVER FORMULA ONE WORLD CHAMPIONSHIP GRAND PRIX VICTORY FOR BRABHAM (Motor Racing Developments).
-- Clark Engine Failure: Jim Clark took pole position and led the first 30 laps until his Coventry Climax V8 broke a valve spring, forcing retirement.
-- Graham Hill 2nd: Hill brought his BRM home 2nd (+24.1s), moving to within one point of Clark in the championship standings.
-
-## Records Set or Equalled
-- First World Championship Grand Prix victory for Brabham as a chassis constructor.
-- Dan Gurney's 2nd career Grand Prix win (both scored at Rouen-les-Essarts: 1962 for Porsche, 1964 for Brabham).
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1964/races/218/french/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1964/4/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Hillside and grandstand crowds were reported at 60,000 spectators; unverified in official sporting records.

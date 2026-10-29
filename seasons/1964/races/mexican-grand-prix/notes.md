@@ -1,46 +1,35 @@
-# 1964 Round 10: III Gran Premio de México - Verified Race Record
+# 1964 Mexican Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: III Gran Premio de México
-- **Historic Name Notes**: 3rd Mexican Grand Prix; 1964 World Championship title decider; one of the most dramatic title conclusions in Formula One history.
-- **Circuit Full Name**: Magdalena Mixhuca (Autódromo Hermanos Rodríguez)
-- **Location**: Mexico City, Mexico
-- **Host Country**: Mexico
-- **Track Length**: 5.000 km (3.107 mi)
-- **Track Altitude**: 2240 m (7349 ft) above sea level
-- **Race Distance**: 65 laps / 325.000 km (201.946 mi)
-- **Official Race Date**: 1964-10-25
+## Official Race Identification
+- **Official Name**: III Gran Premio de México
+- **Round**: 10 of 10 in the 1964 FIA Formula One World Championship
+- **Date**: Sunday, 25 October 1964
+- **Location**: Magdalena Mixhuca, Mexico City, Mexico
+- **Circuit Length**: 5.000 km (3.107 miles)
+- **Distance**: 65 laps (325.000 km / 201.946 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, dry high-altitude conditions (atmospheric pressure ~78 kPa).
-- **Spectator Attendance**: Over 100,000 spectators.
-- **Grandstand & Infrastructure Notes**: Main grandstands packed for the three-way championship decider.
+## Official Results & Key Metrics
+- **Pole Position**: Jim Clark (Lotus-Climax 33) - 1:57.240
+- **Fastest Lap**: Jim Clark (Lotus-Climax 33) - 1:58.370 (Lap 33)
+- **Race Winner**: Dan Gurney (Brabham-Climax BT7) - 2:09:50.320 (150.191 km/h)
+- **Podium**:
+  1. Dan Gurney (Brabham-Climax) - 65 laps
+  2. John Surtees (Ferrari) - 65 laps (+1:08.940)
+  3. Lorenzo Bandini (Ferrari) - 65 laps (+1:09.630)
 
-## Verified Key Race Results
-- **Pole Position**: Jim Clark (Lotus 33-Climax) - 1:57.24
-- **Fastest Race Lap**: Jim Clark (Lotus 33-Climax) - 1:58.37 (Lap 52)
-- **Race Winner**: Dan Gurney (Brabham-Climax) - 2:09:50.320 (9 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Surtees Clinches Historic World Championship**: John Surtees finished 2nd to clinch the 1964 World Drivers' Championship with 40 net points, defeating Graham Hill (39 points) by a single point. Surtees made motorsport history as the first and only person ever to win World Championships on both two wheels (7 motorcycle GP titles) and four wheels (Formula One).
+- **The Unfolding Final-Lap Drama**:
+  - Jim Clark dominated from pole and led 63 laps, on course to win the race and the championship. On lap 64 (the penultimate lap), an oil line fractured, seizing Clark's engine and robbing him of the title.
+  - On lap 31, Lorenzo Bandini collided with Graham Hill at the hairpin; Hill spun into the straw bales with a damaged exhaust, finishing outside the points in 11th.
+  - Surtees was running 3rd behind Bandini, which would leave him 1 point behind Hill. Recognizing Clark's retirement, Ferrari team manager signaled Bandini from the pit wall to let Surtees pass. Bandini pulled over on the final lap, handing Surtees 2nd place and the world title.
+- **Ferrari Clinches Constructors' Cup**: The 2-3 finish for Surtees and Bandini secured the International Cup for F1 Manufacturers for Ferrari (45 net points).
+- **Dan Gurney's Stealth Victory**: Dan Gurney drove an immaculate, faultless race in the Brabham BT7, inheriting the lead when Clark retired to win his second Grand Prix of the season.
+- **Track & Weather Conditions**: Warm, bright high-altitude autumn sunshine at 2,285 meters elevation; dry track.
 
-## Official Podium Finishers
-- **1st** : Dan Gurney (Brabham-Climax) — 2:09:50.320 [9 pts]
-- **2nd** : John Surtees (Ferrari) — +1:08.940 [6 pts]
-- **3rd** : Lorenzo Bandini (Ferrari) — +1:09.630 [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1964/races/224/mexico/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1964/10/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Dramatic Three-Way Title Showdown: Graham Hill (39 pts), John Surtees (34 pts), and Jim Clark (30 pts) all had mathematical chances to win the World Championship.
-- The Bandini-Hill Collision: On lap 31, while battling for 3rd place, Ferrari's Lorenzo Bandini touched the rear of Graham Hill's BRM at the hairpin, bending Hill's exhaust pipes. Hill was forced to pit for repairs, dropping out of the points.
-- Clark's Penultimate Lap Heartbreak: Clark took pole and led from start to finish, on course to retain his title. With two laps to go, an oil line ruptured, and Clark's engine seized on the penultimate lap (lap 64)!
-- Bandini Yields to Surtees for Title: Dan Gurney swept past Clark to win for Brabham. Entering the final lap, Ferrari pit signals urged Bandini to yield 2nd place to teammate Surtees. Bandini slowed and waved Surtees through into 2nd place. Second place gave Surtees 6 points, bringing his net total to 40 points — beating Graham Hill (39 points) by EXACTLY ONE POINT to become World Champion!
-- Blue and White Ferrari Champions: Surtees clinched the title driving the blue-and-white NART Ferrari 158.
-
-## Records Set or Equalled
-- John Surtees crowned 1964 Formula One World Champion of Drivers — the ONLY PERSON IN MOTORSPORT HISTORY TO WIN WORLD CHAMPIONSHIPS ON BOTH TWO WHEELS AND FOUR WHEELS.
-- Scuderia Ferrari clinched the 1964 International Cup for F1 Manufacturers (Constructors' Championship).
-- Dan Gurney won his 2nd Grand Prix of the 1964 season for Brabham.
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1964/races/224/mexico/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1964/10/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Contemporary press reported attendance between 65,000 and 75,000 spectators at the Magdalena Mixhuca parkland circuit. Unverified in official sporting records.

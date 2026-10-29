@@ -1,43 +1,30 @@
-# 1964 Round 8: XXXV Gran Premio d'Italia - Verified Race Record
+# 1964 Italian Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: XXXV Gran Premio d'Italia
-- **Historic Name Notes**: 35th Italian Grand Prix at Monza; 5.750 km road course.
-- **Circuit Full Name**: Autodromo Nazionale di Monza (Road Course)
-- **Location**: Monza, Lombardy, Italy
-- **Host Country**: Italy
-- **Track Length**: 5.750 km (3.573 mi)
-- **Track Altitude**: 162 m (531 ft) above sea level
-- **Race Distance**: 78 laps / 448.500 km (278.685 mi)
-- **Official Race Date**: 1964-09-06
+## Official Race Identification
+- **Official Name**: XXXV Gran Premio d'Italia
+- **Round**: 8 of 10 in the 1964 FIA Formula One World Championship
+- **Date**: Sunday, 6 September 1964
+- **Location**: Autodromo Nazionale di Monza (5.750 km Road Course), Monza, Italy
+- **Circuit Length**: 5.750 km (3.573 miles)
+- **Distance**: 78 laps (448.500 km / 278.685 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, dry autumn conditions.
-- **Spectator Attendance**: Over 120,000 passionate Italian tifosi.
-- **Grandstand & Infrastructure Notes**: Centrale and Vedano grandstands erupted in ecstasy for Surtees.
+## Official Results & Key Metrics
+- **Pole Position**: John Surtees (Ferrari 158) - 1:37.400
+- **Fastest Lap**: John Surtees (Ferrari 158) - 1:38.800 (Lap 63)
+- **Race Winner**: John Surtees (Ferrari 158) - 2:10:51.800 (205.629 km/h)
+- **Podium**:
+  1. John Surtees (Ferrari) - 78 laps
+  2. Bruce McLaren (Cooper-Climax) - 78 laps (+1:06.000)
+  3. Lorenzo Bandini (Ferrari) - 77 laps (+1 lap)
 
-## Verified Key Race Results
-- **Pole Position**: John Surtees (Ferrari 158) - 1:37.4
-- **Fastest Race Lap**: John Surtees (Ferrari 158) - 1:38.8 (Lap 63)
-- **Race Winner**: John Surtees (Ferrari) - 2:10:51.800 (9 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Surtees Conquers Monza for Ferrari**: John Surtees thrilled the Italian tifosi with an authoritative victory in the Ferrari 158 V8, taking pole, fastest lap, and win. After an intense 56-lap duel with Dan Gurney ended when Gurney's alternator failed, Surtees cruised to victory by over a minute.
+- **Championship Picture Thrown Wide Open**: Title contenders Graham Hill (clutch failure at start) and Jim Clark (engine failure lap 27) scored zero points, allowing Surtees to move within 4 points of Hill with two rounds remaining.
+- **Track & Weather Conditions**: Very warm, sunny Italian late-summer afternoon; fast and dry track throughout.
 
-## Official Podium Finishers
-- **1st** : John Surtees (Ferrari) — 2:10:51.800 [9 pts]
-- **2nd** : Bruce McLaren (Cooper-Climax) — +1:06.000 [6 pts]
-- **3rd** : Lorenzo Bandini (Ferrari) — +1 Lap [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1964/races/222/italy/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1964/8/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Surtees Monza Triumph for Ferrari: John Surtees took pole position, fastest lap, and victory in his Ferrari 158, outdueling Dan Gurney until Gurney's alternator failed four laps from the finish.
-- Hill Stalls on Grid: Championship leader Graham Hill stalled on the grid with clutch failure and was eliminated before Turn 1.
-- Three-Way Title Fight Intensifies: Surtees' victory moved him within two points of Graham Hill (32 pts vs 30 pts gross), throwing the championship wide open.
-
-## Records Set or Equalled
-- John Surtees scored Ferrari's 2nd consecutive Italian Grand Prix victory.
-- Bruce McLaren finished 2nd for Cooper.
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1964/races/222/italy/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1964/8/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Monza parkland crowd estimates exceeded 90,000 spectators; unverified in official sporting records.

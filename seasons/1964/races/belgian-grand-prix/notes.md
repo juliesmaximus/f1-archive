@@ -1,43 +1,34 @@
-# 1964 Round 3: XXIV Grote Prijs van België / XXIV Grand Prix de Belgique - Verified Race Record
+# 1964 Belgian Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: XXIV Grote Prijs van België / XXIV Grand Prix de Belgique
-- **Historic Name Notes**: 24th Belgian Grand Prix; marked by one of the most astonishing final-lap fuel dramatics in history.
-- **Circuit Full Name**: Circuit de Spa-Francorchamps
-- **Location**: Francorchamps, Stavelot, Malmedy, Belgium
-- **Host Country**: Belgium
-- **Track Length**: 14.120 km (8.774 mi)
-- **Track Altitude**: 410 m (1345 ft) above sea level
-- **Race Distance**: 32 laps / 451.840 km (280.760 mi)
-- **Official Race Date**: 1964-06-14
+## Official Race Identification
+- **Official Name**: XXIV Grand Prix de Belgique
+- **Round**: 3 of 10 in the 1964 FIA Formula One World Championship
+- **Date**: Sunday, 14 June 1964
+- **Location**: Circuit de Spa-Francorchamps, Stavelot, Belgium
+- **Circuit Length**: 14.120 km (8.774 miles)
+- **Distance**: 32 laps (451.840 km / 280.760 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, calm Ardennes mountain afternoon.
-- **Spectator Attendance**: Over 75,000 spectators.
-- **Grandstand & Infrastructure Notes**: Eau Rouge and Blanchimont packed.
+## Official Results & Key Metrics
+- **Pole Position**: Dan Gurney (Brabham-Climax BT7) - 3:50.900
+- **Fastest Lap**: Dan Gurney (Brabham-Climax BT7) - 3:49.200 (Lap 27)
+- **Race Winner**: Jim Clark (Lotus-Climax 25) - 2:06:40.500 (213.888 km/h)
+- **Podium**:
+  1. Jim Clark (Lotus-Climax) - 32 laps
+  2. Bruce McLaren (Cooper-Climax) - 32 laps (+3.400s)
+  3. Jack Brabham (Brabham-Climax) - 32 laps (+48.100s)
 
-## Verified Key Race Results
-- **Pole Position**: Dan Gurney (Brabham BT7-Climax) - 3:50.9
-- **Fastest Race Lap**: Dan Gurney (Brabham BT7-Climax) - 3:49.2 (Lap 27)
-- **Race Winner**: Jim Clark (Lotus-Climax) - 2:06:40.500 (9 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **The Great Spa Final-Lap Fuel Drama**: Widely remembered as one of the most unbelievable race conclusions in Grand Prix history:
+  - Dan Gurney dominated from pole, opening a 40-second lead until his fuel tank ran dry on lap 30, forcing him into the pits.
+  - Graham Hill inherited the lead, but his fuel pump seized with less than one lap remaining, stopping him on the track.
+  - Bruce McLaren inherited the lead, but his alternator died and his engine cut out entering the final La Source hairpin!
+  - Jim Clark—who had pitted for radiator water and believed he was running in 4th place—coasted past McLaren's freewheeling Cooper on the start-finish straight to take an unexpected victory.
+  - Clark ran completely out of fuel on the slow-down lap and had to hitch a ride back to the pits on the sidepod of Gurney's car!
+- **Track & Weather Conditions**: Very warm, dry Ardennes afternoon; clean asphalt throughout.
 
-## Official Podium Finishers
-- **1st** : Jim Clark (Lotus-Climax) — 2:06:40.500 [9 pts]
-- **2nd** : Bruce McLaren (Cooper-Climax) — +3.400 [6 pts]
-- **3rd** : Jack Brabham (Brabham-Climax) — +48.100 [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1964/races/217/belgium/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1964/3/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Astonishing Final-Lap Fuel Drama: Dan Gurney dominated the race in the Brabham BT7, leading comfortably until running out of fuel on the penultimate lap (lap 30). Graham Hill inherited the lead, but his BRM fuel pump failed on the final lap. Bruce McLaren then swept past to lead, but his Cooper ran out of fuel at Stavelot corner and coasted downhill toward the line.
-- Clark Wins Unknowingly: Jim Clark (who had pitted to add water for overheating) powered past the sputtering McLaren at the final hairpin, taking the checkered flag. Completely out of fuel himself, Clark stalled 200 yards past the finish line, unaware he had just won the Grand Prix until told by officials!
-- Clark's 3rd Consecutive Spa Win: Clark scored his 3rd consecutive Belgian GP victory despite leading only the final few hundred yards of the race.
-
-## Records Set or Equalled
-- Jim Clark won his 3rd consecutive Belgian Grand Prix.
-- Three different race leaders ran out of fuel on the final two laps (Gurney, Hill, McLaren).
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1964/races/217/belgium/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1964/3/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Trackside crowd estimates were reported at 65,000 spectators; no official ticketing ledger exists.

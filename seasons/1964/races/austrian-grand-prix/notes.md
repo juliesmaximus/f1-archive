@@ -1,44 +1,32 @@
-# 1964 Round 7: II Großer Preis von Österreich - Verified Race Record
+# 1964 Austrian Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: II Großer Preis von Österreich
-- **Historic Name Notes**: 2nd Austrian Grand Prix; INAUGURAL inclusion in the World Championship; held on the abrasive Zeltweg airfield.
-- **Circuit Full Name**: Zeltweg Airfield Circuit
-- **Location**: Zeltweg, Styria, Austria
-- **Host Country**: Austria
-- **Track Length**: 3.200 km (1.988 mi)
-- **Track Altitude**: 670 m (2198 ft) above sea level
-- **Race Distance**: 105 laps / 336.000 km (208.781 mi)
-- **Official Race Date**: 1964-08-23
+## Official Race Identification
+- **Official Name**: II Großer Preis von Österreich
+- **Round**: 7 of 10 in the 1964 FIA Formula One World Championship
+- **Date**: Sunday, 23 August 1964
+- **Location**: Zeltweg Airfield Circuit, Zeltweg, Styria, Austria
+- **Circuit Length**: 3.200 km (1.988 miles)
+- **Distance**: 105 laps (336.000 km / 208.781 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, dry, track surface extremely bumpy and abrasive.
-- **Spectator Attendance**: Over 50,000 Austrian spectators.
-- **Grandstand & Infrastructure Notes**: Temporary wooden grandstands alongside the airfield perimeter runway.
+## Official Results & Key Metrics
+- **Pole Position**: Graham Hill (BRM P261) - 1:09.840
+- **Fastest Lap**: Dan Gurney (Brabham-Climax BT7) - 1:10.560 (Lap 32)
+- **Race Winner**: Lorenzo Bandini (Ferrari 156 Aero) - 2:06:18.230 (159.589 km/h)
+- **Podium**:
+  1. Lorenzo Bandini (Ferrari) - 105 laps
+  2. Richie Ginther (BRM) - 105 laps (+6.180s)
+  3. Bob Anderson (Brabham-Climax) - 102 laps (+3 laps)
 
-## Verified Key Race Results
-- **Pole Position**: Graham Hill (BRM P261) - 1:09.84
-- **Fastest Race Lap**: Dan Gurney (Brabham BT7-Climax) - 1:10.56 (Lap 32)
-- **Race Winner**: Lorenzo Bandini (Ferrari) - 2:06:18.230 (9 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Inaugural Championship Austrian Grand Prix**: First Austrian Grand Prix included in the World Championship, held on the brutal, bumpy concrete slabs of Zeltweg Airfield.
+- **Lorenzo Bandini's Solitary Career Victory**: The abrasive concrete surface shook cars to pieces, causing suspension and steering failures for title favorites Clark, Hill, Surtees, and Gurney. Lorenzo Bandini nursed his factory Ferrari 156 through the carnage to take his first and only Formula One World Championship Grand Prix victory.
+- **Jochen Rindt World Championship Debut**: Austrian driver Jochen Rindt made his World Championship debut driving a Rob Walker Brabham-BRM, retiring on lap 58 with steering failure.
+- **Bob Anderson Privateer Podium**: British privateer Bob Anderson drove a remarkable race to finish 3rd in his private Brabham-Climax.
+- **Track & Weather Conditions**: Very hot, sunny Styrian summer afternoon; extraordinarily abrasive, bumpy runway surface.
 
-## Official Podium Finishers
-- **1st** : Lorenzo Bandini (Ferrari) — 2:06:18.230 [9 pts]
-- **2nd** : Richie Ginther (BRM) — +6.180 [6 pts]
-- **3rd** : Bob Anderson (Brabham-Climax) — +3 Laps [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1964/races/221/austria/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1964/7/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Lorenzo Bandini Maiden Victory: Italian star Lorenzo Bandini scored his FIRST AND ONLY CAREER WORLD CHAMPIONSHIP GRAND PRIX VICTORY for Scuderia Ferrari, winning by 6.18 seconds over Richie Ginther's BRM.
-- Brutal Airfield Attrition: The bumpy concrete runways shook suspensions to pieces, with only 9 of the 20 starters surviving to the finish. Surtees, Clark, Hill, and Gurney all retired with broken suspensions and steering.
-- Jochen Rindt World Championship Debut: 22-year-old Austrian future World Champion Jochen Rindt made his World Championship debut in a customer Brabham BT11 (retired lap 58 with steering failure).
-
-## Records Set or Equalled
-- Sole Formula One World Championship Grand Prix victory for Lorenzo Bandini.
-- World Championship debut of future World Champion Jochen Rindt.
-- Inaugural Austrian Grand Prix in the FIA Formula One World Championship.
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1964/races/221/austria/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1964/7/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Crowd estimates were placed at 50,000 spectators; unverified in official sporting records.
