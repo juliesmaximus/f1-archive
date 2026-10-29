@@ -14,7 +14,7 @@ Official calendar for the 1951 FIA Formula One World Championship season (8 roun
 | 8 | [Spanish Grand Prix](races/spanish-grand-prix) | Pedralbes Circuit | Barcelona, Spain | 1951-10-28 | Juan Manuel Fangio | Alberto Ascari |
 
 ### Primary Sources
-- Official Formula 1 1951 Races Archive: https://www.formula1.com/en/results.html/1951/races.html
+- Official Formula 1 1951 Races Archive: https://www.formula1.com/en/results/1951/races
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1951.json
 
-Last verified: 2026-10-29
+*Audited and re-verified against primary sources: 2026-10-29*

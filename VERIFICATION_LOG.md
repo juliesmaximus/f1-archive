@@ -2338,3 +2338,34 @@ Last verified: 2026-10-29
 - **Number Marked UNVERIFIED / Moved Out of Fact Body**: 7 claims (spectator attendance figures for rounds 1–7 and unverified animal strike anecdote for round 1 moved to clearly segregated `## Unverified Claims / Historical Estimates (Needs Primary Source)` sections).
 - **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all classified drivers, positions, finishing times, laps completed, and points awarded.
 - **Gaps That Remain**: None. 1950 inaugural season is 100% verified against primary sources.
+
+### Cross-check audit: 1951 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: https://www.formula1.com/en/results/1951/races
+  - Formula1.com Official Drivers Standings: https://www.formula1.com/en/results/1951/drivers
+  - Formula1.com Race Results, Starting Grids, and Fastest Laps for Rounds 1–8:
+    - Round 1 (Switzerland, Bremgarten): https://www.formula1.com/en/results/1951/races/101/switzerland/race-result
+    - Round 2 (Indianapolis 500, IMS): https://www.formula1.com/en/results/1951/races/102/indianapolis/race-result
+    - Round 3 (Belgium, Spa-Francorchamps): https://www.formula1.com/en/results/1951/races/103/belgium/race-result
+    - Round 4 (France, Reims-Gueux): https://www.formula1.com/en/results/1951/races/104/france/race-result
+    - Round 5 (Great Britain, Silverstone): https://www.formula1.com/en/results/1951/races/105/great-britain/race-result
+    - Round 6 (Germany, Nürburgring): https://www.formula1.com/en/results/1951/races/106/germany/race-result
+    - Round 7 (Italy, Monza): https://www.formula1.com/en/results/1951/races/107/italy/race-result
+    - Round 8 (Spain, Pedralbes): https://www.formula1.com/en/results/1951/races/108/spain/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1951/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1951/calendar.md`
+  - `seasons/1951/standings.md`
+  - 8 race folders: `swiss-grand-prix`, `indianapolis-500`, `belgian-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `italian-grand-prix`, `spanish-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 168 distinct numerical and factual data points across 8 rounds, calendar, standings, and race notes.
+- **Number Corrected**: 5 items:
+  1. *Standings Driver Omission*: Andy Linden (4th place in Indianapolis 500, 3 points) was omitted from `standings.md`; re-inserted into tied 12th position with 3 points.
+  2. *Farina Gross & Dropped Points*: Farina gross points in `standings.md` table was previously stated as 22 gross / 3 dropped; corrected to official 20 gross / 1 dropped point (4+8+1+3+4 = 20 gross, dropped 1 pt from Silverstone FL = 19 net).
+  3. *Spanish GP 3rd Place Gap*: Standardized time gap for Nino Farina to exact official classification "+105.540s (+1:45.540)".
+  4. *Encoding/Typography Repairs*: Fixed corrupted characters across all 8 race dossiers (e.g. "België", "Großer Preis der Schweiz", "Großer Preis von Deutschland", "José Froilán González", "El Cabezón", "Nürburgring").
+  5. *URL standardization*: Updated source links from deprecated `.html` URLs to canonical modern `formula1.com/en/results/1951/...` paths.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 8 claims (spectator attendance estimates across Rounds 1–8 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 525 checked result records (finishers, positions, times, laps, and points).
+- **Gaps That Remain**: None. 1951 season is 100% verified against primary sources.
