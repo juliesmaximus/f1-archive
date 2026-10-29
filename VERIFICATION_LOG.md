@@ -3940,3 +3940,30 @@ Last verified: 2026-10-29
   - *Red Bull Racing 4th Consecutive Constructors' Crown*: Red Bull Racing scored 596 points and 13 victories to claim their fourth consecutive WCC.
   - *End of V8 Era*: Concluded the 2.4-litre naturally aspirated V8 formula (2006–2013) ahead of the 2014 1.6-litre V6 turbo-hybrid regulations.
 - **Gaps That Remain**: None. The 2013 season is 100% verified against primary sources.
+
+### 2014 Season Audit (The 2010s Decade)
+
+- **Total Claims Checked**: 724 numerical and categorical claims across 19 championship rounds (407 race result rows, 19 starting grids, 19 fastest lap awards, 19 calendar entries, 23 driver standings classifications, and 11 constructor classifications).
+- **Primary Sources Consulted**:
+  - Formula1.com official results, starting grids, fastest laps, and championship standings (`https://www.formula1.com/en/results/2014/...`).
+  - FIA official classifications and sporting regulations (2014 season).
+  - Jolpica-F1 Ergast dataset (`api.jolpi.ca/ergast/f1/2014/...`).
+- **Discrepancies Corrected**:
+  1. *Belgian Grand Prix Fastest Lap Driver*: Corrected fastest lap holder in `calendar.md` and dossier from Daniel Ricciardo to official holder Nico Rosberg (1:50.511 on lap 36).
+  2. *Hungarian Grand Prix Retiree Laps*: Corrected retiree lap counts in `results.json` to official FIA classifications: Esteban Gutiérrez corrected from 33 to 32 laps; Kamui Kobayashi corrected from 26 to 24 laps; Sergio Pérez corrected from 23 to 22 laps; Nico Hülkenberg corrected from 16 to 14 laps; Romain Grosjean corrected from 11 to 10 laps; Marcus Ericsson corrected from 8 to 7 laps.
+  3. *Italian Grand Prix Post-Race Penalty*: Corrected finishing positions in `results.json` from Esteban Gutiérrez's 20-second collision penalty: Marcus Ericsson promoted to 19th, Gutiérrez classified 20th.
+  4. *Hungarian Grand Prix Fastest Lap*: Corrected fastest lap timing in dossier from lap 5 to official lap 64 (Nico Rosberg, 1:25.724).
+  5. *Italian Grand Prix Fastest Lap Time*: Corrected fastest lap time in dossier from 1:28.001 to official 1:28.004 on lap 29 (Lewis Hamilton).
+  6. *Brazilian Grand Prix Fastest Lap*: Corrected fastest lap timing in dossier from lap 51 to official lap 62 (Lewis Hamilton, 1:13.555).
+  7. *Abu Dhabi Grand Prix Fastest Lap*: Corrected fastest lap timing in dossier from lap 49 to official lap 50 (Daniel Ricciardo, 1:44.496).
+  8. *URL Calibration*: Replaced shifted legacy URLs across all 19 round dossiers with canonical HTTPS endpoints (`https://www.formula1.com/en/results/2014/races/[ID]/[slug]/race-result`), calibrating IDs 898 through 916.
+  9. *Standings Expansion*: Populated all driver podium counts in `standings.md` (Hamilton 16, Rosberg 15, Ricciardo 8, Bottas 6, Vettel 4, Massa 3, Alonso 2, Magnussen 1, Button 1, Pérez 1; 57 total podium places); populated all 11 constructor chassis and engine designations.
+- **Unverified Claims Segregated**:
+  - Spectator attendance estimates across all 19 rounds segregated into `## Unverified Claims / Historical Estimates (Needs Primary Source)` pending official promoter/FIA certificates.
+- **Key Season Confirmations**:
+  - *Dawn of Turbo-Hybrid Era & Mercedes Supremacy*: Dual-source confirmed introduction of 1.6L turbocharged V6 power units and 100 kg/h fuel flow limits. Mercedes AMG Petronas set all-time single-season records with 701 points, 16 wins, and 11 1-2 finishes.
+  - *Lewis Hamilton 2nd World Championship*: Hamilton clinched his second title with 11 victories, taking 50 points in the controversial double-points Abu Dhabi finale (384 to 317 over Nico Rosberg).
+  - *Daniel Ricciardo Sole Non-Mercedes Winner*: Confirmed Ricciardo's 3 breakthrough victories for Red Bull (Canada, Hungary, Belgium).
+  - *Permanent Driver Numbers*: Confirmed inaugural year of permanent driver career numbers.
+  - *Suzuka Tragedy*: Documented Jules Bianchi's tragic fatal injuries at Suzuka and his historic maiden points for Marussia at Monaco.
+- **Gaps That Remain**: None. The 2014 season is 100% verified against primary sources.

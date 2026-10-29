@@ -8,7 +8,6 @@
 - **Location:** Silverstone, United Kingdom
 - **Circuit Length:** 5.891 km (3.660 miles)
 - **Altitude:** 155 m above sea level
-- **Official Attendance:** 120,000
 
 ---
 
@@ -36,6 +35,10 @@ Fernando Alonso and Sebastian Vettel fought an epic, furious duel for 5th, both 
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Santander British Grand Prix Results](https://www.formula1.com/en/results.html/2014/races/909/great-britain/race-result.html)
+- **Official Formula 1 Results Archive:** [Santander British Grand Prix Results](https://www.formula1.com/en/results/2014/races/906/great-britain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2014/9/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2014)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 120,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

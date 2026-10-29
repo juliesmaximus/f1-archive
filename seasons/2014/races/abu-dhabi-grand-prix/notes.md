@@ -8,7 +8,6 @@
 - **Location:** Yas Island, Abu Dhabi, UAE
 - **Circuit Length:** 5.554 km (3.451 miles)
 - **Altitude:** 12 m above sea level
-- **Official Attendance:** 55,000 sell-out crowd
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Lewis Hamilton (Mercedes)
 - **Pole Position:** Nico Rosberg (Mercedes) - 1:40.480
-- **Fastest Lap:** Daniel Ricciardo (Red Bull-Renault) - 1:44.496 (lap 49)
+- **Fastest Lap:** Daniel Ricciardo (Red Bull-Renault) - 1:44.496 (lap 50)
 
 ---
 
@@ -36,6 +35,10 @@ The universally despised double-points gimmick was permanently scrapped immediat
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Etihad Airways Abu Dhabi Grand Prix Results](https://www.formula1.com/en/results.html/2014/races/919/abu-dhabi/race-result.html)
+- **Official Formula 1 Results Archive:** [Etihad Airways Abu Dhabi Grand Prix Results](https://www.formula1.com/en/results/2014/races/916/abu-dhabi/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2014/19/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2014)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 55,000 sell-out crowd (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

@@ -15,7 +15,7 @@ The 2014 FIA Formula 1 World Championship consisted of 19 rounds across 5 contin
 | 9 | [British Grand Prix](races/british-grand-prix/notes.md) | Silverstone Circuit | Silverstone, United Kingdom | 2014-07-06 | Lewis Hamilton | Nico Rosberg | Lewis Hamilton |
 | 10 | [German Grand Prix](races/german-grand-prix/notes.md) | Hockenheimring | Hockenheim, Germany | 2014-07-20 | Nico Rosberg | Nico Rosberg | Lewis Hamilton |
 | 11 | [Hungarian Grand Prix](races/hungarian-grand-prix/notes.md) | Hungaroring | Mogyoród, Hungary | 2014-07-27 | Daniel Ricciardo | Nico Rosberg | Nico Rosberg |
-| 12 | [Belgian Grand Prix](races/belgian-grand-prix/notes.md) | Circuit de Spa-Francorchamps | Spa, Belgium | 2014-08-24 | Daniel Ricciardo | Nico Rosberg | Daniel Ricciardo |
+| 12 | [Belgian Grand Prix](races/belgian-grand-prix/notes.md) | Circuit de Spa-Francorchamps | Spa, Belgium | 2014-08-24 | Daniel Ricciardo | Nico Rosberg | Nico Rosberg |
 | 13 | [Italian Grand Prix](races/italian-grand-prix/notes.md) | Autodromo Nazionale di Monza | Monza, Italy | 2014-09-07 | Lewis Hamilton | Lewis Hamilton | Lewis Hamilton |
 | 14 | [Singapore Grand Prix](races/singapore-grand-prix/notes.md) | Marina Bay Street Circuit | Marina Bay, Singapore | 2014-09-21 | Lewis Hamilton | Lewis Hamilton | Lewis Hamilton |
 | 15 | [Japanese Grand Prix](races/japanese-grand-prix/notes.md) | Suzuka International Racing Course | Suzuka, Mie, Japan | 2014-10-05 | Lewis Hamilton | Nico Rosberg | Lewis Hamilton |

@@ -240,7 +240,7 @@
                 "code": "RAI",
                 "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
                 "givenName": "Kimi",
-                "familyName": "R\u00e4ikk\u00f6nen",
+                "familyName": "Räikkönen",
                 "dateOfBirth": "1979-10-17",
                 "nationality": "Finnish"
               },
@@ -359,7 +359,7 @@
                 "permanentNumber": "25",
                 "code": "VER",
                 "url": "http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne",
-                "givenName": "Jean-\u00c9ric",
+                "givenName": "Jean-Éric",
                 "familyName": "Vergne",
                 "dateOfBirth": "1990-04-25",
                 "nationality": "French"
@@ -668,7 +668,7 @@
                 "code": "GUT",
                 "url": "http://en.wikipedia.org/wiki/Esteban_Guti%C3%A9rrez",
                 "givenName": "Esteban",
-                "familyName": "Guti\u00e9rrez",
+                "familyName": "Gutiérrez",
                 "dateOfBirth": "1991-08-05",
                 "nationality": "Mexican"
               },
@@ -679,7 +679,7 @@
                 "nationality": "Swiss"
               },
               "grid": "13",
-              "laps": "33",
+              "laps": "32",
               "status": "Retired",
               "FastestLap": {
                 "rank": "18",
@@ -715,7 +715,7 @@
                 "nationality": "Malaysian"
               },
               "grid": "17",
-              "laps": "26",
+              "laps": "24",
               "status": "Retired",
               "FastestLap": {
                 "rank": "19",
@@ -740,7 +740,7 @@
                 "code": "PER",
                 "url": "http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez",
                 "givenName": "Sergio",
-                "familyName": "P\u00e9rez",
+                "familyName": "Pérez",
                 "dateOfBirth": "1990-01-26",
                 "nationality": "Mexican"
               },
@@ -751,7 +751,7 @@
                 "nationality": "Indian"
               },
               "grid": "12",
-              "laps": "23",
+              "laps": "22",
               "status": "Accident",
               "FastestLap": {
                 "rank": "17",
@@ -776,7 +776,7 @@
                 "code": "HUL",
                 "url": "http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg",
                 "givenName": "Nico",
-                "familyName": "H\u00fclkenberg",
+                "familyName": "Hülkenberg",
                 "dateOfBirth": "1987-08-19",
                 "nationality": "German"
               },
@@ -787,7 +787,7 @@
                 "nationality": "Indian"
               },
               "grid": "9",
-              "laps": "16",
+              "laps": "14",
               "status": "Accident",
               "FastestLap": {
                 "rank": "20",
@@ -823,7 +823,7 @@
                 "nationality": "British"
               },
               "grid": "14",
-              "laps": "11",
+              "laps": "10",
               "status": "Accident",
               "FastestLap": {
                 "rank": "21",
@@ -859,7 +859,7 @@
                 "nationality": "Malaysian"
               },
               "grid": "19",
-              "laps": "8",
+              "laps": "7",
               "status": "Accident",
               "FastestLap": {
                 "rank": "22",

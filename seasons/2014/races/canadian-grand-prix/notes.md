@@ -8,7 +8,6 @@
 - **Location:** Montreal, Canada
 - **Circuit Length:** 4.361 km (2.710 miles)
 - **Altitude:** 14 m above sea level
-- **Official Attendance:** 120,000
 
 ---
 
@@ -36,6 +35,10 @@ Ended Mercedes' unbeaten start to the 2014 season.
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Grand Prix du Canada Results](https://www.formula1.com/en/results.html/2014/races/907/canada/race-result.html)
+- **Official Formula 1 Results Archive:** [Grand Prix du Canada Results](https://www.formula1.com/en/results/2014/races/904/canada/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2014/7/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2014)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 120,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

@@ -8,7 +8,6 @@
 - **Location:** São Paulo, Brazil
 - **Circuit Length:** 4.309 km (2.677 miles)
 - **Altitude:** 785 m above sea level
-- **Official Attendance:** 80,000
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Nico Rosberg (Mercedes)
 - **Pole Position:** Nico Rosberg (Mercedes) - 1:10.023
-- **Fastest Lap:** Lewis Hamilton (Mercedes) - 1:13.555 (lap 51)
+- **Fastest Lap:** Lewis Hamilton (Mercedes) - 1:13.555 (lap 62)
 
 ---
 
@@ -36,6 +35,10 @@ Felipe Massa finished 3rd on home soil despite serving a 5-second penalty for sp
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Grande Prêmio do Brasil Results](https://www.formula1.com/en/results.html/2014/races/918/brazil/race-result.html)
+- **Official Formula 1 Results Archive:** [Grande Prêmio do Brasil Results](https://www.formula1.com/en/results/2014/races/915/brazil/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2014/18/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2014)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 80,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

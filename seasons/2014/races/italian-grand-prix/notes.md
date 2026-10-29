@@ -8,7 +8,6 @@
 - **Location:** Monza, Italy
 - **Circuit Length:** 5.793 km (3.600 miles)
 - **Altitude:** 162 m above sea level
-- **Official Attendance:** 115,000 tifosi
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Lewis Hamilton (Mercedes)
 - **Pole Position:** Lewis Hamilton (Mercedes) - 1:24.109
-- **Fastest Lap:** Lewis Hamilton (Mercedes) - 1:28.001 (lap 29)
+- **Fastest Lap:** Lewis Hamilton (Mercedes) - 1:28.004 (lap 29)
 
 ---
 
@@ -36,6 +35,10 @@ Rosberg's identical lock-ups into the Rettifilo escape road sparked conspiracy t
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio d'Italia Results](https://www.formula1.com/en/results.html/2014/races/913/italy/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio d'Italia Results](https://www.formula1.com/en/results/2014/races/910/italy/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2014/13/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2014)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 115,000 tifosi (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

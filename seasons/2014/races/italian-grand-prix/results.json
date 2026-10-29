@@ -280,7 +280,7 @@
                 "code": "PER",
                 "url": "http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez",
                 "givenName": "Sergio",
-                "familyName": "P\u00e9rez",
+                "familyName": "Pérez",
                 "dateOfBirth": "1990-01-26",
                 "nationality": "Mexican"
               },
@@ -360,7 +360,7 @@
                 "code": "RAI",
                 "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
                 "givenName": "Kimi",
-                "familyName": "R\u00e4ikk\u00f6nen",
+                "familyName": "Räikkönen",
                 "dateOfBirth": "1979-10-17",
                 "nationality": "Finnish"
               },
@@ -480,7 +480,7 @@
                 "code": "HUL",
                 "url": "http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg",
                 "givenName": "Nico",
-                "familyName": "H\u00fclkenberg",
+                "familyName": "Hülkenberg",
                 "dateOfBirth": "1987-08-19",
                 "nationality": "German"
               },
@@ -519,7 +519,7 @@
                 "permanentNumber": "25",
                 "code": "VER",
                 "url": "http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne",
-                "givenName": "Jean-\u00c9ric",
+                "givenName": "Jean-Éric",
                 "familyName": "Vergne",
                 "dateOfBirth": "1990-04-25",
                 "nationality": "French"
@@ -730,44 +730,8 @@
               }
             },
             {
-              "number": "21",
-              "position": "19",
-              "positionText": "19",
-              "points": "0",
-              "Driver": {
-                "driverId": "gutierrez",
-                "permanentNumber": "21",
-                "code": "GUT",
-                "url": "http://en.wikipedia.org/wiki/Esteban_Guti%C3%A9rrez",
-                "givenName": "Esteban",
-                "familyName": "Guti\u00e9rrez",
-                "dateOfBirth": "1991-08-05",
-                "nationality": "Mexican"
-              },
-              "Constructor": {
-                "constructorId": "sauber",
-                "url": "https://en.wikipedia.org/wiki/Sauber_Motorsport",
-                "name": "Sauber",
-                "nationality": "Swiss"
-              },
-              "grid": "15",
-              "laps": "51",
-              "status": "+2 Laps",
-              "FastestLap": {
-                "rank": "15",
-                "lap": "40",
-                "Time": {
-                  "time": "1:29.449"
-                },
-                "AverageSpeed": {
-                  "units": "kph",
-                  "speed": "233.147"
-                }
-              }
-            },
-            {
               "number": "9",
-              "position": "20",
+              "position": "19",
               "positionText": "20",
               "points": "0",
               "Driver": {
@@ -798,6 +762,42 @@
                 "AverageSpeed": {
                   "units": "kph",
                   "speed": "231.001"
+                }
+              }
+            },
+            {
+              "number": "21",
+              "position": "20",
+              "positionText": "19",
+              "points": "0",
+              "Driver": {
+                "driverId": "gutierrez",
+                "permanentNumber": "21",
+                "code": "GUT",
+                "url": "http://en.wikipedia.org/wiki/Esteban_Guti%C3%A9rrez",
+                "givenName": "Esteban",
+                "familyName": "Gutiérrez",
+                "dateOfBirth": "1991-08-05",
+                "nationality": "Mexican"
+              },
+              "Constructor": {
+                "constructorId": "sauber",
+                "url": "https://en.wikipedia.org/wiki/Sauber_Motorsport",
+                "name": "Sauber",
+                "nationality": "Swiss"
+              },
+              "grid": "15",
+              "laps": "51",
+              "status": "+2 Laps",
+              "FastestLap": {
+                "rank": "15",
+                "lap": "40",
+                "Time": {
+                  "time": "1:29.449"
+                },
+                "AverageSpeed": {
+                  "units": "kph",
+                  "speed": "233.147"
                 }
               }
             },

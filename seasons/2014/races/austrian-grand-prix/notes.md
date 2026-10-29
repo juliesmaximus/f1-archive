@@ -8,7 +8,6 @@
 - **Location:** Spielberg, Austria
 - **Circuit Length:** 4.326 km (2.688 miles)
 - **Altitude:** 670 m above sea level
-- **Official Attendance:** 95,000 sell-out crowd
 
 ---
 
@@ -36,6 +35,10 @@ Massa's pole was the only non-Mercedes pole position of the entire 2014 season.
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Großer Preis von Österreich Results](https://www.formula1.com/en/results.html/2014/races/908/austria/race-result.html)
+- **Official Formula 1 Results Archive:** [Großer Preis von Österreich Results](https://www.formula1.com/en/results/2014/races/905/austria/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2014/8/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2014)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 95,000 sell-out crowd (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)
