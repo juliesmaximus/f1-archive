@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** James Hunt (McLaren) — 1:44:52.090  
-- **Pole Position:** Ronnie Peterson  
+- **Pole Position:** Ronnie Peterson (1:21.310)
+- **Fastest Lap:** Clay Regazzoni (Ferrari) — 1:22.590 (Lap 49)
 - **Weather & Track Conditions:** Sunny, warm, dry; 24°C ambient  
-- **Spectator Attendance:** 75,000 spectators across the sand dunes  
 - **Grandstand & Infrastructure:** Covered main pit straight grandstand and Tarzan hairpin dunes  
 
 ### Race Anomalies, Incidents & Key Events
@@ -61,8 +61,14 @@ James Hunt's 4th win of the season dramatically closed the World Championship ga
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 75,000 spectators across the sand dunes (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1976/12/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1976 Round 12 Results](https://www.formula1.com/en/results.html/1976/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1976 Race Results](https://www.formula1.com/en/results/1976/races/369/netherlands/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

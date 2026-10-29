@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Niki Lauda (Ferrari) — 1:44:19.660  
-- **Pole Position:** Niki Lauda  
+- **Pole Position:** Niki Lauda (1:19.350)
+- **Fastest Lap:** Niki Lauda (Ferrari) — 1:19.910 (Lap 41)
 - **Weather & Track Conditions:** Warm, sunny, dry; 26°C ambient  
-- **Spectator Attendance:** 120,000 spectators packing Brands Hatch  
 - **Grandstand & Infrastructure:** Brabham Straight grandstands, Druids grandstands, and South Bank spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -61,8 +61,14 @@ A bitterly contentious legal battle that cost Hunt 9 championship points and awa
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 120,000 spectators packing Brands Hatch (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1976/9/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1976 Round 9 Results](https://www.formula1.com/en/results.html/1976/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1976 Race Results](https://www.formula1.com/en/results/1976/races/366/great-britain/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

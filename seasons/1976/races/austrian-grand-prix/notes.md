@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** John Watson (Penske) — 1:30:07.860  
-- **Pole Position:** James Hunt  
+- **Pole Position:** James Hunt (1:35.020)
+- **Fastest Lap:** James Hunt (McLaren-Ford) — 1:35.910 (Lap 27)
 - **Weather & Track Conditions:** Warm, sunny, dry; 25°C ambient  
-- **Spectator Attendance:** 90,000 spectators at a subdued Österreichring  
 - **Grandstand & Infrastructure:** Permanent start-finish grandstand and hillside banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -60,8 +60,14 @@ The first and only Formula One victory for American racing titan Roger Penske as
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 90,000 spectators at a subdued Österreichring (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1976/11/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1976 Round 11 Results](https://www.formula1.com/en/results.html/1976/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1976 Race Results](https://www.formula1.com/en/results/1976/races/368/austria/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

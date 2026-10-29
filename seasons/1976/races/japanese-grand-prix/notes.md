@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Mario Andretti (Team Lotus) — 1:43:58.860  
-- **Pole Position:** Mario Andretti  
+- **Pole Position:** Mario Andretti (1:12.770)
+- **Fastest Lap:** Jacques Laffite (Ligier-Matra) — 1:19.970 (Lap 70)
 - **Weather & Track Conditions:** Apocalyptic torrential rain, dense mountain fog, standing rivers of water across the main straight; 13°C ambient  
-- **Spectator Attendance:** 75,000 drenched Japanese spectators  
 - **Grandstand & Infrastructure:** Massive permanent pit straight grandstand facing Mount Fuji and hairpin spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -60,8 +60,14 @@ The immortal climax to the greatest season in Formula One history, later immorta
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 75,000 drenched Japanese spectators (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1976/16/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1976 Round 16 Results](https://www.formula1.com/en/results.html/1976/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1976 Race Results](https://www.formula1.com/en/results/1976/races/373/japan/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

@@ -10,19 +10,19 @@ Widely regarded as the most dramatic, legendary, and emotionally charged season 
 
 | Round | Official Grand Prix Name | Circuit | Location | Date | Laps | Distance | Winner | Pole Position | Fastest Lap |
 |:---:|:---|:---|:---|:---|:---:|:---:|:---|:---|:---|
-| 1 | V Grande Prêmio do Brasil | Autódromo de Interlagos | São Paulo, Brazil | 1976-01-25 | 40 | 318.400 km | Niki Lauda | James Hunt | Verified in dossier |
-| 2 | 10th Lucky Strike Grand Prix of South Africa | Kyalami Grand Prix Circuit | Midrand, Gauteng, South Africa | 1976-03-06 | 78 | 320.112 km | Niki Lauda | James Hunt | Verified in dossier |
-| 3 | 1st United States Grand Prix West | Long Beach Street Circuit | Long Beach, California, United States | 1976-03-28 | 80 | 260.080 km | Clay Regazzoni | Clay Regazzoni | Verified in dossier |
-| 4 | XXII Gran Premio de España | Circuito Permanente del Jarama | San Sebastián de los Reyes, Madrid, Spain | 1976-05-02 | 75 | 255.300 km | James Hunt | James Hunt | Verified in dossier |
-| 5 | XXXIV Grand Prix de Belgique | Circuit Zolder | Heusden-Zolder, Limburg, Belgium | 1976-05-16 | 70 | 295.400 km | Niki Lauda | Niki Lauda | Verified in dossier |
-| 6 | XXXIV Grand Prix de Monaco | Circuit de Monaco | Monte Carlo, Principality of Monaco | 1976-05-30 | 78 | 255.684 km | Niki Lauda | Niki Lauda | Verified in dossier |
-| 7 | 4th Polar Grand Prix of Sweden | Scandinavian Raceway | Anderstorp, Jönköping, Sweden | 1976-06-13 | 72 | 289.296 km | Jody Scheckter | Jody Scheckter | Verified in dossier |
-| 8 | 62e Grand Prix de France | Circuit Paul Ricard | Le Castellet, Var, Provence, France | 1976-07-04 | 54 | 313.740 km | James Hunt | James Hunt | Verified in dossier |
-| 9 | 29th John Player British Grand Prix | Brands Hatch Circuit | Fawkham, Longfield, Kent, United Kingdom | 1976-07-18 | 76 | 324.140 km | Niki Lauda | Niki Lauda | Verified in dossier |
-| 10 | XXXVIII Grosser Preis von Deutschland | Nürburgring Nordschleife | Nürburg, Rhineland-Palatinate, West Germany | 1976-08-01 | 14 | 319.690 km | James Hunt | James Hunt | Verified in dossier |
-| 11 | XIV Grosser Preis von Österreich | Österreichring | Zeltweg / Spielberg, Styria, Austria | 1976-08-15 | 54 | 319.194 km | John Watson | James Hunt | Verified in dossier |
-| 12 | XXIV Grote Prijs van Nederland | Circuit Park Zandvoort | Zandvoort, North Holland, Netherlands | 1976-08-29 | 75 | 316.950 km | James Hunt | Ronnie Peterson | Verified in dossier |
-| 13 | 47° Gran Premio d'Italia | Autodromo Nazionale di Monza | Monza, Lombardy, Italy | 1976-09-12 | 52 | 301.600 km | Ronnie Peterson | Jacques Laffite | Verified in dossier |
-| 14 | 15th Player's Grand Prix du Canada | Mosport Park | Bowmanville, Ontario, Canada | 1976-10-03 | 80 | 316.560 km | James Hunt | James Hunt | Verified in dossier |
-| 15 | XIX United States Grand Prix | Watkins Glen Grand Prix Race Course | Watkins Glen, Schuyler County, New York, United States | 1976-10-10 | 59 | 320.665 km | James Hunt | James Hunt | Verified in dossier |
-| 16 | 1st F1 World Championship in Japan | Fuji Speedway | Oyama, Suntō District, Shizuoka Prefecture, Japan | 1976-10-24 | 73 | 318.207 km | Mario Andretti | Mario Andretti | Verified in dossier |
+| 1 | V Grande Prêmio do Brasil | Autódromo de Interlagos | São Paulo, Brazil | 1976-01-25 | 40 | 318.400 km | Niki Lauda | James Hunt (2:32.500) | Jean-Pierre Jarier (2:35.070) |
+| 2 | 10th Lucky Strike Grand Prix of South Africa | Kyalami Grand Prix Circuit | Midrand, Gauteng, South Africa | 1976-03-06 | 78 | 320.112 km | Niki Lauda | James Hunt (1:16.100) | Niki Lauda (1:17.970) |
+| 3 | 1st United States Grand Prix West | Long Beach Street Circuit | Long Beach, California, United States | 1976-03-28 | 80 | 260.080 km | Clay Regazzoni | Clay Regazzoni (1:23.099) | Clay Regazzoni (1:23.076) |
+| 4 | XXII Gran Premio de España | Circuito Permanente del Jarama | San Sebastián de los Reyes, Madrid, Spain | 1976-05-02 | 75 | 255.300 km | James Hunt | James Hunt (1:18.520) | Jochen Mass (1:20.930) |
+| 5 | XXXIV Grand Prix de Belgique | Circuit Zolder | Heusden-Zolder, Limburg, Belgium | 1976-05-16 | 70 | 295.400 km | Niki Lauda | Niki Lauda (1:26.550) | Niki Lauda (1:25.980) |
+| 6 | XXXIV Grand Prix de Monaco | Circuit de Monaco | Monte Carlo, Principality of Monaco | 1976-05-30 | 78 | 255.684 km | Niki Lauda | Niki Lauda (1:29.650) | Clay Regazzoni (1:30.280) |
+| 7 | 4th Polar Grand Prix of Sweden | Scandinavian Raceway | Anderstorp, Jönköping, Sweden | 1976-06-13 | 72 | 289.296 km | Jody Scheckter | Jody Scheckter (1:25.659) | Mario Andretti (1:28.002) |
+| 8 | 62e Grand Prix de France | Circuit Paul Ricard | Le Castellet, Var, Provence, France | 1976-07-04 | 54 | 313.740 km | James Hunt | James Hunt (1:47.890) | Niki Lauda (1:51.000) |
+| 9 | 29th John Player British Grand Prix | Brands Hatch Circuit | Fawkham, Longfield, Kent, United Kingdom | 1976-07-18 | 76 | 324.140 km | Niki Lauda | Niki Lauda (1:19.350) | Niki Lauda (1:19.910) |
+| 10 | XXXVIII Grosser Preis von Deutschland | Nürburgring Nordschleife | Nürburg, Rhineland-Palatinate, West Germany | 1976-08-01 | 14 | 319.690 km | James Hunt | James Hunt (7:06.500) | Jody Scheckter (7:10.800) |
+| 11 | XIV Grosser Preis von Österreich | Österreichring | Zeltweg / Spielberg, Styria, Austria | 1976-08-15 | 54 | 319.194 km | John Watson | James Hunt (1:35.020) | James Hunt (1:35.910) |
+| 12 | XXIV Grote Prijs van Nederland | Circuit Park Zandvoort | Zandvoort, North Holland, Netherlands | 1976-08-29 | 75 | 316.950 km | James Hunt | Ronnie Peterson (1:21.310) | Clay Regazzoni (1:22.590) |
+| 13 | 47° Gran Premio d'Italia | Autodromo Nazionale di Monza | Monza, Lombardy, Italy | 1976-09-12 | 52 | 301.600 km | Ronnie Peterson | Jacques Laffite (1:41.350) | Ronnie Peterson (1:41.300) |
+| 14 | 15th Player's Grand Prix du Canada | Mosport Park | Bowmanville, Ontario, Canada | 1976-10-03 | 80 | 316.560 km | James Hunt | James Hunt (1:12.389) | Patrick Depailler (1:13.817) |
+| 15 | XIX United States Grand Prix | Watkins Glen Grand Prix Race Course | Watkins Glen, Schuyler County, New York, United States | 1976-10-10 | 59 | 320.665 km | James Hunt | James Hunt (1:43.622) | James Hunt (1:42.851) |
+| 16 | 1st F1 World Championship in Japan | Fuji Speedway | Oyama, Suntō District, Shizuoka Prefecture, Japan | 1976-10-24 | 73 | 318.207 km | Mario Andretti | Mario Andretti (1:12.770) | Jacques Laffite (1:19.970) |

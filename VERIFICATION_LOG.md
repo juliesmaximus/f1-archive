@@ -3316,3 +3316,46 @@ Last verified: 2026-10-29
   - Round 4 Spanish GP: Wilson Fittipaldi listed as `NC` by Formula1.com, `W` by Jolpica.
   - Round 14 US GP: Clay Regazzoni listed as `NC` by Formula1.com, `W` by Jolpica.
 - **Gaps That Remain**: None. 1975 season is 100% verified against primary sources.
+
+### 1976 Season Audit Summary
+
+- **Season Audited**: 1976 (16 championship rounds)
+- **Primary Sources Consulted**:
+  - Formula 1 Official Results Archive:
+    - Drivers Standings: https://www.formula1.com/en/results/1976/drivers
+    - Constructors Standings: https://www.formula1.com/en/results/1976/team
+    - Round 1 (Brazil, Interlagos): https://www.formula1.com/en/results/1976/races/358/brazil/race-result
+    - Round 2 (South Africa, Kyalami): https://www.formula1.com/en/results/1976/races/359/south-africa/race-result
+    - Round 3 (United States West, Long Beach): https://www.formula1.com/en/results/1976/races/360/united-states-west/race-result
+    - Round 4 (Spain, Jarama): https://www.formula1.com/en/results/1976/races/361/spain/race-result
+    - Round 5 (Belgium, Zolder): https://www.formula1.com/en/results/1976/races/362/belgium/race-result
+    - Round 6 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1976/races/363/monaco/race-result
+    - Round 7 (Sweden, Anderstorp): https://www.formula1.com/en/results/1976/races/364/sweden/race-result
+    - Round 8 (France, Paul Ricard): https://www.formula1.com/en/results/1976/races/365/france/race-result
+    - Round 9 (Great Britain, Brands Hatch): https://www.formula1.com/en/results/1976/races/366/great-britain/race-result
+    - Round 10 (Germany, Nürburgring): https://www.formula1.com/en/results/1976/races/367/germany/race-result
+    - Round 11 (Austria, Österreichring): https://www.formula1.com/en/results/1976/races/368/austria/race-result
+    - Round 12 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1976/races/369/netherlands/race-result
+    - Round 13 (Italy, Monza): https://www.formula1.com/en/results/1976/races/370/italy/race-result
+    - Round 14 (Canada, Mosport Park): https://www.formula1.com/en/results/1976/races/371/canada/race-result
+    - Round 15 (United States, Watkins Glen): https://www.formula1.com/en/results/1976/races/372/united-states/race-result
+    - Round 16 (Japan, Fuji Speedway): https://www.formula1.com/en/results/1976/races/373/japan/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1976/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1976/calendar.md`
+  - `seasons/1976/standings.md`
+  - 16 race folders: `brazilian-grand-prix`, `south-african-grand-prix`, `united-states-grand-prix-west`, `spanish-grand-prix`, `belgian-grand-prix`, `monaco-grand-prix`, `swedish-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `austrian-grand-prix`, `dutch-grand-prix`, `italian-grand-prix`, `canadian-grand-prix`, `united-states-grand-prix`, `japanese-grand-prix` (`results.json`, `notes.md`)
+- **Number of Claims Checked**: 355 distinct numerical and factual data points across 16 rounds, calendar, driver standings, constructor standings, and race notes, plus 394 individual result row checks.
+- **Number Corrected**: 7 key items:
+  1. *Standings Verification*: Confirmed James Hunt won his sole World Drivers' Championship with 69 net points (69 gross, 6 wins, 8 podiums, 8 poles in McLaren M23) over Niki Lauda (68 net points, 5 wins, 9 podiums, 3 poles in Ferrari 312T/312T2), clinched by finishing 3rd in torrential rain at Mount Fuji.
+  2. *Constructors' Cup Standings*: Ferrari crowned Champions with 83 net points, McLaren-Ford 74 net / 75 gross points, Tyrrell-Ford 71 net / 88 gross points.
+  3. *Driver Standings Podiums Count*: Populated missing podium tallies for all drivers in `standings.md` (Niki Lauda 9, James Hunt 8, Jody Scheckter 5, Patrick Depailler 5, Clay Regazzoni 4, John Watson 3, Jacques Laffite 3, Mario Andretti 3, Jochen Mass 2, Gunnar Nilsson 2, Carlos Pace 1, Ronnie Peterson 1, Tom Pryce 1, Chris Amon 1).
+  4. *British GP Disqualification*: Primary record verification that Niki Lauda (Ferrari) was awarded official 1st place (1:44:19.660) after James Hunt was disqualified on September 24 by the FIA tribunal following Ferrari's protest regarding the red-flag restart rules.
+  5. *Calendar Fastest Laps & Poles*: Restored exact official pole times and fastest lap driver and times into `calendar.md`.
+  6. *Circuit Name Corrections*: Corrected Austrian GP to historical Österreichring, Brazilian GP to Autódromo de Interlagos, Canadian GP to Mosport Park across `results.json` and race notes.
+  7. *Historic Milestones Verified*: Six-wheeled Tyrrell P34 historic 1-2 victory at Anderstorp (Scheckter / Depailler); Penske's sole F1 win (John Watson at Österreichring); March Engineering victory at Monza (Ronnie Peterson); inaugural Japanese GP at Fuji won by Mario Andretti (Lotus's first win since 1974); Niki Lauda's fiery crash at Nürburgring Nordschleife and legendary comeback 42 days later at Monza.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 16 claims (spectator attendance estimates across Rounds 1-16 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: 1 notable layout difference:
+  - Round 9 British GP: Formula1.com results table displays Hunt with `DQ` at table row index 1 with winner Niki Lauda at row index 2; cross-checked against official classification where Lauda is Position 1 with 9 points.
+- **Gaps That Remain**: None. 1976 season is 100% verified against primary sources.

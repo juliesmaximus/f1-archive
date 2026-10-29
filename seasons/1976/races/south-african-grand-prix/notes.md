@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Niki Lauda (Ferrari) — 1:42:18.400  
-- **Pole Position:** James Hunt  
+- **Pole Position:** James Hunt (1:16.100)
+- **Fastest Lap:** Niki Lauda (Ferrari) — 1:17.970 (Lap 43)
 - **Weather & Track Conditions:** Warm, sunny, dry; 26°C ambient  
-- **Spectator Attendance:** 90,000 spectators across the Kyalami amphitheatre  
 - **Grandstand & Infrastructure:** Main pit straight covered grandstands and Crowthorne spectator grass banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -60,8 +60,14 @@ Lauda took maximum points (18 pts) from the opening two rounds, establishing a d
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 90,000 spectators across the Kyalami amphitheatre (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1976/2/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1976 Round 2 Results](https://www.formula1.com/en/results.html/1976/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1976 Race Results](https://www.formula1.com/en/results/1976/races/359/south-africa/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

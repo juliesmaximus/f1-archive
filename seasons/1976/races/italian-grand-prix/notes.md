@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Ronnie Peterson (March) — 1:30:35.600  
-- **Pole Position:** Jacques Laffite  
+- **Pole Position:** Jacques Laffite (1:41.350)
+- **Fastest Lap:** Ronnie Peterson (March-Ford) — 1:41.300 (Lap 50)
 - **Weather & Track Conditions:** Cool, damp-to-dry autumn weather; 20°C ambient  
-- **Spectator Attendance:** Over 150,000 emotional spectators packed into Monza  
 - **Grandstand & Infrastructure:** Tribuna Centrale, Vedano, Ascari, and Parabolica spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -64,8 +64,14 @@ Lauda's Monza comeback is universally recognized as the greatest, most heroic re
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** Over 150,000 emotional spectators packed into Monza (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1976/13/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1976 Round 13 Results](https://www.formula1.com/en/results.html/1976/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1976 Race Results](https://www.formula1.com/en/results/1976/races/370/italy/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

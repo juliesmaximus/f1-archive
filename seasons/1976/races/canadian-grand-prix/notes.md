@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** James Hunt (McLaren) — 1:40:09.626  
-- **Pole Position:** James Hunt  
+- **Pole Position:** James Hunt (1:12.389)
+- **Fastest Lap:** Patrick Depailler (Tyrrell-Ford) — 1:13.817 (Lap 60)
 - **Weather & Track Conditions:** Crisp, sunny autumn weather; 16°C ambient  
-- **Spectator Attendance:** 65,000 Canadian spectators lining the Mosport banks  
 - **Grandstand & Infrastructure:** Paddock grandstand, Corner 2 hillside banks, and Moss Corner infield  
 
 ### Race Anomalies, Incidents & Key Events
@@ -61,8 +61,14 @@ Hunt set up a thrilling North American championship sweep.
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 65,000 Canadian spectators lining the Mosport banks (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1976/14/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1976 Round 14 Results](https://www.formula1.com/en/results.html/1976/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1976 Race Results](https://www.formula1.com/en/results/1976/races/371/canada/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

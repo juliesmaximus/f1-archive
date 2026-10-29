@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** James Hunt (McLaren) — 1:41:42.700  
-- **Pole Position:** James Hunt  
+- **Pole Position:** James Hunt (7:06.500)
+- **Fastest Lap:** Jody Scheckter (Tyrrell-Ford) — 7:10.800 (Lap 8)
 - **Weather & Track Conditions:** Damp start from morning rain, drying track; 19°C ambient  
-- **Spectator Attendance:** 250,000 spectators across the 14-mile mountain circuit  
 - **Grandstand & Infrastructure:** Start-und-Ziel tribüne, Karussell, and Brünnchen spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -61,8 +61,14 @@ The pivotal moment of the 1976 season. Lauda received the Last Rites in Mannheim
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 250,000 spectators across the 14-mile mountain circuit (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1976/10/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1976 Round 10 Results](https://www.formula1.com/en/results.html/1976/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1976 Race Results](https://www.formula1.com/en/results/1976/races/367/germany/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

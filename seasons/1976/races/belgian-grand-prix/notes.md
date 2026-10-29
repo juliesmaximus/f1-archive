@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Niki Lauda (Ferrari) — 1:42:53.230  
-- **Pole Position:** Niki Lauda  
+- **Pole Position:** Niki Lauda (1:26.550)
+- **Fastest Lap:** Niki Lauda (Ferrari) — 1:25.980 (Lap 61)
 - **Weather & Track Conditions:** Warm, sunny, dry; 26°C ambient  
-- **Spectator Attendance:** 65,000 spectators across the Limburg pine woods  
 - **Grandstand & Infrastructure:** Covered start-finish grandstand and grass mounds around Terlamen  
 
 ### Race Anomalies, Incidents & Key Events
@@ -61,8 +61,14 @@ Lauda's 3rd win of the season moved him to 39 points, leading Regazzoni by 20 po
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 65,000 spectators across the Limburg pine woods (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1976/5/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1976 Round 5 Results](https://www.formula1.com/en/results.html/1976/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1976 Race Results](https://www.formula1.com/en/results/1976/races/362/belgium/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

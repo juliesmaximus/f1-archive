@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** James Hunt (McLaren) — 1:42:40.742  
-- **Pole Position:** James Hunt  
+- **Pole Position:** James Hunt (1:43.622)
+- **Fastest Lap:** James Hunt (McLaren-Ford) — 1:42.851 (Lap 53)
 - **Weather & Track Conditions:** Cold, crisp, sunny autumn day; 12°C ambient  
-- **Spectator Attendance:** 120,000 spectators packing the Watkins Glen hills  
 - **Grandstand & Infrastructure:** Kendall main grandstand, The Boot, and Seneca spectator knolls  
 
 ### Race Anomalies, Incidents & Key Events
@@ -61,8 +61,14 @@ Set the stage for the immortal Fuji title decider with just 3 points separating 
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 120,000 spectators packing the Watkins Glen hills (reported in contemporary periodicals; lacking official FIA/organizer ticket audit verification).
+
+---
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1976/15/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1976 Round 15 Results](https://www.formula1.com/en/results.html/1976/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1976 Race Results](https://www.formula1.com/en/results/1976/races/372/usa-east/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.
