@@ -3,7 +3,7 @@
 - **Circuit**: Autodromo Enzo e Dino Ferrari, Imola, Italy
 - **Date**: 2021-04-18
 - **Winner**: Max Verstappen (Red Bull)
-- **Winning Grid Position**: P3
+- **Pole Position**: Lewis Hamilton (Mercedes) - 1:14.411
 - **Official Fastest Lap**: 1:16.702 (Lap 60, Lewis Hamilton, Mercedes)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #14 | Fernando Alonso | Alpine F1 Team | 63 | +1:06.561 | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2021/races/2/emilia-romagna-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2021/races/1065/emilia-romagna/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2021/2/results.json
 
 Last verified: 2026-10-28

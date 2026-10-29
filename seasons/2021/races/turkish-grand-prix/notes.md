@@ -3,7 +3,7 @@
 - **Circuit**: Istanbul Park, Istanbul, Turkey
 - **Date**: 2021-10-10
 - **Winner**: Valtteri Bottas (Mercedes)
-- **Winning Grid Position**: P1
+- **Pole Position**: Valtteri Bottas (Mercedes) - 1:22.998
 - **Official Fastest Lap**: 1:30.432 (Lap 58, Valtteri Bottas, Mercedes)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #31 | Esteban Ocon | Alpine F1 Team | 57 | +1 Lap | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2021/races/16/turkish-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2021/races/1078/turkey/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2021/16/results.json
 
 Last verified: 2026-10-28

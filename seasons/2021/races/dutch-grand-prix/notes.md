@@ -3,7 +3,7 @@
 - **Circuit**: Circuit Park Zandvoort, Zandvoort, Netherlands
 - **Date**: 2021-09-05
 - **Winner**: Max Verstappen (Red Bull)
-- **Winning Grid Position**: P1
+- **Pole Position**: Max Verstappen (Red Bull Racing Honda) - 1:08.885
 - **Official Fastest Lap**: 1:11.097 (Lap 72, Lewis Hamilton, Mercedes)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #4 | Lando Norris | McLaren | 71 | +1 Lap | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2021/races/13/dutch-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2021/races/1075/netherlands/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2021/13/results.json
 
 Last verified: 2026-10-28

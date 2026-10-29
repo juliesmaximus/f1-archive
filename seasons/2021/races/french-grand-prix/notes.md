@@ -3,7 +3,7 @@
 - **Circuit**: Circuit Paul Ricard, Le Castellet, France
 - **Date**: 2021-06-20
 - **Winner**: Max Verstappen (Red Bull)
-- **Winning Grid Position**: P1
+- **Pole Position**: Max Verstappen (Red Bull Racing Honda) - 1:29.990
 - **Official Fastest Lap**: 1:36.404 (Lap 35, Max Verstappen, Red Bull)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #18 | Lance Stroll | Aston Martin | 53 | +1:31.946 | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2021/races/7/french-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2021/races/1070/france/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2021/7/results.json
 
 Last verified: 2026-10-28

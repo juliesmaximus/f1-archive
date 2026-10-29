@@ -3,7 +3,7 @@
 - **Circuit**: Baku City Circuit, Baku, Azerbaijan
 - **Date**: 2021-06-06
 - **Winner**: Sergio Pérez (Red Bull)
-- **Winning Grid Position**: P6
+- **Pole Position**: Charles Leclerc (Ferrari) - 1:41.218
 - **Official Fastest Lap**: 1:44.481 (Lap 44, Max Verstappen, Red Bull)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #7 | Kimi Räikkönen | Alfa Romeo | 51 | +9.576 | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2021/races/6/azerbaijan-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2021/races/1068/azerbaijan/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2021/6/results.json
 
 Last verified: 2026-10-28

@@ -3,7 +3,7 @@
 - **Circuit**: Circuit of the Americas, Austin, USA
 - **Date**: 2021-10-24
 - **Winner**: Max Verstappen (Red Bull)
-- **Winning Grid Position**: P1
+- **Pole Position**: Max Verstappen (Red Bull Racing Honda) - 1:32.910
 - **Official Fastest Lap**: 1:38.485 (Lap 41, Lewis Hamilton, Mercedes)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #5 | Sebastian Vettel | Aston Martin | 55 | +1 Lap | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2021/races/17/united-states-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2021/races/1102/united-states/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2021/17/results.json
 
 Last verified: 2026-10-28

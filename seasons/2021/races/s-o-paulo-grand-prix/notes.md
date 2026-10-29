@@ -3,7 +3,7 @@
 - **Circuit**: Autódromo José Carlos Pace, São Paulo, Brazil
 - **Date**: 2021-11-14
 - **Winner**: Lewis Hamilton (Mercedes)
-- **Winning Grid Position**: P10
+- **Pole Position**: Valtteri Bottas (Mercedes)
 - **Official Fastest Lap**: 1:11.010 (Lap 71, Sergio Pérez, Red Bull)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #4 | Lando Norris | McLaren | 70 | +1 Lap | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2021/races/19/s-o-paulo-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2021/races/1104/brazil/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2021/19/results.json
 
 Last verified: 2026-10-28

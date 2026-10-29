@@ -3,7 +3,7 @@
 - **Circuit**: Hungaroring, Budapest, Hungary
 - **Date**: 2021-08-01
 - **Winner**: Esteban Ocon (Alpine F1 Team)
-- **Winning Grid Position**: P8
+- **Pole Position**: Lewis Hamilton (Mercedes) - 1:15.419
 - **Official Fastest Lap**: 1:18.394 (Lap 70, Pierre Gasly, AlphaTauri)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #7 | Kimi Räikkönen | Alfa Romeo | 69 | +1 Lap | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2021/races/11/hungarian-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2021/races/1073/hungary/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2021/11/results.json
 
 Last verified: 2026-10-28

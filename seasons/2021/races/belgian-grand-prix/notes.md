@@ -3,7 +3,7 @@
 - **Circuit**: Circuit de Spa-Francorchamps, Spa, Belgium
 - **Date**: 2021-08-29
 - **Winner**: Max Verstappen (Red Bull)
-- **Winning Grid Position**: P1
+- **Pole Position**: Max Verstappen (Red Bull Racing Honda) - 1:59.765
 
 ### Classified Top 10 Finishers & Points
 
@@ -21,7 +21,7 @@
 | 10 | #55 | Carlos Sainz | Ferrari | 1 | +16.166 | 0.5 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2021/races/12/belgian-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2021/races/1074/belgium/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2021/12/results.json
 
 Last verified: 2026-10-28

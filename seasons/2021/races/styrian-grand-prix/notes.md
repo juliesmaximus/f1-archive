@@ -3,7 +3,7 @@
 - **Circuit**: Red Bull Ring, Spielberg, Austria
 - **Date**: 2021-06-27
 - **Winner**: Max Verstappen (Red Bull)
-- **Winning Grid Position**: P1
+- **Pole Position**: Max Verstappen (Red Bull Racing Honda) - 1:03.841
 - **Official Fastest Lap**: 1:07.058 (Lap 71, Lewis Hamilton, Mercedes)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #22 | Yuki Tsunoda | AlphaTauri | 70 | +1 Lap | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2021/races/8/styrian-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2021/races/1092/styria/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2021/8/results.json
 
 Last verified: 2026-10-28

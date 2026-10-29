@@ -3,7 +3,7 @@
 - **Circuit**: Sochi Autodrom, Sochi, Russia
 - **Date**: 2021-09-26
 - **Winner**: Lewis Hamilton (Mercedes)
-- **Winning Grid Position**: P4
+- **Pole Position**: Lando Norris (McLaren Mercedes) - 1:41.993
 - **Official Fastest Lap**: 1:37.423 (Lap 39, Lando Norris, McLaren)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #63 | George Russell | Williams | 53 | +1:40.551 | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2021/races/15/russian-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2021/races/1077/russia/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2021/15/results.json
 
 Last verified: 2026-10-28

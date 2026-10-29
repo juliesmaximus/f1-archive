@@ -3,7 +3,7 @@
 - **Circuit**: Jeddah Corniche Circuit, Jeddah, Saudi Arabia
 - **Date**: 2021-12-05
 - **Winner**: Lewis Hamilton (Mercedes)
-- **Winning Grid Position**: P1
+- **Pole Position**: Lewis Hamilton (Mercedes) - 1:27.511
 - **Official Fastest Lap**: 1:30.734 (Lap 47, Lewis Hamilton, Mercedes)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #4 | Lando Norris | McLaren | 50 | +1:01.358 | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2021/races/21/saudi-arabian-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2021/races/1106/saudi-arabia/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2021/21/results.json
 
 Last verified: 2026-10-28

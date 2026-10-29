@@ -3,7 +3,7 @@
 - **Circuit**: Silverstone Circuit, Silverstone, UK
 - **Date**: 2021-07-18
 - **Winner**: Lewis Hamilton (Mercedes)
-- **Winning Grid Position**: P2
+- **Pole Position**: Max Verstappen (Red Bull Racing Honda)
 - **Official Fastest Lap**: 1:28.617 (Lap 50, Sergio Pérez, Red Bull)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #22 | Yuki Tsunoda | AlphaTauri | 52 | +1:22.065 | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2021/races/10/british-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2021/races/1072/great-britain/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2021/10/results.json
 
 Last verified: 2026-10-28

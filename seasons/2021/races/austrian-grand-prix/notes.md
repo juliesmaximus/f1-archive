@@ -3,7 +3,7 @@
 - **Circuit**: Red Bull Ring, Spielberg, Austria
 - **Date**: 2021-07-04
 - **Winner**: Max Verstappen (Red Bull)
-- **Winning Grid Position**: P1
+- **Pole Position**: Max Verstappen (Red Bull Racing Honda) - 1:03.720
 - **Official Fastest Lap**: 1:06.200 (Lap 62, Max Verstappen, Red Bull)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #14 | Fernando Alonso | Alpine F1 Team | 70 | +1 Lap | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2021/races/9/austrian-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2021/races/1071/austria/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2021/9/results.json
 
 Last verified: 2026-10-28

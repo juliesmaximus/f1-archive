@@ -3,7 +3,7 @@
 - **Circuit**: Autódromo Internacional do Algarve, Portimão, Portugal
 - **Date**: 2021-05-02
 - **Winner**: Lewis Hamilton (Mercedes)
-- **Winning Grid Position**: P2
+- **Pole Position**: Valtteri Bottas (Mercedes) - 1:18.348
 - **Official Fastest Lap**: 1:19.865 (Lap 65, Valtteri Bottas, Mercedes)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #10 | Pierre Gasly | AlphaTauri | 66 | +1:16.463 | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2021/races/3/portuguese-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2021/races/1066/portugal/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2021/3/results.json
 
 Last verified: 2026-10-28

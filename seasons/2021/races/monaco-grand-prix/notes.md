@@ -3,7 +3,7 @@
 - **Circuit**: Circuit de Monaco, Monte Carlo, Monaco
 - **Date**: 2021-05-23
 - **Winner**: Max Verstappen (Red Bull)
-- **Winning Grid Position**: P2
+- **Pole Position**: Charles Leclerc (Ferrari) - 1:10.346
 - **Official Fastest Lap**: 1:12.909 (Lap 69, Lewis Hamilton, Mercedes)
 
 ### Classified Top 10 Finishers & Points
@@ -22,7 +22,7 @@
 | 10 | #99 | Antonio Giovinazzi | Alfa Romeo | 77 | +1 Lap | 1 |
 
 ### Verified Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/2021/races/5/monaco-grand-prix/race-result.html
+- Formula1.com Official Classification: https://www.formula1.com/en/results/2021/races/1067/monaco/race-result
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/2021/5/results.json
 
 Last verified: 2026-10-28
