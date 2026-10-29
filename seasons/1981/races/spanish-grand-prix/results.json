@@ -252,7 +252,7 @@
               "Driver": {
                 "driverId": "arnoux",
                 "url": "http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux",
-                "givenName": "Ren\u00e9",
+                "givenName": "René",
                 "familyName": "Arnoux",
                 "dateOfBirth": "1948-07-04",
                 "nationality": "French"
@@ -456,7 +456,7 @@
                 "nationality": "British"
               },
               "grid": "20",
-              "laps": "62",
+              "laps": "61",
               "status": "Not classified"
             },
             {
@@ -479,7 +479,7 @@
                 "nationality": "French"
               },
               "grid": "19",
-              "laps": "51",
+              "laps": "52",
               "status": "Brakes"
             },
             {

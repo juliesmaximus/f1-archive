@@ -1,4 +1,4 @@
-# XLIII Großer Preis von Deutschland - Round 10
+# XLIII Großer Preis von Deutschland - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XLIII Großer Preis von Deutschland
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:25:55.600
 - **Winning Driver:** Nelson Piquet
 - **Winning Constructor:** Brabham
-- **Pole Position:** Alain Prost
-- **Fastest Lap:** N/A
+- **Pole Position:** Alain Prost — 1:47.500
+- **Fastest Lap:** Alan Jones — 1:52.420
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 10, 1981)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Warm with light rain on lap 38; 23°C ambient
-- **Spectator Attendance:** 115,000 spectators
 - **Grandstand Enclosures:** Motodrom concrete grandstands
 
 ---
@@ -42,6 +41,12 @@ PIQUET'S HOCKENHEIM TRIUMPH: Alain Prost took pole in the Renault RE30 turbo and
 Nelson Piquet's 3rd victory of 1981 re-ignited his championship assault against Carlos Reutemann.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 115,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

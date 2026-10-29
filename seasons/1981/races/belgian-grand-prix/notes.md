@@ -1,4 +1,4 @@
-# XXXIX Grote Prijs van Belgie - Round 5
+# XXXIX Grote Prijs van Belgie - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXXIX Grote Prijs van Belgie
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:16:31.610
 - **Winning Driver:** Carlos Reutemann
 - **Winning Constructor:** Williams
-- **Pole Position:** Carlos Reutemann
-- **Fastest Lap:** N/A
+- **Pole Position:** Carlos Reutemann — 1:22.280
+- **Fastest Lap:** Carlos Reutemann — 1:23.300
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 5, 1981)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Overcast with rain midway; 17°C ambient
-- **Spectator Attendance:** 65,000 spectators
 - **Grandstand Enclosures:** Kleine Chicane and Main Straight
 
 ---
@@ -42,6 +41,12 @@ TRAGEDY AT ZOLDER & REUTEMANN VICTORY: The weekend was marred by horrific pitlan
 Carlos Reutemann's final career Formula One victory, marred by dark tragedies that galvanized pit lane safety reform.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 65,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

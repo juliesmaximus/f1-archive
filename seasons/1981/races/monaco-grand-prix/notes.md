@@ -1,4 +1,4 @@
-# XXXIX Grand Prix de Monaco - Round 6
+# XXXIX Grand Prix de Monaco - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXXIX Grand Prix de Monaco
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:54:23.380
 - **Winning Driver:** Gilles Villeneuve
 - **Winning Constructor:** Ferrari
-- **Pole Position:** Nelson Piquet
-- **Fastest Lap:** N/A
+- **Pole Position:** Nelson Piquet — 1:25.710
+- **Fastest Lap:** Alan Jones — 1:27.470
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 6, 1981)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Sunny and warm; 24°C ambient
-- **Spectator Attendance:** 55,000 spectators
 - **Grandstand Enclosures:** Casino Square, K-Grandstand, Swimming Pool
 
 ---
@@ -42,6 +41,12 @@ VILLENEUVE'S MONACO TURBO MASTERPIECE: Nelson Piquet qualified on pole in the Br
 The maiden victory for Ferrari's 1.5-litre turbocharged V6 engine, achieved against all technical odds around the streets of Monaco by Gilles Villeneuve.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 55,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

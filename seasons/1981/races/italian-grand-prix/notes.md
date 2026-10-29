@@ -1,4 +1,4 @@
-# LII Gran Premio d'Italia - Round 13
+# LII Gran Premio d'Italia - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** LII Gran Premio d'Italia
@@ -10,18 +10,17 @@
 - **Track Altitude:** 162 m
 - **Race Date:** 1981-09-13
 - **Scheduled Laps:** 52 laps
-- **Winning Time:** 1:26:36.897
+- **Winning Time:** 1:26:33.897
 - **Winning Driver:** Alain Prost
 - **Winning Constructor:** Renault
-- **Pole Position:** René Arnoux
-- **Fastest Lap:** N/A
+- **Pole Position:** Rene Arnoux — 1:33.467
+- **Fastest Lap:** Carlos Reutemann — 1:37.528
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 13, 1981)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Warm and sunny; 26°C ambient
-- **Spectator Attendance:** 125,000 passionate Tifosi returning to Monza
 - **Grandstand Enclosures:** Tribuna Centrale, Variante del Rettifilo, Curva Parabolica
 
 ---
@@ -42,6 +41,12 @@ WATSON SURVIVES MONZA ESCAPE & PROST WINS: Italian GP returned to Monza after th
 Williams Grand Prix Engineering clinched their second consecutive World Constructors' Championship.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 125,000 passionate Tifosi returning to Monza (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

@@ -1,4 +1,4 @@
-# VI United States Grand Prix West - Round 1
+# VI United States Grand Prix West - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** VI United States Grand Prix West
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:50:41.330
 - **Winning Driver:** Alan Jones
 - **Winning Constructor:** Williams
-- **Pole Position:** Riccardo Patrese
-- **Fastest Lap:** N/A
+- **Pole Position:** Riccardo Patrese — 1:19.399
+- **Fastest Lap:** Alan Jones — 1:20.901
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 1, 1981)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Sunny and clear; 22°C ambient
-- **Spectator Attendance:** 80,000 spectators
 - **Grandstand Enclosures:** Shoreline Drive and Ocean Boulevard grandstands
 
 ---
@@ -42,6 +41,12 @@ WILLIAMS 1-2 OPENER: Riccardo Patrese claimed a historic maiden pole position fo
 Williams began 1981 in dominant fashion with their 4th consecutive 1-2 finish dating back to 1980.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 80,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

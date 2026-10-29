@@ -1,4 +1,4 @@
-# XVII Gran Premio de la Republica Argentina - Round 3
+# XVII Gran Premio de la Republica Argentina - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XVII Gran Premio de la Republica Argentina
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:34:32.740
 - **Winning Driver:** Nelson Piquet
 - **Winning Constructor:** Brabham
-- **Pole Position:** Nelson Piquet
-- **Fastest Lap:** N/A
+- **Pole Position:** Nelson Piquet — 1:42.665
+- **Fastest Lap:** Nelson Piquet — 1:45.287
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 3, 1981)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Warm and sunny; 26°C ambient
-- **Spectator Attendance:** 75,000 spectators roaring for Carlos Reutemann
 - **Grandstand Enclosures:** Amphitheatre grandstands packed with Argentinian flags
 
 ---
@@ -42,6 +41,12 @@ BRABHAM HYDROPNEUMATIC SUSPENSION CONTROVERSY: To circumvent FISA's mandatory 6 
 Gordon Murray's ingenious hydropneumatic suspension triggered an engineering scramble as every team rushed to build lowering systems.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 75,000 spectators roaring for Carlos Reutemann (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

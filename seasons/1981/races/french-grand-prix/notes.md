@@ -1,4 +1,4 @@
-# LXVII Grand Prix de France - Round 8
+# LXVII Grand Prix de France - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** LXVII Grand Prix de France
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:35:48.130
 - **Winning Driver:** Alain Prost
 - **Winning Constructor:** Renault
-- **Pole Position:** René Arnoux
-- **Fastest Lap:** N/A
+- **Pole Position:** Rene Arnoux — 1:05.950
+- **Fastest Lap:** Alain Prost — 1:09.140
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 8, 1981)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Overcast, interrupted by torrential cloudburst on lap 58; 21°C ambient
-- **Spectator Attendance:** 85,000 French spectators
 - **Grandstand Enclosures:** Courbe de Pouas, Start-Ziel enclosures
 
 ---
@@ -42,6 +41,12 @@ ALAIN PROST'S MAIDEN GRAND PRIX VICTORY: Nelson Piquet dominated the first part 
 The maiden Formula One victory of Alain Prost, who would go on to win 51 Grands Prix and 4 World Championships.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 85,000 French spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

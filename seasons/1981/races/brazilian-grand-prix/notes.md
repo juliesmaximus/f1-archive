@@ -1,4 +1,4 @@
-# X Grande Prêmio do Brasil - Round 2
+# X Grande Prêmio do Brasil - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** X Grande Prêmio do Brasil
@@ -13,15 +13,14 @@
 - **Winning Time:** 2:00:23.660
 - **Winning Driver:** Carlos Reutemann
 - **Winning Constructor:** Williams
-- **Pole Position:** Nelson Piquet
-- **Fastest Lap:** N/A
+- **Pole Position:** Nelson Piquet — 1:35.079
+- **Fastest Lap:** Marc Surer — 1:54.302
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 2, 1981)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Torrential monsoon rain throughout; 24°C ambient
-- **Spectator Attendance:** 65,000 spectators shivering under umbrellas
 - **Grandstand Enclosures:** Permanent grandstands along the main straight
 
 ---
@@ -42,6 +41,12 @@ THE 'JONES-REUT' CONTROVERSY: Nelson Piquet gambled on slick tires on pole posit
 The seminal moment of the 1981 championship: Reutemann's refusal to obey team orders permanently fractured Williams.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 65,000 spectators shivering under umbrellas (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

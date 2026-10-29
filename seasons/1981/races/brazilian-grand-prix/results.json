@@ -18,7 +18,7 @@
           "Circuit": {
             "circuitId": "jacarepagua",
             "url": "https://en.wikipedia.org/wiki/Aut%C3%B3dromo_Internacional_Nelson_Piquet",
-            "circuitName": "Aut\u00f3dromo Internacional Nelson Piquet",
+            "circuitName": "Autódromo de Jacarepaguá",
             "Location": {
               "lat": "-22.9756",
               "long": "-43.395",
@@ -547,7 +547,7 @@
               "Driver": {
                 "driverId": "arnoux",
                 "url": "http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux",
-                "givenName": "Ren\u00e9",
+                "givenName": "René",
                 "familyName": "Arnoux",
                 "dateOfBirth": "1948-07-04",
                 "nationality": "French"
@@ -617,7 +617,7 @@
                 "driverId": "londono",
                 "url": "http://en.wikipedia.org/wiki/Ricardo_Londo%C3%B1o",
                 "givenName": "Ricardo",
-                "familyName": "Londo\u00f1o",
+                "familyName": "Londoño",
                 "dateOfBirth": "1949-08-08",
                 "nationality": "Colombian"
               },

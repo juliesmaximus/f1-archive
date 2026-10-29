@@ -18,7 +18,7 @@
           "Circuit": {
             "circuitId": "villeneuve",
             "url": "https://en.wikipedia.org/wiki/Circuit_Gilles_Villeneuve",
-            "circuitName": "Circuit Gilles Villeneuve",
+            "circuitName": "\u00cele Notre-Dame Circuit",
             "Location": {
               "lat": "45.5",
               "long": "-73.5228",
@@ -386,7 +386,7 @@
               "status": "Collision"
             },
             {
-              "number": "9",
+              "number": "10",
               "position": "16",
               "positionText": "R",
               "points": "0",
@@ -405,7 +405,7 @@
                 "nationality": "Italian"
               },
               "grid": "21",
-              "laps": "40",
+              "laps": "39",
               "status": "Spun off"
             },
             {

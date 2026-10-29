@@ -1,4 +1,4 @@
-# XXVI Gran Premio de España - Round 7
+# XXVI Gran Premio de España - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXVI Gran Premio de España
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:46:35.010
 - **Winning Driver:** Gilles Villeneuve
 - **Winning Constructor:** Ferrari
-- **Pole Position:** Jacques Laffite
-- **Fastest Lap:** N/A
+- **Pole Position:** Jacques Laffite — 1:13.754
+- **Fastest Lap:** Alan Jones — 1:17.818
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 7, 1981)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Blistering summer heat; 35°C ambient, 54°C track temperature
-- **Spectator Attendance:** 50,000 spectators
 - **Grandstand Enclosures:** Fangio and Farina grandstands
 
 ---
@@ -42,6 +41,12 @@ THE LEGENDARY JARAMA TRAIN: Gilles Villeneuve qualified 7th in the Ferrari 126CK
 Gilles Villeneuve's final career Formula One victory, universally regarded as one of the greatest defensive driving exhibitions in motorsport history.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 50,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

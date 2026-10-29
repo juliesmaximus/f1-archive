@@ -1,4 +1,4 @@
-# XXX Grote Prijs van Nederland - Round 12
+# XXX Grote Prijs van Nederland - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXX Grote Prijs van Nederland
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:40:22.430
 - **Winning Driver:** Alain Prost
 - **Winning Constructor:** Renault
-- **Pole Position:** Alain Prost
-- **Fastest Lap:** N/A
+- **Pole Position:** Alain Prost — 1:18.176
+- **Fastest Lap:** Alan Jones — 1:21.830
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 12, 1981)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Sunny and breezy; 20°C ambient
-- **Spectator Attendance:** 80,000 spectators
 - **Grandstand Enclosures:** Tarzan Corner, Hunserug dunes
 
 ---
@@ -42,6 +41,12 @@ PROST RESISTS JONES: Alain Prost qualified on pole in the Renault RE30 turbo. Pr
 Nelson Piquet tied Carlos Reutemann at the top of the World Championship standings at 45 points each!
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 80,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

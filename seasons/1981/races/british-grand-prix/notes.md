@@ -1,4 +1,4 @@
-# XXXIV Marlboro British Grand Prix - Round 9
+# XXXIV Marlboro British Grand Prix - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXXIV Marlboro British Grand Prix
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:26:54.800
 - **Winning Driver:** John Watson
 - **Winning Constructor:** McLaren
-- **Pole Position:** René Arnoux
-- **Fastest Lap:** N/A
+- **Pole Position:** Rene Arnoux — 1:11.000
+- **Fastest Lap:** Rene Arnoux — 1:15.067
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 9, 1981)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Warm and sunny; 24°C ambient
-- **Spectator Attendance:** 100,000 spectators cheering for John Watson
 - **Grandstand Enclosures:** Woodcote, Copse, Stowe grandstands
 
 ---
@@ -42,6 +41,12 @@ FIRST CARBON-FIBRE VICTORY (MCLAREN MP4/1): Renault locked out the front row wit
 The historic maiden victory for carbon-fibre technology in motorsport, cementing John Barnard's design revolution and Ron Dennis's McLaren rebirth.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 100,000 spectators cheering for John Watson (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

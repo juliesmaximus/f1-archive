@@ -1,4 +1,4 @@
-# I Gran Premio di San Marino - Round 4
+# I Gran Premio di San Marino - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** I Gran Premio di San Marino
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:51:23.970
 - **Winning Driver:** Nelson Piquet
 - **Winning Constructor:** Brabham
-- **Pole Position:** Gilles Villeneuve
-- **Fastest Lap:** N/A
+- **Pole Position:** Gilles Villeneuve — 1:34.523
+- **Fastest Lap:** Gilles Villeneuve — 1:48.064
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 4, 1981)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Damp and drying; 18°C ambient
-- **Spectator Attendance:** 90,000 Tifosi packing the Santerno riverbanks
 - **Grandstand Enclosures:** Tosa amphitheatre, Rivazza, Variante Bassa
 
 ---
@@ -42,6 +41,12 @@ INバUGURAL SAN MARINO GP & PIQUET BACK-TO-BACK: Gilles Villeneuve sent the Tifo
 Nelson Piquet claimed his second consecutive victory, reducing Reutemann's championship lead.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 90,000 Tifosi packing the Santerno riverbanks (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

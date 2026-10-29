@@ -298,7 +298,7 @@
                 "nationality": "Swiss"
               },
               "grid": "13",
-              "laps": "40",
+              "laps": "41",
               "status": "Engine"
             },
             {
@@ -321,7 +321,7 @@
                 "nationality": "British"
               },
               "grid": "19",
-              "laps": "36",
+              "laps": "37",
               "status": "Gearbox"
             },
             {
@@ -413,7 +413,7 @@
                 "nationality": "British"
               },
               "grid": "20",
-              "laps": "18",
+              "laps": "19",
               "status": "Gearbox"
             },
             {
@@ -436,7 +436,7 @@
                 "nationality": "British"
               },
               "grid": "22",
-              "laps": "17",
+              "laps": "16",
               "status": "Accident"
             },
             {
@@ -470,7 +470,7 @@
               "Driver": {
                 "driverId": "arnoux",
                 "url": "http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux",
-                "givenName": "Ren\u00e9",
+                "givenName": "René",
                 "familyName": "Arnoux",
                 "dateOfBirth": "1948-07-04",
                 "nationality": "French"
@@ -532,7 +532,7 @@
               "status": "Spun off"
             },
             {
-              "number": "9",
+              "number": "10",
               "position": "22",
               "positionText": "R",
               "points": "0",
@@ -574,7 +574,7 @@
                 "nationality": "Italian"
               },
               "grid": "9",
-              "laps": "5",
+              "laps": "6",
               "status": "Engine"
             },
             {
@@ -597,7 +597,7 @@
                 "nationality": "British"
               },
               "grid": "14",
-              "laps": "1",
+              "laps": "0",
               "status": "Electrical"
             }
           ]

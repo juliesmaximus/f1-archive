@@ -244,7 +244,7 @@
                 "nationality": "British"
               },
               "grid": "10",
-              "laps": "52",
+              "laps": "53",
               "status": "Engine"
             },
             {
@@ -336,7 +336,7 @@
                 "nationality": "British"
               },
               "grid": "4",
-              "laps": "33",
+              "laps": "34",
               "status": "Gearbox"
             },
             {
@@ -370,7 +370,7 @@
               "Driver": {
                 "driverId": "arnoux",
                 "url": "http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux",
-                "givenName": "Ren\u00e9",
+                "givenName": "René",
                 "familyName": "Arnoux",
                 "dateOfBirth": "1948-07-04",
                 "nationality": "French"
@@ -428,7 +428,7 @@
                 "nationality": "British"
               },
               "grid": "3",
-              "laps": "15",
+              "laps": "16",
               "status": "Suspension"
             },
             {
@@ -451,7 +451,7 @@
                 "nationality": "British"
               },
               "grid": "14",
-              "laps": "14",
+              "laps": "15",
               "status": "Fuel system"
             },
             {

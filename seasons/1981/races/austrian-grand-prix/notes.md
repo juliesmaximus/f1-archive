@@ -1,4 +1,4 @@
-# XIX Großer Preis von Österreich - Round 11
+# XIX Großer Preis von Österreich - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XIX Großer Preis von Österreich
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:27:36.470
 - **Winning Driver:** Jacques Laffite
 - **Winning Constructor:** Ligier
-- **Pole Position:** René Arnoux
-- **Fastest Lap:** N/A
+- **Pole Position:** Rene Arnoux — 1:32.018
+- **Fastest Lap:** Jacques Laffite — 1:37.620
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 11, 1981)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Warm and sunny; 25°C ambient
-- **Spectator Attendance:** 90,000 spectators
 - **Grandstand Enclosures:** Bosch Curve, Hella-Licht, Start-Ziel enclosures
 
 ---
@@ -42,6 +41,12 @@ LAFFITE'S MATRA V12 FLYER: René Arnoux took pole for Renault. Didier Pironi had
 Jacques Laffite's victory elevated him into serious contention for the 1981 World Drivers' Championship.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 90,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

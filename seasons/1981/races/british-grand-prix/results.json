@@ -152,7 +152,7 @@
               "status": "+1 Lap"
             },
             {
-              "number": "9",
+              "number": "10",
               "position": "6",
               "positionText": "6",
               "points": "1",
@@ -228,7 +228,7 @@
               "Driver": {
                 "driverId": "arnoux",
                 "url": "http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux",
-                "givenName": "Ren\u00e9",
+                "givenName": "René",
                 "familyName": "Arnoux",
                 "dateOfBirth": "1948-07-04",
                 "nationality": "French"
@@ -562,7 +562,7 @@
                 "nationality": "British"
               },
               "grid": "19",
-              "laps": "1",
+              "laps": "0",
               "status": "Clutch"
             },
             {
@@ -585,7 +585,7 @@
                 "nationality": "British"
               },
               "grid": "18",
-              "laps": "8",
+              "laps": "0",
               "status": "Spun off"
             }
           ]

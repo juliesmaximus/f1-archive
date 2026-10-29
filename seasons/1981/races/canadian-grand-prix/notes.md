@@ -1,4 +1,4 @@
-# XXI Grand Prix du Canada - Round 14
+# XXI Grand Prix du Canada - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXI Grand Prix du Canada
@@ -10,18 +10,17 @@
 - **Track Altitude:** 15 m
 - **Race Date:** 1981-09-27
 - **Scheduled Laps:** 63 laps
-- **Winning Time:** 2:01:25.200
+- **Winning Time:** 2:01:25.205
 - **Winning Driver:** Jacques Laffite
 - **Winning Constructor:** Ligier
-- **Pole Position:** Nelson Piquet
-- **Fastest Lap:** N/A
+- **Pole Position:** Nelson Piquet — 1:29.211
+- **Fastest Lap:** John Watson — 1:49.475
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 14, 1981)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Torrential rain and near-freezing cold; 6°C ambient
-- **Spectator Attendance:** 70,000 shivering spectators
 - **Grandstand Enclosures:** Hairpin and Olympic rowing basin grandstands
 
 ---
@@ -42,6 +41,12 @@ VILLENEUVE'S BLIND WING DRIVE & LAFFITE VICTORY: In sodden, freezing conditions,
 Laffite's win created a dramatic three-way title showdown for the Las Vegas finale: Reutemann (49 pts), Piquet (48 pts), and Laffite (43 pts).
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 70,000 shivering spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

@@ -1,4 +1,4 @@
-# I Caesars Palace Grand Prix - Round 15
+# I Caesars Palace Grand Prix - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** I Caesars Palace Grand Prix
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:44:09.077
 - **Winning Driver:** Alan Jones
 - **Winning Constructor:** Williams
-- **Pole Position:** Carlos Reutemann
-- **Fastest Lap:** N/A
+- **Pole Position:** Carlos Reutemann — 1:17.821
+- **Fastest Lap:** Didier Pironi — 1:20.156
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 15, 1981)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Intense desert heat; 37°C ambient, 48°C track temperature
-- **Spectator Attendance:** 45,000 spectators around the casino resort perimeter
 - **Grandstand Enclosures:** Temporary grandstands around the Caesars Palace parking lot
 
 ---
@@ -42,6 +41,12 @@ PIQUET'S TITLE AGONY IN LAS VEGAS CAR PARK: Set up in the asphalt parking lot of
 Nelson Piquet won his first of three World Championships. Carlos Reutemann retired from Formula One shortly thereafter.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 45,000 spectators around the casino resort perimeter (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.
