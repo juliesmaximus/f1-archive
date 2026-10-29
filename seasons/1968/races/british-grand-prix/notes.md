@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jo Siffert (Lotus-Ford) — 2:01:20.300  
-- **Pole Position:** Graham Hill  
+- **Pole Position:** Graham Hill  (1:28.900)
+- **Fastest Lap:** Jo Siffert (Lotus-Ford) — 1:29.700 (Lap 42)
 - **Weather & Track Conditions:** Warm, overcast, dry; 21°C ambient  
-- **Spectator Attendance:** 90,000 spectators packing the natural bowl  
 - **Grandstand & Infrastructure:** Brabham Straight grandstands, Druids grandstands, and South Bank spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -55,8 +55,15 @@ Rob Walker's private team had lost their entire workshop and cars in a devastati
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 90,000 spectators lining Brands Hatch Circuit (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1968/7/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1968 Round 7 Results](https://www.formula1.com/en/results.html/1968/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1968 Round 7 Results](https://www.formula1.com/en/results/1968/races/261/great-britain/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

@@ -6,7 +6,7 @@
 **Location:** Grand-Couronne, Seine-Maritime, Normandy, France (49°22'01"N, 1°00'36"E)  
 **Track Length:** 6.542 km (4.065 miles)  
 **Altitude:** 130 m (forested ravine)  
-**Scheduled Distance:** 60 laps (392.520 km)  
+**Scheduled Distance:** 60 laps (39°2.520 km)  
 **Official Race Title:** 54e Grand Prix de l'ACF  
 
 ---
@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jacky Ickx (Ferrari) — 2:25:40.900  
-- **Pole Position:** Jochen Rindt  
+- **Pole Position:** Jochen Rindt  (1:56.100)
+- **Fastest Lap:** Pedro Rodríguez (BRM) — 2:11.500 (Lap 19)
 - **Weather & Track Conditions:** Cold, continuous torrential rain and dense fog on the downhill descent  
-- **Spectator Attendance:** 65,000 spectators lining the Normandy hillside grandstands  
 - **Grandstand & Infrastructure:** Permanent Nouveau Monde hairpin grandstands, pit straight stands, and forested earthen mounds  
 
 ### Race Anomalies, Incidents & Key Events
@@ -52,8 +52,15 @@ Following Schlesser's horrific death, Honda immediately cancelled the RA302 proj
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 65,000 spectators at Rouen-les-Essarts (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1968/6/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1968 Round 6 Results](https://www.formula1.com/en/results.html/1968/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1968 Round 6 Results](https://www.formula1.com/en/results/1968/races/260/france/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

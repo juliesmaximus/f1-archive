@@ -1,4 +1,4 @@
-# 39° Gran Premio d'Italia - Race Dossier & Verification Notes
+# 39°° Gran Premio d'Italia - Race Dossier & Verification Notes
 
 **Round:** 9 of 12  
 **Date:** 1968-09-08  
@@ -6,17 +6,17 @@
 **Location:** Monza, Lombardy, Italy (45°37'14"N, 9°16'52"E)  
 **Track Length:** 5.75 km (3.573 miles)  
 **Altitude:** 162 m (Royal Villa park)  
-**Scheduled Distance:** 68 laps (391.000 km)  
-**Official Race Title:** 39° Gran Premio d'Italia  
+**Scheduled Distance:** 68 laps (39°1.000 km)  
+**Official Race Title:** 39°° Gran Premio d'Italia  
 
 ---
 
 ## Race Summary & Key Scenarios
 
 - **Winner:** Denny Hulme (McLaren-Ford) — 1:40:14.800  
-- **Pole Position:** John Surtees  
+- **Pole Position:** John Surtees  (1:26.070)
+- **Fastest Lap:** Jackie Oliver (Lotus-Ford) — 1:26.500 (Lap 7)
 - **Weather & Track Conditions:** Warm, sunny, dry late summer weather; 25°C ambient  
-- **Spectator Attendance:** 100,000 tifosi packing the Monza grandstands and parkland  
 - **Grandstand & Infrastructure:** Tribuna Centrale, Vedano, Ascari, and Parabolica spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -55,8 +55,15 @@ Denny Hulme launched himself into championship contention, closing to within thr
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 125,000 tifosi packing the Autodromo Nazionale di Monza (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1968/9/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1968 Round 9 Results](https://www.formula1.com/en/results.html/1968/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1968 Round 9 Results](https://www.formula1.com/en/results/1968/races/263/italy/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jackie Stewart (Matra-Ford) — 2:46:11.200  
-- **Pole Position:** Chris Amon  
+- **Winner:** Jackie Stewart (Matra-Ford) — 2:46:11.260  
+- **Pole Position:** Chris Amon  (1:23.540)
+- **Fastest Lap:** Jean-Pierre Beltoise (Matra-Ford) — 1:45.910 (Lap 6)
 - **Weather & Track Conditions:** Relentless torrential rain, standing puddles, thick spray, and howling North Sea winds  
-- **Spectator Attendance:** 50,000 soaked spectators enduring the dunes  
 - **Grandstand & Infrastructure:** Covered main pit straight grandstand and Tarzan hairpin dunes  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ First Formula One World Championship victory for French constructor Matra and fo
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 8 | Jackie Stewart | Matra-Ford | 90 | 2:46:11.200 | 5 | 9 |
+| 1 | 8 | Jackie Stewart | Matra-Ford | 90 | 2:46:11.260 | 5 | 9 |
 | 2 | 17 | Jean-Pierre Beltoise | Matra | 90 | +1:33.930 | 16 | 6 |
 | 3 | 15 | Pedro Rodríguez | BRM | 89 | +1 Lap | 11 | 4 |
 | 4 | 10 | Jacky Ickx | Ferrari | 88 | +2 Laps | 6 | 3 |
@@ -46,7 +46,7 @@ First Formula One World Championship victory for French constructor Matra and fo
 | R | 21 | Jo Siffert | Lotus-Ford | 55 | Gearbox | 13 | 0 |
 | R | 7 | John Surtees | Honda | 50 | Alternator | 9 | 0 |
 | R | 20 | Piers Courage | BRM | 50 | Spun off | 14 | 0 |
-| R | 6 | Jochen Rindt | Brabham-Repco | 39 | Ignition | 2 | 0 |
+| R | 6 | Jochen Rindt | Brabham-Repco | 39° | Ignition | 2 | 0 |
 | R | 5 | Jack Brabham | Brabham-Repco | 22 | Spun off | 4 | 0 |
 | R | 2 | Bruce McLaren | McLaren-Ford | 19 | Accident | 8 | 0 |
 | R | 1 | Denny Hulme | McLaren-Ford | 10 | Ignition | 7 | 0 |
@@ -54,8 +54,15 @@ First Formula One World Championship victory for French constructor Matra and fo
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 60,000 spectators on the coastal dunes and main grandstand (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1968/5/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1968 Round 5 Results](https://www.formula1.com/en/results.html/1968/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1968 Round 5 Results](https://www.formula1.com/en/results/1968/races/259/netherlands/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

@@ -6,7 +6,7 @@
 **Location:** Watkins Glen, Schuyler County, New York, United States (42°20'13"N, 76°55'38"W)  
 **Track Length:** 3.701 km (2.3 miles)  
 **Altitude:** 320 m (Finger Lakes hills)  
-**Scheduled Distance:** 108 laps (399.708 km)  
+**Scheduled Distance:** 108 laps (39°9.708 km)  
 **Official Race Title:** XI United States Grand Prix  
 
 ---
@@ -14,13 +14,13 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jackie Stewart (Matra-Ford) — 1:59:20.290  
-- **Pole Position:** Mario Andretti  
+- **Pole Position:** Mario Andretti  (1:04.200)
+- **Fastest Lap:** Jackie Stewart (Matra-Ford) — 1:05.220 (Lap 52)
 - **Weather & Track Conditions:** Cold, bright autumn sunshine; 13°C ambient  
-- **Spectator Attendance:** 90,000 spectators packing the Watkins Glen hills  
 - **Grandstand & Infrastructure:** Kendall main grandstand, The Bog, and Seneca spectator knolls  
 
 ### Race Anomalies, Incidents & Key Events
-American racing superstar Mario Andretti stunned Formula One by taking pole position in his Lotus 49B on his official Grand Prix race debut! In the race, Jackie Stewart grabbed the lead at the start in the Matra MS10 and dominated from start to finish, winning by 24.6s over Graham Hill. John Surtees finished 3rd in the Honda RA301. Denny Hulme crashed heavily after a brake failure, leaving Hill with 39 points, Stewart with 36 points, and Hulme with 33 points entering the Mexico finale.
+American racing superstar Mario Andretti stunned Formula One by taking pole position in his Lotus 49B on his official Grand Prix race debut! In the race, Jackie Stewart grabbed the lead at the start in the Matra MS10 and dominated from start to finish, winning by 24.6s over Graham Hill. John Surtees finished 3rd in the Honda RA301. Denny Hulme crashed heavily after a brake failure, leaving Hill with 39° points, Stewart with 36 points, and Hulme with 33 points entering the Mexico finale.
 
 ### Historical & Regulatory Context
 Mario Andretti established his world-class credentials by taking pole on debut. Set up a dramatic three-way championship showdown for Mexico.
@@ -55,8 +55,15 @@ Mario Andretti established his world-class credentials by taking pole on debut. 
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 90,000 spectators throughout Watkins Glen State Park (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1968/11/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1968 Round 11 Results](https://www.formula1.com/en/results.html/1968/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1968 Round 11 Results](https://www.formula1.com/en/results/1968/races/265/united-states/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

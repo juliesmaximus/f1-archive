@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Graham Hill (Lotus-Ford) — 2:15:02.100  
-- **Pole Position:** Chris Amon  
+- **Winner:** Graham Hill (Lotus-Ford) — 2:15:20.100  
+- **Pole Position:** Chris Amon  (1:27.900)
+- **Fastest Lap:** Jean-Pierre Beltoise (Matra-Ford) — 1:28.300 (Lap 47)
 - **Weather & Track Conditions:** Sunny, hot, and dry; 28°C ambient, track temperature 44°C  
-- **Spectator Attendance:** 45,000 spectators at the newly opened circuit  
 - **Grandstand & Infrastructure:** Main straight covered grandstands, Pegaso curve spectator terraces, and Farina hillsides  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ The inaugural Spanish Grand Prix at Jarama. Graham Hill rallied Lotus through un
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 10 | Graham Hill | Lotus-Ford | 90 | 2:15:02.100 | 6 | 9 |
+| 1 | 10 | Graham Hill | Lotus-Ford | 90 | 2:15:20.100 | 6 | 9 |
 | 2 | 1 | Denny Hulme | McLaren-Ford | 90 | +15.900 | 3 | 6 |
 | 3 | 14 | Brian Redman | Cooper-BRM | 89 | +1 Lap | 13 | 4 |
 | 4 | 15 | Ludovico Scarfiotti | Cooper-BRM | 89 | +1 Lap | 12 | 3 |
@@ -49,8 +49,15 @@ The inaugural Spanish Grand Prix at Jarama. Graham Hill rallied Lotus through un
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 45,000 spectators at Circuito Permanente del Jarama (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1968/2/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1968 Round 2 Results](https://www.formula1.com/en/results.html/1968/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1968 Round 2 Results](https://www.formula1.com/en/results/1968/races/256/spain/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

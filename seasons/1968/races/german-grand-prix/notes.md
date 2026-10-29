@@ -1,4 +1,4 @@
-# XXX Grosser Preis von Deutschland - Race Dossier & Verification Notes
+# XXX Großer Preis von Deutschland - Race Dossier & Verification Notes
 
 **Round:** 8 of 12  
 **Date:** 1968-08-04  
@@ -7,16 +7,16 @@
 **Track Length:** 22.81 km (14.173 miles)  
 **Altitude:** 620 m (Eifel mountains)  
 **Scheduled Distance:** 14 laps (319.340 km)  
-**Official Race Title:** XXX Grosser Preis von Deutschland  
+**Official Race Title:** XXX Großer Preis von Deutschland  
 
 ---
 
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jackie Stewart (Matra-Ford) — 2:19:03.200  
-- **Pole Position:** Jacky Ickx  
+- **Pole Position:** Jacky Ickx  (9:04.000)
+- **Fastest Lap:** Jackie Stewart (Matra-Ford) — 9:36.000 (Lap 8)
 - **Weather & Track Conditions:** Drenching, catastrophic rainstorm, thick pea-soup fog, and standing water across the entire 14-mile circuit  
-- **Spectator Attendance:** 200,000 soaked spectators huddled in the Eifel forests  
 - **Grandstand & Infrastructure:** Start-und-Ziel grandstand and Karussell / Brünnchen natural amphitheatre terraces  
 
 ### Race Anomalies, Incidents & Key Events
@@ -55,8 +55,15 @@ Considered universally by historians, drivers, and analysts as one of the greate
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 200,000 spectators braving torrential rain and fog at the Nürburgring Nordschleife (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1968/8/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1968 Round 8 Results](https://www.formula1.com/en/results.html/1968/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1968 Round 8 Results](https://www.formula1.com/en/results/1968/races/262/germany/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

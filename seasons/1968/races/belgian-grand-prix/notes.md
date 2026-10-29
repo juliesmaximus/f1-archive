@@ -6,7 +6,7 @@
 **Location:** Francorchamps, Stavelot, Ardennes, Belgium (50°26'14"N, 5°58'17"E)  
 **Track Length:** 14.1 km (8.761 miles)  
 **Altitude:** 420 m (Ardennes forest)  
-**Scheduled Distance:** 28 laps (394.800 km)  
+**Scheduled Distance:** 28 laps (39°4.800 km)  
 **Official Race Title:** XXVIII Grand Prix de Belgique  
 
 ---
@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Bruce McLaren (McLaren-Ford) — 1:40:02.100  
-- **Pole Position:** Chris Amon  
+- **Pole Position:** Chris Amon  (3:28.600)
+- **Fastest Lap:** John Surtees (Honda) — 3:30.500 (Lap 5)
 - **Weather & Track Conditions:** Cloudy, dry track with cool mountain breeze; 19°C ambient  
-- **Spectator Attendance:** 55,000 spectators across the Ardennes valleys  
 - **Grandstand & Infrastructure:** Main pit grandstand, Eau Rouge hillside banks, and Blanchimont spectator crests  
 
 ### Race Anomalies, Incidents & Key Events
@@ -34,7 +34,7 @@ Monumental milestone: Bruce McLaren scored the FIRST Formula One World Champions
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
 | 1 | 5 | Bruce McLaren | McLaren-Ford | 28 | 1:40:02.100 | 6 | 9 |
 | 2 | 11 | Pedro Rodríguez | BRM | 28 | +12.100 | 8 | 6 |
-| 3 | 23 | Jacky Ickx | Ferrari | 28 | +39.600 | 3 | 4 |
+| 3 | 23 | Jacky Ickx | Ferrari | 28 | +39°.600 | 3 | 4 |
 | 4 | 7 | Jackie Stewart | Matra-Ford | 27 | Out of fuel | 2 | 3 |
 | 5 | 2 | Jackie Oliver | Lotus-Ford | 26 | Transmission | 15 | 2 |
 | 6 | 15 | Lucien Bianchi | Cooper-BRM | 26 | +2 Laps | 12 | 1 |
@@ -53,8 +53,15 @@ Monumental milestone: Bruce McLaren scored the FIRST Formula One World Champions
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 55,000 estimated spectators in the Ardennes grandstands (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1968/4/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1968 Round 4 Results](https://www.formula1.com/en/results.html/1968/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1968 Round 4 Results](https://www.formula1.com/en/results/1968/races/258/belgium/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

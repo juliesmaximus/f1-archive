@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jim Clark (Lotus-Ford) — 1:53:56.600  
-- **Pole Position:** Jim Clark  
+- **Pole Position:** Jim Clark  (1:21.600)
+- **Fastest Lap:** Jim Clark (Lotus-Ford) — 1:23.700 (Lap 73)
 - **Weather & Track Conditions:** Warm, sunny, dry; 27°C ambient  
-- **Spectator Attendance:** 85,000 spectators across the Kyalami amphitheatre  
 - **Grandstand & Infrastructure:** Main pit straight covered grandstands and Crowthorne spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -58,8 +58,15 @@ The final Grand Prix appearance and final victory of the peerless Jim Clark.
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 85,000 spectators at Kyalami Grand Prix Circuit (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1968/1/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1968 Round 1 Results](https://www.formula1.com/en/results.html/1968/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1968 Round 1 Results](https://www.formula1.com/en/results/1968/races/255/south-africa/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

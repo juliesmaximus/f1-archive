@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Graham Hill (Lotus-Ford) — 1:56:43.950  
-- **Pole Position:** Jo Siffert  
+- **Pole Position:** Jo Siffert  (1:45.220)
+- **Fastest Lap:** Jo Siffert (Lotus-Ford) — 1:44.230 (Lap 52)
 - **Weather & Track Conditions:** Sunny, warm, dry, thin air; 24°C ambient  
-- **Spectator Attendance:** 100,000 spectators packing the Peraltada baseball stadium  
 - **Grandstand & Infrastructure:** Colossal Estadio grandstands encircling Peraltada hairpin and pit straight terraces  
 
 ### Race Anomalies, Incidents & Key Events
@@ -56,8 +56,15 @@ Graham Hill became a double World Champion, celebrated for holding Team Lotus to
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 100,000 spectators in the Magdalena Mixhuca grandstands (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1968/12/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1968 Round 12 Results](https://www.formula1.com/en/results.html/1968/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1968 Round 12 Results](https://www.formula1.com/en/results/1968/races/266/mexico/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

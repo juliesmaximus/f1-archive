@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Graham Hill (Lotus-Ford) — 2:00:32.300  
-- **Pole Position:** Graham Hill  
+- **Pole Position:** Graham Hill  (1:28.200)
+- **Fastest Lap:** Richard Attwood (BRM) — 1:28.100 (Lap 80)
 - **Weather & Track Conditions:** Warm, sunny, dry; 24°C ambient  
-- **Spectator Attendance:** 40,000 spectators lining harbour balconies and grandstands  
 - **Grandstand & Infrastructure:** Quai Albert 1er grandstands and Casino square terraces  
 
 ### Race Anomalies, Incidents & Key Events
@@ -51,8 +51,15 @@ Graham Hill's 4th Monaco win earned him the undisputed moniker of 'King of Monac
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 40,000 estimated spectators lining the harbor, grandstands, and balconies (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1968/3/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1968 Round 3 Results](https://www.formula1.com/en/results.html/1968/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1968 Round 3 Results](https://www.formula1.com/en/results/1968/races/257/monaco/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

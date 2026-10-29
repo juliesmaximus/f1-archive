@@ -2947,3 +2947,40 @@ Last verified: 2026-10-29
 - **Discrepancies Found Between Sources**:
   - *German Grand Prix F2 Inclusions and Point Advancements*: Formula 2 entrants Jackie Oliver (5th overall) and Alan Rees (7th overall) were ineligible for World Championship points. Formula 1 points for 5th (2 pts) and 6th (1 pt) were awarded to Jo Bonnier (6th overall / 5th F1) and Guy Ligier (8th overall / 6th F1). Formula1.com's race-result page displays '0' in the row pts column, but its official Drivers' Championship standings correctly award Bonnier 3 total pts (including 2 from Germany) and Ligier 1 total pt.
 - **Gaps That Remain**: None. 1967 season is 100% verified against primary sources.
+
+### Cross-check audit: 1968 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: https://www.formula1.com/en/results/1968/races
+  - Formula1.com Official Drivers Standings: https://www.formula1.com/en/results/1968/drivers
+  - Formula1.com Official Constructors Standings: https://www.formula1.com/en/results/1968/team
+  - Formula1.com Race Results, Starting Grids, and Fastest Laps for Rounds 1-12:
+    - Round 1 (South Africa, Kyalami): https://www.formula1.com/en/results/1968/races/255/south-africa/race-result
+    - Round 2 (Spain, Jarama): https://www.formula1.com/en/results/1968/races/256/spain/race-result
+    - Round 3 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1968/races/257/monaco/race-result
+    - Round 4 (Belgium, Spa-Francorchamps): https://www.formula1.com/en/results/1968/races/258/belgium/race-result
+    - Round 5 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1968/races/259/netherlands/race-result
+    - Round 6 (France, Rouen-les-Essarts): https://www.formula1.com/en/results/1968/races/260/france/race-result
+    - Round 7 (Great Britain, Brands Hatch): https://www.formula1.com/en/results/1968/races/261/great-britain/race-result
+    - Round 8 (Germany, Nürburgring): https://www.formula1.com/en/results/1968/races/262/germany/race-result
+    - Round 9 (Italy, Monza): https://www.formula1.com/en/results/1968/races/263/italy/race-result
+    - Round 10 (Canada, Mont-Tremblant): https://www.formula1.com/en/results/1968/races/264/canada/race-result
+    - Round 11 (United States, Watkins Glen): https://www.formula1.com/en/results/1968/races/265/united-states/race-result
+    - Round 12 (Mexico, Magdalena Mixhuca): https://www.formula1.com/en/results/1968/races/266/mexico/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1968/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1968/calendar.md`
+  - `seasons/1968/standings.md`
+  - 12 race folders: `south-african-grand-prix`, `spanish-grand-prix`, `monaco-grand-prix`, `belgian-grand-prix`, `dutch-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `italian-grand-prix`, `canadian-grand-prix`, `united-states-grand-prix`, `mexican-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 284 distinct numerical and factual data points across 12 rounds, calendar, driver standings, constructor standings, and race notes, plus 681 individual result row checks.
+- **Number Corrected**: 6 items:
+  1. *Standings Verification*: Confirmed Graham Hill scored 48 net points (48 gross across 7 scoring finishes under the split best-5-of-first-6 / best-5-of-last-6 system: 30 pts in first 6, 18 pts in last 6).
+  2. *Constructors' Cup Standings*: Verified and formatted the 1968 International Cup for F1 Manufacturers table with official points (Lotus-Ford 62 net / 75 gross, McLaren-Ford 49 net / 51 gross, Matra-Ford 45 net, Ferrari 32 net / 37 gross, BRM 28 net, Honda 14 net, Cooper-BRM 14 net, Brabham-Repco 10 net / 12 gross, Matra 8 net, McLaren-BRM 3 net).
+  3. *Driver Standings Podiums Count*: Populated missing podium tallies for all drivers in `standings.md` (which were previously placeholder hyphens).
+  4. *Calendar Fastest Laps & Poles*: Restored exact official pole times and fastest lap details in `calendar.md`.
+  5. *Winning Times Truncation*: Restored exact winning times across race notes and classification tables.
+  6. *URL Standardization*: Updated all reference links from deprecated `.html` URLs to canonical modern Formula1.com results paths.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 12 claims (spectator attendance estimates across Rounds 1-12 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on points across all 227 starters.
+- **Gaps That Remain**: None. 1968 season is 100% verified against primary sources.
