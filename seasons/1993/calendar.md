@@ -1,13 +1,13 @@
 # 1993 FIA Formula 1 World Championship - Season Calendar
 
-The 1993 FIA Formula 1 World Championship consisted of 16 rounds across 5 continents, running from March 14 to November 7, 1993.
+The 1993 FIA Formula 1 World Championship was the 44th season of FIA Formula One motor racing. It featured 16 rounds across 5 continents, running from March 14 to November 7, 1993. Alain Prost won his fourth and final World Championship driving for Williams-Renault before announcing his retirement from Formula One racing.
 
 | Rnd | Official Grand Prix Name | Circuit | Location | Date | Winner | Pole Position | Fastest Lap |
 |:---:|:---|:---|:---|:---|:---|:---|:---|
 | 1 | [South African Grand Prix](races/south-african-grand-prix/notes.md) | Kyalami Grand Prix Circuit | Midrand, South Africa | 1993-03-14 | Alain Prost | Alain Prost | Alain Prost |
 | 2 | [Brazilian Grand Prix](races/brazilian-grand-prix/notes.md) | Autódromo José Carlos Pace (Interlagos) | São Paulo, Brazil | 1993-03-28 | Ayrton Senna | Alain Prost | Michael Schumacher |
 | 3 | [European Grand Prix](races/european-grand-prix/notes.md) | Donington Park | Castle Donington, Leicestershire, UK | 1993-04-11 | Ayrton Senna | Alain Prost | Ayrton Senna |
-| 4 | [San Marino Grand Prix](races/san-marino-grand-prix/notes.md) | Autodromo Dino Ferrari | Imola, Italy | 1993-04-25 | Alain Prost | Alain Prost | Alain Prost |
+| 4 | [San Marino Grand Prix](races/san-marino-grand-prix/notes.md) | Autodromo Enzo e Dino Ferrari | Imola, Italy | 1993-04-25 | Alain Prost | Alain Prost | Alain Prost |
 | 5 | [Spanish Grand Prix](races/spanish-grand-prix/notes.md) | Circuit de Barcelona-Catalunya | Montmeló, Catalonia, Spain | 1993-05-09 | Alain Prost | Alain Prost | Michael Schumacher |
 | 6 | [Monaco Grand Prix](races/monaco-grand-prix/notes.md) | Circuit de Monaco | Monte Carlo, Monaco | 1993-05-23 | Ayrton Senna | Alain Prost | Alain Prost |
 | 7 | [Canadian Grand Prix](races/canadian-grand-prix/notes.md) | Circuit Gilles Villeneuve | Montreal, Canada | 1993-06-13 | Alain Prost | Alain Prost | Michael Schumacher |
@@ -24,6 +24,7 @@ The 1993 FIA Formula 1 World Championship consisted of 16 rounds across 5 contin
 ---
 
 ## Key Regulatory Features & Technical Specifications
-- **Engine Regulations:** 3.5-litre naturally aspirated engines (up to 12 cylinders).
+- **Engine Regulations:** 3.5-litre naturally aspirated engines (maximum 12 cylinders).
 - **Narrower Rear Tyres:** Rear tyre width reduced from 18 inches (457 mm) to 15 inches (381 mm) to reduce cornering speeds.
 - **Introduction of the Official Safety Car:** The FIA formally codified the permanent Safety Car rules following its deployment in the torrential Brazilian Grand Prix.
+- **Electronic Driver Aids Zenith:** Active suspension, traction control, telemetry-assisted power steering, and fly-by-wire controls reached their highest technological peak before the FIA implemented a total ban for the 1994 season.

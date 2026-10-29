@@ -403,7 +403,7 @@
               "Driver": {
                 "driverId": "comas",
                 "url": "http://en.wikipedia.org/wiki/%C3%89rik_Comas",
-                "givenName": "\u00c9rik",
+                "givenName": "Érik",
                 "familyName": "Comas",
                 "dateOfBirth": "1963-09-28",
                 "nationality": "French"
@@ -497,7 +497,7 @@
                 "driverId": "lehto",
                 "url": "http://en.wikipedia.org/wiki/Jyrki_J%C3%A4rvilehto",
                 "givenName": "Jyrki",
-                "familyName": "J\u00e4rvilehto",
+                "familyName": "Järvilehto",
                 "dateOfBirth": "1966-01-31",
                 "nationality": "Finnish"
               },
@@ -600,7 +600,7 @@
                 "nationality": "British"
               },
               "grid": "24",
-              "laps": "16",
+              "laps": "9",
               "status": "Gearbox"
             },
             {
@@ -623,7 +623,7 @@
                 "nationality": "British"
               },
               "grid": "17",
-              "laps": "9",
+              "laps": "3",
               "status": "Suspension"
             }
           ]

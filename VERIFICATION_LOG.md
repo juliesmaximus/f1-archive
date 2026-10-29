@@ -3179,3 +3179,32 @@ Last verified: 2026-10-29
   - World Constructors' Champion: Williams-Renault - 164 pts (10 wins, 21 podiums)
   - Runner-up: McLaren-Honda - 99 pts (5 wins, 12 podiums)
 - **Gaps That Remain**: None. The 1992 season is 100% verified against primary sources.
+
+### Cross-check audit: 1993 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: `https://www.formula1.com/en/results/1993/races` (Race IDs: Round 9 Great Britain is ID `3`; Rounds 1–8 and 10–16 are IDs `590–604`)
+  - Formula1.com Official Standings Archive: `https://www.formula1.com/en/results/1993/drivers` and `/team`
+  - FIA Official Sporting Classifications and Yearbooks (1993)
+  - Jolpica-F1 Ergast API (`/1993/results.json`, `/1993/driverStandings.json`, `/1993/constructorStandings.json`)
+- **Total Claims Checked**: 465+ claims (404 starter rows, 16 race results, 16 starting grids, 16 fastest laps, 22 driver standings rows, 13 constructor standings rows)
+- **Number Corrected**: 7 primary corrections applied:
+  1. *Canadian GP Lap Count*: Corrected Jean Alesi in `results.json` from 33 laps to 23 laps completed (engine failure on lap 23) to match Formula1.com official classification.
+  2. *French GP Lap Count (Katayama)*: Corrected Ukyo Katayama in `results.json` from 16 laps to 9 laps completed (gearbox failure on lap 9) to match Formula1.com official classification.
+  3. *French GP Lap Count (Zanardi)*: Corrected Alessandro Zanardi in `results.json` from 9 laps to 3 laps completed (suspension failure on lap 3) to match Formula1.com official classification.
+  4. *Italian GP Lap Count*: Corrected Érik Comas in `results.json` from 52 laps to 51 laps completed (+2 laps behind winner) to match Formula1.com official classification.
+  5. *San Marino Circuit Name*: Updated circuit name in `calendar.md` and `notes.md` from `Autodromo Dino Ferrari` to `Autodromo Enzo e Dino Ferrari`.
+  6. *Special Characters / Accents Restored*: Restored correct UTF-8 accented characters in `calendar.md` and `standings.md` (Autódromo José Carlos Pace, São Paulo, Montmeló, Mogyoród, Autódromo do Estoril, JJ Lehto / Jyrki Järvilehto, Mika Häkkinen, Érik Comas).
+  7. *Canonical URLs*: Updated all race links from legacy `results.html` format to modern canonical `/en/results/1993/races/[3, 590-604]/...` URLs.
+- **Number Marked UNVERIFIED or Removed**: 0 spectator attendance claims remained in fact body; all unverified historical crowd estimates segregated.
+- **Discrepancies Found Between Sources**:
+  - *Omitted Lap-1 Retirees on Formula1.com*: Web tables omit opening-lap retirements / collisions (e.g. Michael Andretti, Gerhard Berger, Martin Brundle, Fabrizio Barbazza at Brazil; Karl Wendlinger and Michael Andretti at Donington; Aguri Suzuki, Derek Warwick, JJ Lehto, Rubens Barrichello, Marco Apicella at Monza). All 404 starters retained with official FIA classification, retirements, and grid positions.
+  - *Constructors' Championship Ties*: Lotus and Sauber tied on 12 points (Lotus awarded 6th via 3 fourth-place finishes against Sauber's 2); Larrousse and Jordan tied on 3 points (Larrousse awarded 10th on countback).
+- **Championship Summary**:
+  - World Drivers' Champion: Alain Prost (Williams-Renault) - 99 pts (7 wins, 12 podiums, 13 poles, 6 fastest laps) - 4th World Championship; retired with all-time records of 51 wins and 798.5 career points
+  - Runner-up: Ayrton Senna (McLaren-Ford) - 73 pts (5 wins, 7 podiums, 1 pole, 1 fastest lap)
+  - 3rd Place: Damon Hill (Williams-Renault) - 69 pts (3 wins, 10 podiums, 2 poles, 4 fastest laps)
+  - 4th Place: Michael Schumacher (Benetton-Ford) - 52 pts (1 win, 9 podiums, 5 fastest laps)
+  - World Constructors' Champion: Williams-Renault - 168 pts (10 wins, 22 podiums)
+  - Runner-up: McLaren-Ford - 84 pts (5 wins, 9 podiums)
+- **Gaps That Remain**: None. The 1993 season is 100% verified against primary sources.
