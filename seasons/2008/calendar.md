@@ -12,7 +12,7 @@ The 2008 FIA Formula 1 World Championship consisted of 18 rounds across 5 contin
 | 6 | [Monaco Grand Prix](races/monaco-grand-prix/notes.md) | Circuit de Monaco | Monte Carlo, Monaco | 2008-05-25 | Lewis Hamilton | Felipe Massa | Kimi Räikkönen |
 | 7 | [Canadian Grand Prix](races/canadian-grand-prix/notes.md) | Circuit Gilles-Villeneuve | Montreal, Canada | 2008-06-08 | Robert Kubica | Lewis Hamilton | Kimi Räikkönen |
 | 8 | [French Grand Prix](races/french-grand-prix/notes.md) | Circuit de Nevers Magny-Cours | Magny-Cours, France | 2008-06-22 | Felipe Massa | Kimi Räikkönen | Kimi Räikkönen |
-| 9 | [British Grand Prix](races/british-grand-prix/notes.md) | Silverstone Circuit | Silverstone, United Kingdom | 2008-07-06 | Lewis Hamilton | Heikki Kovalainen | Lewis Hamilton |
+| 9 | [British Grand Prix](races/british-grand-prix/notes.md) | Silverstone Circuit | Silverstone, United Kingdom | 2008-07-06 | Lewis Hamilton | Heikki Kovalainen | Kimi Räikkönen |
 | 10 | [German Grand Prix](races/german-grand-prix/notes.md) | Hockenheimring | Hockenheim, Germany | 2008-07-20 | Lewis Hamilton | Lewis Hamilton | Nick Heidfeld |
 | 11 | [Hungarian Grand Prix](races/hungarian-grand-prix/notes.md) | Hungaroring | Mogyoród, Hungary | 2008-08-03 | Heikki Kovalainen | Lewis Hamilton | Kimi Räikkönen |
 | 12 | [European Grand Prix](races/european-grand-prix/notes.md) | Valencia Street Circuit | Valencia, Spain | 2008-08-24 | Felipe Massa | Felipe Massa | Felipe Massa |

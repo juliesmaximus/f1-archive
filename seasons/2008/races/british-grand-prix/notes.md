@@ -8,7 +8,6 @@
 - **Location:** Silverstone, United Kingdom
 - **Circuit Length:** 5.141 km (3.194 miles)
 - **Altitude:** 155 m above sea level
-- **Official Attendance:** 90,000 soaked fans
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Lewis Hamilton (McLaren-Mercedes)
 - **Pole Position:** Heikki Kovalainen (McLaren-Mercedes) - 1:21.049
-- **Fastest Lap:** Lewis Hamilton (McLaren-Mercedes) - 1:32.150 (lap 16)
+- **Fastest Lap:** Kimi Räikkönen (Ferrari) - 1:32.150 (Lap 18)
 
 ---
 
@@ -35,7 +34,12 @@ Hamilton's 68.5-second winning margin was the largest victory margin in Formula 
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 90,000 soaked fans. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Santander British Grand Prix Results](https://www.formula1.com/en/results.html/2008/races/832/great-britain/race-result.html)
+- **Official Formula 1 Results Archive:** [Santander British Grand Prix Results](https://www.formula1.com/en/results/2008/races/833/great-britain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2008/9/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2008)

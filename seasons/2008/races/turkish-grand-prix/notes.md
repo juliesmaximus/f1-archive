@@ -8,7 +8,6 @@
 - **Location:** Tuzla, Istanbul, Turkey
 - **Circuit Length:** 5.338 km (3.317 miles)
 - **Altitude:** 120 m above sea level
-- **Official Attendance:** 75,000
 
 ---
 
@@ -35,7 +34,12 @@ Hamilton's aggressive 3-stop strategy was praised as one of the best tyre-manage
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 75,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Petrol Ofisi Turkish Grand Prix Results](https://www.formula1.com/en/results.html/2008/races/828/turkey/race-result.html)
+- **Official Formula 1 Results Archive:** [Petrol Ofisi Turkish Grand Prix Results](https://www.formula1.com/en/results/2008/races/829/turkey/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2008/5/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2008)

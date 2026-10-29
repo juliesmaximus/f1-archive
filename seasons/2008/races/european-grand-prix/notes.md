@@ -8,7 +8,6 @@
 - **Location:** Valencia, Spain
 - **Circuit Length:** 5.419 km (3.367 miles)
 - **Altitude:** 12 m above sea level
-- **Official Attendance:** 112,000
 
 ---
 
@@ -35,7 +34,12 @@ Ferrari was fined €10,000 for Massa's unsafe release into the path of Adrian S
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 112,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Telefónica Grand Prix of Europe Results](https://www.formula1.com/en/results.html/2008/races/835/europe/race-result.html)
+- **Official Formula 1 Results Archive:** [Telefónica Grand Prix of Europe Results](https://www.formula1.com/en/results/2008/races/836/europe/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2008/12/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2008)

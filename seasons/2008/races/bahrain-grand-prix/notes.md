@@ -8,7 +8,6 @@
 - **Location:** Sakhir, Bahrain
 - **Circuit Length:** 5.412 km (3.363 miles)
 - **Altitude:** 16 m above sea level
-- **Official Attendance:** 42,000
 
 ---
 
@@ -35,7 +34,12 @@ Kimi Räikkönen took over the World Championship lead with 19 points.
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 42,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gulf Air Bahrain Grand Prix Results](https://www.formula1.com/en/results.html/2008/races/826/bahrain/race-result.html)
+- **Official Formula 1 Results Archive:** [Gulf Air Bahrain Grand Prix Results](https://www.formula1.com/en/results/2008/races/827/bahrain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2008/3/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2008)

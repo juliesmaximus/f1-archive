@@ -511,7 +511,7 @@
                 "driverId": "bourdais",
                 "code": "BOU",
                 "url": "http://en.wikipedia.org/wiki/S%C3%A9bastien_Bourdais",
-                "givenName": "S\u00e9bastien",
+                "givenName": "Sébastien",
                 "familyName": "Bourdais",
                 "dateOfBirth": "1979-02-28",
                 "nationality": "French"
@@ -664,7 +664,7 @@
                 "nationality": "French"
               },
               "grid": "15",
-              "laps": "43",
+              "laps": "39",
               "status": "Brakes",
               "FastestLap": {
                 "rank": "18",
@@ -689,7 +689,7 @@
                 "code": "RAI",
                 "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
                 "givenName": "Kimi",
-                "familyName": "R\u00e4ikk\u00f6nen",
+                "familyName": "Räikkönen",
                 "dateOfBirth": "1979-10-17",
                 "nationality": "Finnish"
               },

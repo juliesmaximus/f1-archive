@@ -8,7 +8,6 @@
 - **Location:** Monza, Italy
 - **Circuit Length:** 5.793 km (3.600 miles)
 - **Altitude:** 162 m above sea level
-- **Official Attendance:** 85,000
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Sebastian Vettel (Toro Rosso-Ferrari)
 - **Pole Position:** Sebastian Vettel (Toro Rosso-Ferrari) - 1:37.555
-- **Fastest Lap:** Kimi Räikkönen (Ferrari) - 1:28.047 (lap 70)
+- **Fastest Lap:** Kimi Räikkönen (Ferrari) - 1:28.047 (Lap 53)
 
 ---
 
@@ -35,7 +34,12 @@ First Italian Grand Prix victory for an Italian team other than Ferrari since Ma
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 85,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio Santander d'Italia Results](https://www.formula1.com/en/results.html/2008/races/837/italy/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio Santander d'Italia Results](https://www.formula1.com/en/results/2008/races/838/italy/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2008/14/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2008)

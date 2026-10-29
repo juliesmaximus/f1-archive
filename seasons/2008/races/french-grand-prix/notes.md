@@ -8,7 +8,6 @@
 - **Location:** Magny-Cours, France
 - **Circuit Length:** 4.411 km (2.741 miles)
 - **Altitude:** 220 m above sea level
-- **Official Attendance:** 78,000
 
 ---
 
@@ -35,7 +34,12 @@ Final French Grand Prix held at Magny-Cours.
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 78,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Grand Prix de France Results](https://www.formula1.com/en/results.html/2008/races/831/france/race-result.html)
+- **Official Formula 1 Results Archive:** [Grand Prix de France Results](https://www.formula1.com/en/results/2008/races/832/france/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2008/8/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2008)

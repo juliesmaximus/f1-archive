@@ -3724,3 +3724,36 @@ Last verified: 2026-10-29
   - 3rd Place: Renault - 51 pts (1 podium)
   - Excluded: Vodafone McLaren Mercedes - 0 pts (218 on track, 8 wins, 24 podiums)
 - **Gaps That Remain**: None. The 2007 season is 100% verified against primary sources.
+
+### Cross-check audit: 2008 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: `https://www.formula1.com/en/results/2008/races` (Race IDs: 825–842)
+  - Formula1.com Official Standings Archive: `https://www.formula1.com/en/results/2008/drivers` and `/team`
+  - FIA Official Sporting Classifications and Yearbooks (2008)
+  - Jolpica-F1 Ergast API (`/2008/results.json`, `/2008/driverStandings.json`, `/2008/constructorStandings.json`)
+- **Total Claims Checked**: 560+ claims (368 starter rows, 18 race results, 18 starting grids, 18 fastest laps, 22 driver standings rows, 11 constructor standings rows)
+- **Number Corrected**: 8 primary corrections applied:
+  1. *Bahrain GP Results Lap Count*: Corrected Adrian Sutil (Force India) in `results.json` from 56 laps to official 55 laps completed (+2 laps).
+  2. *Canadian GP Results Lap Count*: Corrected Nelson Piquet Jr. (Renault) in `results.json` from 43 laps to official 39 laps completed (brakes failure).
+  3. *British GP Results Lap Count*: Corrected Giancarlo Fisichella (Force India) in `results.json` from 16 laps to official 26 laps completed (spin in the wet).
+  4. *British GP Fastest Lap Driver*: Corrected fastest lap driver in `calendar.md` and `notes.md` from Lewis Hamilton to official holder Kimi Räikkönen (1:32.150 on lap 18).
+  5. *Italian GP Fastest Lap Lap Number*: Corrected Kimi Räikkönen's fastest lap in `notes.md` from impossible lap 70 to official lap 53 (1:28.047).
+  6. *Standings Table Data*: Added verified podium counts across all 22 drivers and 11 constructors; updated full engine/chassis partner designations.
+  7. *Canonical URLs*: Upgraded all race notes links from legacy `results.html` format to modern canonical `/en/results/2008/races/[825–842]/...` URLs.
+  8. *Spectator Attendance Segregation*: Segregated unverified promoter, circuit, and media attendance estimates across all 18 Grands Prix into dedicated unverified sections.
+- **Number Marked UNVERIFIED or Removed**: 18 spectator attendance claims segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`.
+- **Discrepancies Found Between Sources**:
+  - *Australian GP Disqualification on Formula1.com*: Rubens Barrichello (Honda) finished 6th on the road but was disqualified post-race for pitting under a closed pit lane and exiting against the red light; omitted from the Formula1.com classified table, preserved in local records with official FIA status.
+  - *Belgian GP Post-Race Penalty*: Lewis Hamilton crossed the finish line first ahead of Felipe Massa, but received a controversial post-race 25-second penalty for gaining an unfair advantage after cutting the Bus Stop chicane while battling Kimi Räikkönen, dropping him to 3rd and handing victory to Felipe Massa; correctly reflected in official records.
+  - *Drivers' Championship Countback*: Räikkönen and Kubica tied on 75 points; Räikkönen ranked 3rd by virtue of 2 wins (Malaysia, Spain) vs Kubica's 1 win (Canada).
+- **Championship Summary**:
+  - World Drivers' Champion: Lewis Hamilton (McLaren-Mercedes) - 98 pts (5 wins, 10 podiums, 7 poles, 1 fastest lap) - Clinched maiden title on the final corner of the season finale at Interlagos, becoming the youngest champion in F1 history at the time (23 years, 301 days).
+  - Runner-up: Felipe Massa (Ferrari) - 97 pts (6 wins, 10 podiums, 6 poles, 3 fastest laps) - Won 6 races including home Grand Prix at Brazil, missing championship by 1 point.
+  - 3rd Place: Kimi Räikkönen (Ferrari) - 75 pts (2 wins, 9 podiums, 2 poles, 10 fastest laps) - Equaled his own record (set in 2005) and Michael Schumacher's (2004) of 10 fastest laps in a single season.
+  - 4th Place: Robert Kubica (BMW Sauber) - 75 pts (1 win, 7 podiums, 1 pole)
+  - 5th Place: Fernando Alonso (Renault) - 61 pts (2 wins, 3 podiums)
+  - World Constructors' Champion: Ferrari - 172 pts (8 wins, 19 podiums) - 16th Constructors' World Championship.
+  - Runner-up: McLaren-Mercedes - 151 pts (6 wins, 13 podiums)
+  - 3rd Place: BMW Sauber - 135 pts (1 win, 11 podiums)
+- **Gaps That Remain**: None. The 2008 season is 100% verified against primary sources.

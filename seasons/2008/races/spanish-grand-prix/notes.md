@@ -8,7 +8,6 @@
 - **Location:** Montmeló, Spain
 - **Circuit Length:** 4.655 km (2.892 miles)
 - **Altitude:** 125 m above sea level
-- **Official Attendance:** 132,000 roaring Spanish fans
 
 ---
 
@@ -35,7 +34,12 @@ Safety barriers took 10 minutes to extract Kovalainen's car, triggering lengthy 
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 132,000 roaring Spanish fans. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio de España Telefónica Results](https://www.formula1.com/en/results.html/2008/races/827/spain/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio de España Telefónica Results](https://www.formula1.com/en/results/2008/races/828/spain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2008/4/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2008)

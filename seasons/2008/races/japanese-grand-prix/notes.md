@@ -8,7 +8,6 @@
 - **Location:** Oyama, Shizuoka, Japan
 - **Circuit Length:** 4.563 km (2.835 miles)
 - **Altitude:** 580 m above sea level
-- **Official Attendance:** 110,000
 
 ---
 
@@ -35,7 +34,12 @@ Both Hamilton and Massa received penalties in a bitterly contested stewards ruli
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 110,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Fuji Television Japanese Grand Prix Results](https://www.formula1.com/en/results.html/2008/races/839/japan/race-result.html)
+- **Official Formula 1 Results Archive:** [Fuji Television Japanese Grand Prix Results](https://www.formula1.com/en/results/2008/races/840/japan/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2008/16/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2008)
