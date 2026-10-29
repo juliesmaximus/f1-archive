@@ -80,7 +80,7 @@
                 "code": "PER",
                 "url": "http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez",
                 "givenName": "Sergio",
-                "familyName": "P\u00e9rez",
+                "familyName": "Pérez",
                 "dateOfBirth": "1990-01-26",
                 "nationality": "Mexican"
               },
@@ -199,7 +199,7 @@
                 "code": "RAI",
                 "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
                 "givenName": "Kimi",
-                "familyName": "R\u00e4ikk\u00f6nen",
+                "familyName": "Räikkönen",
                 "dateOfBirth": "1979-10-17",
                 "nationality": "Finnish"
               },
@@ -317,7 +317,7 @@
                 "permanentNumber": "25",
                 "code": "VER",
                 "url": "http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne",
-                "givenName": "Jean-\u00c9ric",
+                "givenName": "Jean-Éric",
                 "familyName": "Vergne",
                 "dateOfBirth": "1990-04-25",
                 "nationality": "French"
@@ -358,7 +358,7 @@
                 "code": "HUL",
                 "url": "http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg",
                 "givenName": "Nico",
-                "familyName": "H\u00fclkenberg",
+                "familyName": "Hülkenberg",
                 "dateOfBirth": "1987-08-19",
                 "nationality": "German"
               },
@@ -803,43 +803,8 @@
               }
             },
             {
-              "number": "23",
-              "position": "21",
-              "positionText": "21",
-              "points": "0",
-              "Driver": {
-                "driverId": "karthikeyan",
-                "code": "KAR",
-                "url": "http://en.wikipedia.org/wiki/Narain_Karthikeyan",
-                "givenName": "Narain",
-                "familyName": "Karthikeyan",
-                "dateOfBirth": "1977-01-14",
-                "nationality": "Indian"
-              },
-              "Constructor": {
-                "constructorId": "hrt",
-                "url": "https://en.wikipedia.org/wiki/HRT_Formula_1_Team",
-                "name": "HRT",
-                "nationality": "Spanish"
-              },
-              "grid": "23",
-              "laps": "54",
-              "status": "+2 Laps",
-              "FastestLap": {
-                "rank": "22",
-                "lap": "52",
-                "Time": {
-                  "time": "1:45.909"
-                },
-                "AverageSpeed": {
-                  "units": "kph",
-                  "speed": "188.414"
-                }
-              }
-            },
-            {
               "number": "22",
-              "position": "22",
+              "position": "21",
               "positionText": "22",
               "points": "0",
               "Driver": {
@@ -869,6 +834,41 @@
                 "AverageSpeed": {
                   "units": "kph",
                   "speed": "187.820"
+                }
+              }
+            },
+            {
+              "number": "23",
+              "position": "22",
+              "positionText": "21",
+              "points": "0",
+              "Driver": {
+                "driverId": "karthikeyan",
+                "code": "KAR",
+                "url": "http://en.wikipedia.org/wiki/Narain_Karthikeyan",
+                "givenName": "Narain",
+                "familyName": "Karthikeyan",
+                "dateOfBirth": "1977-01-14",
+                "nationality": "Indian"
+              },
+              "Constructor": {
+                "constructorId": "hrt",
+                "url": "https://en.wikipedia.org/wiki/HRT_Formula_1_Team",
+                "name": "HRT",
+                "nationality": "Spanish"
+              },
+              "grid": "23",
+              "laps": "54",
+              "status": "+2 Laps",
+              "FastestLap": {
+                "rank": "22",
+                "lap": "52",
+                "Time": {
+                  "time": "1:45.909"
+                },
+                "AverageSpeed": {
+                  "units": "kph",
+                  "speed": "188.414"
                 }
               }
             },

@@ -8,7 +8,6 @@
 - **Location:** Greater Noida, Uttar Pradesh, India
 - **Circuit Length:** 5.125 km (3.185 miles)
 - **Altitude:** 195 m above sea level
-- **Official Attendance:** 90,000
 
 ---
 
@@ -36,6 +35,10 @@ Webber suffered a KERS failure mid-race, leaving him vulnerable to Alonso.
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Airtel Indian Grand Prix Results](https://www.formula1.com/en/results.html/2012/races/913/india/race-result.html)
+- **Official Formula 1 Results Archive:** [Airtel Indian Grand Prix Results](https://www.formula1.com/en/results/2012/races/24/india/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2012/17/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2012)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 90,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

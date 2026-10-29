@@ -8,7 +8,6 @@
 - **Location:** São Paulo, Brazil
 - **Circuit Length:** 4.309 km (2.677 miles)
 - **Altitude:** 785 m above sea level
-- **Official Attendance:** 80,000
 
 ---
 
@@ -20,7 +19,7 @@
 
 ## 3. Official Race Classification Summary
 - **Winner:** Jenson Button (McLaren-Mercedes)
-- **Pole Position:** Lewis Hamilton (McLaren-Mercedes) - 1:23.170
+- **Pole Position:** Lewis Hamilton (McLaren-Mercedes) - 1:12.458
 - **Fastest Lap:** Lewis Hamilton (McLaren-Mercedes) - 1:18.069 (lap 38)
 
 ---
@@ -36,6 +35,10 @@ Alonso staring into the middle distance in the paddock post-race became an iconi
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Grande Prêmio do Brasil Results](https://www.formula1.com/en/results.html/2012/races/916/brazil/race-result.html)
+- **Official Formula 1 Results Archive:** [Grande Prêmio do Brasil Results](https://www.formula1.com/en/results/2012/races/27/brazil/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2012/20/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2012)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 80,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

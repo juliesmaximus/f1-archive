@@ -8,7 +8,6 @@
 - **Location:** Suzuka, Mie, Japan
 - **Circuit Length:** 5.807 km (3.608 miles)
 - **Altitude:** 45 m above sea level
-- **Official Attendance:** 140,000 ecstatic Japanese fans
 
 ---
 
@@ -36,6 +35,10 @@ Kobayashi became only the third Japanese driver in F1 history to score a podium.
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Japanese Grand Prix Results](https://www.formula1.com/en/results.html/2012/races/911/japan/race-result.html)
+- **Official Formula 1 Results Archive:** [Japanese Grand Prix Results](https://www.formula1.com/en/results/2012/races/22/japan/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2012/15/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2012)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 140,000 ecstatic Japanese fans (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

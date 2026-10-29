@@ -8,7 +8,6 @@
 - **Location:** Austin, Texas, USA
 - **Circuit Length:** 5.513 km (3.426 miles)
 - **Altitude:** 150 m above sea level
-- **Official Attendance:** 117,429 inaugural crowd
 
 ---
 
@@ -36,6 +35,10 @@ Ferrari deliberately broke the gearbox seal on Felipe Massa's car to drop him 5 
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [United States Grand Prix Results](https://www.formula1.com/en/results.html/2012/races/915/united-states/race-result.html)
+- **Official Formula 1 Results Archive:** [United States Grand Prix Results](https://www.formula1.com/en/results/2012/races/26/united-states/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2012/19/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2012)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 117,429 inaugural crowd (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

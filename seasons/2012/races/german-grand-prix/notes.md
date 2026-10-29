@@ -8,7 +8,6 @@
 - **Location:** Hockenheim, Germany
 - **Circuit Length:** 4.574 km (2.842 miles)
 - **Altitude:** 103 m above sea level
-- **Official Attendance:** 90,000
 
 ---
 
@@ -36,6 +35,10 @@ Vettel's off-track overtake on Button sparked debates about track limits.
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Großer Preis Santander von Deutschland Results](https://www.formula1.com/en/results.html/2012/races/906/germany/race-result.html)
+- **Official Formula 1 Results Archive:** [Großer Preis Santander von Deutschland Results](https://www.formula1.com/en/results/2012/races/18/germany/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2012/10/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2012)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 90,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

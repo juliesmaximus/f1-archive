@@ -8,7 +8,6 @@
 - **Location:** Melbourne, Australia
 - **Circuit Length:** 5.303 km (3.295 miles)
 - **Altitude:** 10 m above sea level
-- **Official Attendance:** 114,800 race day
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Jenson Button (McLaren-Mercedes)
 - **Pole Position:** Lewis Hamilton (McLaren-Mercedes) - 1:24.922
-- **Fastest Lap:** Jenson Button (McLaren-Mercedes) - 1:29.183 (lap 56)
+- **Fastest Lap:** Jenson Button (McLaren-Mercedes) - 1:29.187 (lap 56)
 
 ---
 
@@ -36,6 +35,10 @@ Debut of the stepped 'platypus' noses mandated by new chassis bulkhead height li
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Qantas Australian Grand Prix Results](https://www.formula1.com/en/results.html/2012/races/897/australia/race-result.html)
+- **Official Formula 1 Results Archive:** [Qantas Australian Grand Prix Results](https://www.formula1.com/en/results/2012/races/10/australia/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2012/1/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2012)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 114,800 race day (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

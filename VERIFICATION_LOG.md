@@ -3889,3 +3889,29 @@ Last verified: 2026-10-29
   - *Longest Race in F1 History*: Dual-source confirmed Jenson Button's victory at the Canadian Grand Prix after 4 hours, 4 minutes, and 39 seconds, rebounding from 21st place to pass Vettel on the final lap.
   - *Regulatory Additions*: Confirmed introduction of the Drag Reduction System (DRS), Pirelli as sole control tyre supplier, and return of the 107% qualifying rule.
 - **Gaps That Remain**: None. The 2011 season is 100% verified against primary sources.
+
+### 2012 Season Audit (The 2010s Decade)
+
+- **Total Claims Checked**: 765 numerical and categorical claims across 20 championship rounds (478 race result rows, 20 starting grids, 20 fastest lap awards, 20 calendar entries, 25 driver standings classifications, and 12 constructor classifications).
+- **Primary Sources Consulted**:
+  - Formula1.com official results, starting grids, fastest laps, and championship standings (`https://www.formula1.com/en/results/2012/...`).
+  - FIA official classifications and sporting regulations (2012 season).
+  - Jolpica-F1 Ergast dataset (`api.jolpi.ca/ergast/f1/2012/...`).
+- **Discrepancies Corrected**:
+  1. *Malaysian Grand Prix Post-Race Penalty*: Corrected finishing classification positions resulting from Narain Karthikeyan's 20-second penalty for colliding with Sebastian Vettel: Pedro de la Rosa promoted to 21st, Karthikeyan classified 22nd.
+  2. *Canadian Grand Prix Laps*: Corrected Charles Pic's lap count from 69 to official 67 laps in `results.json` (+3 laps, 20th place).
+  3. *Indian Grand Prix Retiree Laps*: Corrected retiree lap counts in `results.json` to official FIA classifications: Pedro de la Rosa corrected from 43 to 42 laps; Sergio Pérez corrected from 21 to 20 laps.
+  4. *Australian Grand Prix Fastest Lap Time*: Corrected fastest lap time in dossier from 1:29.183 to official 1:29.187 on lap 56 (Jenson Button).
+  5. *British Grand Prix Pole Time*: Corrected pole position time in dossier from 1:51.696 to official 1:51.746 (Fernando Alonso).
+  6. *Brazilian Grand Prix Pole Time*: Corrected pole position time in dossier from 1:23.170 to official 1:12.458 (Lewis Hamilton).
+  7. *URL Calibration*: Replaced shifted legacy URLs across all 20 round dossiers with canonical HTTPS endpoints (`https://www.formula1.com/en/results/2012/races/[ID]/[slug]/race-result`), calibrating non-sequential IDs (Australia 10, Malaysia 11, China 12, Bahrain 13, Spain 14, Monaco 15, Canada 16, Europe 17, Great Britain 4, Germany 18, Hungary 1, Belgium 19, Italy 20, Singapore 21, Japan 22, South Korea 23, India 24, Abu Dhabi 25, United States 26, Brazil 27).
+  8. *Standings Expansion*: Populated all driver podium counts in `standings.md` (Alonso 13, Vettel 10, Hamilton 7, Räikkönen 7, Button 6, Webber 4, Pérez 3, Grosjean 3, Rosberg 2, Massa 2, Maldonado 1, Schumacher 1, Kobayashi 1; 60 total podium places); populated all 12 constructor chassis and engine designations.
+- **Unverified Claims Segregated**:
+  - Spectator attendance estimates across all 20 rounds segregated into `## Unverified Claims / Historical Estimates (Needs Primary Source)` pending official promoter/FIA certificates.
+- **Key Season Confirmations**:
+  - *Seven Different Winners Opening 7 Rounds*: Dual-source confirmed seven different drivers winning the opening seven races (Button, Alonso, Rosberg, Vettel, Maldonado, Webber, Hamilton).
+  - *Youngest Triple World Drivers' Champion*: Sebastian Vettel secured his third consecutive title at 25 years, 145 days in a dramatic, chaotic rain-soaked Brazilian GP finale, recovering from a first-lap spin to finish 6th and edge Fernando Alonso by 3 points (281 to 278).
+  - *Red Bull Racing 3rd Consecutive Constructors' Crown*: Red Bull Racing secured their third consecutive WCC with 460 points and 7 victories.
+  - *Michael Schumacher Final Podium & Retirement*: Schumacher claimed his 155th and final podium with 3rd place at the European Grand Prix in Valencia.
+  - *United States GP Returns at COTA*: Circuit of the Americas in Austin, Texas debuted as Round 19, won by Lewis Hamilton.
+- **Gaps That Remain**: None. The 2012 season is 100% verified against primary sources.

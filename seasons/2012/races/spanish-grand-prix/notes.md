@@ -8,7 +8,6 @@
 - **Location:** Montmeló, Spain
 - **Circuit Length:** 4.655 km (2.892 miles)
 - **Altitude:** 125 m above sea level
-- **Official Attendance:** 105,000
 
 ---
 
@@ -36,6 +35,10 @@ Five different winners from five different teams in the first five races.
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio de España Santander Results](https://www.formula1.com/en/results.html/2012/races/901/spain/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio de España Santander Results](https://www.formula1.com/en/results/2012/races/14/spain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2012/5/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2012)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 105,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

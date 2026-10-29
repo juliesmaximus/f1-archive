@@ -8,7 +8,6 @@
 - **Location:** Sakhir, Bahrain
 - **Circuit Length:** 5.412 km (3.363 miles)
 - **Altitude:** 16 m above sea level
-- **Official Attendance:** 28,000
 
 ---
 
@@ -36,6 +35,10 @@ Race took place amidst political protests in Bahrain; high security surrounded t
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gulf Air Bahrain Grand Prix Results](https://www.formula1.com/en/results.html/2012/races/900/bahrain/race-result.html)
+- **Official Formula 1 Results Archive:** [Gulf Air Bahrain Grand Prix Results](https://www.formula1.com/en/results/2012/races/13/bahrain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2012/4/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2012)
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 28,000 (historical media estimate; no primary FIA or promoter official certificate verified in this audit pass)

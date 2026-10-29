@@ -279,7 +279,7 @@
                 "code": "RAI",
                 "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
                 "givenName": "Kimi",
-                "familyName": "R\u00e4ikk\u00f6nen",
+                "familyName": "Räikkönen",
                 "dateOfBirth": "1979-10-17",
                 "nationality": "Finnish"
               },
@@ -319,7 +319,7 @@
                 "code": "HUL",
                 "url": "http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg",
                 "givenName": "Nico",
-                "familyName": "H\u00fclkenberg",
+                "familyName": "Hülkenberg",
                 "dateOfBirth": "1987-08-19",
                 "nationality": "German"
               },
@@ -597,7 +597,7 @@
                 "permanentNumber": "25",
                 "code": "VER",
                 "url": "http://en.wikipedia.org/wiki/Jean-%C3%89ric_Vergne",
-                "givenName": "Jean-\u00c9ric",
+                "givenName": "Jean-Éric",
                 "familyName": "Vergne",
                 "dateOfBirth": "1990-04-25",
                 "nationality": "French"
@@ -890,7 +890,7 @@
                 "nationality": "Spanish"
               },
               "grid": "22",
-              "laps": "43",
+              "laps": "42",
               "status": "Accident",
               "FastestLap": {
                 "rank": "24",
@@ -915,7 +915,7 @@
                 "code": "PER",
                 "url": "http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez",
                 "givenName": "Sergio",
-                "familyName": "P\u00e9rez",
+                "familyName": "Pérez",
                 "dateOfBirth": "1990-01-26",
                 "nationality": "Mexican"
               },
@@ -926,7 +926,7 @@
                 "nationality": "Swiss"
               },
               "grid": "8",
-              "laps": "21",
+              "laps": "20",
               "status": "Accident",
               "FastestLap": {
                 "rank": "23",
