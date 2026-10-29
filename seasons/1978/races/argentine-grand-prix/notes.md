@@ -1,9 +1,9 @@
-# XIV Gran Premio de la Republica Argentina - Round 1
+# XIV Gran Premio de la Republica Argentina - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XIV Gran Premio de la Republica Argentina
 - **Round Number:** 1 of 16 in the 1978 FIA Formula One World Championship
-- **Circuit:** Autódromo Municipal Ciudad de Buenos Aires (No. 15)
+- **Circuit:** Autódromo Municipal Ciudad de Buenos Aires
 - **Location:** Buenos Aires, Argentina
 - **Coordinates:** 34°41'39"S, 58°28'10"W
 - **Track Length:** 5.968 km (3.708 miles)
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:37:04.470
 - **Winning Driver:** Mario Andretti
 - **Winning Constructor:** Team Lotus
-- **Pole Position:** Mario Andretti
-- **Fastest Lap:** N/A
+- **Pole Position:** Mario Andretti — 1:47.750
+- **Fastest Lap:** Gilles Villeneuve — 1:49.760
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 1, 1978)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Intense summer heat; 32°C ambient, track temperature 48°C
-- **Spectator Attendance:** 75,000 enthusiastic fans lining the perimeter
 - **Grandstand Enclosures:** Permanent grandstands opposite the pits and along Curva del Ciervo
 
 ---
@@ -42,6 +41,12 @@ ANDRETTI LIGHTS-TO-FLAG DOMINANCE: Mario Andretti took pole position in the Lotu
 Mario Andretti began his championship charge with a crushing display of ground-effect superiority.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 75,000 enthusiastic fans lining the perimeter (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

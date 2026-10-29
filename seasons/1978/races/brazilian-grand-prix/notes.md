@@ -1,9 +1,9 @@
-# VII Grande Prêmio do Brasil - Round 2
+# VII Grande Prêmio do Brasil - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** VII Grande Prêmio do Brasil
 - **Round Number:** 2 of 16 in the 1978 FIA Formula One World Championship
-- **Circuit:** Autódromo de Jacarepaguá (Autódromo Internacional Nelson Piquet)
+- **Circuit:** Autódromo de Jacarepaguá
 - **Location:** Rio de Janeiro, Brazil
 - **Coordinates:** 22°58'31"S, 43°23'42"W
 - **Track Length:** 5.031 km (3.126 miles)
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:49:59.860
 - **Winning Driver:** Carlos Reutemann
 - **Winning Constructor:** Ferrari
-- **Pole Position:** Ronnie Peterson
-- **Fastest Lap:** N/A
+- **Pole Position:** Ronnie Peterson — 1:40.450
+- **Fastest Lap:** Carlos Reutemann — 1:43.070
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 2, 1978)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Oppressive tropical heat and stifling humidity; 36°C ambient
-- **Spectator Attendance:** 60,000 spectators attending the inaugural Grand Prix at Jacarepaguá
 - **Grandstand Enclosures:** Temporary grandstands around the lagoon perimeter and pit straight
 
 ---
@@ -42,6 +41,12 @@ REUTEMANN & MICHELIN MAIDEN RADIAL WIN: The Brazilian GP relocated from São Pau
 First Formula One World Championship victory for Michelin radial tire technology, sparking the tire war against Goodyear.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 60,000 spectators attending the inaugural Grand Prix at Jacarepaguá (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

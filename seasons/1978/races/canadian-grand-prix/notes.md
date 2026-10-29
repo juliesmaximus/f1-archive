@@ -1,9 +1,9 @@
-# XVIII Grand Prix du Canada - Round 16
+# XVIII Grand Prix du Canada - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XVIII Grand Prix du Canada
 - **Round Number:** 16 of 16 in the 1978 FIA Formula One World Championship
-- **Circuit:** Île Notre-Dame Circuit (Circuit Gilles Villeneuve)
+- **Circuit:** Île Notre-Dame Circuit
 - **Location:** Montreal, Quebec, Canada
 - **Coordinates:** 45°30'02"N, 73°31'21"W
 - **Track Length:** 4.5 km (2.796 miles)
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:57:49.196
 - **Winning Driver:** Gilles Villeneuve
 - **Winning Constructor:** Ferrari
-- **Pole Position:** Jean-Pierre Jarier
-- **Fastest Lap:** N/A
+- **Pole Position:** Jean-Pierre Jarier — 1:38.015
+- **Fastest Lap:** Alan Jones — 1:38.072
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 16, 1978)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Freezing late autumn conditions; 5°C ambient, snow flurries during practice
-- **Spectator Attendance:** 72,000 ecstatic Canadian spectators braving the bitter cold
 - **Grandstand Enclosures:** Hairpin grandstands, Senna corner grandstands along the Saint Lawrence Seaway
 
 ---
@@ -42,6 +41,12 @@ GILLES VILLENEUVE MAIDEN HOME VICTORY: The Canadian GP moved to a new purpose-bu
 One of the most emotional moments in Canadian sports history; the circuit was later renamed Circuit Gilles Villeneuve in his honor following his death in 1982.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 72,000 ecstatic Canadian spectators braving the bitter cold (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

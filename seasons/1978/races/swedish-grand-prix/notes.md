@@ -1,4 +1,4 @@
-# IX Gislaved Sveriges Grand Prix - Round 8
+# IX Gislaved Sveriges Grand Prix - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** IX Gislaved Sveriges Grand Prix
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:41:00.606
 - **Winning Driver:** Niki Lauda
 - **Winning Constructor:** Brabham
-- **Pole Position:** Mario Andretti
-- **Fastest Lap:** N/A
+- **Pole Position:** Mario Andretti — 1:22.058
+- **Fastest Lap:** Niki Lauda — 1:24.836
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 8, 1978)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Cool and overcast; 18°C ambient
-- **Spectator Attendance:** 50,000 spectators cheering for local hero Ronnie Peterson
 - **Grandstand Enclosures:** Temporary grandstands around Norra Kurvan and along the runway straight
 
 ---
@@ -42,6 +41,12 @@ THE BRABHAM BT46B 'FAN CAR' LEGEND: In response to Lotus's ground effect, Brabha
 The legendary single-race appearance and victory of the Brabham BT46B 'Fan Car'. Also the final Swedish Grand Prix ever held.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 50,000 spectators cheering for local hero Ronnie Peterson (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

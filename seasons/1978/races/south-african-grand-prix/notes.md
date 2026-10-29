@@ -1,4 +1,4 @@
-# XXIV Citizen and Gold Flake Grand Prix of South Africa - Round 3
+# XXIV Citizen and Gold Flake Grand Prix of South Africa - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXIV Citizen and Gold Flake Grand Prix of South Africa
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:42:15.767
 - **Winning Driver:** Ronnie Peterson
 - **Winning Constructor:** Team Lotus
-- **Pole Position:** Niki Lauda
-- **Fastest Lap:** N/A
+- **Pole Position:** Niki Lauda — 1:14.650
+- **Fastest Lap:** Mario Andretti — 1:17.090
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 3, 1978)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Warm and sunny; 26°C ambient, thin high-altitude air
-- **Spectator Attendance:** 85,000 spectators camping along the Kyalami hillside banks
 - **Grandstand Enclosures:** Leeukop and Crowthorne grandstands overlooking the drop down to Barbeque
 
 ---
@@ -42,6 +41,12 @@ LAST-LAP DRAMA: Niki Lauda qualified on pole for Brabham-Alfa Romeo. Young Itali
 The 300th official World Championship Grand Prix in F1 history, featuring one of the most dramatic final-lap overtakes ever.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 85,000 spectators camping along the Kyalami hillside banks (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

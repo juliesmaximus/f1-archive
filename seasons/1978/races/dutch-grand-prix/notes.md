@@ -1,4 +1,4 @@
-# XXVII Grote Prijs van Nederland - Round 13
+# XXVII Grote Prijs van Nederland - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXVII Grote Prijs van Nederland
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:41:04.230
 - **Winning Driver:** Mario Andretti
 - **Winning Constructor:** Team Lotus
-- **Pole Position:** Mario Andretti
-- **Fastest Lap:** N/A
+- **Pole Position:** Mario Andretti — 1:16.360
+- **Fastest Lap:** Niki Lauda — 1:19.570
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 13, 1978)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Sunny and breezy off the North Sea; 19°C ambient
-- **Spectator Attendance:** 75,000 spectators lining the sand dunes
 - **Grandstand Enclosures:** Tarzan Corner and main straight covered grandstands
 
 ---
@@ -42,6 +41,12 @@ ANDRETTI-PETERSON 1-2: Mario Andretti and Ronnie Peterson locked out the front r
 With this 1-2 finish, Team Lotus mathematically clinched the 1978 FIA Formula One World Constructors' Championship.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 75,000 spectators lining the sand dunes (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

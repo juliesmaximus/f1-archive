@@ -2,65 +2,91 @@
 
 ## World Drivers' Championship
 
-Mario Andretti became the second American in history to win the FIA Formula One World Drivers' Championship (after Phil Hill in 1961), scoring 6 victories and 64 net points in the revolutionary ground-effect Lotus 79. Tragically, teammate Ronnie Peterson secured runner-up posthumously following his death from complications after the Italian Grand Prix at Monza.
+Points were awarded on a 9-6-4-3-2-1 basis to the top six finishers at each Grand Prix. Under the split-season dropped-score system, only the best **7** results from the first 8 races and the best **7** results from the final 8 races counted towards the final Drivers' Championship classification.
 
-| Position | Driver | Nationality | Constructor(s) | Points (Net / Gross) | Wins | Podiums |
-|:---:|:---|:---|:---|:---:|:---:|:---:|
-| 1 | Mario Andretti | American | Team Lotus | 64 | 6 | - |
-| 2 | Ronnie Peterson | Swedish | Team Lotus | 51 | 2 | - |
-| 3 | Carlos Reutemann | Argentine | Ferrari | 48 | 4 | - |
-| 4 | Niki Lauda | Austrian | Brabham | 44 | 2 | - |
-| 5 | Patrick Depailler | French | Tyrrell | 34 | 1 | - |
-| 6 | John Watson | British | Brabham | 25 | 0 | - |
-| 7 | Jody Scheckter | South African | Wolf | 24 | 0 | - |
-| 8 | Jacques Laffite | French | Ligier | 19 | 0 | - |
-| 9 | Gilles Villeneuve | Canadian | Ferrari | 17 | 1 | - |
-| 10 | Emerson Fittipaldi | Brazilian | Fittipaldi | 17 | 0 | - |
-| 11 | Alan Jones | Australian | Williams | 11 | 0 | - |
-| 12 | Riccardo Patrese | Italian | Arrows | 11 | 0 | - |
-| 13 | James Hunt | British | McLaren | 8 | 0 | - |
-| 14 | Patrick Tambay | French | McLaren | 8 | 0 | - |
-| 15 | Didier Pironi | French | Tyrrell | 7 | 0 | - |
-| 16 | Clay Regazzoni | Swiss | Shadow | 4 | 0 | - |
-| 17 | Jean-Pierre Jabouille | French | Renault | 3 | 0 | - |
-| 18 | Hans-Joachim Stuck | German | Shadow | 2 | 0 | - |
-| 19 | Vittorio Brambilla | Italian | Surtees | 1 | 0 | - |
-| 20 | Derek Daly | Irish | Hesketh | 1 | 0 | - |
-| 21 | Hector Rebaque | Mexican | Team Lotus | 1 | 0 | - |
-| - | Brett Lunger | American | McLaren | 0 | 0 | - |
-| - | Bruno Giacomelli | Italian | McLaren | 0 | 0 | - |
-| - | Jochen Mass | German | ATS | 0 | 0 | - |
-| - | Jean-Pierre Jarier | French | ATS | 0 | 0 | - |
-| - | René Arnoux | French | Martini | 0 | 0 | - |
-| - | Rolf Stommelen | German | Arrows | 0 | 0 | - |
-| - | Nelson Piquet | Brazilian | Ensign | 0 | 0 | - |
-| - | Keke Rosberg | Finnish | Theodore | 0 | 0 | - |
-| - | Rupert Keegan | British | Surtees | 0 | 0 | - |
+Mario Andretti became the second American in history to win the FIA Formula One World Drivers' Championship (after Phil Hill in 1961), scoring 6 victories and 64 net points in the revolutionary ground-effect Lotus 79. Tragically, teammate Ronnie Peterson secured runner-up posthumously (51 points) following his fatal crash at Monza.
+
+| Pos | Driver | Nationality | Car / Constructor | Points (Gross) | Points (Net / Counted) | Wins | Podiums |
+|:---:|:---|:---|:---|:---:|:---:|:---:|:---:|
+| 1 | Mario Andretti | American | Lotus-Ford | 64 | 64 | 6 | 7 |
+| 2 | Ronnie Peterson | Swedish | Lotus-Ford | 51 | 51 | 2 | 7 |
+| 3 | Carlos Reutemann | Argentine | Ferrari | 48 | 48 | 4 | 7 |
+| 4 | Niki Lauda | Austrian | Brabham-Alfa Romeo | 44 | 44 | 2 | 7 |
+| 5 | Patrick Depailler | French | Tyrrell-Ford | 34 | 34 | 1 | 5 |
+| 6 | John Watson | British | Brabham-Alfa Romeo | 25 | 25 | 0 | 3 |
+| 7 | Jody Scheckter | South African | Wolf-Ford | 24 | 24 | 0 | 4 |
+| 8 | Jacques Laffite | French | Ligier-Matra | 19 | 19 | 0 | 2 |
+| 9 | Gilles Villeneuve | Canadian | Ferrari | 17 | 17 | 1 | 2 |
+| 10 | Emerson Fittipaldi | Brazilian | Fittipaldi-Ford | 17 | 17 | 0 | 1 |
+| 11 | Alan Jones | Australian | Williams-Ford | 11 | 11 | 0 | 1 |
+| 12 | Riccardo Patrese | Italian | Arrows-Ford | 11 | 11 | 0 | 1 |
+| 13 | James Hunt | British | McLaren-Ford | 8 | 8 | 0 | 1 |
+| 14 | Patrick Tambay | French | McLaren-Ford | 8 | 8 | 0 | 0 |
+| 15 | Didier Pironi | French | Tyrrell-Ford | 7 | 7 | 0 | 0 |
+| 16 | Clay Regazzoni | Swiss | Shadow-Ford | 4 | 4 | 0 | 0 |
+| 17 | Jean-Pierre Jabouille | French | Renault | 3 | 3 | 0 | 0 |
+| 18 | Hans-Joachim Stuck | German | Shadow-Ford | 2 | 2 | 0 | 0 |
+| 19 | Derek Daly | Irish | Ensign-Ford | 1 | 1 | 0 | 0 |
+| 20 | Vittorio Brambilla | Italian | Surtees-Ford | 1 | 1 | 0 | 0 |
+| 21 | Hector Rebaque | Mexican | Lotus-Ford | 1 | 1 | 0 | 0 |
+| - | Brett Lunger | American | McLaren-Ford / Ensign | 0 | 0 | 0 | 0 |
+| - | Bruno Giacomelli | Italian | McLaren-Ford | 0 | 0 | 0 | 0 |
+| - | Jochen Mass | German | ATS-Ford | 0 | 0 | 0 | 0 |
+| - | Jean-Pierre Jarier | French | ATS-Ford / Lotus-Ford | 0 | 0 | 0 | 0 |
+| - | René Arnoux | French | Martini-Ford / Surtees | 0 | 0 | 0 | 0 |
+| - | Rolf Stommelen | German | Arrows-Ford | 0 | 0 | 0 | 0 |
+| - | Nelson Piquet | Brazilian | Ensign-Ford / McLaren / Brabham | 0 | 0 | 0 | 0 |
+| - | Keke Rosberg | Finnish | Theodore-Ford / ATS-Ford | 0 | 0 | 0 | 0 |
+| - | Rupert Keegan | British | Surtees-Ford | 0 | 0 | 0 | 0 |
 
 ---
 
-## World Constructors' Championship (International Cup for F1 Constructors)
+## International Cup for F1 Manufacturers (Constructors' Championship)
 
-Team Lotus captured their seventh and final World Constructors' Championship under founder Colin Chapman, amassing 86 net points with the ground-effect Lotus 78 and Lotus 79.
+Points were awarded on a 9-6-4-3-2-1 basis for the highest-finishing car of each manufacturer at each Grand Prix. Only the best **7** results from the first 8 races and best **7** results from the final 8 races counted towards the championship.
 
-| Position | Constructor | Engine | Points | Wins | Podiums |
+Team Lotus captured their seventh and final World Constructors' Championship with 86 net points (86 gross).
+
+| Pos | Constructor | Nationality | Points (Gross) | Points (Net / Counted) | Wins |
 |:---:|:---|:---|:---:|:---:|:---:|
-| 1 | Team Lotus | - | 86 | 8 | - |
-| 2 | Ferrari | - | 58 | 5 | - |
-| 3 | Brabham | - | 53 | 2 | - |
-| 4 | Tyrrell | - | 38 | 1 | - |
-| 5 | Wolf | - | 24 | 0 | - |
-| 6 | Ligier | - | 19 | 0 | - |
-| 7 | Fittipaldi | - | 17 | 0 | - |
-| 8 | McLaren | - | 15 | 0 | - |
-| 9 | Williams | - | 11 | 0 | - |
-| 10 | Arrows | - | 11 | 0 | - |
-| 11 | Shadow | - | 6 | 0 | - |
-| 12 | Renault | - | 3 | 0 | - |
-| 13 | Surtees | - | 1 | 0 | - |
-| 14 | Ensign | - | 1 | 0 | - |
-| - | ATS | - | 0 | 0 | - |
-| - | Martini | - | 0 | 0 | - |
-| - | Merzario | - | 0 | 0 | - |
-| - | Theodore | - | 0 | 0 | - |
-| - | Hesketh | - | 0 | 0 | - |
+| 1 | Lotus-Ford | British | 86 | 86 | 8 |
+| 2 | Ferrari | Italian | 58 | 58 | 5 |
+| 3 | Brabham-Alfa Romeo | British | 53 | 53 | 2 |
+| 4 | Tyrrell-Ford | British | 38 | 38 | 1 |
+| 5 | Wolf-Ford | Canadian | 24 | 24 | 0 |
+| 6 | Ligier-Matra | French | 19 | 19 | 0 |
+| 7 | Fittipaldi-Ford | Brazilian | 17 | 17 | 0 |
+| 8 | McLaren-Ford | British | 15 | 15 | 0 |
+| 9 | Williams-Ford | British | 11 | 11 | 0 |
+| 10 | Arrows-Ford | British | 11 | 11 | 0 |
+| 11 | Shadow-Ford | British | 6 | 6 | 0 |
+| 12 | Renault | French | 3 | 3 | 0 |
+| 13 | Surtees-Ford | British | 1 | 1 | 0 |
+| 14 | Ensign-Ford | British | 1 | 1 | 0 |
+| - | ATS-Ford | German | 0 | 0 | 0 |
+| - | Martini-Ford | French | 0 | 0 | 0 |
+| - | Merzario-Ford | Italian | 0 | 0 | 0 |
+| - | Theodore-Ford | Hong Kong | 0 | 0 | 0 |
+| - | Hesketh-Ford | British | 0 | 0 | 0 |
+
+---
+
+## Regulatory Notes & Scoring System
+
+- **Scoring System:** 9-6-4-3-2-1 for top 6 finishers.
+- **Dropped Scores Rule:** Split championship scoring system: best 7 results from rounds 1–8 and best 7 results from rounds 9–16 counted towards both championships.
+- **Underbody Aerodynamics:** Perfected sliding skirts and venturi underbody sidepods on the Lotus 79 generated unprecedented cornering speeds.
+- **Brabham Fan Car:** The Gordon Murray-designed Brabham BT46B featured a rear extraction fan driven by the Alfa Romeo flat-12 engine; it won its sole race at the Swedish Grand Prix before being voluntarily withdrawn by Bernie Ecclestone and subsequently outlawed by the CSI.
+- **Historic Milestones:**
+  - Mario Andretti became the second American to win the Drivers' World Championship.
+  - Ronnie Peterson finished runner-up posthumously following his tragic death from an embolism after a multi-car collision at Monza.
+  - Gilles Villeneuve scored his maiden Grand Prix victory in Montreal at the inaugural race on Île Notre-Dame.
+  - Patrick Depailler scored his maiden Formula One victory at the Monaco Grand Prix.
+
+---
+
+## Primary Sources & Verification
+- Formula 1 Official Drivers Standings: https://www.formula1.com/en/results/1978/drivers
+- Formula 1 Official Constructors Standings: https://www.formula1.com/en/results/1978/team
+- Jolpica-F1 API Standings: `https://api.jolpi.ca/ergast/f1/1978/driverStandings.json`
+- FIA Heritage Archives & Hall of Fame: https://www.fia.com/hall-of-fame

@@ -1,4 +1,4 @@
-# XXXVI Grand Prix de Monaco - Round 5
+# XXXVI Grand Prix de Monaco - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXXVI Grand Prix de Monaco
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:55:14.660
 - **Winning Driver:** Patrick Depailler
 - **Winning Constructor:** Tyrrell
-- **Pole Position:** Carlos Reutemann
-- **Fastest Lap:** N/A
+- **Pole Position:** Carlos Reutemann — 1:28.340
+- **Fastest Lap:** Niki Lauda — 1:28.650
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 5, 1978)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Warm and clear; 23°C ambient, 36°C track temperature
-- **Spectator Attendance:** 50,000 spectators covering balconies, yachts, and harbor grandstands
 - **Grandstand Enclosures:** K-Grandstand along harbor quay, Casino Square grandstand
 
 ---
@@ -42,6 +41,12 @@ DEPAILLER'S MAIDEN WIN: Carlos Reutemann took pole for Ferrari, but John Watson 
 Patrick Depailler ended his status as F1's most snake-bitten bridesmaid with an immensely emotional victory in the Principality.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 50,000 spectators covering balconies, yachts, and harbor grandstands (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

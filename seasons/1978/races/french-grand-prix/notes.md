@@ -1,4 +1,4 @@
-# LXIV Grand Prix de France - Round 9
+# LXIV Grand Prix de France - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** LXIV Grand Prix de France
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:38:51.920
 - **Winning Driver:** Mario Andretti
 - **Winning Constructor:** Team Lotus
-- **Pole Position:** John Watson
-- **Fastest Lap:** N/A
+- **Pole Position:** John Watson — 1:44.410
+- **Fastest Lap:** Carlos Reutemann — 1:48.560
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 9, 1978)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Scorching Mediterranean sunshine; 33°C ambient
-- **Spectator Attendance:** 70,000 spectators filling the grandstands along the Mistral straight
 - **Grandstand Enclosures:** Grandstand overlooking the start/finish straight and Virage du Pont
 
 ---
@@ -42,6 +41,12 @@ LOTUS 1-2 PARADE: With the Brabham fan car removed, Lotus returned to unrivaled 
 Mario Andretti established a commanding lead in the World Drivers' Championship.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 70,000 spectators filling the grandstands along the Mistral straight (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

@@ -1,4 +1,4 @@
-# XLIX Gran Premio d'Italia - Round 14
+# XLIX Gran Premio d'Italia - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XLIX Gran Premio d'Italia
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:07:04.540
 - **Winning Driver:** Niki Lauda
 - **Winning Constructor:** Brabham
-- **Pole Position:** Mario Andretti
-- **Fastest Lap:** N/A
+- **Pole Position:** Mario Andretti — 1:37.520
+- **Fastest Lap:** Mario Andretti — 1:38.230
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 14, 1978)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Warm and hazy; 24°C ambient
-- **Spectator Attendance:** 120,000 passionate Tifosi packing the Autodromo
 - **Grandstand Enclosures:** Tribuna Centrale, Variante del Rettifilo, Curva Parabolica
 
 ---
@@ -42,6 +41,12 @@ PETERSON TRAGEDY & ANDRETTI CHAMPIONSHIP: Mario Andretti qualified on pole. The 
 Mario Andretti became the second American World Champion (after Phil Hill in 1961), overshadowed by the tragic loss of teammate Ronnie Peterson.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 120,000 passionate Tifosi packing the Autodromo (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

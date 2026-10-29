@@ -1,4 +1,4 @@
-# XXI United States Grand Prix - Round 15
+# XXI United States Grand Prix - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXI United States Grand Prix
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:40:48.800
 - **Winning Driver:** Carlos Reutemann
 - **Winning Constructor:** Ferrari
-- **Pole Position:** Mario Andretti
-- **Fastest Lap:** N/A
+- **Pole Position:** Mario Andretti — 1:38.114
+- **Fastest Lap:** Jean-Pierre Jarier — 1:39.557
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 15, 1978)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Chilly autumn weather; 14°C ambient
-- **Spectator Attendance:** 100,000 spectators packing The Bog and S-curves
 - **Grandstand Enclosures:** Kendall Grandstand, Seneca Grandstand, Pit straight grandstands
 
 ---
@@ -42,6 +41,12 @@ REUTEMANN WINS AT THE GLEN: Newly crowned World Champion Mario Andretti claimed 
 Williams Grand Prix Engineering scored its historic maiden Formula One podium finish (2nd, Alan Jones).
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 100,000 spectators packing The Bog and S-curves (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

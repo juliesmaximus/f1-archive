@@ -1,4 +1,4 @@
-# XL Großer Preis von Deutschland - Round 11
+# XL Großer Preis von Deutschland - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XL Großer Preis von Deutschland
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:28:00.900
 - **Winning Driver:** Mario Andretti
 - **Winning Constructor:** Team Lotus
-- **Pole Position:** Mario Andretti
-- **Fastest Lap:** N/A
+- **Pole Position:** Mario Andretti — 1:51.900
+- **Fastest Lap:** Ronnie Peterson — 1:55.620
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 11, 1978)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Humid and overcast; 22°C ambient
-- **Spectator Attendance:** 110,000 spectators packing the Motodrom stadium
 - **Grandstand Enclosures:** Massive Motodrom concrete grandstands surrounding South Curve
 
 ---
@@ -42,6 +41,12 @@ ANDRETTI HOCKENHEIM MASTERCLASS: Mario Andretti claimed pole position by only 0.
 Mario Andretti took his 5th victory of the 1978 season, moving 18 points clear of Peterson.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 110,000 spectators packing the Motodrom stadium (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

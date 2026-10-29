@@ -1,4 +1,4 @@
-# XVI Großer Preis von Österreich - Round 12
+# XVI Großer Preis von Österreich - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XVI Großer Preis von Österreich
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:41:21.570
 - **Winning Driver:** Ronnie Peterson
 - **Winning Constructor:** Team Lotus
-- **Pole Position:** Ronnie Peterson
-- **Fastest Lap:** N/A
+- **Pole Position:** Ronnie Peterson — 1:37.710
+- **Fastest Lap:** Ronnie Peterson — 1:43.120
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 12, 1978)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Torrential rain at the start, track drying later; 15°C ambient
-- **Spectator Attendance:** 80,000 spectators
 - **Grandstand Enclosures:** Bosch Curve and Start-Ziel spectator enclosures
 
 ---
@@ -42,6 +41,12 @@ PETERSON'S WET-WEATHER BRILLIANCE: Ronnie Peterson qualified on pole. On lap 7, 
 Ronnie Peterson's final career Grand Prix victory, and Gilles Villeneuve's first career Formula One podium.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 80,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

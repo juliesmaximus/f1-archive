@@ -18,7 +18,7 @@
           "Circuit": {
             "circuitId": "red_bull_ring",
             "url": "https://en.wikipedia.org/wiki/Red_Bull_Ring",
-            "circuitName": "Red Bull Ring",
+            "circuitName": "Österreichring",
             "Location": {
               "lat": "47.2197",
               "long": "14.7647",
@@ -232,7 +232,7 @@
               "Driver": {
                 "driverId": "arnoux",
                 "url": "http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux",
-                "givenName": "Ren\u00e9",
+                "givenName": "René",
                 "familyName": "Arnoux",
                 "dateOfBirth": "1948-07-04",
                 "nationality": "French"
@@ -313,7 +313,7 @@
                 "nationality": "British"
               },
               "grid": "19",
-              "laps": "41",
+              "laps": "43",
               "status": "Disqualified"
             },
             {
@@ -405,7 +405,7 @@
                 "nationality": "Italian"
               },
               "grid": "12",
-              "laps": "28",
+              "laps": "27",
               "status": "Disqualified"
             },
             {
@@ -428,7 +428,7 @@
                 "nationality": "British"
               },
               "grid": "4",
-              "laps": "27",
+              "laps": "28",
               "status": "Accident"
             },
             {
@@ -474,7 +474,7 @@
                 "nationality": "British"
               },
               "grid": "8",
-              "laps": "7",
+              "laps": "8",
               "status": "Accident"
             },
             {
@@ -520,7 +520,7 @@
                 "nationality": "British"
               },
               "grid": "16",
-              "laps": "7",
+              "laps": "6",
               "status": "Accident"
             },
             {
@@ -543,7 +543,7 @@
                 "nationality": "British"
               },
               "grid": "24",
-              "laps": "7",
+              "laps": "6",
               "status": "Accident"
             },
             {
@@ -566,7 +566,7 @@
                 "nationality": "British"
               },
               "grid": "18",
-              "laps": "4",
+              "laps": "1",
               "status": "Accident"
             },
             {
@@ -589,7 +589,7 @@
                 "nationality": "British"
               },
               "grid": "20",
-              "laps": "4",
+              "laps": "2",
               "status": "Accident"
             },
             {

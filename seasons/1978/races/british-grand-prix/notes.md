@@ -1,4 +1,4 @@
-# XXXI John Player British Grand Prix - Round 10
+# XXXI John Player British Grand Prix - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXXI John Player British Grand Prix
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:42:12.390
 - **Winning Driver:** Carlos Reutemann
 - **Winning Constructor:** Ferrari
-- **Pole Position:** Ronnie Peterson
-- **Fastest Lap:** N/A
+- **Pole Position:** Ronnie Peterson — 1:16.800
+- **Fastest Lap:** Niki Lauda — 1:18.600
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 10, 1978)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Warm and clear; 25°C ambient
-- **Spectator Attendance:** 90,000 partisan British spectators packing Paddock Hill Bend
 - **Grandstand Enclosures:** Brabham Grandstand, Clark Grandstand, Paddock Hill natural amphitheatre
 
 ---
@@ -42,6 +41,12 @@ REUTEMANN SNATCHES VICTORY FROM LAUDA: Lotus locked out the front row (Peterson 
 Carlos Reutemann's brilliant opportunism delivered Ferrari victory on British soil.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 90,000 partisan British spectators packing Paddock Hill Bend (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

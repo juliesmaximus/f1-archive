@@ -1,4 +1,4 @@
-# XXXVI Grote Prijs van Belgie - Round 6
+# XXXVI Grote Prijs van Belgie - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXXVI Grote Prijs van Belgie
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:39:52.020
 - **Winning Driver:** Mario Andretti
 - **Winning Constructor:** Team Lotus
-- **Pole Position:** Mario Andretti
-- **Fastest Lap:** N/A
+- **Pole Position:** Mario Andretti — 1:20.900
+- **Fastest Lap:** Ronnie Peterson — 1:23.130
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 6, 1978)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Overcast and dry; 20°C ambient
-- **Spectator Attendance:** 65,000 spectators lining the wooded Limburg dunes
 - **Grandstand Enclosures:** Main pit grandstand and Kleine Chicane spectator embankments
 
 ---
@@ -42,6 +41,12 @@ DEBUT OF LOTUS 79 'BLACK BEAUTY': Colin Chapman unleashed the revolutionary Lotu
 The race debut and instant victory of the Lotus 79, regarded as one of the most significant race cars in motorsport history.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 65,000 spectators lining the wooded Limburg dunes (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

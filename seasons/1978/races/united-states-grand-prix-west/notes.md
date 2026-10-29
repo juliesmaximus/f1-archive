@@ -1,4 +1,4 @@
-# III United States Grand Prix West - Round 4
+# III United States Grand Prix West - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** III United States Grand Prix West
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:52:01.301
 - **Winning Driver:** Carlos Reutemann
 - **Winning Constructor:** Ferrari
-- **Pole Position:** Carlos Reutemann
-- **Fastest Lap:** N/A
+- **Pole Position:** Carlos Reutemann — 1:20.636
+- **Fastest Lap:** Alan Jones — 1:22.215
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 4, 1978)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Glorious Southern California sunshine; 24°C ambient
-- **Spectator Attendance:** 70,000 spectators packing Ocean Boulevard and Shoreline Drive
 - **Grandstand Enclosures:** Temporary grandstands lining Ocean Boulevard and the Hairpin
 
 ---
@@ -42,6 +41,12 @@ VILLENEUVE CRASH & REUTEMANN VICTORY: Carlos Reutemann took pole in the Ferrari 
 Carlos Reutemann's second victory of the season confirmed Michelin's radial tire threat on street circuits.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 70,000 spectators packing Ocean Boulevard and Shoreline Drive (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

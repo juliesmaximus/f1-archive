@@ -1,4 +1,4 @@
-# XXIV Gran Premio de España - Round 7
+# XXIV Gran Premio de España - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXIV Gran Premio de España
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:41:47.060
 - **Winning Driver:** Mario Andretti
 - **Winning Constructor:** Team Lotus
-- **Pole Position:** Mario Andretti
-- **Fastest Lap:** N/A
+- **Pole Position:** Mario Andretti — 1:16.390
+- **Fastest Lap:** Mario Andretti — 1:20.060
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 7, 1978)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Bright and warm; 27°C ambient, 44°C track temperature
-- **Spectator Attendance:** 55,000 spectators
 - **Grandstand Enclosures:** Fangio and Farina grandstands overlooking Curva del Túnel
 
 ---
@@ -42,6 +41,12 @@ LOTUS 1-2 CRUSHING DISPLAY: Both Team Lotus drivers had the Lotus 79 at their di
 The first 1-2 finish for the Lotus 79, leaving rival teams scrambling to understand and copy ground-effect aerodynamics.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 55,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

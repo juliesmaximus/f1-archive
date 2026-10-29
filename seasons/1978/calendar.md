@@ -10,20 +10,20 @@ The 1978 season stands as one of the most technologically watershed and emotiona
 - **Patrick Depailler's Maiden Monaco Win:** Tyrrell stalwart Patrick Depailler achieved his long-sought maiden career victory around the streets of Monaco.
 
 | Round | Official Grand Prix Name | Circuit | Location | Date | Laps | Distance | Winner | Pole Position | Fastest Lap |
-|:---:|:---|:---|:---|:---|:---:|:---:|:---|:---|:---|
-| 1 | [XIV Gran Premio de la Republica Argentina](races/argentine-grand-prix/notes.md) | Autódromo Municipal Ciudad de Buenos Aires (No. 15) | Buenos Aires, Argentina | 1978-01-15 | 52 | 5.968 km | Mario Andretti (Team Lotus) | Mario Andretti | N/A |
-| 2 | [VII Grande Prêmio do Brasil](races/brazilian-grand-prix/notes.md) | Autódromo de Jacarepaguá (Autódromo Internacional Nelson Piquet) | Rio de Janeiro, Brazil | 1978-01-29 | 63 | 5.031 km | Carlos Reutemann (Ferrari) | Ronnie Peterson | N/A |
-| 3 | [XXIV Citizen and Gold Flake Grand Prix of South Africa](races/south-african-grand-prix/notes.md) | Kyalami Grand Prix Circuit | Midrand, Gauteng, South Africa | 1978-03-04 | 78 | 4.104 km | Ronnie Peterson (Team Lotus) | Niki Lauda | N/A |
-| 4 | [III United States Grand Prix West](races/united-states-grand-prix-west/notes.md) | Long Beach Street Circuit | Long Beach, California, United States | 1978-04-02 | 80 | 3.251 km | Carlos Reutemann (Ferrari) | Carlos Reutemann | N/A |
-| 5 | [XXXVI Grand Prix de Monaco](races/monaco-grand-prix/notes.md) | Circuit de Monaco | Monte Carlo, Monaco | 1978-05-07 | 75 | 3.312 km | Patrick Depailler (Tyrrell) | Carlos Reutemann | N/A |
-| 6 | [XXXVI Grote Prijs van Belgie](races/belgian-grand-prix/notes.md) | Circuit Zolder | Heusden-Zolder, Limburg, Belgium | 1978-05-21 | 70 | 4.262 km | Mario Andretti (Team Lotus) | Mario Andretti | N/A |
-| 7 | [XXIV Gran Premio de España](races/spanish-grand-prix/notes.md) | Circuito Permanente del Jarama | San Sebastián de los Reyes, Madrid, Spain | 1978-06-04 | 75 | 3.404 km | Mario Andretti (Team Lotus) | Mario Andretti | N/A |
-| 8 | [IX Gislaved Sveriges Grand Prix](races/swedish-grand-prix/notes.md) | Scandinavian Raceway | Anderstorp, Jönköping County, Sweden | 1978-06-17 | 70 | 4.031 km | Niki Lauda (Brabham) | Mario Andretti | N/A |
-| 9 | [LXIV Grand Prix de France](races/french-grand-prix/notes.md) | Circuit Paul Ricard | Le Castellet, Var, France | 1978-07-02 | 54 | 5.81 km | Mario Andretti (Team Lotus) | John Watson | N/A |
-| 10 | [XXXI John Player British Grand Prix](races/british-grand-prix/notes.md) | Brands Hatch | West Kingsdown, Kent, England | 1978-07-16 | 76 | 4.207 km | Carlos Reutemann (Ferrari) | Ronnie Peterson | N/A |
-| 11 | [XL Großer Preis von Deutschland](races/german-grand-prix/notes.md) | Hockenheimring | Hockenheim, Baden-Württemberg, West Germany | 1978-07-30 | 45 | 6.789 km | Mario Andretti (Team Lotus) | Mario Andretti | N/A |
-| 12 | [XVI Großer Preis von Österreich](races/austrian-grand-prix/notes.md) | Österreichring | Spielberg, Styria, Austria | 1978-08-13 | 54 | 5.911 km | Ronnie Peterson (Team Lotus) | Ronnie Peterson | N/A |
-| 13 | [XXVII Grote Prijs van Nederland](races/dutch-grand-prix/notes.md) | Circuit Park Zandvoort | Zandvoort, North Holland, Netherlands | 1978-08-27 | 75 | 4.226 km | Mario Andretti (Team Lotus) | Mario Andretti | N/A |
-| 14 | [XLIX Gran Premio d'Italia](races/italian-grand-prix/notes.md) | Autodromo Nazionale di Monza | Monza, Lombardy, Italy | 1978-09-10 | 40 | 5.8 km | Niki Lauda (Brabham) | Mario Andretti | N/A |
-| 15 | [XXI United States Grand Prix](races/united-states-grand-prix/notes.md) | Watkins Glen Grand Prix Race Course | Watkins Glen, New York, United States | 1978-10-01 | 59 | 5.435 km | Carlos Reutemann (Ferrari) | Mario Andretti | N/A |
-| 16 | [XVIII Grand Prix du Canada](races/canadian-grand-prix/notes.md) | Île Notre-Dame Circuit (Circuit Gilles Villeneuve) | Montreal, Quebec, Canada | 1978-10-08 | 70 | 4.5 km | Gilles Villeneuve (Ferrari) | Jean-Pierre Jarier | N/A |
+|:---:|:---|:---|:---|:---|:---:|:---:|:---|:---|:---:|
+| 1 | XIV Gran Premio de la Republica Argentina | Autódromo Municipal Ciudad de Buenos Aires | Buenos Aires, Argentina | 1978-01-15 | 52 | 310.336 km | Mario Andretti (1:37:04.470) | Mario Andretti (1:47.750) | Gilles Villeneuve (1:49.760) |
+| 2 | VII Grande Prêmio do Brasil | Autódromo de Jacarepaguá | Rio de Janeiro, Brazil | 1978-01-29 | 63 | 316.953 km | Carlos Reutemann (1:49:59.860) | Ronnie Peterson (1:40.450) | Carlos Reutemann (1:43.070) |
+| 3 | XXIV Citizen and Gold Flake Grand Prix of South Africa | Kyalami Grand Prix Circuit | Midrand, Gauteng, South Africa | 1978-03-04 | 78 | 320.112 km | Ronnie Peterson (1:42:15.767) | Niki Lauda (1:14.650) | Mario Andretti (1:17.090) |
+| 4 | III United States Grand Prix West | Long Beach Street Circuit | Long Beach, California, United States | 1978-04-02 | 80 | 260.080 km | Carlos Reutemann (1:52:01.301) | Carlos Reutemann (1:20.636) | Alan Jones (1:22.215) |
+| 5 | XXXVI Grand Prix de Monaco | Circuit de Monaco | Monte Carlo, Monaco | 1978-05-07 | 75 | 248.400 km | Patrick Depailler (1:55:14.660) | Carlos Reutemann (1:28.340) | Niki Lauda (1:28.650) |
+| 6 | XXXVI Grote Prijs van Belgie | Circuit Zolder | Heusden-Zolder, Limburg, Belgium | 1978-05-21 | 70 | 298.340 km | Mario Andretti (1:39:52.020) | Mario Andretti (1:20.900) | Ronnie Peterson (1:23.130) |
+| 7 | XXIV Gran Premio de España | Circuito Permanente del Jarama | San Sebastián de los Reyes, Madrid, Spain | 1978-06-04 | 75 | 255.300 km | Mario Andretti (1:41:47.060) | Mario Andretti (1:16.390) | Mario Andretti (1:20.060) |
+| 8 | IX Gislaved Sveriges Grand Prix | Scandinavian Raceway | Anderstorp, Jönköping County, Sweden | 1978-06-17 | 70 | 282.170 km | Niki Lauda (1:41:00.606) | Mario Andretti (1:22.058) | Niki Lauda (1:24.836) |
+| 9 | LXIV Grand Prix de France | Circuit Paul Ricard | Le Castellet, Var, France | 1978-07-02 | 54 | 313.740 km | Mario Andretti (1:38:51.920) | John Watson (1:44.410) | Carlos Reutemann (1:48.560) |
+| 10 | XXXI John Player British Grand Prix | Brands Hatch | West Kingsdown, Kent, England | 1978-07-16 | 76 | 319.732 km | Carlos Reutemann (1:42:12.390) | Ronnie Peterson (1:16.800) | Niki Lauda (1:18.600) |
+| 11 | XL Großer Preis von Deutschland | Hockenheimring | Hockenheim, Baden-Württemberg, West Germany | 1978-07-30 | 45 | 305.505 km | Mario Andretti (1:28:00.900) | Mario Andretti (1:51.900) | Ronnie Peterson (1:55.620) |
+| 12 | XVI Großer Preis von Österreich | Österreichring | Spielberg, Styria, Austria | 1978-08-13 | 54 | 319.194 km | Ronnie Peterson (1:41:21.570) | Ronnie Peterson (1:37.710) | Ronnie Peterson (1:43.120) |
+| 13 | XXVII Grote Prijs van Nederland | Circuit Park Zandvoort | Zandvoort, North Holland, Netherlands | 1978-08-27 | 75 | 316.950 km | Mario Andretti (1:41:04.230) | Mario Andretti (1:16.360) | Niki Lauda (1:19.570) |
+| 14 | XLIX Gran Premio d'Italia | Autodromo Nazionale di Monza | Monza, Lombardy, Italy | 1978-09-10 | 40 | 232.000 km | Niki Lauda (1:07:04.540) | Mario Andretti (1:37.520) | Mario Andretti (1:38.230) |
+| 15 | XXI United States Grand Prix | Watkins Glen Grand Prix Race Course | Watkins Glen, New York, United States | 1978-10-01 | 59 | 320.665 km | Carlos Reutemann (1:40:48.800) | Mario Andretti (1:38.114) | Jean-Pierre Jarier (1:39.557) |
+| 16 | XVIII Grand Prix du Canada | Île Notre-Dame Circuit | Montreal, Quebec, Canada | 1978-10-08 | 70 | 315.000 km | Gilles Villeneuve (1:57:49.196) | Jean-Pierre Jarier (1:38.015) | Alan Jones (1:38.072) |
