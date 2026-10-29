@@ -3788,3 +3788,59 @@ Last verified: 2026-10-29
   - Runner-up: Red Bull-Renault - 153.5 pts (6 wins, 16 podiums)
   - 3rd Place: McLaren-Mercedes - 71 pts (2 wins, 5 podiums)
 - **Gaps That Remain**: None. The 2009 season is 100% verified against primary sources.
+
+## DECADE CHECKPOINT AUDIT: THE 2000s (2000–2009)
+
+- **Total Seasons Audited & Reconciled**: 10 (2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009)
+- **Total Championship Grands Prix Completed**: Exactly 174 Rounds
+  - 2000: 17 rounds (IDs: 47–63)
+  - 2001: 17 rounds (IDs: 703–719)
+  - 2002: 17 rounds (IDs: 720–736)
+  - 2003: 16 rounds (IDs: 737–752)
+  - 2004: 18 rounds (IDs: 753–770)
+  - 2005: 19 rounds (IDs: 771–789)
+  - 2006: 18 rounds (IDs: 790–807)
+  - 2007: 17 rounds (IDs: 808–824)
+  - 2008: 18 rounds (IDs: 825–842)
+  - 2009: 17 rounds (IDs: 843–859)
+- **Completeness Verification**:
+  - `results.json`: 174 / 174 files verified, dual-sourced, and validated (100%)
+  - `qualifying.json`: 174 / 174 files verified and validated (100%)
+  - `notes.md`: 174 / 174 verified dossiers with coordinates, weather, regulations, primary source citations, modern canonical URLs, and segregated unverified spectator attendance sections (100%)
+  - `calendar.md`: 10 / 10 seasons populated with verified winning times, pole times, and fastest lap times (100%)
+  - `standings.md`: 10 / 10 seasons populated with complete verified tables, driver points, podium counts, wins, poles, fastest laps, constructor chassis-engine combinations, and regulatory rules (100%)
+
+- **World Drivers' Champions of the 2000s**:
+  1. 2000: Michael Schumacher (Ferrari) - 108 pts (Schumacher's 3rd World Championship; ends Ferrari's 21-year drivers' title drought since Jody Scheckter in 1979)
+  2. 2001: Michael Schumacher (Ferrari) - 123 pts (Schumacher's 4th World Championship; equals Alain Prost's 4 titles; breaks Prost's all-time record of 51 career wins with his 52nd at Spa)
+  3. 2002: Michael Schumacher (Ferrari) - 144 pts (Schumacher's 5th World Championship; equals Juan Manuel Fangio's 45-year record of 5 titles; historic 100% podium record 17/17; clinches title in France with 6 races to spare)
+  4. 2003: Michael Schumacher (Ferrari) - 93 pts (Record 6th World Championship; breaks Fangio's all-time title record; edges Kimi Räikkönen by 2 points)
+  5. 2004: Michael Schumacher (Ferrari) - 148 pts (Record 7th World Championship; sets all-time single-season record of 13 victories and 15 podiums)
+  6. 2005: Fernando Alonso (Renault) - 133 pts (Youngest World Drivers' Champion in history at the time at 24 years, 58 days; halts Ferrari's 5-year reign)
+  7. 2006: Fernando Alonso (Renault) - 134 pts (Defends crown to become youngest back-to-back double World Champion at 25 years, 85 days; Michael Schumacher concludes Ferrari tenure with 91 career wins)
+  8. 2007: Kimi Räikkönen (Ferrari) - 110 pts (Overcomes 17-point deficit over final two rounds to win title by 1 point over Lewis Hamilton and Fernando Alonso)
+  9. 2008: Lewis Hamilton (McLaren-Mercedes) - 98 pts (Youngest World Champion in history at 23 years, 301 days; clinches maiden title on final corner of the final lap at Interlagos by 1 point over Felipe Massa)
+  10. 2009: Jenson Button (Brawn-Mercedes) - 95 pts (Fairytale title for newly formed Brawn GP; Button wins 6 of opening 7 rounds; Brawn achieves 100% championship success rate in sole season)
+
+- **World Constructors' Champions of the 2000s**:
+  1. 2000: Ferrari - 170 pts (10 wins, 21 podiums)
+  2. 2001: Ferrari - 179 pts (9 wins, 24 podiums)
+  3. 2002: Ferrari - 221 pts (15 wins, 27 podiums; equals points of all 10 rival teams combined)
+  4. 2003: Ferrari - 158 pts (8 wins, 16 podiums; 5th consecutive WCC)
+  5. 2004: Ferrari - 262 pts (15 wins, 29 podiums; 6th consecutive WCC)
+  6. 2005: Renault - 191 pts (8 wins, 18 podiums; maiden WCC as full works constructor)
+  7. 2006: Renault - 206 pts (8 wins, 19 podiums; 2nd consecutive WCC)
+  8. 2007: Ferrari - 204 pts (9 wins, 22 podiums; Vodafone McLaren Mercedes excluded under Spygate)
+  9. 2008: Ferrari - 172 pts (8 wins, 19 podiums; 16th Constructors' World Championship)
+  10. 2009: Brawn-Mercedes - 172 pts (8 wins, 15 podiums; sole team in history with 100% WCC record)
+
+- **All-Time Records & Critical Discrepancies Resolved**:
+  - *Michael Schumacher's Golden Era*: Dual-source confirmed Schumacher's 5 consecutive drivers' championships (2000–2004), 7 World Drivers' Championships total, 91 career victories, and 13 wins in 2004.
+  - *2000 Austrian GP McLaren Penalty*: Confirmed the official 10-point constructor deduction for Häkkinen's missing ECU scrutineering seal (McLaren WCC: 152 pts, not 162).
+  - *2002 Perfect Podium Record*: Confirmed Michael Schumacher as the sole driver in Formula 1 history to achieve a 100% podium finish record in a season (17 podiums in 17 races).
+  - *2003 Repository Re-alignment*: Resolved severe structural file misalignment across rounds 6 through 15 caused by a missing Austrian GP folder, realigning all 11 affected dossiers and authoring verified Austrian GP and Suzuka files.
+  - *2005 Indianapolis 6-Car Grand Prix*: Verified Michelin's withdrawal of 14 cars over safety concerns regarding Turn 13 banking loads, confirming the official 6-car race classification and non-starter status for Michelin runners.
+  - *2007 Spygate Exclusion*: Confirmed McLaren's exclusion from the 2007 Constructors' Championship under Article 151c (0 pts / 218 on track) and confirmed Lewis Hamilton's countback victory over teammate Fernando Alonso for 2nd place in the Drivers' Championship (5 to 4 second places).
+  - *2008 British GP Fastest Lap Correction*: Corrected misattributed British Grand Prix fastest lap from Lewis Hamilton to official holder Kimi Räikkönen (1:32.150 on lap 18), and resolved impossible lap 70 at Monza to official lap 53.
+  - *2009 Double Diffuser & Brazilian GP Finishing Order*: Confirmed FIA legal ratification of the double diffuser; corrected 4 Brazilian GP finishing positions resulting from Heikki Kovalainen's post-race 25-second penalty (Kobayashi 9th, Fisichella 10th, Liuzzi 11th, Kovalainen 12th).
+- **Gaps That Remain**: None. The entire 2000s decade (2000–2009) is 100% verified against primary sources.
