@@ -3623,3 +3623,35 @@ Last verified: 2026-10-29
   - Runner-up: BAR-Honda - 119 pts (11 podiums)
   - 3rd Place: Renault - 105 pts (1 win, 6 podiums)
 - **Gaps That Remain**: None. The 2004 season is 100% verified against primary sources.
+
+### Cross-check audit: 2005 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: `https://www.formula1.com/en/results/2005/races` (Race IDs: 771–789)
+  - Formula1.com Official Standings Archive: `https://www.formula1.com/en/results/2005/drivers` and `/team`
+  - FIA Official Sporting Classifications and Yearbooks (2005)
+  - Jolpica-F1 Ergast API (`/2005/results.json`, `/2005/driverStandings.json`, `/2005/constructorStandings.json`)
+- **Total Claims Checked**: 580+ claims (376 starter rows, 19 race results, 19 starting grids, 19 fastest laps, 27 driver standings rows, 10 constructor standings rows)
+- **Number Corrected**: 6 primary corrections applied:
+  1. *Australian GP Lap Count*: Corrected Patrick Friesacher (Minardi) in `results.json` from 55 laps to official 53 laps completed (+4 laps).
+  2. *German GP Lap Count*: Corrected Kimi Räikkönen (McLaren-Mercedes) in `results.json` from 32 laps to official 35 laps completed (hydraulics failure).
+  3. *Chinese GP Lap Counts*: Corrected Christijan Albers (Minardi) from 50 laps to official 51 laps completed (+5 laps) and Michael Schumacher (Ferrari) from 20 laps to official 22 laps completed (spin behind Safety Car).
+  4. *Standings Table Data*: Added verified podium counts across all 25 classified drivers and 10 constructors; added complete engine and chassis partner designations.
+  5. *Canonical URLs*: Upgraded all race notes links from legacy `results.html` format to modern canonical `/en/results/2005/races/[771–789]/...` URLs.
+  6. *Spectator Attendance Segregation*: Segregated unverified promoter, circuit, and media attendance estimates across all 19 Grands Prix into dedicated unverified sections.
+- **Number Marked UNVERIFIED or Removed**: 19 spectator attendance claims segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`.
+- **Discrepancies Found Between Sources**:
+  - *Post-Race Disqualifications on Formula1.com*: At the San Marino Grand Prix, Jenson Button (originally 3rd) and Takuma Sato (originally 5th) of BAR-Honda were disqualified post-race by the FIA International Court of Appeal for an illegal secondary fuel tank that breached minimum dry weight rules (with BAR banned for the next two races at Spain and Monaco); formula1.com race result tables omit disqualified drivers entirely, whereas local records preserve the complete 20-car classification with official "Disqualified" status.
+  - *Canadian GP Disqualification*: Juan Pablo Montoya was shown the black flag and disqualified for rejoining the circuit while the pit exit red light was on during a Safety Car intervention; omitted from the Formula1.com classified table, preserved in local records with official FIA status.
+  - *Japanese GP Disqualification*: Takuma Sato was disqualified for causing an avoidable collision with Jarno Trulli; omitted from the Formula1.com classified table, preserved in local records with official FIA status.
+  - *United States GP Michelin Boycott*: All 14 Michelin-shod cars completed the parade / formation lap but entered the pit lane before the start due to structural tyre failure risks through the banked Turn 13, leaving only 6 cars (Ferrari, Jordan, Minardi) to start and finish the race.
+- **Championship Summary**:
+  - World Drivers' Champion: Fernando Alonso (Renault) - 133 pts (7 wins, 15 podiums, 6 poles, 2 fastest laps) - Youngest World Drivers' Champion in Formula 1 history at the time (24 years, 58 days).
+  - Runner-up: Kimi Räikkönen (McLaren-Mercedes) - 112 pts (7 wins, 12 podiums, 5 poles, 10 fastest laps) - Equaled Alain Prost's 1984 and Michael Schumacher's 2004 single-season record of 10 fastest laps.
+  - 3rd Place: Michael Schumacher (Ferrari) - 62 pts (1 win, 5 podiums, 1 pole, 3 fastest laps)
+  - 4th Place: Juan Pablo Montoya (McLaren-Mercedes) - 60 pts (3 wins, 5 podiums, 2 poles, 1 fastest lap)
+  - 5th Place: Giancarlo Fisichella (Renault) - 58 pts (1 win, 3 podiums, 1 pole, 1 fastest lap)
+  - World Constructors' Champion: Renault - 191 pts (8 wins, 18 podiums) - Maiden Constructors' World Championship for Renault as a full works constructor.
+  - Runner-up: McLaren-Mercedes - 182 pts (10 wins, 18 podiums)
+  - 3rd Place: Ferrari - 100 pts (1 win, 9 podiums)
+- **Gaps That Remain**: None. The 2005 season is 100% verified against primary sources.

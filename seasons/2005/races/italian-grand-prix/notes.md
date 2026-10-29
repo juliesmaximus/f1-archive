@@ -8,7 +8,6 @@
 - **Location:** Monza, Italy
 - **Circuit Length:** 5.793 km (3.600 miles)
 - **Altitude:** 162 m above sea level
-- **Official Attendance:** 115,000 tifosi
 
 ---
 
@@ -35,7 +34,12 @@ Zero retirements in a 20-car field at Monza set a modern reliability benchmark.
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 115,000 tifosi. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio Vodafone d'Italia Results](https://www.formula1.com/en/results.html/2005/races/784/italy/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio Vodafone d'Italia Results](https://www.formula1.com/en/results/2005/races/785/italy/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2005/15/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2005)

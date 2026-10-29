@@ -8,7 +8,6 @@
 - **Location:** Melbourne, Australia
 - **Circuit Length:** 5.303 km (3.295 miles)
 - **Altitude:** 10 m above sea level
-- **Official Attendance:** 115,000 race day
 
 ---
 
@@ -35,7 +34,12 @@ First race under aggregated two-session qualifying (Saturday low fuel + Sunday m
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 115,000 race day. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Foster's Australian Grand Prix Results](https://www.formula1.com/en/results.html/2005/races/770/australia/race-result.html)
+- **Official Formula 1 Results Archive:** [Foster's Australian Grand Prix Results](https://www.formula1.com/en/results/2005/races/771/australia/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2005/1/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2005)

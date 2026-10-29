@@ -8,7 +8,6 @@
 - **Location:** Spa, Belgium
 - **Circuit Length:** 6.973 km (4.333 miles)
 - **Altitude:** 420 m above sea level
-- **Official Attendance:** 85,000
 
 ---
 
@@ -35,7 +34,12 @@ Montoya was furious with Pizzonia, confronting him in the paddock after the race
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 85,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Belgian Grand Prix Results](https://www.formula1.com/en/results.html/2005/races/785/belgium/race-result.html)
+- **Official Formula 1 Results Archive:** [Belgian Grand Prix Results](https://www.formula1.com/en/results/2005/races/786/belgium/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2005/16/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2005)

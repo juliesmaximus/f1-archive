@@ -8,7 +8,6 @@
 - **Location:** Nürburg, Germany
 - **Circuit Length:** 5.148 km (3.199 miles)
 - **Altitude:** 620 m above sea level
-- **Official Attendance:** 118,000
 
 ---
 
@@ -35,7 +34,12 @@ The crash sparked furious safety debates over the single-set tyre rule, as teams
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 118,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Grand Prix of Europe Results](https://www.formula1.com/en/results.html/2005/races/776/europe/race-result.html)
+- **Official Formula 1 Results Archive:** [Grand Prix of Europe Results](https://www.formula1.com/en/results/2005/races/777/europe/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2005/7/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2005)

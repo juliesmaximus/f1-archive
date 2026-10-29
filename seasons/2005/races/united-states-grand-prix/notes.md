@@ -8,7 +8,6 @@
 - **Location:** Speedway, Indiana, USA
 - **Circuit Length:** 4.192 km (2.605 miles)
 - **Altitude:** 220 m above sea level
-- **Official Attendance:** 100,000 stunned spectators
 
 ---
 
@@ -35,7 +34,12 @@ Catastrophic public relations disaster that destroyed Formula 1's reputation in 
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 100,000 stunned spectators. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [United States Grand Prix Results](https://www.formula1.com/en/results.html/2005/races/778/united-states/race-result.html)
+- **Official Formula 1 Results Archive:** [United States Grand Prix Results](https://www.formula1.com/en/results/2005/races/779/united-states/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2005/9/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2005)

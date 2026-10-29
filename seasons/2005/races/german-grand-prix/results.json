@@ -744,7 +744,7 @@
                 "code": "RAI",
                 "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
                 "givenName": "Kimi",
-                "familyName": "R\u00e4ikk\u00f6nen",
+                "familyName": "Räikkönen",
                 "dateOfBirth": "1979-10-17",
                 "nationality": "Finnish"
               },
@@ -755,7 +755,7 @@
                 "nationality": "British"
               },
               "grid": "1",
-              "laps": "32",
+              "laps": "35",
               "status": "Hydraulics",
               "FastestLap": {
                 "rank": "1",

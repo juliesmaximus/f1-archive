@@ -8,7 +8,6 @@
 - **Location:** Shanghai, China
 - **Circuit Length:** 5.451 km (3.387 miles)
 - **Altitude:** 10 m above sea level
-- **Official Attendance:** 140,000
 
 ---
 
@@ -35,7 +34,12 @@ Bizarre drain cover incident: on lap 30, a metal drain cover became dislodged an
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 140,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Sinopec Chinese Grand Prix Results](https://www.formula1.com/en/results.html/2005/races/788/china/race-result.html)
+- **Official Formula 1 Results Archive:** [Sinopec Chinese Grand Prix Results](https://www.formula1.com/en/results/2005/races/789/china/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2005/19/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2005)

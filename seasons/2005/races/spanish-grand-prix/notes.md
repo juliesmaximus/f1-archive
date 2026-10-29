@@ -8,7 +8,6 @@
 - **Location:** Montmeló, Spain
 - **Circuit Length:** 4.627 km (2.875 miles)
 - **Altitude:** 125 m above sea level
-- **Official Attendance:** 115,000 roaring Spanish fans
 
 ---
 
@@ -35,7 +34,12 @@ Final Grand Prix to use the unpopular two-session aggregate qualifying system; F
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 115,000 roaring Spanish fans. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio Marlboro de España Results](https://www.formula1.com/en/results.html/2005/races/774/spain/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio Marlboro de España Results](https://www.formula1.com/en/results/2005/races/775/spain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2005/5/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2005)

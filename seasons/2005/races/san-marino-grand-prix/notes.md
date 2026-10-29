@@ -8,7 +8,6 @@
 - **Location:** Imola, Italy
 - **Circuit Length:** 4.933 km (3.065 miles)
 - **Altitude:** 48 m above sea level
-- **Official Attendance:** 85,000 tifosi
 
 ---
 
@@ -35,7 +34,12 @@ BAR-Honda was disqualified after Jenson Button's 3rd-place car was found to poss
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 85,000 tifosi. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio Foster's di San Marino Results](https://www.formula1.com/en/results.html/2005/races/773/san-marino/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio Foster's di San Marino Results](https://www.formula1.com/en/results/2005/races/774/san-marino/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2005/4/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2005)

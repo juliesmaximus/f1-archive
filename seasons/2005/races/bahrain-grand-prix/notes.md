@@ -8,7 +8,6 @@
 - **Location:** Sakhir, Bahrain
 - **Circuit Length:** 5.412 km (3.363 miles)
 - **Altitude:** 16 m above sea level
-- **Official Attendance:** 42,000
 
 ---
 
@@ -35,7 +34,12 @@ Michael Schumacher debuted Ferrari's new F2005 chassis, qualifying 2nd but retir
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 42,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gulf Air Bahrain Grand Prix Results](https://www.formula1.com/en/results.html/2005/races/772/bahrain/race-result.html)
+- **Official Formula 1 Results Archive:** [Gulf Air Bahrain Grand Prix Results](https://www.formula1.com/en/results/2005/races/773/bahrain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2005/3/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2005)

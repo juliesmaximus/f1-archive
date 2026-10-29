@@ -8,7 +8,6 @@
 - **Location:** Mogyoród, Hungary
 - **Circuit Length:** 4.381 km (2.722 miles)
 - **Altitude:** 240 m above sea level
-- **Official Attendance:** 95,000
 
 ---
 
@@ -35,7 +34,12 @@ Alonso failed to score for only the second time in 2005.
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 95,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Marlboro Magyar Nagydíj Results](https://www.formula1.com/en/results.html/2005/races/782/hungary/race-result.html)
+- **Official Formula 1 Results Archive:** [Marlboro Magyar Nagydíj Results](https://www.formula1.com/en/results/2005/races/783/hungary/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2005/13/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2005)
