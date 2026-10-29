@@ -25,6 +25,6 @@ The racing debut of the legendary Ferrari F2002. Juan Pablo Montoya took pole, b
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/2002/races/3/brazilian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/2002/races/722/brazil/race-result
 - **FIA Official Sporting Archives & Yearbooks (2002)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/2002/3/results.json`

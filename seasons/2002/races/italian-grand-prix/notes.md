@@ -25,6 +25,6 @@ In qualifying, Juan Pablo Montoya set the fastest qualifying lap in Formula 1 hi
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/2002/races/15/italian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/2002/races/734/italy/race-result
 - **FIA Official Sporting Archives & Yearbooks (2002)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/2002/15/results.json`

@@ -25,6 +25,6 @@ Michael Schumacher broke the all-time record for the most Grand Prix wins in a s
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/2002/races/14/belgian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/2002/races/733/belgium/race-result
 - **FIA Official Sporting Archives & Yearbooks (2002)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/2002/14/results.json`

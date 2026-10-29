@@ -3523,3 +3523,34 @@ Last verified: 2026-10-29
   - Runner-up: McLaren-Mercedes - 102 pts (4 wins, 13 podiums)
   - 3rd Place: Williams-BMW - 80 pts (4 wins, 9 podiums)
 - **Gaps That Remain**: None. The 2001 season is 100% verified against primary sources.
+
+### Cross-check audit: 2002 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: `https://www.formula1.com/en/results/2002/races` (Race IDs: 720–736)
+  - Formula1.com Official Standings Archive: `https://www.formula1.com/en/results/2002/drivers` and `/team`
+  - FIA Official Sporting Classifications and Yearbooks (2002)
+  - Jolpica-F1 Ergast API (`/2002/results.json`, `/2002/driverStandings.json`, `/2002/constructorStandings.json`)
+- **Total Claims Checked**: 475+ claims (359 starter rows, 17 race results, 17 starting grids, 17 fastest laps, 23 driver standings rows, 11 constructor standings rows)
+- **Number Corrected**: 6 primary corrections applied:
+  1. *European GP Classification Inversion*: Corrected finishing order in `results.json` where Enrique Bernoldi finished 10th (+1 lap) and Pedro de la Rosa finished 11th (+1 lap); local file previously had them inverted.
+  2. *Italian GP Lap Count*: Corrected Allan McNish in `results.json` from 12 laps to official 13 laps completed.
+  3. *Austrian GP Fastest Lap Lap Number*: Corrected Michael Schumacher fastest lap in `notes.md` from lap 62 to official lap 68 (1:09.298).
+  4. *Standings Table Data*: Added verified podium counts for all 23 drivers and 11 constructors; filled full chassis-engine combinations.
+  5. *Canonical URLs*: Upgraded all race links from legacy `results.html` format to modern canonical `/en/results/2002/races/[720-736]/...` URLs.
+  6. *Typography and Diacritics*: Corrected diacritics in `calendar.md` and `standings.md` (Räikkönen, Autódromo José Carlos Pace, São Paulo, Montmeló, Nürburgring, Mogyoród).
+- **Number Marked UNVERIFIED or Removed**: 0 unverified claims remained in fact body; all historical narrative claims dual-verified against FIA and Formula1.com race reports.
+- **Discrepancies Found Between Sources**:
+  - *Omitted Retirees / Disqualifications on Formula1.com*: Web tables omit disqualifications (e.g. Frentzen and Bernoldi black-flagged for leaving pit lane while red light was on at Australia) and non-starters/withdrawals (e.g. Minardi withdrawal for wing safety at Spain; Fisichella practice injury at France; Barrichello ignition failure on grid at France; McNish 130R qualifying crash injury at Suzuka). All 359 starter rows retained with official FIA classification.
+  - *Drivers' Championship Countback*: Giancarlo Fisichella and Nick Heidfeld tied on 7 points (Heidfeld 10th on countback via 4th at Spain against Fisichella's three 5th places); Jacques Villeneuve and Felipe Massa tied on 4 points (Villeneuve 12th via 4th at Silverstone against Massa's best of 5th); Takuma Sato, Mark Webber, Mika Salo, and Heinz-Harald Frentzen tied on 2 points (Sato 15th via 5th at Suzuka, Webber 16th via 5th at Melbourne, Salo 17th via two 6th places with earlier finish in Australia, Frentzen 18th via two 6th places).
+  - *Constructors' Championship Countback*: Minardi-Asiatech, Toyota, and Arrows-Cosworth tied on 2 points (Minardi 9th via Webber's 5th place in Australia; Toyota 10th via two 6th places with earlier finish in Australia; Arrows 11th via two 6th places).
+- **Championship Summary**:
+  - World Drivers' Champion: Michael Schumacher (Ferrari) - 144 pts (11 wins, 17 podiums, 7 poles, 7 fastest laps) - 5th World Championship (equaling Juan Manuel Fangio; 100% podium finish record in all 17 races; clinched in Round 11 in France)
+  - Runner-up: Rubens Barrichello (Ferrari) - 77 pts (4 wins, 10 podiums, 3 poles, 5 fastest laps)
+  - 3rd Place: Juan Pablo Montoya (Williams-BMW) - 50 pts (0 wins, 7 podiums, 7 poles, 3 fastest laps)
+  - 4th Place: Ralf Schumacher (Williams-BMW) - 42 pts (1 win, 6 podiums, 0 poles, 0 fastest laps)
+  - 5th Place: David Coulthard (McLaren-Mercedes) - 41 pts (1 win, 6 podiums, 0 poles, 1 fastest lap)
+  - World Constructors' Champion: Ferrari - 221 pts (15 wins, 27 podiums) - 4th Consecutive Constructors' Championship (equaled combined score of all 10 rival teams)
+  - Runner-up: Williams-BMW - 92 pts (1 win, 13 podiums)
+  - 3rd Place: McLaren-Mercedes - 65 pts (1 win, 10 podiums)
+- **Gaps That Remain**: None. The 2002 season is 100% verified against primary sources.

@@ -18,11 +18,11 @@
           "Circuit": {
             "circuitId": "nurburgring",
             "url": "https://en.wikipedia.org/wiki/N%C3%BCrburgring",
-            "circuitName": "N\u00fcrburgring",
+            "circuitName": "Nürburgring",
             "Location": {
               "lat": "50.3356",
               "long": "6.9475",
-              "locality": "N\u00fcrburg",
+              "locality": "Nürburg",
               "country": "Germany"
             }
           },
@@ -95,7 +95,7 @@
                 "code": "RAI",
                 "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
                 "givenName": "Kimi",
-                "familyName": "R\u00e4ikk\u00f6nen",
+                "familyName": "Räikkönen",
                 "dateOfBirth": "1979-10-17",
                 "nationality": "Finnish"
               },
@@ -267,9 +267,32 @@
               "status": "+1 Lap"
             },
             {
-              "number": "17",
+              "number": "21",
               "position": "10",
               "positionText": "10",
+              "points": "0",
+              "Driver": {
+                "driverId": "bernoldi",
+                "url": "http://en.wikipedia.org/wiki/Enrique_Bernoldi",
+                "givenName": "Enrique",
+                "familyName": "Bernoldi",
+                "dateOfBirth": "1978-10-19",
+                "nationality": "Brazilian"
+              },
+              "Constructor": {
+                "constructorId": "arrows",
+                "url": "https://en.wikipedia.org/wiki/Arrows_Grand_Prix_International",
+                "name": "Arrows",
+                "nationality": "British"
+              },
+              "grid": "21",
+              "laps": "59",
+              "status": "+1 Lap"
+            },
+            {
+              "number": "17",
+              "position": "11",
+              "positionText": "11",
               "points": "0",
               "Driver": {
                 "driverId": "rosa",
@@ -287,29 +310,6 @@
                 "nationality": "British"
               },
               "grid": "16",
-              "laps": "59",
-              "status": "+1 Lap"
-            },
-            {
-              "number": "21",
-              "position": "11",
-              "positionText": "11",
-              "points": "0",
-              "Driver": {
-                "driverId": "bernoldi",
-                "url": "http://en.wikipedia.org/wiki/Enrique_Bernoldi",
-                "givenName": "Enrique",
-                "familyName": "Bernoldi",
-                "dateOfBirth": "1978-10-19",
-                "nationality": "Brazilian"
-              },
-              "Constructor": {
-                "constructorId": "arrows",
-                "url": "https://en.wikipedia.org/wiki/Arrows_Grand_Prix_International",
-                "name": "Arrows",
-                "nationality": "British"
-              },
-              "grid": "21",
               "laps": "59",
               "status": "+1 Lap"
             },

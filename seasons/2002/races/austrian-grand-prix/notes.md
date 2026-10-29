@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Rubens Barrichello (Ferrari) - 1:08.082
-- **Fastest Lap:** Michael Schumacher (Ferrari) - 1:09.298 (Lap 62)
+- **Fastest Lap:** Michael Schumacher (Ferrari) - 1:09.298 (Lap 68)
 - **Race Winner:** Michael Schumacher (Ferrari)
 
 ---
@@ -25,6 +25,6 @@ The most controversial team orders scandal in modern Formula 1. Rubens Barrichel
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/2002/races/6/austrian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/2002/races/725/austria/race-result
 - **FIA Official Sporting Archives & Yearbooks (2002)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/2002/6/results.json`

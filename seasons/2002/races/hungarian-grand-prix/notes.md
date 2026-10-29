@@ -25,6 +25,6 @@ Rubens Barrichello took victory from pole position, leading Michael Schumacher h
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/2002/races/13/hungarian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/2002/races/732/hungary/race-result
 - **FIA Official Sporting Archives & Yearbooks (2002)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/2002/13/results.json`
