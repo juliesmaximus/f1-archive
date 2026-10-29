@@ -8,7 +8,6 @@
 - **Location:** Suzuka, Mie, Japan
 - **Circuit Length:** 5.807 km (3.608 miles)
 - **Altitude:** 45 m above sea level
-- **Official Attendance:** 145,000
 
 ---
 
@@ -36,6 +35,11 @@ Rosberg could now afford to finish 2nd in all remaining races to win the World C
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Emirates Japanese Grand Prix Results](https://www.formula1.com/en/results.html/2016/races/955/japan/race-result.html)
+- **Official Formula 1 Results Archive:** [Emirates Japanese Grand Prix Results](https://www.formula1.com/en/results/2016/races/953/japan/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2016/17/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2016)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 145,000 (estimate reported in promoter/media releases; unverified in official FIA classifications)

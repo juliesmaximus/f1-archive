@@ -80,7 +80,7 @@
                 "code": "RAI",
                 "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
                 "givenName": "Kimi",
-                "familyName": "R\u00e4ikk\u00f6nen",
+                "familyName": "Räikkönen",
                 "dateOfBirth": "1979-10-17",
                 "nationality": "Finnish"
               },
@@ -280,7 +280,7 @@
                 "code": "PER",
                 "url": "http://en.wikipedia.org/wiki/Sergio_P%C3%A9rez",
                 "givenName": "Sergio",
-                "familyName": "P\u00e9rez",
+                "familyName": "Pérez",
                 "dateOfBirth": "1990-01-26",
                 "nationality": "Mexican"
               },
@@ -432,7 +432,7 @@
                 "code": "GUT",
                 "url": "http://en.wikipedia.org/wiki/Esteban_Guti%C3%A9rrez",
                 "givenName": "Esteban",
-                "familyName": "Guti\u00e9rrez",
+                "familyName": "Gutiérrez",
                 "dateOfBirth": "1991-08-05",
                 "nationality": "Mexican"
               },
@@ -530,45 +530,9 @@
               }
             },
             {
-              "number": "20",
+              "number": "12",
               "position": "14",
               "positionText": "14",
-              "points": "0",
-              "Driver": {
-                "driverId": "kevin_magnussen",
-                "permanentNumber": "20",
-                "code": "MAG",
-                "url": "http://en.wikipedia.org/wiki/Kevin_Magnussen",
-                "givenName": "Kevin",
-                "familyName": "Magnussen",
-                "dateOfBirth": "1992-10-05",
-                "nationality": "Danish"
-              },
-              "Constructor": {
-                "constructorId": "renault",
-                "url": "https://en.wikipedia.org/wiki/Renault_in_Formula_One",
-                "name": "Renault",
-                "nationality": "French"
-              },
-              "grid": "15",
-              "laps": "65",
-              "status": "+1 Lap",
-              "FastestLap": {
-                "rank": "5",
-                "lap": "57",
-                "Time": {
-                  "time": "1:28.716"
-                },
-                "AverageSpeed": {
-                  "units": "kph",
-                  "speed": "188.894"
-                }
-              }
-            },
-            {
-              "number": "12",
-              "position": "15",
-              "positionText": "15",
               "points": "0",
               "Driver": {
                 "driverId": "nasr",
@@ -598,6 +562,42 @@
                 "AverageSpeed": {
                   "units": "kph",
                   "speed": "186.396"
+                }
+              }
+            },
+            {
+              "number": "20",
+              "position": "15",
+              "positionText": "15",
+              "points": "0",
+              "Driver": {
+                "driverId": "kevin_magnussen",
+                "permanentNumber": "20",
+                "code": "MAG",
+                "url": "http://en.wikipedia.org/wiki/Kevin_Magnussen",
+                "givenName": "Kevin",
+                "familyName": "Magnussen",
+                "dateOfBirth": "1992-10-05",
+                "nationality": "Danish"
+              },
+              "Constructor": {
+                "constructorId": "renault",
+                "url": "https://en.wikipedia.org/wiki/Renault_in_Formula_One",
+                "name": "Renault",
+                "nationality": "French"
+              },
+              "grid": "15",
+              "laps": "65",
+              "status": "+1 Lap",
+              "FastestLap": {
+                "rank": "5",
+                "lap": "57",
+                "Time": {
+                  "time": "1:28.716"
+                },
+                "AverageSpeed": {
+                  "units": "kph",
+                  "speed": "188.894"
                 }
               }
             },
@@ -756,7 +756,7 @@
                 "code": "HUL",
                 "url": "http://en.wikipedia.org/wiki/Nico_H%C3%BClkenberg",
                 "givenName": "Nico",
-                "familyName": "H\u00fclkenberg",
+                "familyName": "Hülkenberg",
                 "dateOfBirth": "1987-08-19",
                 "nationality": "German"
               },

@@ -8,7 +8,6 @@
 - **Location:** Austin, Texas, USA
 - **Circuit Length:** 5.513 km (3.426 miles)
 - **Altitude:** 150 m above sea level
-- **Official Attendance:** 112,536
 
 ---
 
@@ -36,6 +35,11 @@ Hamilton became only the third driver in Formula 1 history to achieve 50 Grand P
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [United States Grand Prix Results](https://www.formula1.com/en/results.html/2016/races/956/united-states/race-result.html)
+- **Official Formula 1 Results Archive:** [United States Grand Prix Results](https://www.formula1.com/en/results/2016/races/954/united-states/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2016/18/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2016)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 112,536 (estimate reported in promoter/media releases; unverified in official FIA classifications)

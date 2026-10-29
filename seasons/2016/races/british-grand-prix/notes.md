@@ -8,7 +8,6 @@
 - **Location:** Silverstone, United Kingdom
 - **Circuit Length:** 5.891 km (3.660 miles)
 - **Altitude:** 155 m above sea level
-- **Official Attendance:** 139,000
 
 ---
 
@@ -36,6 +35,11 @@ Rosberg's penalty slashed his championship lead over Hamilton to just 1 point.
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [British Grand Prix Results](https://www.formula1.com/en/results.html/2016/races/948/great-britain/race-result.html)
+- **Official Formula 1 Results Archive:** [British Grand Prix Results](https://www.formula1.com/en/results/2016/races/946/great-britain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2016/10/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2016)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 139,000 (estimate reported in promoter/media releases; unverified in official FIA classifications)

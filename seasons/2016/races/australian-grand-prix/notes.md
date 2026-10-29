@@ -8,7 +8,6 @@
 - **Location:** Melbourne, Australia
 - **Circuit Length:** 5.303 km (3.295 miles)
 - **Altitude:** 10 m above sea level
-- **Official Attendance:** 102,500 race day
 
 ---
 
@@ -36,6 +35,11 @@ Disastrous 'musical chairs' elimination qualifying format was universally condem
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Rolex Australian Grand Prix Results](https://www.formula1.com/en/results.html/2016/races/939/australia/race-result.html)
+- **Official Formula 1 Results Archive:** [Rolex Australian Grand Prix Results](https://www.formula1.com/en/results/2016/races/938/australia/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2016/1/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2016)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 102,500 race day (estimate reported in promoter/media releases; unverified in official FIA classifications)

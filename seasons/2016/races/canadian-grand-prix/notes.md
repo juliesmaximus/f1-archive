@@ -8,7 +8,6 @@
 - **Location:** Montreal, Canada
 - **Circuit Length:** 4.361 km (2.710 miles)
 - **Altitude:** 14 m above sea level
-- **Official Attendance:** 120,000
 
 ---
 
@@ -36,6 +35,11 @@ Hamilton dedicated his 45th career victory to boxing legend Muhammad Ali, who ha
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Grand Prix du Canada Results](https://www.formula1.com/en/results.html/2016/races/945/canada/race-result.html)
+- **Official Formula 1 Results Archive:** [Grand Prix du Canada Results](https://www.formula1.com/en/results/2016/races/944/canada/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2016/7/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2016)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 120,000 (estimate reported in promoter/media releases; unverified in official FIA classifications)

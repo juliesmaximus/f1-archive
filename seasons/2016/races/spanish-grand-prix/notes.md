@@ -8,7 +8,6 @@
 - **Location:** Montmeló, Spain
 - **Circuit Length:** 4.655 km (2.892 miles)
 - **Altitude:** 125 m above sea level
-- **Official Attendance:** 87,245
 
 ---
 
@@ -36,6 +35,11 @@ Verstappen broke Sebastian Vettel's record by over two and a half years, establi
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio de España Results](https://www.formula1.com/en/results.html/2016/races/943/spain/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio de España Results](https://www.formula1.com/en/results/2016/races/942/spain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2016/5/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2016)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 87,245 (estimate reported in promoter/media releases; unverified in official FIA classifications)

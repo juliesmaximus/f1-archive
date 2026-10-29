@@ -8,7 +8,6 @@
 - **Location:** Baku, Azerbaijan
 - **Circuit Length:** 6.003 km (3.730 miles)
 - **Altitude:** -28 m above sea level
-- **Official Attendance:** 30,000 inaugural crowd
 
 ---
 
@@ -36,6 +35,11 @@ Valtteri Bottas set an unofficial all-time Formula 1 top speed record of 378.0 k
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Grand Prix of Europe Results](https://www.formula1.com/en/results.html/2016/races/946/europe/race-result.html)
+- **Official Formula 1 Results Archive:** [Grand Prix of Europe Results](https://www.formula1.com/en/results/2016/races/958/europe/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2016/8/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2016)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 30,000 inaugural crowd (estimate reported in promoter/media releases; unverified in official FIA classifications)

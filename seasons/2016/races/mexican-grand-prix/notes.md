@@ -8,7 +8,6 @@
 - **Location:** Mexico City, Mexico
 - **Circuit Length:** 4.304 km (2.674 miles)
 - **Altitude:** 2240 m above sea level
-- **Official Attendance:** 135,026 sell-out crowd
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Lewis Hamilton (Mercedes)
 - **Pole Position:** Lewis Hamilton (Mercedes) - 1:18.704
-- **Fastest Lap:** Daniel Ricciardo (Red Bull-TAG Heuer) - 1:22.472 (lap 53)
+- **Fastest Lap:** Daniel Ricciardo (Red Bull-TAG Heuer) - 1:21.134 (lap 53)
 
 ---
 
@@ -36,6 +35,11 @@ Vettel's radio abuse of Charlie Whiting resulted in a formal FIA warning and pub
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio de México Results](https://www.formula1.com/en/results.html/2016/races/957/mexico/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio de México Results](https://www.formula1.com/en/results/2016/races/955/mexico/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2016/19/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2016)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 135,026 sell-out crowd (estimate reported in promoter/media releases; unverified in official FIA classifications)

@@ -8,7 +8,6 @@
 - **Location:** Yas Island, Abu Dhabi, UAE
 - **Circuit Length:** 5.554 km (3.451 miles)
 - **Altitude:** 12 m above sea level
-- **Official Attendance:** 60,000
 
 ---
 
@@ -36,6 +35,11 @@ Rosberg's shock retirement five days after becoming World Champion cemented his 
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Etihad Airways Abu Dhabi Grand Prix Results](https://www.formula1.com/en/results.html/2016/races/959/abu-dhabi/race-result.html)
+- **Official Formula 1 Results Archive:** [Etihad Airways Abu Dhabi Grand Prix Results](https://www.formula1.com/en/results/2016/races/957/abu-dhabi/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2016/21/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2016)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 60,000 (estimate reported in promoter/media releases; unverified in official FIA classifications)

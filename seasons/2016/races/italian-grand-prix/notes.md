@@ -8,7 +8,6 @@
 - **Location:** Monza, Italy
 - **Circuit Length:** 5.793 km (3.600 miles)
 - **Altitude:** 162 m above sea level
-- **Official Attendance:** 125,000 tifosi
 
 ---
 
@@ -36,6 +35,11 @@ Fernando Alonso pitted with two laps to go to set the fastest lap of the race fo
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio d'Italia Results](https://www.formula1.com/en/results.html/2016/races/952/italy/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio d'Italia Results](https://www.formula1.com/en/results/2016/races/950/italy/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2016/14/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2016)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 125,000 tifosi (estimate reported in promoter/media releases; unverified in official FIA classifications)

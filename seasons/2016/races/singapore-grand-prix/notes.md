@@ -8,7 +8,6 @@
 - **Location:** Marina Bay, Singapore
 - **Circuit Length:** 5.065 km (3.147 miles)
 - **Altitude:** 15 m above sea level
-- **Official Attendance:** 100,000
 
 ---
 
@@ -36,6 +35,11 @@ A track marshal was caught sprint-crossing the track on the safety car restart o
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Singapore Grand Prix Results](https://www.formula1.com/en/results.html/2016/races/953/singapore/race-result.html)
+- **Official Formula 1 Results Archive:** [Singapore Grand Prix Results](https://www.formula1.com/en/results/2016/races/951/singapore/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2016/15/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2016)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 100,000 (estimate reported in promoter/media releases; unverified in official FIA classifications)

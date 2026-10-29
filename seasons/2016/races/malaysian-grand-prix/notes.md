@@ -8,7 +8,6 @@
 - **Location:** Kuala Lumpur, Malaysia
 - **Circuit Length:** 5.543 km (3.444 miles)
 - **Altitude:** 45 m above sea level
-- **Official Attendance:** 90,000
 
 ---
 
@@ -36,6 +35,11 @@ Hamilton questioned Mercedes' engine reliability: 'Someone doesn't want me to wi
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Petronas Malaysia Grand Prix Results](https://www.formula1.com/en/results.html/2016/races/954/malaysia/race-result.html)
+- **Official Formula 1 Results Archive:** [Petronas Malaysia Grand Prix Results](https://www.formula1.com/en/results/2016/races/952/malaysia/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2016/16/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2016)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 90,000 (estimate reported in promoter/media releases; unverified in official FIA classifications)

@@ -8,7 +8,6 @@
 - **Location:** Hockenheim, Germany
 - **Circuit Length:** 4.574 km (2.842 miles)
 - **Altitude:** 103 m above sea level
-- **Official Attendance:** 57,000
 
 ---
 
@@ -36,6 +35,11 @@ The 'shoey' podium celebration became Daniel Ricciardo's global trademark.
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Großer Preis von Deutschland Results](https://www.formula1.com/en/results.html/2016/races/950/germany/race-result.html)
+- **Official Formula 1 Results Archive:** [Großer Preis von Deutschland Results](https://www.formula1.com/en/results/2016/races/948/germany/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2016/12/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2016)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 57,000 (estimate reported in promoter/media releases; unverified in official FIA classifications)

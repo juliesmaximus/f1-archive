@@ -8,7 +8,6 @@
 - **Location:** São Paulo, Brazil
 - **Circuit Length:** 4.309 km (2.677 miles)
 - **Altitude:** 785 m above sea level
-- **Official Attendance:** 80,000 soaked fans
 
 ---
 
@@ -36,6 +35,11 @@ Verstappen's rain lines were compared by experts to Ayrton Senna (Donington 1993
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Grande Prêmio do Brasil Results](https://www.formula1.com/en/results.html/2016/races/958/brazil/race-result.html)
+- **Official Formula 1 Results Archive:** [Grande Prêmio do Brasil Results](https://www.formula1.com/en/results/2016/races/956/brazil/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2016/20/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2016)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 80,000 soaked fans (estimate reported in promoter/media releases; unverified in official FIA classifications)

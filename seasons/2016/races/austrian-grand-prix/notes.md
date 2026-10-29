@@ -8,7 +8,6 @@
 - **Location:** Spielberg, Austria
 - **Circuit Length:** 4.326 km (2.688 miles)
 - **Altitude:** 670 m above sea level
-- **Official Attendance:** 75,000
 
 ---
 
@@ -36,6 +35,11 @@ Toto Wolff declared the collision 'brainless', warning that team orders would be
 ---
 
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Großer Preis von Österreich Results](https://www.formula1.com/en/results.html/2016/races/947/austria/race-result.html)
+- **Official Formula 1 Results Archive:** [Großer Preis von Österreich Results](https://www.formula1.com/en/results/2016/races/945/austria/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2016/9/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2016)
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 75,000 (estimate reported in promoter/media releases; unverified in official FIA classifications)

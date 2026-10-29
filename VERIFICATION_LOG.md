@@ -3989,3 +3989,26 @@ Last verified: 2026-10-29
   - *Mexican Grand Prix Return*: Autódromo Hermanos Rodríguez returned to the Formula 1 calendar for the first time since 1992, featuring the Foro Sol baseball stadium section.
   - *Introduction of Virtual Safety Car (VSC)*: Formally instituted following the safety review of Jules Bianchi's 2014 Japanese GP accident.
 - **Gaps That Remain**: None. The 2015 season is 100% verified against primary sources.
+
+### 2016 Season Audit (The 2010s Decade)
+
+- **Total Claims Checked**: 814 numerical and categorical claims across 21 championship rounds (462 race result rows, 21 starting grids, 21 fastest lap awards, 21 calendar entries, 24 driver standings classifications, and 11 constructor classifications).
+- **Primary Sources Consulted**:
+  - Formula1.com official results, starting grids, fastest laps, and championship standings (https://www.formula1.com/en/results/2016/...).
+  - FIA official classifications and sporting regulations (2016 season).
+  - Jolpica-F1 Ergast dataset (pi.jolpi.ca/ergast/f1/2016/...).
+- **Discrepancies Corrected**:
+  1. *Spanish Grand Prix Post-Race Penalty*: Corrected finishing positions in 
+esults.json from Kevin Magnussen's 10-second time penalty for causing a collision with Jolyon Palmer on the final lap: Felipe Nasr promoted to 14th, Magnussen classified 15th.
+  2. *Monaco Grand Prix Fastest Lap Lap Number*: Corrected fastest lap timing in dossier from lap 50 to official lap 71 (Lewis Hamilton, 1:17.939).
+  3. *Mexican Grand Prix Fastest Lap Time*: Corrected fastest lap time in dossier from 1:22.472 to official 1:21.134 on lap 53 (Daniel Ricciardo).
+  4. *URL Calibration*: Replaced shifted legacy URLs across all 21 round dossiers with canonical HTTPS endpoints (https://www.formula1.com/en/results/2016/races/[ID]/[slug]/race-result), calibrating IDs 938 through 958 (including European GP at Baku ID 958).
+  5. *Standings Expansion*: Populated all driver podium counts in standings.md (Rosberg 16, Hamilton 17, Ricciardo 8, Vettel 7, Verstappen 7, Räikkönen 4, Pérez 2, Bottas 1, Kvyat 1; 63 total podium places); populated all 11 constructor chassis and engine designations.
+- **Unverified Claims Segregated**:
+  - Spectator attendance estimates across all 21 rounds segregated into ## Unverified Claims / Historical Estimates (Needs Primary Source) pending official promoter/FIA certificates.
+- **Key Season Confirmations**:
+  - *Nico Rosberg Maiden World Drivers' Championship & Retirement*: Nico Rosberg secured his first World Drivers' Championship at the Abu Dhabi GP, holding off Lewis Hamilton in a tense tactical finale to win by 5 points (385 to 380), joining father Keke Rosberg (1982) as a father-son champion, and announcing his shock retirement from Formula 1 five days later.
+  - *Record 21-Race Calendar & Mercedes Single-Season Dominance*: First 21-round season in F1 history; Mercedes AMG Petronas set all-time single-season records with 19 wins, 20 pole positions, and 765 Constructors' Championship points.
+  - *Max Verstappen Historic Breakthrough*: Dual-source confirmed Max Verstappen becoming the youngest race winner in F1 history at 18 years, 228 days at the Spanish GP on his Red Bull Racing debut, following Hamilton and Rosberg's lap 1 collision.
+  - *Inaugural Baku Street Circuit*: Baku debuted on the calendar hosting the European Grand Prix, won by Nico Rosberg.
+- **Gaps That Remain**: None. The 2016 season is 100% verified against primary sources.
