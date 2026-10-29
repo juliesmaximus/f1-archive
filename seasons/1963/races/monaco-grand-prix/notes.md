@@ -1,43 +1,31 @@
-# 1963 Round 1: XXI Grand Prix Automobile de Monaco - Verified Race Record
+# 1963 Monaco Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: XXI Grand Prix Automobile de Monaco
-- **Historic Name Notes**: 21st Monaco Grand Prix; season opener for 1963.
-- **Circuit Full Name**: Circuit de Monaco
-- **Location**: Monte Carlo and La Condamine, Principality of Monaco
-- **Host Country**: Monaco
-- **Track Length**: 3.145 km (1.954 mi)
-- **Track Altitude**: 15 m (49 ft) above sea level
-- **Race Distance**: 100 laps / 314.500 km (195.421 mi)
-- **Official Race Date**: 1963-05-26
+## Official Race Identification
+- **Official Name**: XXI Grand Prix Automobile de Monaco
+- **Round**: 1 of 10 in the 1963 FIA Formula One World Championship
+- **Date**: Sunday, 26 May 1963
+- **Location**: Circuit de Monaco, Monte Carlo, Monaco
+- **Circuit Length**: 3.145 km (1.954 miles)
+- **Distance**: 100 laps (314.500 km / 195.421 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, calm Mediterranean afternoon.
-- **Spectator Attendance**: Over 45,000 spectators.
-- **Grandstand & Infrastructure Notes**: Quai Albert 1er stands and harbour terraces packed.
+## Official Results & Key Metrics
+- **Pole Position**: Jim Clark (Lotus-Climax 25) - 1:34.300
+- **Fastest Lap**: John Surtees (Ferrari 156/63) - 1:34.500 (Lap 100)
+- **Race Winner**: Graham Hill (BRM P57) - 2:41:49.700 (116.634 km/h)
+- **Podium**:
+  1. Graham Hill (BRM) - 100 laps
+  2. Richie Ginther (BRM) - 100 laps (+4.600s)
+  3. Bruce McLaren (Cooper-Climax) - 100 laps (+12.800s)
 
-## Verified Key Race Results
-- **Pole Position**: Jim Clark (Lotus 25-Climax) - 1:34.3
-- **Fastest Race Lap**: John Surtees (Ferrari 156/63) - 1:34.5 (Lap 100)
-- **Race Winner**: Graham Hill (BRM) - 2:41:49.700 (9 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Clark's Gearbox Heartbreak**: Jim Clark qualified on pole in his Lotus 25 and controlled the race with effortless precision, leading by nearly 20 seconds. On lap 78, his gearbox jammed solid approaching the gasworks hairpin, spinning him out and handing victory to defending champion Graham Hill.
+- **BRM 1-2 Sweep**: Graham Hill and Richie Ginther secured a 1-2 finish for BRM.
+- **John Surtees Ferrari Debut**: Making his Ferrari debut, John Surtees set the fastest lap on the 100th and final lap (1:34.500) and finished 4th.
+- **Track & Weather Conditions**: Warm, pleasant Mediterranean spring sunshine; completely dry asphalt.
 
-## Official Podium Finishers
-- **1st** : Graham Hill (BRM) — 2:41:49.700 [9 pts]
-- **2nd** : Richie Ginther (BRM) — +4.600 [6 pts]
-- **3rd** : Bruce McLaren (Cooper-Climax) — +12.800 [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1963/races/205/monaco/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1963/1/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Graham Hill's First 'Mr. Monaco' Victory: Reigning champion Graham Hill took his first of five career Monaco Grand Prix victories in the BRM P57, winning by 4.6 seconds over teammate Richie Ginther in a BRM 1-2 sweep.
-- Clark Gearbox Seizure: Jim Clark led comfortably from pole position until lap 78 when his Lotus gearbox seized approaching the gasworks hairpin, handing the lead to Hill.
-- Innes Ireland Crash: Innes Ireland crashed his BRP-Lotus into the tunnel wall, escaping without serious injury.
-
-## Records Set or Equalled
-- Graham Hill won the first of his record five Monaco Grand Prix victories.
-- BRM scored their second 1-2 finish in World Championship history.
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1963/races/205/monaco/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1963/1/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Trackside crowd estimates were reported at 35,000 spectators; no official ticketing ledger exists.

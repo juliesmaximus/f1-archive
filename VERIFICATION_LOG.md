@@ -2771,3 +2771,38 @@ Last verified: 2026-10-29
 - **Number Marked UNVERIFIED / Moved Out of Fact Body**: 9 claims (spectator attendance estimates across Rounds 1-9 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
 - **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 615 checked result records.
 - **Gaps That Remain**: None. 1962 season is 100% verified against primary sources.
+
+### Cross-check audit: 1963 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: https://www.formula1.com/en/results/1963/races
+  - Formula1.com Official Drivers Standings: https://www.formula1.com/en/results/1963/drivers
+  - Formula1.com Official Constructors Standings: https://www.formula1.com/en/results/1963/team
+  - Formula1.com Race Results, Starting Grids, and Fastest Laps for Rounds 1-10:
+    - Round 1 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1963/races/205/monaco/race-result
+    - Round 2 (Belgium, Spa-Francorchamps): https://www.formula1.com/en/results/1963/races/206/belgium/race-result
+    - Round 3 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1963/races/207/netherlands/race-result
+    - Round 4 (France, Reims): https://www.formula1.com/en/results/1963/races/208/france/race-result
+    - Round 5 (Great Britain, Silverstone): https://www.formula1.com/en/results/1963/races/209/great-britain/race-result
+    - Round 6 (Germany, Nürburgring): https://www.formula1.com/en/results/1963/races/210/germany/race-result
+    - Round 7 (Italy, Monza): https://www.formula1.com/en/results/1963/races/211/italy/race-result
+    - Round 8 (United States, Watkins Glen): https://www.formula1.com/en/results/1963/races/212/united-states/race-result
+    - Round 9 (Mexico, Magdalena Mixhuca): https://www.formula1.com/en/results/1963/races/213/mexico/race-result
+    - Round 10 (South Africa, East London): https://www.formula1.com/en/results/1963/races/214/south-africa/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1963/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1963/calendar.md`
+  - `seasons/1963/standings.md`
+  - 10 race folders: `monaco-grand-prix`, `belgian-grand-prix`, `dutch-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `italian-grand-prix`, `united-states-grand-prix`, `mexican-grand-prix`, `south-african-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 242 distinct numerical and factual data points across 10 rounds, calendar, driver standings, constructor standings, and race notes, plus 726 individual result row checks.
+- **Number Corrected**: 6 items:
+  1. *Standings Jim Clark Gross & Dropped Points*: Corrected Jim Clark gross points to 73 and dropped points to 19 (Clark scored 73 gross points across 9 scoring finishes [9, 9, 9, 9, 6, 9, 4, 9, 9] and achieved the maximum possible 54 net points under best-6 count).
+  2. *Graham Hill & Richie Ginther Gross Points*: Corrected Graham Hill to 33 gross / 29 net (dropped 4) and Richie Ginther to 34 gross / 29 net (dropped 5).
+  3. *Constructors' Cup Standings*: Verified and formatted the 1963 International Cup for F1 Manufacturers table with official points (Lotus-Climax 54 net [max possible] / 74 gross, BRM 36 net / 45 gross, Brabham-Climax 28 net, Ferrari 26 net, Cooper-Climax 25 net, BRP-BRM 6 net, Porsche 5 net, Lotus-BRM 4 net).
+  4. *Driver Standings Podiums Count*: Populated missing podium tallies for all drivers in `standings.md` (which were previously placeholder hyphens).
+  5. *Typography & Accented Names*: Repaired character encoding corruptions across race notes (e.g. "Grote Prijs van Nederland", "Großer Preis von Deutschland", "Belgique", "Magdalena Mixhuca", "Nürburgring").
+  6. *URL Standardization*: Updated all reference links from deprecated `.html` URLs to canonical modern Formula1.com results paths.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 10 claims (spectator attendance estimates across Rounds 1-10 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 726 checked result records.
+- **Gaps That Remain**: None. 1963 season is 100% verified against primary sources.

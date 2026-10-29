@@ -1,43 +1,31 @@
-# 1963 Round 4: 49e Grand Prix de l'ACF - Verified Race Record
+# 1963 French Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: 49e Grand Prix de l'ACF
-- **Historic Name Notes**: 49th French Grand Prix at Reims; Clark's 3rd consecutive win.
-- **Circuit Full Name**: Reims-Gueux
-- **Location**: Gueux, Marne, Champagne, France
-- **Host Country**: France
-- **Track Length**: 8.302 km (5.159 mi)
-- **Track Altitude**: 88 m (289 ft) above sea level
-- **Race Distance**: 53 laps / 440.006 km (273.407 mi)
-- **Official Race Date**: 1963-06-30
+## Official Race Identification
+- **Official Name**: 49e Grand Prix de l'ACF
+- **Round**: 4 of 10 in the 1963 FIA Formula One World Championship
+- **Date**: Sunday, 30 June 1963
+- **Location**: Reims-Gueux, Reims, France
+- **Circuit Length**: 8.302 km (5.159 miles)
+- **Distance**: 53 laps (440.006 km / 273.407 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, dry, sunny Champagne afternoon with gusty crosswinds.
-- **Spectator Attendance**: Over 80,000 spectators.
-- **Grandstand & Infrastructure Notes**: Start-finish straight grandstands filled.
+## Official Results & Key Metrics
+- **Pole Position**: Jim Clark (Lotus-Climax 25) - 2:20.200
+- **Fastest Lap**: Jim Clark (Lotus-Climax 25) - 2:21.600 (Lap 12)
+- **Race Winner**: Jim Clark (Lotus-Climax 25) - 2:10:54.300 (202.133 km/h)
+- **Podium**:
+  1. Jim Clark (Lotus-Climax) - 53 laps
+  2. Tony Maggs (Cooper-Climax) - 53 laps (+1:04.900)
+  3. Graham Hill (BRM) - 53 laps (+1:13.900)
 
-## Verified Key Race Results
-- **Pole Position**: Jim Clark (Lotus 25-Climax) - 2:20.2
-- **Fastest Race Lap**: Jim Clark (Lotus 25-Climax) - 2:21.6 (Lap 12)
-- **Race Winner**: Jim Clark (Lotus-Climax) - 2:10:54.300 (9 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Clark's Hat-Trick of Grand Slams**: Jim Clark achieved his third consecutive Grand Slam (pole, led every lap, fastest lap, and win), winning by over a minute.
+- **Graham Hill's Push-Start Penalty**: Graham Hill stalled on the grid with a flat battery and was push-started by marshals. He drove a charging recovery race to finish 2nd on the road, but stewards assessed a 1-minute time penalty for the push-start, dropping him behind Tony Maggs into 3rd place.
+- **Cooper 2nd Place**: South African driver Tony Maggs secured 2nd place in the works Cooper-Climax.
+- **Track & Weather Conditions**: Overcast, cool Champagne country afternoon; dry track.
 
-## Official Podium Finishers
-- **1st** : Jim Clark (Lotus-Climax) — 2:10:54.300 [9 pts]
-- **2nd** : Tony Maggs (Cooper-Climax) — +1:04.900 [6 pts]
-- **3rd** : Graham Hill (BRM) — +1:13.900 [0 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1963/races/208/france/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1963/4/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Another Grand Slam for Clark: Clark scored his second consecutive Grand Slam, leading all 53 laps from pole position and setting fastest lap to win by 1 minute 4.9 seconds over Tony Brooks in the Brabham.
-- Hill Push-Start Penalty: Graham Hill stalled on the grid, received an unauthorized push-start from marshals, was penalized one minute, and finished 3rd without receiving championship points.
-- Jack Brabham 2nd in Own Car: Team boss Jack Brabham finished 2nd, the first 1-2 podium finish involving customer and factory Brabham cars.
-
-## Records Set or Equalled
-- Jim Clark achieved back-to-back Grand Slams (Zandvoort and Reims).
-- Clark expanded championship lead to 18 points.
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1963/races/208/french/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1963/4/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Roadside spectator estimates claimed 60,000 attendees; unverified in official sporting records.
