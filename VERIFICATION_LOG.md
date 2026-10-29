@@ -3086,3 +3086,34 @@ Last verified: 2026-10-29
   - Anachronistic modern circuit names across the 1980s (Red Bull Ring, Autódromo Internacional Nelson Piquet, Autodromo Enzo e Dino Ferrari, Caesars Palace, Fair Park) corrected to contemporary official names for each specific year.
   - Spectator attendance estimates across all 156 rounds systematically segregated from primary facts into `## Unverified Claims / Historical Estimates (Needs Primary Source)`.
   - Remaining gaps: None. The 1980s decade is 100% verified against primary sources.
+
+### Cross-check audit: 1990 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: `https://www.formula1.com/en/results/1990/races`
+  - Formula1.com Official Standings Archive: `https://www.formula1.com/en/results/1990/drivers` and `/team`
+  - FIA Official Sporting Classifications and Yearbooks (1990)
+  - Jolpica-F1 Ergast API (`/1990/results.json`, `/1990/driverStandings.json`, `/1990/constructorStandings.json`)
+- **Total Claims Checked**: 495+ claims (419 starter rows, 16 race results, 16 starting grids, 16 fastest laps, 18 driver standings rows, 10 constructor standings rows)
+- **Number Corrected**: 10 primary corrections applied:
+  1. *French GP Lap Count*: Corrected Thierry Boutsen in `results.json` from 7 laps to 8 laps to match Formula1.com official classification.
+  2. *Italian GP Lap Count*: Corrected Riccardo Patrese in `results.json` from 52 laps to 53 laps (+85.274s, completing full 53 laps) to match Formula1.com official classification.
+  3. *Japanese GP Lap Count*: Corrected David Brabham in `results.json` from 5 laps to 2 laps (retired on lap 2 with clutch failure) to match Formula1.com official classification.
+  4. *Brazilian GP Fastest Lap*: Corrected fastest lap in `notes.md` from erroneous 1:21.145 on lap 37 to official 1:19.899 on lap 55 by Gerhard Berger (McLaren-Honda).
+  5. *Portuguese GP Pole Position*: Corrected Nigel Mansell's pole time in `notes.md` from 1:13.514 to official 1:13.557.
+  6. *Australian GP Fastest Lap*: Corrected Nigel Mansell's fastest lap lap number in `notes.md` from lap 56 to lap 75 (1:18.203).
+  7. *WDC Gross Points for Nelson Piquet*: Corrected Nelson Piquet's gross points from 43 to 44 (scored 44 gross, 43 net after dropping 1 point under best 11 rule).
+  8. *WDC Constructor Attribution for Roberto Moreno*: Updated constructor from sole "Euro Brun" to "EuroBrun-Judd / Benetton-Ford" as his 6 points (2nd place in Japan) were scored for Benetton.
+  9. *San Marino Circuit Name*: Updated circuit name in `calendar.md` and `notes.md` from anachronistic `Autodromo Dino Ferrari` to `Autodromo Enzo e Dino Ferrari` (officially renamed in late 1988).
+  10. *Phoenix Narrative Chassis Correction*: Corrected Jean Alesi's car at Phoenix from Tyrrell 019 to Tyrrell 018 (the revolutionary high-nose 019 debuted at San Marino, Round 3).
+- **Number Marked UNVERIFIED or Removed**: 0 spectator attendance claims remained in fact body; all unverified historical crowd estimates segregated.
+- **Discrepancies Found Between Sources**:
+  - *French GP Post-Race Disqualification*: Andrea de Cesaris finished 15th on track (+2 laps), but was disqualified post-race for an underweight car. Formula1.com preserves the provisional 15th on-track finish, while Jolpica and FIA records classify him as Disqualified ('D'). Documented both in `notes.md`.
+  - *Omitted Lap-1 Retirees on Formula1.com*: As in earlier seasons, Formula1.com web tables omit drivers who retired on lap 1 or DNS (e.g. Senna, Prost, and Modena at Suzuka; Capelli, Nakajima, and Moreno at Imola; de Cesaris at Interlagos; Pirro at Monaco; Suzuki and Barilla at Spa). All starters retained with accurate grid and retirement data from official FIA classifications.
+- **Championship Summary**:
+  - World Drivers' Champion: Ayrton Senna (McLaren-Honda) - 78 net / 78 gross pts (6 wins, 11 podiums, 10 poles) - 2nd World Championship
+  - Runner-up: Alain Prost (Ferrari) - 71 net / 73 gross pts (5 wins, 9 podiums, 2 dropped points from Canada 5th place)
+  - 3rd Place: Nelson Piquet (Benetton-Ford) - 43 net / 44 gross pts (2 wins, 4 podiums, awarded 3rd on countback of 2 wins vs Berger's 0 wins)
+  - World Constructors' Champion: McLaren-Honda - 121 pts (6 wins, 18 podiums)
+  - Runner-up: Scuderia Ferrari - 110 pts (6 wins, 14 podiums)
+- **Gaps That Remain**: None. The 1990 season is 100% verified against primary sources.

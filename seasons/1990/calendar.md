@@ -6,7 +6,7 @@ The 1990 FIA Formula 1 World Championship consisted of 16 rounds across 5 contin
 |:---:|:---|:---|:---|:---|:---|:---|:---|
 | 1 | [United States Grand Prix](races/united-states-grand-prix/notes.md) | Phoenix street circuit | Phoenix, Arizona, USA | 1990-03-11 | Ayrton Senna | Gerhard Berger | Gerhard Berger |
 | 2 | [Brazilian Grand Prix](races/brazilian-grand-prix/notes.md) | Autódromo José Carlos Pace (Interlagos) | São Paulo, Brazil | 1990-03-25 | Alain Prost | Ayrton Senna | Gerhard Berger |
-| 3 | [San Marino Grand Prix](races/san-marino-grand-prix/notes.md) | Autodromo Dino Ferrari | Imola, Italy | 1990-05-13 | Riccardo Patrese | Ayrton Senna | Alessandro Nannini |
+| 3 | [San Marino Grand Prix](races/san-marino-grand-prix/notes.md) | Autodromo Enzo e Dino Ferrari | Imola, Italy | 1990-05-13 | Riccardo Patrese | Ayrton Senna | Alessandro Nannini |
 | 4 | [Monaco Grand Prix](races/monaco-grand-prix/notes.md) | Circuit de Monaco | Monte Carlo, Monaco | 1990-05-27 | Ayrton Senna | Ayrton Senna | Ayrton Senna |
 | 5 | [Canadian Grand Prix](races/canadian-grand-prix/notes.md) | Circuit Gilles Villeneuve | Montreal, Canada | 1990-06-10 | Ayrton Senna | Ayrton Senna | Gerhard Berger |
 | 6 | [Mexican Grand Prix](races/mexican-grand-prix/notes.md) | Autódromo Hermanos Rodríguez | Mexico City, Mexico | 1990-06-24 | Alain Prost | Gerhard Berger | Alain Prost |
@@ -24,6 +24,7 @@ The 1990 FIA Formula 1 World Championship consisted of 16 rounds across 5 contin
 ---
 
 ## Key Regulatory Features & Technical Specifications
-- **Engine Regulations:** 3.5-litre naturally aspirated engines (maximum 12 cylinders).
-- **Tyre Supply:** Goodyear exclusively supplied all front-running teams; Pirelli supplied selected midfield teams (Tyrrell, Brabham, Dallara, EuroBrun, Coloni, Osella).
-- **Points Scoring:** 9-6-4-3-2-1. Best 11 results counted for WDC. All results counted for WCC.
+- **Engine Regulations:** 3.5-litre naturally aspirated engines (maximum 12 cylinders). Turbochargers strictly prohibited.
+- **Tyre Supply:** Goodyear supplied the front-running teams (McLaren, Ferrari, Williams, Benetton, etc.); Pirelli supplied selected midfield constructors (Tyrrell, Brabham, Dallara, EuroBrun, Coloni, Osella).
+- **Points Scoring:** 9-6-4-3-2-1 for top 6 finishers. Best 11 results counted toward the Drivers' Championship. All results counted toward the Constructors' Championship.
+- **Historical Significance:** 1990 marked the final season in Formula 1 history to employ the dropped scores ("best results") rule. From 1991 onwards, all rounds counted toward both championships.
