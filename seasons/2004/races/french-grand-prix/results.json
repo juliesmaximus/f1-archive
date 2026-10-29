@@ -275,7 +275,7 @@
                 "code": "RAI",
                 "url": "http://en.wikipedia.org/wiki/Kimi_R%C3%A4ikk%C3%B6nen",
                 "givenName": "Kimi",
-                "familyName": "R\u00e4ikk\u00f6nen",
+                "familyName": "Räikkönen",
                 "dateOfBirth": "1979-10-17",
                 "nationality": "Finnish"
               },
@@ -391,7 +391,7 @@
                 "driverId": "gene",
                 "url": "http://en.wikipedia.org/wiki/Marc_Gen%C3%A9",
                 "givenName": "Marc",
-                "familyName": "Gen\u00e9",
+                "familyName": "Gené",
                 "dateOfBirth": "1974-03-29",
                 "nationality": "Spanish"
               },
@@ -683,7 +683,7 @@
                 "nationality": "Italian"
               },
               "grid": "19",
-              "laps": "66",
+              "laps": "65",
               "status": "+4 Laps",
               "FastestLap": {
                 "rank": "19",

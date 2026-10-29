@@ -8,7 +8,6 @@
 - **Location:** Melbourne, Australia
 - **Circuit Length:** 5.303 km (3.295 miles)
 - **Altitude:** 10 m above sea level
-- **Official Attendance:** 120,500 race day (362,000 weekend)
 
 ---
 
@@ -35,7 +34,12 @@ New single-engine per weekend rule came into force; several teams struggled with
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and circuit estimates reported an attendance figure of 120,500 race day (362,000 weekend). Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Foster's Australian Grand Prix Results](https://www.formula1.com/en/results.html/2004/races/752/australia/race-result.html)
+- **Official Formula 1 Results Archive:** [Foster's Australian Grand Prix Results](https://www.formula1.com/en/results/2004/races/753/australia/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2004/1/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2004)

@@ -8,7 +8,6 @@
 - **Location:** Kuala Lumpur, Malaysia
 - **Circuit Length:** 5.543 km (3.444 miles)
 - **Altitude:** 45 m above sea level
-- **Official Attendance:** 90,000
 
 ---
 
@@ -35,7 +34,12 @@ Mark Webber stalled from 2nd on the grid in his Jaguar, triggering a drive-throu
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and circuit estimates reported an attendance figure of 90,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Petronas Malaysian Grand Prix Results](https://www.formula1.com/en/results.html/2004/races/753/malaysia/race-result.html)
+- **Official Formula 1 Results Archive:** [Petronas Malaysian Grand Prix Results](https://www.formula1.com/en/results/2004/races/754/malaysia/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2004/2/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2004)

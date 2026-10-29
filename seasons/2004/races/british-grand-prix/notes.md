@@ -8,7 +8,6 @@
 - **Location:** Silverstone, United Kingdom
 - **Circuit Length:** 5.141 km (3.194 miles)
 - **Altitude:** 155 m above sea level
-- **Official Attendance:** 100,000
 
 ---
 
@@ -35,7 +34,12 @@ Safety Car on lap 40 bunched the field after Trulli's high-speed barrel roll, se
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and circuit estimates reported an attendance figure of 100,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Foster's British Grand Prix Results](https://www.formula1.com/en/results.html/2004/races/762/great-britain/race-result.html)
+- **Official Formula 1 Results Archive:** [Foster's British Grand Prix Results](https://www.formula1.com/en/results/2004/races/763/great-britain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2004/11/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2004)

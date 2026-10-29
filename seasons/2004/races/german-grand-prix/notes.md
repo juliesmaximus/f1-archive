@@ -8,7 +8,6 @@
 - **Location:** Hockenheim, Germany
 - **Circuit Length:** 4.574 km (2.842 miles)
 - **Altitude:** 103 m above sea level
-- **Official Attendance:** 110,000
 
 ---
 
@@ -35,7 +34,12 @@ McLaren rear-wing structural failure prompted an immediate FIA safety inquiry.
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and circuit estimates reported an attendance figure of 110,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Großer Mobil 1 Preis von Deutschland Results](https://www.formula1.com/en/results.html/2004/races/763/germany/race-result.html)
+- **Official Formula 1 Results Archive:** [Großer Mobil 1 Preis von Deutschland Results](https://www.formula1.com/en/results/2004/races/764/germany/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2004/12/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2004)

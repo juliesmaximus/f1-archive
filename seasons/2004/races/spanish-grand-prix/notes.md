@@ -8,7 +8,6 @@
 - **Location:** Montmeló, Spain
 - **Circuit Length:** 4.627 km (2.875 miles)
 - **Altitude:** 125 m above sea level
-- **Official Attendance:** 108,000 passionate Spanish fans
 
 ---
 
@@ -35,7 +34,12 @@ A track spectator (Jimmy Jump) ran across the main straight on the warm-up lap b
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and circuit estimates reported an attendance figure of 108,000 passionate Spanish fans. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio Marlboro de España Results](https://www.formula1.com/en/results.html/2004/races/756/spain/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio Marlboro de España Results](https://www.formula1.com/en/results/2004/races/757/spain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2004/5/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2004)

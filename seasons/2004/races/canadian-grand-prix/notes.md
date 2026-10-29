@@ -8,7 +8,6 @@
 - **Location:** Montreal, Canada
 - **Circuit Length:** 4.361 km (2.710 miles)
 - **Altitude:** 14 m above sea level
-- **Official Attendance:** 118,000
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Michael Schumacher (Ferrari)
 - **Pole Position:** Ralf Schumacher (Williams-BMW) - 1:12.275
-- **Fastest Lap:** Rubens Barrichello (Ferrari) - 1:13.622 (lap 44)
+- **Fastest Lap:** Rubens Barrichello (Ferrari) - 1:13.622 (Lap 68)
 
 ---
 
@@ -35,7 +34,12 @@ Williams and Toyota brake duct disqualification promoted Rubens Barrichello to 2
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and circuit estimates reported an attendance figure of 118,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Grand Prix du Canada Results](https://www.formula1.com/en/results.html/2004/races/759/canada/race-result.html)
+- **Official Formula 1 Results Archive:** [Grand Prix du Canada Results](https://www.formula1.com/en/results/2004/races/760/canada/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2004/8/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2004)

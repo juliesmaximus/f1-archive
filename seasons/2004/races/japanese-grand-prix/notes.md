@@ -8,7 +8,6 @@
 - **Location:** Suzuka, Mie, Japan
 - **Circuit Length:** 5.807 km (3.608 miles)
 - **Altitude:** 45 m above sea level
-- **Official Attendance:** 135,000
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Michael Schumacher (Ferrari)
 - **Pole Position:** Michael Schumacher (Ferrari) - 1:33.542
-- **Fastest Lap:** Michael Schumacher (Ferrari) - 1:32.730 (lap 30)
+- **Fastest Lap:** Rubens Barrichello (Ferrari) - 1:32.730 (Lap 30)
 
 ---
 
@@ -35,7 +34,12 @@ Historic first Sunday morning qualifying session due to the typhoon force winds 
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and circuit estimates reported an attendance figure of 135,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Fuji Television Japanese Grand Prix Results](https://www.formula1.com/en/results.html/2004/races/768/japan/race-result.html)
+- **Official Formula 1 Results Archive:** [Fuji Television Japanese Grand Prix Results](https://www.formula1.com/en/results/2004/races/769/japan/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2004/17/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2004)

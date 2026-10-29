@@ -20,7 +20,7 @@ The 2004 FIA Formula 1 World Championship consisted of 18 rounds across 5 contin
 | 14 | [Belgian Grand Prix](races/belgian-grand-prix/notes.md) | Circuit de Spa-Francorchamps | Spa, Belgium | 2004-08-29 | Kimi Räikkönen | Jarno Trulli | Kimi Räikkönen |
 | 15 | [Italian Grand Prix](races/italian-grand-prix/notes.md) | Autodromo Nazionale di Monza | Monza, Italy | 2004-09-12 | Rubens Barrichello | Rubens Barrichello | Rubens Barrichello |
 | 16 | [Chinese Grand Prix](races/chinese-grand-prix/notes.md) | Shanghai International Circuit | Shanghai, China | 2004-09-26 | Rubens Barrichello | Rubens Barrichello | Michael Schumacher |
-| 17 | [Japanese Grand Prix](races/japanese-grand-prix/notes.md) | Suzuka International Racing Course | Suzuka, Mie, Japan | 2004-10-10 | Michael Schumacher | Michael Schumacher | Michael Schumacher |
+| 17 | [Japanese Grand Prix](races/japanese-grand-prix/notes.md) | Suzuka International Racing Course | Suzuka, Mie, Japan | 2004-10-10 | Michael Schumacher | Michael Schumacher | Rubens Barrichello |
 | 18 | [Brazilian Grand Prix](races/brazilian-grand-prix/notes.md) | Autódromo José Carlos Pace (Interlagos) | São Paulo, Brazil | 2004-10-24 | Juan Pablo Montoya | Rubens Barrichello | Juan Pablo Montoya |
 
 ---

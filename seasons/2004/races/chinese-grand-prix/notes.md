@@ -8,7 +8,6 @@
 - **Location:** Shanghai, China
 - **Circuit Length:** 5.451 km (3.387 miles)
 - **Altitude:** 10 m above sea level
-- **Official Attendance:** 150,000 inaugurating Shanghai stadium
 
 ---
 
@@ -35,7 +34,12 @@ Jacques Villeneuve made his F1 return replacing Jarno Trulli at Renault for the 
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and circuit estimates reported an attendance figure of 150,000 inaugurating Shanghai stadium. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Sinopec Chinese Grand Prix Results](https://www.formula1.com/en/results.html/2004/races/767/china/race-result.html)
+- **Official Formula 1 Results Archive:** [Sinopec Chinese Grand Prix Results](https://www.formula1.com/en/results/2004/races/768/china/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2004/16/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2004)

@@ -8,7 +8,6 @@
 - **Location:** Imola, Italy
 - **Circuit Length:** 4.933 km (3.065 miles)
 - **Altitude:** 48 m above sea level
-- **Official Attendance:** 92,000 tifosi
 
 ---
 
@@ -35,7 +34,12 @@ Montoya and Schumacher banged wheels at Tosa hairpin on lap 9; Montoya accused S
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and circuit estimates reported an attendance figure of 92,000 tifosi. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio Foster's di San Marino Results](https://www.formula1.com/en/results.html/2004/races/755/san-marino/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio Foster's di San Marino Results](https://www.formula1.com/en/results/2004/races/756/san-marino/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2004/4/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2004)

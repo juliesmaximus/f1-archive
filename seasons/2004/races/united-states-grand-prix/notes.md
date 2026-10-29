@@ -8,7 +8,6 @@
 - **Location:** Speedway, Indiana, USA
 - **Circuit Length:** 4.192 km (2.605 miles)
 - **Altitude:** 220 m above sea level
-- **Official Attendance:** 120,000
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Michael Schumacher (Ferrari)
 - **Pole Position:** Rubens Barrichello (Ferrari) - 1:10.223
-- **Fastest Lap:** Rubens Barrichello (Ferrari) - 1:10.399 (lap 63)
+- **Fastest Lap:** Rubens Barrichello (Ferrari) - 1:10.399 (Lap 7)
 
 ---
 
@@ -35,7 +34,12 @@ Montoya was black-flagged on lap 57 for abandoning his stalled car on the grid a
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and circuit estimates reported an attendance figure of 120,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [United States Grand Prix Results](https://www.formula1.com/en/results.html/2004/races/760/united-states/race-result.html)
+- **Official Formula 1 Results Archive:** [United States Grand Prix Results](https://www.formula1.com/en/results/2004/races/761/united-states/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2004/9/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2004)

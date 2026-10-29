@@ -8,7 +8,6 @@
 - **Location:** Monza, Italy
 - **Circuit Length:** 5.793 km (3.600 miles)
 - **Altitude:** 162 m above sea level
-- **Official Attendance:** 120,000 ecstatic tifosi
 
 ---
 
@@ -21,7 +20,7 @@
 ## 3. Official Race Classification Summary
 - **Winner:** Rubens Barrichello (Ferrari)
 - **Pole Position:** Rubens Barrichello (Ferrari) - 1:20.089
-- **Fastest Lap:** Rubens Barrichello (Ferrari) - 1:21.046 (lap 29)
+- **Fastest Lap:** Rubens Barrichello (Ferrari) - 1:21.046 (Lap 41)
 
 ---
 
@@ -35,7 +34,12 @@ Montoya set the fastest lap in F1 history in pre-qualifying at an average speed 
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and circuit estimates reported an attendance figure of 120,000 ecstatic tifosi. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio Vodafone d'Italia Results](https://www.formula1.com/en/results.html/2004/races/766/italy/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio Vodafone d'Italia Results](https://www.formula1.com/en/results/2004/races/767/italy/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2004/15/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2004)

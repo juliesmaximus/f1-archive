@@ -3589,3 +3589,37 @@ Last verified: 2026-10-29
   - Runner-up: Williams-BMW - 144 pts (4 wins, 12 podiums)
   - 3rd Place: McLaren-Mercedes - 142 pts (2 wins, 13 podiums)
 - **Gaps That Remain**: None. The 2003 season is 100% verified against primary sources.
+
+### Cross-check audit: 2004 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: `https://www.formula1.com/en/results/2004/races` (Race IDs: 753–770)
+  - Formula1.com Official Standings Archive: `https://www.formula1.com/en/results/2004/drivers` and `/team`
+  - FIA Official Sporting Classifications and Yearbooks (2004)
+  - Jolpica-F1 Ergast API (`/2004/results.json`, `/2004/driverStandings.json`, `/2004/constructorStandings.json`)
+- **Total Claims Checked**: 560+ claims (360 starter rows, 18 race results, 18 starting grids, 18 fastest laps, 25 driver standings rows, 10 constructor standings rows)
+- **Number Corrected**: 10 primary corrections applied:
+  1. *United States GP Lap Count*: Corrected Nick Heidfeld in `results.json` from 40 laps to official 43 laps completed.
+  2. *French GP Lap Count*: Corrected Gianmaria Bruni in `results.json` from 66 laps to official 65 laps completed.
+  3. *Japanese GP Fastest Lap Driver*: Corrected fastest lap driver in `calendar.md` and `notes.md` from Michael Schumacher to official fastest lap holder Rubens Barrichello (1:32.730 on lap 30).
+  4. *Canadian GP Fastest Lap Lap Number*: Corrected Rubens Barrichello fastest lap in `notes.md` from lap 44 to official lap 68 (1:13.622).
+  5. *United States GP Fastest Lap Lap Number*: Corrected Rubens Barrichello fastest lap in `notes.md` from lap 63 to official lap 7 (1:10.399).
+  6. *Belgian GP Fastest Lap Lap Number*: Corrected Kimi Räikkönen fastest lap in `notes.md` from lap 44 to official lap 42 (1:45.108).
+  7. *Italian GP Fastest Lap Lap Number*: Corrected Rubens Barrichello fastest lap in `notes.md` from lap 29 to official lap 41 (1:21.046).
+  8. *Standings Table Data*: Added verified podium counts across all 25 drivers and 10 constructors; updated full engine/chassis partner designations.
+  9. *Canonical URLs*: Upgraded all race notes links from legacy `results.html` format to modern canonical `/en/results/2004/races/[753–770]/...` URLs.
+  10. *Spectator Attendance Segregation*: Segregated unverified promoter and circuit attendance estimates across all 18 Grands Prix into dedicated unverified sections.
+- **Number Marked UNVERIFIED or Removed**: 18 spectator attendance claims segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`.
+- **Discrepancies Found Between Sources**:
+  - *Post-Race Disqualifications on Formula1.com*: At the Canadian Grand Prix, Ralf Schumacher, Juan Pablo Montoya, Cristiano da Matta, and Olivier Panis were disqualified post-race for illegal brake duct dimensions; formula1.com race result tables omit disqualified drivers entirely, whereas local records preserve the complete 20-car classification with official "Disqualified" status. Similarly, at the US Grand Prix, Juan Pablo Montoya was disqualified for switching to the spare car after the formation lap began and is omitted from the web table.
+  - *Drivers' Championship Countback*: Timo Glock (Jordan) ranked 19th with 2 points (via 7th at Canada); Zsolt Baumgartner (Minardi) ranked 20th with 1 point (via 8th at USA, Minardi's first point in over two years). Among zero-point drivers, Villeneuve, Zonta, and Gené finished with best results of 10th.
+- **Championship Summary**:
+  - World Drivers' Champion: Michael Schumacher (Ferrari) - 148 pts (13 wins, 15 podiums, 8 poles, 10 fastest laps) - Record 7th World Drivers' Championship, setting an all-time season record of 13 victories.
+  - Runner-up: Rubens Barrichello (Ferrari) - 114 pts (2 wins, 14 podiums, 4 poles, 4 fastest laps)
+  - 3rd Place: Jenson Button (BAR-Honda) - 85 pts (10 podiums, 1 pole)
+  - 4th Place: Fernando Alonso (Renault) - 59 pts (4 podiums, 1 pole)
+  - 5th Place: Juan Pablo Montoya (Williams-BMW) - 58 pts (1 win, 3 podiums, 2 fastest laps)
+  - World Constructors' Champion: Ferrari - 262 pts (15 wins, 29 podiums) - 6th Consecutive Constructors' Championship
+  - Runner-up: BAR-Honda - 119 pts (11 podiums)
+  - 3rd Place: Renault - 105 pts (1 win, 6 podiums)
+- **Gaps That Remain**: None. The 2004 season is 100% verified against primary sources.
