@@ -13,7 +13,7 @@ Official calendar for the inaugural 1950 FIA Formula One World Championship seas
 | 7 | [Italian Grand Prix](races/italian-grand-prix) | Autodromo Nazionale di Monza | Monza, Italy | 1950-09-03 | Nino Farina | Juan Manuel Fangio |
 
 ### Primary Sources
-- Official Formula 1 1950 Races Archive: https://www.formula1.com/en/results.html/1950/races.html
+- Official Formula 1 1950 Races Archive: https://www.formula1.com/en/results/1950/races
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1950.json
 
-Last verified: 2026-10-29
+*Audited and re-verified against primary sources: 2026-10-29*

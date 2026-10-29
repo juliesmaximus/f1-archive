@@ -34,11 +34,11 @@ Final official standings for the inaugural 1950 World Championship of Drivers. T
 | **20=**| Joie Chitwood | American | Kurtis Kraft-Offenhauser | 1 | **1** | 0 | 0 |
 | **20=**| Tony Bettenhausen | American | Kurtis Kraft-Offenhauser | 1 | **1** | 0 | 0 |
 
-*(Note: Luigi Fagioli scored 28 gross points via four 2nd places and one 3rd place, dropping 4 points to finish on 24 net points)*
+*(Note: Luigi Fagioli scored 28 gross points via four 2nd places and one 3rd place, dropping 4 points under the best-4 rule to finish on 24 net points)*
 
 ### Primary Sources
-- Official Formula 1 1950 Drivers Standings: https://www.formula1.com/en/results.html/1950/drivers.html
+- Official Formula 1 1950 Drivers Standings: https://www.formula1.com/en/results/1950/drivers
 - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
 - Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1950/driverStandings.json
 
-Last verified: 2026-10-29
+*Audited and re-verified against primary sources: 2026-10-29*

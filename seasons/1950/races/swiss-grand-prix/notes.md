@@ -11,34 +11,33 @@
 - **Race Distance**: 42 laps / 305.760 km (190.008 mi)
 - **Official Race Date**: 1950-06-04
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Cool, overcast, dry track lined with tree canopies creating dappled light.
-- **Spectator Attendance**: Estimated 70,000 spectators.
-- **Grandstand & Infrastructure Notes**: Main wooden grandstand opposite pit lane along the Bremgarten forest roadway.
+## Weather, Environment & Track Conditions
+- **Weather & Track Conditions**: Overcast, cool, dry road course shaded by Bremgarten forest trees.
 
 ## Verified Key Race Results
-- **Pole Position**: Juan Manuel Fangio (Alfa Romeo 158) - 2:42.1
-- **Fastest Race Lap**: Giuseppe 'Nino' Farina (Alfa Romeo 158) - 2:41.6 [1 pt]
-- **Race Winner**: Nino Farina (Alfa Romeo) - 2:02:53.700 (9 pts)
+- **Pole Position**: Juan Manuel Fangio (Alfa Romeo 158) – 2:42.100
+- **Fastest Race Lap**: Giuseppe 'Nino' Farina (Alfa Romeo 158) – 2:41.600 (Lap 8) [1 pt]
+- **Race Winner**: Nino Farina (Alfa Romeo) – 2:02:53.700 (9 pts: 8 win + 1 FL)
 
 ## Official Podium Finishers
-- **1st** : Nino Farina (Alfa Romeo) — 2:02:53.700 [9 pts]
-- **2nd** : Luigi Fagioli (Alfa Romeo) — +0.400 [6 pts]
-- **3rd** : Louis Rosier (Talbot-Lago) — +1 Lap [4 pts]
+- **1st** : Nino Farina (Alfa Romeo) – 2:02:53.700 [9 pts]
+- **2nd** : Luigi Fagioli (Alfa Romeo) – +0.400s [6 pts]
+- **3rd** : Louis Rosier (Talbot-Lago) – +1 lap [4 pts]
 
 ## Verified Race Scenarios, Anomalies & Controversies
-- Alfa Romeo Dominance Resumes: Following their absence from the Indianapolis 500, Alfa Romeo dominated Bremgarten. Farina, Fagioli, and Fangio led from the opening laps.
-- Fangio Mechanical Heartbreak: Fangio led the race from pole and set the fastest lap (2:41.6), but suffered an electrical valve gear failure on lap 33, handing victory to teammate Nino Farina.
-- Luigi Fagioli finished 2nd for the 2nd time in 3 appearances, trailing Farina by just 0.4 seconds at the line.
-- Louis Rosier scored Talbot-Lago's first World Championship podium (3rd place), running non-stop without refuelling thanks to the unblown 4.5L engine's superior fuel economy compared to the thirsty supercharged 1.5L Alfa Romeo 158.
+- **Fangio Mechanical DNF**: Juan Manuel Fangio started on pole and challenged for the lead before retiring on lap 33 with valve gear / electrical issues.
+- **Close Alfa Duel**: Farina and Fagioli staged a close fight, with Farina winning by just 0.400 seconds.
+- **Talbot-Lago First Podium**: Louis Rosier achieved the first World Championship podium for Talbot-Lago (3rd place, 4 points).
+- **Two-Time Winner Milestone**: Nino Farina became the first driver to win two World Championship Grands Prix (Silverstone and Bremgarten).
 
-## Records Set or Equalled
-- Nino Farina became the first two-time Grand Prix winner in World Championship history.
-- First podium for Talbot-Lago in World Championship history (Louis Rosier, 3rd).
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- *Spectator Attendance*: Contemporary press estimated 70,000 spectators; not verified by official FIA classification.
 
 ## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1950/races/97/switzerland/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1950/4/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
+- Formula1.com Official Classification: https://www.formula1.com/en/results/1950/races/97/switzerland/race-result
+- Formula1.com Official Starting Grid: https://www.formula1.com/en/results/1950/races/97/switzerland/starting-grid
+- Formula1.com Official Fastest Laps: https://www.formula1.com/en/results/1950/races/97/switzerland/fastest-laps
+- Jolpica-F1 API Classification: https://api.jolpi.ca/ergast/f1/1950/4/results.json
+- FIA Hall of Fame: https://www.fia.com/hall-of-fame
 
-*Last verified: 2026-10-29*
+*Audited and re-verified against primary sources: 2026-10-29*
