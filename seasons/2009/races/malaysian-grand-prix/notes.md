@@ -8,7 +8,6 @@
 - **Location:** Kuala Lumpur, Malaysia
 - **Circuit Length:** 5.543 km (3.444 miles)
 - **Altitude:** 45 m above sea level
-- **Official Attendance:** 92,000
 
 ---
 
@@ -35,7 +34,12 @@ First half-points race in Formula 1 since the 1991 Australian Grand Prix.
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 92,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Petronas Malaysian Grand Prix Results](https://www.formula1.com/en/results.html/2009/races/843/malaysia/race-result.html)
+- **Official Formula 1 Results Archive:** [Petronas Malaysian Grand Prix Results](https://www.formula1.com/en/results/2009/races/844/malaysia/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2009/2/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2009)

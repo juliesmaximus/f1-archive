@@ -8,7 +8,6 @@
 - **Location:** Shanghai, China
 - **Circuit Length:** 5.451 km (3.387 miles)
 - **Altitude:** 10 m above sea level
-- **Official Attendance:** 120,000
 
 ---
 
@@ -35,7 +34,12 @@ Just days earlier, the FIA Court of Appeal declared the 'Double Diffuser' legal,
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 120,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Chinese Grand Prix Results](https://www.formula1.com/en/results.html/2009/races/844/china/race-result.html)
+- **Official Formula 1 Results Archive:** [Chinese Grand Prix Results](https://www.formula1.com/en/results/2009/races/845/china/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2009/3/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2009)

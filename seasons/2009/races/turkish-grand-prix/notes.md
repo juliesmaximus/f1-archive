@@ -8,7 +8,6 @@
 - **Location:** Tuzla, Istanbul, Turkey
 - **Circuit Length:** 5.338 km (3.317 miles)
 - **Altitude:** 120 m above sea level
-- **Official Attendance:** 60,000
 
 ---
 
@@ -35,7 +34,12 @@ Button became the first driver to win 6 of the opening 7 rounds since Michael Sc
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 60,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [ING Turkish Grand Prix Results](https://www.formula1.com/en/results.html/2009/races/848/turkey/race-result.html)
+- **Official Formula 1 Results Archive:** [ING Turkish Grand Prix Results](https://www.formula1.com/en/results/2009/races/849/turkey/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2009/7/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2009)

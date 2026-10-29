@@ -8,7 +8,6 @@
 - **Location:** Spa, Belgium
 - **Circuit Length:** 7.004 km (4.352 miles)
 - **Altitude:** 420 m above sea level
-- **Official Attendance:** 80,000
 
 ---
 
@@ -35,7 +34,12 @@ First-lap pileup at Les Combes eliminated championship contenders Button and Ham
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 80,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [ING Belgian Grand Prix Results](https://www.formula1.com/en/results.html/2009/races/853/belgium/race-result.html)
+- **Official Formula 1 Results Archive:** [ING Belgian Grand Prix Results](https://www.formula1.com/en/results/2009/races/854/belgium/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2009/12/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2009)

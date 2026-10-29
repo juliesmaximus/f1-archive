@@ -8,7 +8,6 @@
 - **Location:** Yas Island, Abu Dhabi, UAE
 - **Circuit Length:** 5.554 km (3.451 miles)
 - **Altitude:** 12 m above sea level
-- **Official Attendance:** 50,000 sell-out inaugural crowd
 
 ---
 
@@ -35,7 +34,12 @@ Final Grand Prix with in-race refuelling before its permanent ban in 2010.
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 50,000 sell-out inaugural crowd. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Etihad Airways Abu Dhabi Grand Prix Results](https://www.formula1.com/en/results.html/2009/races/858/abu-dhabi/race-result.html)
+- **Official Formula 1 Results Archive:** [Etihad Airways Abu Dhabi Grand Prix Results](https://www.formula1.com/en/results/2009/races/859/abu-dhabi/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2009/17/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2009)

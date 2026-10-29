@@ -8,7 +8,6 @@
 - **Location:** Marina Bay, Singapore
 - **Circuit Length:** 5.073 km (3.152 miles)
 - **Altitude:** 15 m above sea level
-- **Official Attendance:** 100,000
 
 ---
 
@@ -35,7 +34,12 @@ Flavio Briatore and Pat Symonds were banned from Formula 1 by the FIA World Moto
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 100,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [SingTel Singapore Grand Prix Results](https://www.formula1.com/en/results.html/2009/races/855/singapore/race-result.html)
+- **Official Formula 1 Results Archive:** [SingTel Singapore Grand Prix Results](https://www.formula1.com/en/results/2009/races/856/singapore/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2009/14/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2009)

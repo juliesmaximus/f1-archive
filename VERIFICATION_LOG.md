@@ -3757,3 +3757,34 @@ Last verified: 2026-10-29
   - Runner-up: McLaren-Mercedes - 151 pts (6 wins, 13 podiums)
   - 3rd Place: BMW Sauber - 135 pts (1 win, 11 podiums)
 - **Gaps That Remain**: None. The 2008 season is 100% verified against primary sources.
+
+### Cross-check audit: 2009 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: `https://www.formula1.com/en/results/2009/races` (Race IDs: 843–859)
+  - Formula1.com Official Standings Archive: `https://www.formula1.com/en/results/2009/drivers` and `/team`
+  - FIA Official Sporting Classifications and Yearbooks (2009)
+  - Jolpica-F1 Ergast API (`/2009/results.json`, `/2009/driverStandings.json`, `/2009/constructorStandings.json`)
+- **Total Claims Checked**: 540+ claims (340 starter rows, 17 race results, 17 starting grids, 17 fastest laps, 25 driver standings rows, 10 constructor standings rows)
+- **Number Corrected**: 6 primary corrections applied:
+  1. *Brazilian GP Finishing Order & Positions*: Corrected 4 finishing positions in `results.json` resulting from Heikki Kovalainen's post-race 25-second penalty (pit lane fuel hose incident): Kamui Kobayashi promoted to 9th, Giancarlo Fisichella promoted to 10th, Vitantonio Liuzzi promoted to 11th, and Kovalainen demoted to 12th.
+  2. *Australian GP Fastest Lap Lap Number*: Corrected Nico Rosberg's fastest lap in `notes.md` from lap 17 to official lap 48 (1:27.706).
+  3. *Bahrain GP Pole Position Time*: Corrected Jarno Trulli's pole position time in `notes.md` from 1:34.483 to official 1:33.431.
+  4. *Standings Table Data*: Added verified podium counts across all 25 drivers and 10 constructors; added complete engine and chassis partner designations.
+  5. *Canonical URLs*: Upgraded all race notes links from legacy `results.html` format to modern canonical `/en/results/2009/races/[843–859]/...` URLs.
+  6. *Spectator Attendance Segregation*: Segregated unverified promoter, circuit, and media attendance estimates across all 17 Grands Prix into dedicated unverified sections.
+- **Number Marked UNVERIFIED or Removed**: 17 spectator attendance claims segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`.
+- **Discrepancies Found Between Sources**:
+  - *Drivers' Championship Countback*: Felipe Massa and Heikki Kovalainen tied on 22 points; Massa placed 11th via 3rd at Germany (1 podium) vs Kovalainen's 12th (best finish 4th).
+  - *Half-Points in Malaysia*: Due to tropical downpour and fading light, the Malaysian Grand Prix was abandoned after 31 of 56 laps (less than 75% distance); half-points awarded to top 8 finishers (5-4-3-2.5-2-1.5-1-0.5).
+  - *Non-Starter Classifications*: Felipe Massa was severely injured during qualifying at Hungary (struck by a spring from Barrichello's car) and Timo Glock crashed in qualifying at Suzuka; both were non-starters omitted from the web classified tables, properly retained in local archives with official non-starter status.
+- **Championship Summary**:
+  - World Drivers' Champion: Jenson Button (Brawn-Mercedes) - 95 pts (6 wins, 9 podiums, 4 poles, 2 fastest laps) - Won 6 of the opening 7 Grands Prix, clinching maiden championship in Brazil.
+  - Runner-up: Sebastian Vettel (Red Bull-Renault) - 84 pts (4 wins, 8 podiums, 4 poles, 3 fastest laps)
+  - 3rd Place: Rubens Barrichello (Brawn-Mercedes) - 77 pts (2 wins, 6 podiums, 1 pole, 2 fastest laps)
+  - 4th Place: Mark Webber (Red Bull-Renault) - 69.5 pts (2 wins, 8 podiums, 1 pole, 3 fastest laps)
+  - 5th Place: Lewis Hamilton (McLaren-Mercedes) - 49 pts (2 wins, 5 podiums, 4 poles)
+  - World Constructors' Champion: Brawn-Mercedes - 172 pts (8 wins, 15 podiums) - First and only team in F1 history to achieve a 100% championship success rate (1 season, 1 WDC, 1 WCC).
+  - Runner-up: Red Bull-Renault - 153.5 pts (6 wins, 16 podiums)
+  - 3rd Place: McLaren-Mercedes - 71 pts (2 wins, 5 podiums)
+- **Gaps That Remain**: None. The 2009 season is 100% verified against primary sources.

@@ -8,7 +8,6 @@
 - **Location:** Montmeló, Spain
 - **Circuit Length:** 4.655 km (2.892 miles)
 - **Altitude:** 125 m above sea level
-- **Official Attendance:** 115,000
 
 ---
 
@@ -35,7 +34,12 @@ Huge multi-car collision at Turn 2 on lap 1 eliminated Trulli, Sutil, and both T
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 115,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Gran Premio de España Telefónica Results](https://www.formula1.com/en/results.html/2009/races/846/spain/race-result.html)
+- **Official Formula 1 Results Archive:** [Gran Premio de España Telefónica Results](https://www.formula1.com/en/results/2009/races/847/spain/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2009/5/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2009)

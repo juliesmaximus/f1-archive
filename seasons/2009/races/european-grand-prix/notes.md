@@ -8,7 +8,6 @@
 - **Location:** Valencia, Spain
 - **Circuit Length:** 5.419 km (3.367 miles)
 - **Altitude:** 12 m above sea level
-- **Official Attendance:** 110,000
 
 ---
 
@@ -35,7 +34,12 @@ Luca Badoer substituted for Massa at Ferrari after 10 years away from racing, st
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 110,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Telefónica Grand Prix of Europe Results](https://www.formula1.com/en/results.html/2009/races/852/europe/race-result.html)
+- **Official Formula 1 Results Archive:** [Telefónica Grand Prix of Europe Results](https://www.formula1.com/en/results/2009/races/853/europe/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2009/11/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2009)

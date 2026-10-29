@@ -8,7 +8,6 @@
 - **Location:** Suzuka, Mie, Japan
 - **Circuit Length:** 5.807 km (3.608 miles)
 - **Altitude:** 45 m above sea level
-- **Official Attendance:** 140,000
 
 ---
 
@@ -35,7 +34,12 @@ Timo Glock suffered a severe crash at the final corner in qualifying, sustaining
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Contemporary media and promoter estimates reported an attendance figure of 140,000. Official ticket scan records were not published by the FIA.
+
+---
+
 ## 6. Primary Sources & Verification
-- **Official Formula 1 Results Archive:** [Fuji Television Japanese Grand Prix Results](https://www.formula1.com/en/results.html/2009/races/856/japan/race-result.html)
+- **Official Formula 1 Results Archive:** [Fuji Television Japanese Grand Prix Results](https://www.formula1.com/en/results/2009/races/857/japan/race-result)
 - **Jolpica-F1 Ergast Dataset:** `api.jolpi.ca/ergast/f1/2009/15/results.json`
 - **FIA Official Press Releases & Sporting Regulations:** Fédération Internationale de l'Automobile (2009)
