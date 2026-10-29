@@ -9,19 +9,19 @@ The 1979 season is revered as one of the golden years of Formula One:
 - **Ligier's Opening Blitz:** Guy Ligier's French team dominated the opening flyaway rounds with Jacques Laffite and Patrick Depailler in the Ligier JS11.
 
 | Round | Official Grand Prix Name | Circuit | Location | Date | Laps | Distance | Winner | Pole Position | Fastest Lap |
-|:---:|:---|:---|:---|:---|:---:|:---:|:---|:---|:---|
-| 1 | [XV Gran Premio de la Republica Argentina](races/argentine-grand-prix/notes.md) | Autódromo Municipal Ciudad de Buenos Aires | Buenos Aires, Argentina | 1979-01-21 | 53 | 5.968 km | Jacques Laffite (Ligier) | Jacques Laffite | N/A |
-| 2 | [VIII Grande Prêmio do Brasil](races/brazilian-grand-prix/notes.md) | Autódromo de Interlagos | São Paulo, Brazil | 1979-02-04 | 40 | 7.874 km | Jacques Laffite (Ligier) | Jacques Laffite | N/A |
-| 3 | [XXV Citizen and Gold Flake Grand Prix of South Africa](races/south-african-grand-prix/notes.md) | Kyalami Grand Prix Circuit | Midrand, Gauteng, South Africa | 1979-03-03 | 78 | 4.104 km | Gilles Villeneuve (Ferrari) | Jean-Pierre Jabouille | N/A |
-| 4 | [IV United States Grand Prix West](races/united-states-grand-prix-west/notes.md) | Long Beach Street Circuit | Long Beach, California, United States | 1979-04-08 | 80 | 3.43 km | Gilles Villeneuve (Ferrari) | Gilles Villeneuve | N/A |
-| 5 | [XXV Gran Premio de España](races/spanish-grand-prix/notes.md) | Circuito Permanente del Jarama | San Sebastián de los Reyes, Madrid, Spain | 1979-04-29 | 75 | 3.404 km | Patrick Depailler (Ligier) | Jacques Laffite | N/A |
-| 6 | [XXXVII Grote Prijs van Belgie](races/belgian-grand-prix/notes.md) | Circuit Zolder | Heusden-Zolder, Limburg, Belgium | 1979-05-13 | 70 | 4.262 km | Jody Scheckter (Ferrari) | Jacques Laffite | N/A |
-| 7 | [XXXVII Grand Prix de Monaco](races/monaco-grand-prix/notes.md) | Circuit de Monaco | Monte Carlo, Monaco | 1979-05-27 | 76 | 3.312 km | Jody Scheckter (Ferrari) | Jody Scheckter | N/A |
-| 8 | [LXV Grand Prix de France](races/french-grand-prix/notes.md) | Circuit de Dijon-Prenois | Prenois, Côte-d'Or, France | 1979-07-01 | 80 | 3.8 km | Jean-Pierre Jabouille (Renault) | Jean-Pierre Jabouille | N/A |
-| 9 | [XXXII Marlboro British Grand Prix](races/british-grand-prix/notes.md) | Silverstone Circuit | Silverstone, Northamptonshire, England | 1979-07-14 | 68 | 4.719 km | Clay Regazzoni (Williams) | Alan Jones | N/A |
-| 10 | [XLI Großer Preis von Deutschland](races/german-grand-prix/notes.md) | Hockenheimring | Hockenheim, Baden-Württemberg, West Germany | 1979-07-29 | 45 | 6.789 km | Alan Jones (Williams) | Jean-Pierre Jabouille | N/A |
-| 11 | [XVII Großer Preis von Österreich](races/austrian-grand-prix/notes.md) | Österreichring | Spielberg, Styria, Austria | 1979-08-12 | 54 | 5.911 km | Alan Jones (Williams) | René Arnoux | N/A |
-| 12 | [XXVIII Grote Prijs van Nederland](races/dutch-grand-prix/notes.md) | Circuit Park Zandvoort | Zandvoort, North Holland, Netherlands | 1979-08-26 | 75 | 4.226 km | Alan Jones (Williams) | René Arnoux | N/A |
-| 13 | [L Gran Premio d'Italia](races/italian-grand-prix/notes.md) | Autodromo Nazionale di Monza | Monza, Lombardy, Italy | 1979-09-09 | 50 | 5.8 km | Jody Scheckter (Ferrari) | Jean-Pierre Jabouille | N/A |
-| 14 | [XIX Grand Prix du Canada](races/canadian-grand-prix/notes.md) | Île Notre-Dame Circuit | Montreal, Quebec, Canada | 1979-09-30 | 72 | 4.41 km | Alan Jones (Williams) | Alan Jones | N/A |
-| 15 | [XXII United States Grand Prix](races/united-states-grand-prix/notes.md) | Watkins Glen Grand Prix Race Course | Watkins Glen, New York, United States | 1979-10-07 | 59 | 5.435 km | Gilles Villeneuve (Ferrari) | Alan Jones | N/A |
+|:---:|:---|:---|:---|:---|:---:|:---:|:---|:---|:---:|
+| 1 | XV Gran Premio de la Republica Argentina | Autódromo Municipal Ciudad de Buenos Aires | Buenos Aires, Argentina | 1979-01-21 | 53 | 316.304 km | Jacques Laffite (1:36:03.210) | Jacques Laffite (1:44.200) | Jacques Laffite (1:46.910) |
+| 2 | VIII Grande Prêmio do Brasil | Autódromo de Interlagos | São Paulo, Brazil | 1979-02-04 | 40 | 314.960 km | Jacques Laffite (1:40:09.640) | Jacques Laffite (2:23.070) | Jacques Laffite (2:28.760) |
+| 3 | XXV Citizen and Gold Flake Grand Prix of South Africa | Kyalami Grand Prix Circuit | Midrand, Gauteng, South Africa | 1979-03-03 | 78 | 320.112 km | Gilles Villeneuve (1:41:49.960) | Jean-Pierre Jabouille (1:11.800) | Gilles Villeneuve (1:14.412) |
+| 4 | IV United States Grand Prix West | Long Beach Street Circuit | Long Beach, California, United States | 1979-04-08 | 80 | 274.400 km | Gilles Villeneuve (1:50:25.400) | Gilles Villeneuve (1:18.825) | Gilles Villeneuve (1:21.200) |
+| 5 | XXV Gran Premio de España | Circuito Permanente del Jarama | San Sebastián de los Reyes, Madrid, Spain | 1979-04-29 | 75 | 255.300 km | Patrick Depailler (1:39:11.840) | Jacques Laffite (1:14.500) | Gilles Villeneuve (1:16.440) |
+| 6 | XXXVII Grote Prijs van Belgie | Circuit Zolder | Heusden-Zolder, Limburg, Belgium | 1979-05-13 | 70 | 298.340 km | Jody Scheckter (1:39:59.530) | Jacques Laffite (1:21.130) | Gilles Villeneuve (1:23.090) |
+| 7 | XXXVII Grand Prix de Monaco | Circuit de Monaco | Monte Carlo, Monaco | 1979-05-27 | 76 | 251.712 km | Jody Scheckter (1:55:22.480) | Jody Scheckter (1:26.450) | Patrick Depailler (1:28.820) |
+| 8 | LXV Grand Prix de France | Circuit de Dijon-Prenois | Prenois, Côte-d'Or, France | 1979-07-01 | 80 | 304.000 km | Jean-Pierre Jabouille (1:35:20.420) | Jean-Pierre Jabouille (1:07.190) | Rene Arnoux (1:09.160) |
+| 9 | XXXII Marlboro British Grand Prix | Silverstone Circuit | Silverstone, Northamptonshire, England | 1979-07-14 | 68 | 320.892 km | Clay Regazzoni (1:26:11.170) | Alan Jones (1:11.880) | Clay Regazzoni (1:14.400) |
+| 10 | XLI Großer Preis von Deutschland | Hockenheimring | Hockenheim, Baden-Württemberg, West Germany | 1979-07-29 | 45 | 305.505 km | Alan Jones (1:24:48.830) | Jean-Pierre Jabouille (1:48.480) | Gilles Villeneuve (1:51.890) |
+| 11 | XVII Großer Preis von Österreich | Österreichring | Spielberg, Styria, Austria | 1979-08-12 | 54 | 319.194 km | Alan Jones (1:27:38.010) | Rene Arnoux (1:34.070) | Rene Arnoux (1:35.770) |
+| 12 | XXVIII Grote Prijs van Nederland | Circuit Park Zandvoort | Zandvoort, North Holland, Netherlands | 1979-08-26 | 75 | 316.950 km | Alan Jones (1:41:19.775) | Rene Arnoux (1:15.461) | Gilles Villeneuve (1:19.438) |
+| 13 | L Gran Premio d'Italia | Autodromo Nazionale di Monza | Monza, Lombardy, Italy | 1979-09-09 | 50 | 290.000 km | Jody Scheckter (1:22:00.220) | Jean-Pierre Jabouille (1:34.580) | Clay Regazzoni (1:35.600) |
+| 14 | XIX Grand Prix du Canada | Île Notre-Dame Circuit | Montreal, Quebec, Canada | 1979-09-30 | 72 | 317.520 km | Alan Jones (1:52:06.892) | Alan Jones (1:29.892) | Alan Jones (1:31.272) |
+| 15 | XXII United States Grand Prix | Watkins Glen Grand Prix Race Course | Watkins Glen, New York, United States | 1979-10-07 | 59 | 320.665 km | Gilles Villeneuve (1:52:17.734) | Alan Jones (1:35.615) | Nelson Piquet (1:40.054) |

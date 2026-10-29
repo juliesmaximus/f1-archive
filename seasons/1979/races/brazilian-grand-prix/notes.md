@@ -1,4 +1,4 @@
-# VIII Grande Prêmio do Brasil - Round 2
+# VIII Grande Prêmio do Brasil - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** VIII Grande Prêmio do Brasil
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:40:09.640
 - **Winning Driver:** Jacques Laffite
 - **Winning Constructor:** Ligier
-- **Pole Position:** Jacques Laffite
-- **Fastest Lap:** N/A
+- **Pole Position:** Jacques Laffite — 2:23.070
+- **Fastest Lap:** Jacques Laffite — 2:28.760
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 2, 1979)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Intense tropical heat; 33°C ambient, 50°C track temperature
-- **Spectator Attendance:** 85,000 Brazilian fans filling the grandstands
 - **Grandstand Enclosures:** Curva do Sol and Arquibancadas overlooking the infield banking
 
 ---
@@ -42,6 +41,12 @@ LIGIER 1-2 INTERLAGOS DOMINANCE: Returning to the undulating 7.9 km Interlagos t
 Jacques Laffite opened a commanding 18-point championship lead after two rounds.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 85,000 Brazilian fans filling the grandstands (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

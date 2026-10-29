@@ -1,4 +1,4 @@
-# XLI Großer Preis von Deutschland - Round 10
+# XLI Großer Preis von Deutschland - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XLI Großer Preis von Deutschland
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:24:48.830
 - **Winning Driver:** Alan Jones
 - **Winning Constructor:** Williams
-- **Pole Position:** Jean-Pierre Jabouille
-- **Fastest Lap:** N/A
+- **Pole Position:** Jean-Pierre Jabouille — 1:48.480
+- **Fastest Lap:** Gilles Villeneuve — 1:51.890
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 10, 1979)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Warm and overcast; 23°C ambient
-- **Spectator Attendance:** 115,000 spectators
 - **Grandstand Enclosures:** Motodrom grandstands packed with roaring fans
 
 ---
@@ -42,6 +41,12 @@ WILLIAMS 1-2 HOCKENHEIM CRUSH: Jean-Pierre Jabouille took pole in the turbo Rena
 Alan Jones took his first victory for Williams, signaling that the Patrick Head-designed FW07 was now the fastest car in Grand Prix racing.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 115,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

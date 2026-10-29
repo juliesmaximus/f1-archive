@@ -1,4 +1,4 @@
-# XXV Citizen and Gold Flake Grand Prix of South Africa - Round 3
+# XXV Citizen and Gold Flake Grand Prix of South Africa - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXV Citizen and Gold Flake Grand Prix of South Africa
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:41:49.960
 - **Winning Driver:** Gilles Villeneuve
 - **Winning Constructor:** Ferrari
-- **Pole Position:** Jean-Pierre Jabouille
-- **Fastest Lap:** N/A
+- **Pole Position:** Jean-Pierre Jabouille — 1:11.800
+- **Fastest Lap:** Gilles Villeneuve — 1:14.412
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 3, 1979)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Sudden thunderstorm on lap 2, drying track later; 22°C ambient
-- **Spectator Attendance:** 80,000 spectators
 - **Grandstand Enclosures:** Crowthorne and Barbeque spectator enclosures
 
 ---
@@ -42,6 +41,12 @@ FERRARI 312T4 DEBUT & VILLENEUVE WIN: Scuderia Ferrari debuted their radical new
 Stunning debut 1-2 finish for the iconic Ferrari 312T4, marking the beginning of Ferrari's title march.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 80,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

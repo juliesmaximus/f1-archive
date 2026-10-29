@@ -1,4 +1,4 @@
-# LXV Grand Prix de France - Round 8
+# LXV Grand Prix de France - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** LXV Grand Prix de France
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:35:20.420
 - **Winning Driver:** Jean-Pierre Jabouille
 - **Winning Constructor:** Renault
-- **Pole Position:** Jean-Pierre Jabouille
-- **Fastest Lap:** N/A
+- **Pole Position:** Jean-Pierre Jabouille — 1:07.190
+- **Fastest Lap:** Rene Arnoux — 1:09.160
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 8, 1979)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Hot and sunny; 29°C ambient, 47°C track temperature
-- **Spectator Attendance:** 100,000 spectators creating an all-French national festival
 - **Grandstand Enclosures:** Courbe de Pouas and Straight grandstands packed to capacity
 
 ---
@@ -42,6 +41,12 @@ THE GREATEST DUEL IN F1 HISTORY & FIRST TURBO VICTORY: Jean-Pierre Jabouille too
 The watershed moment of Formula One: the first victory for turbo power, and the legendary Villeneuve-Arnoux duel that defined pure racing.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 100,000 spectators creating an all-French national festival (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

@@ -1,4 +1,4 @@
-# XXV Gran Premio de España - Round 5
+# XXV Gran Premio de España - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXV Gran Premio de España
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:39:11.840
 - **Winning Driver:** Patrick Depailler
 - **Winning Constructor:** Ligier
-- **Pole Position:** Jacques Laffite
-- **Fastest Lap:** N/A
+- **Pole Position:** Jacques Laffite — 1:14.500
+- **Fastest Lap:** Gilles Villeneuve — 1:16.440
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 5, 1979)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Sunny and hot; 28°C ambient, 45°C track temperature
-- **Spectator Attendance:** 60,000 spectators
 - **Grandstand Enclosures:** Fangio, Farina, and Pegaso grandstands
 
 ---
@@ -42,6 +41,12 @@ DEPAILLER LEADS LIGHTS-TO-FLAG: Jacques Laffite took pole position in the Ligier
 Patrick Depailler tied with Gilles Villeneuve for the lead of the World Championship at 20 points.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 60,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

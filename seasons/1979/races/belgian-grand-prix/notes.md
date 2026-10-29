@@ -1,4 +1,4 @@
-# XXXVII Grote Prijs van Belgie - Round 6
+# XXXVII Grote Prijs van Belgie - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXXVII Grote Prijs van Belgie
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:39:59.530
 - **Winning Driver:** Jody Scheckter
 - **Winning Constructor:** Ferrari
-- **Pole Position:** Jacques Laffite
-- **Fastest Lap:** N/A
+- **Pole Position:** Jacques Laffite — 1:21.130
+- **Fastest Lap:** Gilles Villeneuve — 1:23.090
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 6, 1979)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Warm and breezy; 22°C ambient
-- **Spectator Attendance:** 65,000 spectators
 - **Grandstand Enclosures:** Kleine Chicane and Main Straight spectator banks
 
 ---
@@ -42,6 +41,12 @@ SCHECKTER EMERGES VICTORIOUS: Jacques Laffite took pole for Ligier. Patrick Depa
 Jody Scheckter took his first victory for Scuderia Ferrari, demonstrating supreme race management.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 65,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

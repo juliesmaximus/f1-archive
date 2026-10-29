@@ -1,4 +1,4 @@
-# XXII United States Grand Prix - Round 15
+# XXII United States Grand Prix - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXII United States Grand Prix
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:52:17.734
 - **Winning Driver:** Gilles Villeneuve
 - **Winning Constructor:** Ferrari
-- **Pole Position:** Alan Jones
-- **Fastest Lap:** N/A
+- **Pole Position:** Alan Jones — 1:35.615
+- **Fastest Lap:** Nelson Piquet — 1:40.054
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 15, 1979)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Freezing rain and treacherous wet conditions; 8°C ambient
-- **Spectator Attendance:** 90,000 shivering but thrilled spectators at The Glen
 - **Grandstand Enclosures:** Seneca Grandstand, The Bog, Pit straight enclosures
 
 ---
@@ -42,6 +41,12 @@ VILLENEUVE'S WET-WEATHER MASTERCLASS: In Friday practice in torrential rain, Gil
 Gilles Villeneuve's wet-weather triumph closed the 1970s decade, confirming his status as the most spectacular talent of his generation.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 90,000 shivering but thrilled spectators at The Glen (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

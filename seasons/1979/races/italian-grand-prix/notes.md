@@ -1,4 +1,4 @@
-# L Gran Premio d'Italia - Round 13
+# L Gran Premio d'Italia - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** L Gran Premio d'Italia
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:22:00.220
 - **Winning Driver:** Jody Scheckter
 - **Winning Constructor:** Ferrari
-- **Pole Position:** Jean-Pierre Jabouille
-- **Fastest Lap:** N/A
+- **Pole Position:** Jean-Pierre Jabouille — 1:34.580
+- **Fastest Lap:** Clay Regazzoni — 1:35.600
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 13, 1979)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Warm and sunny; 25°C ambient
-- **Spectator Attendance:** 130,000 ecstatic Tifosi swarming the royal park
 - **Grandstand Enclosures:** Tribuna Centrale, Variante del Rettifilo, Curva Parabolica
 
 ---
@@ -42,6 +41,12 @@ SCHECKTER WORLD CHAMPION IN FERRARI 1-2 HOME TRIUMPH: Jean-Pierre Jabouille took
 Jody Scheckter became South Africa's only Formula One World Champion. This was Ferrari's final World Drivers' Championship for 21 years until Michael Schumacher in 2000.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 130,000 ecstatic Tifosi swarming the royal park (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

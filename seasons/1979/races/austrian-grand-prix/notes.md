@@ -1,4 +1,4 @@
-# XVII Großer Preis von Österreich - Round 11
+# XVII Großer Preis von Österreich - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XVII Großer Preis von Österreich
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:27:38.010
 - **Winning Driver:** Alan Jones
 - **Winning Constructor:** Williams
-- **Pole Position:** René Arnoux
-- **Fastest Lap:** N/A
+- **Pole Position:** Rene Arnoux — 1:34.070
+- **Fastest Lap:** Rene Arnoux — 1:35.770
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 11, 1979)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Sunny and clear; 26°C ambient
-- **Spectator Attendance:** 90,000 spectators
 - **Grandstand Enclosures:** Dr. Tiroch curve and Start-Ziel spectator embankments
 
 ---
@@ -42,6 +41,12 @@ ALAN JONES BACK-TO-BACK: René Arnoux took pole position for Renault, but Gilles
 Williams scored back-to-back victories for the first time in team history.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 90,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

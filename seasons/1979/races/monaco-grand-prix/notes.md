@@ -1,4 +1,4 @@
-# XXXVII Grand Prix de Monaco - Round 7
+# XXXVII Grand Prix de Monaco - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXXVII Grand Prix de Monaco
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:55:22.480
 - **Winning Driver:** Jody Scheckter
 - **Winning Constructor:** Ferrari
-- **Pole Position:** Jody Scheckter
-- **Fastest Lap:** N/A
+- **Pole Position:** Jody Scheckter — 1:26.450
+- **Fastest Lap:** Patrick Depailler — 1:28.820
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 7, 1979)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Clear and warm; 25°C ambient
-- **Spectator Attendance:** 55,000 spectators
 - **Grandstand Enclosures:** K-Grandstand, Swimming Pool Chicane, Casino Square
 
 ---
@@ -42,6 +41,12 @@ SCHECKTER MONACO MASTERCLASS: Jody Scheckter took pole position in the Ferrari 3
 Jody Scheckter took outright leadership of the World Drivers' Championship, which he would hold for the remainder of the season.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 55,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

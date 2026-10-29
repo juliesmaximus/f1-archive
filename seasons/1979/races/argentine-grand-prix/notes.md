@@ -1,4 +1,4 @@
-# XV Gran Premio de la Republica Argentina - Round 1
+# XV Gran Premio de la Republica Argentina - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XV Gran Premio de la Republica Argentina
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:36:03.210
 - **Winning Driver:** Jacques Laffite
 - **Winning Constructor:** Ligier
-- **Pole Position:** Jacques Laffite
-- **Fastest Lap:** N/A
+- **Pole Position:** Jacques Laffite — 1:44.200
+- **Fastest Lap:** Jacques Laffite — 1:46.910
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 1, 1979)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Sunny and hot; 31°C ambient
-- **Spectator Attendance:** 70,000 spectators
 - **Grandstand Enclosures:** Permanent amphitheatre grandstands overlooking Curva del Ciervo
 
 ---
@@ -42,6 +41,12 @@ LIGIER GRAND SLAM & FIRST-LAP PILEUP: Jacques Laffite qualified on pole in the g
 Ligier revealed dominant ground-effect form with their Ford DFV-powered JS11.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 70,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

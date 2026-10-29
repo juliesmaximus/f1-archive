@@ -1,4 +1,4 @@
-# XIX Grand Prix du Canada - Round 14
+# XIX Grand Prix du Canada - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XIX Grand Prix du Canada
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:52:06.892
 - **Winning Driver:** Alan Jones
 - **Winning Constructor:** Williams
-- **Pole Position:** Alan Jones
-- **Fastest Lap:** N/A
+- **Pole Position:** Alan Jones — 1:29.892
+- **Fastest Lap:** Alan Jones — 1:31.272
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 14, 1979)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Cool and sunny; 17°C ambient
-- **Spectator Attendance:** 75,000 spectators cheering for home hero Gilles Villeneuve
 - **Grandstand Enclosures:** Hairpin grandstands and Olympic basin spectator seats
 
 ---
@@ -42,6 +41,12 @@ JONES EDGES VILLENEUVE IN EPIC MONUMENTAL DUEL: Alan Jones took pole in the Will
 Alan Jones took his 4th win in 5 races. Niki Lauda announced his first retirement from Formula One.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 75,000 spectators cheering for home hero Gilles Villeneuve (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

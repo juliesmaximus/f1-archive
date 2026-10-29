@@ -1,4 +1,4 @@
-# IV United States Grand Prix West - Round 4
+# IV United States Grand Prix West - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** IV United States Grand Prix West
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:50:25.400
 - **Winning Driver:** Gilles Villeneuve
 - **Winning Constructor:** Ferrari
-- **Pole Position:** Gilles Villeneuve
-- **Fastest Lap:** N/A
+- **Pole Position:** Gilles Villeneuve — 1:18.825
+- **Fastest Lap:** Gilles Villeneuve — 1:21.200
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 4, 1979)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Warm coastal sunshine; 24°C ambient
-- **Spectator Attendance:** 82,500 spectators packing Shoreline Drive
 - **Grandstand Enclosures:** Temporary grandstands along Ocean Boulevard and the Hairpin
 
 ---
@@ -42,6 +41,12 @@ VILLENEUVE GRAND SLAM IN LONG BEACH: Gilles Villeneuve qualified on pole positio
 Gilles Villeneuve took the lead of the World Drivers' Championship for the first time in his career.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 82,500 spectators packing Shoreline Drive (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

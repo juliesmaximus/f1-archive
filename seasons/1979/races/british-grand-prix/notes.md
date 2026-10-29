@@ -1,4 +1,4 @@
-# XXXII Marlboro British Grand Prix - Round 9
+# XXXII Marlboro British Grand Prix - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXXII Marlboro British Grand Prix
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:26:11.170
 - **Winning Driver:** Clay Regazzoni
 - **Winning Constructor:** Williams
-- **Pole Position:** Alan Jones
-- **Fastest Lap:** N/A
+- **Pole Position:** Alan Jones — 1:11.880
+- **Fastest Lap:** Clay Regazzoni — 1:14.400
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 9, 1979)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Warm and breezy; 24°C ambient
-- **Spectator Attendance:** 105,000 spectators
 - **Grandstand Enclosures:** Woodcote, Copse, and Abbey grandstands
 
 ---
@@ -42,6 +41,12 @@ WILLIAMS GRAND PRIX ENGINEERING MAIDEN VICTORY: Alan Jones took a sensational po
 The maiden Grand Prix victory for Williams Grand Prix Engineering, launching one of the most successful dynasties in F1 history.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 105,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.

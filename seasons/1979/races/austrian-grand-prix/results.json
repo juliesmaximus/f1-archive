@@ -18,7 +18,7 @@
           "Circuit": {
             "circuitId": "red_bull_ring",
             "url": "https://en.wikipedia.org/wiki/Red_Bull_Ring",
-            "circuitName": "Red Bull Ring",
+            "circuitName": "Österreichring",
             "Location": {
               "lat": "47.2197",
               "long": "14.7647",
@@ -171,7 +171,7 @@
               "Driver": {
                 "driverId": "arnoux",
                 "url": "http://en.wikipedia.org/wiki/Ren%C3%A9_Arnoux",
-                "givenName": "Ren\u00e9",
+                "givenName": "René",
                 "familyName": "Arnoux",
                 "dateOfBirth": "1948-07-04",
                 "nationality": "French"

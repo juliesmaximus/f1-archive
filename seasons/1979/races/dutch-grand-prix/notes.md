@@ -1,4 +1,4 @@
-# XXVIII Grote Prijs van Nederland - Round 12
+# XXVIII Grote Prijs van Nederland - Race Dossier & Verification Notes
 
 ## Race Dossier & Primary Verification
 - **Official Grand Prix Name:** XXVIII Grote Prijs van Nederland
@@ -13,15 +13,14 @@
 - **Winning Time:** 1:41:19.775
 - **Winning Driver:** Alan Jones
 - **Winning Constructor:** Williams
-- **Pole Position:** René Arnoux
-- **Fastest Lap:** N/A
+- **Pole Position:** Rene Arnoux — 1:15.461
+- **Fastest Lap:** Gilles Villeneuve — 1:19.438
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 12, 1979)
 
 ---
 
 ## Environmental & Circuit Conditions
 - **Weather:** Warm and sunny with coastal wind; 21°C ambient
-- **Spectator Attendance:** 80,000 spectators
 - **Grandstand Enclosures:** Tarzan Curve, Hunserug sand dunes
 
 ---
@@ -42,6 +41,12 @@ VILLENEUVE'S THREE-WHEEL LEGEND & JONES WIN: René Arnoux took pole in the Renau
 Villeneuve's indomitable three-wheeled drive back to the pits became an enduring icon of Formula One grit.
 
 ---
+
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** 80,000 spectators (historical crowd estimate; unverified by official race classification)
 
 ## Verification Checkpoint Summary
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.
