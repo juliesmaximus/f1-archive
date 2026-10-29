@@ -520,7 +520,7 @@
                 "nationality": "British"
               },
               "grid": "20",
-              "laps": "7",
+              "laps": "2",
               "status": "Clutch"
             },
             {
@@ -543,7 +543,7 @@
                 "nationality": "Swiss"
               },
               "grid": "5",
-              "laps": "2",
+              "laps": "1",
               "status": "Collision"
             },
             {
@@ -566,13 +566,13 @@
                 "nationality": "British"
               },
               "grid": "14",
-              "laps": "2",
+              "laps": "1",
               "status": "Collision"
             },
             {
               "number": "31",
               "position": "24",
-              "positionText": "W",
+              "positionText": "R",
               "points": "0",
               "Driver": {
                 "driverId": "jarier",
@@ -590,7 +590,7 @@
               },
               "grid": "18",
               "laps": "0",
-              "status": "Withdrew"
+              "status": "Did not restart"
             },
             {
               "number": "32",

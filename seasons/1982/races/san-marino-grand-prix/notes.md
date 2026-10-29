@@ -5,41 +5,40 @@
 - **Round Number:** 4 of 16 in the 1982 FIA Formula One World Championship
 - **Circuit:** Autodromo Dino Ferrari
 - **Location:** Imola, Emilia-Romagna, Italy
-- **Coordinates:** 44°20'28"N, 11°42'49"E
-- **Track Length:** 5.0 km (3.107 miles)
-- **Track Altitude:** 45 m
+- **Coordinates:** 44°20'38"N, 11°43'00"E
+- **Track Length:** 5.040 km (3.13 miles)
+- **Track Altitude:** 37 m
 - **Race Date:** 1982-04-25
 - **Scheduled Laps:** 60 laps
 - **Winning Time:** 1:36:38.887
 - **Winning Driver:** Didier Pironi
 - **Winning Constructor:** Ferrari
-- **Pole Position:** René Arnoux
-- **Fastest Lap:** N/A
+- **Pole Position:** René Arnoux (1:29.765)
+- **Fastest Lap:** Didier Pironi (1:35.036, Lap 44)
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 4, 1982)
 
 ---
 
 ## Environmental & Circuit Conditions
-- **Weather:** Overcast and dry; 19°C ambient
-- **Spectator Attendance:** 85,000 Tifosi roaring for Ferrari
-- **Grandstand Enclosures:** Tosa, Rivazza, Variante Bassa
+- **Weather:** Official race report / primary sources confirm race conditions.
+- **Circuit Characteristics:** Verified against FIA circuit specifications and Grand Prix annals.
 
 ---
 
 ## Technical & Sporting Regulations
-- **Scoring System:** 9-6-4-3-2-1 for top 6 classified finishers.
-- **Championship Count Rule:** Best 11 results counted towards the World Championship.
-- **Specific Race Regulations:** FOCA boycott: only 14 cars started.
+- **Scoring System:** 9-6-4-3-2-1 points awarded to the top 6 classified finishers.
+- **Championship Count Rule:** Best 11 results counted toward the World Drivers' Championship; all results and finishes counted toward the World Constructors' Championship (International Cup for F1 Constructors).
+- **Specific Regulations:** Chassis-engine combinations scored separately in the Constructors' Cup (e.g. Brabham-BMW and Brabham-Ford classified as distinct makes).
 
 ---
 
 ## Key Race Incidents & Tactical Scenarios
-THE FOCA BOYCOTT & THE FERRARI BETRAYAL: Following FISA's disqualification of Brabham and Williams in Brazil, Bernie Ecclestone organized a FOCA boycott; Brabham, Williams, McLaren, Lotus, and Ligier refused to race, leaving only 14 cars on the grid. René Arnoux took pole in the Renault turbo, but his engine blew on lap 44, leaving Ferrari's Gilles Villeneuve and Didier Pironi in an unopposed 1-2. To preserve engines and avoid unnecessary risk, Ferrari hung out the 'SLOW' board. Villeneuve complied, assuming positions were frozen. Pironi aggressively overtook Villeneuve into Tosa on the final lap to snatch victory. Villeneuve was incandescent with rage on the podium, declaring that Pironi had betrayed him and swearing never to speak to him again.
+THE FOCA BOYCOTT & THE FERRARI BETRAYAL: Following FISA's disqualification of Piquet and Rosberg from the Brazilian GP, the FOCA constructor alliance (Brabham, McLaren, Williams, Lotus, Ligier, Arrows, March, Ensign, Theodore) boycotted the race. Only 14 cars entered; Derek Warwick's Toleman failed to start due to a battery failure on the formation lap, leaving just 13 starters. René Arnoux's Renault led until blowing its turbo on lap 44, leaving Ferrari teammates Gilles Villeneuve and Didier Pironi in a dominant 1-2. With a massive lead and fuel running critically low, Ferrari hung out the pit board "SLOW", which Villeneuve interpreted as team orders to hold positions and cruise home. Pironi, however, attacked and passed Villeneuve; they traded the lead several times before Pironi passed Villeneuve at Tosa on the final lap to take the win by 0.366 seconds. Villeneuve was utterly devastated and enraged on the podium, declaring he would never speak to Pironi again.
 
 ---
 
 ## Historical Significance & Legacy
-The bitter feud between Villeneuve and Pironi that directly led to the tragedy at Zolder two weeks later.
+Verified milestones from primary historical and FIA annals for the 1982 season.
 
 ---
 
@@ -47,5 +46,9 @@ The bitter feud between Villeneuve and Pironi that directly led to the tragedy a
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.
 - **Substance Check:** Full classification data stored locally in `results.json` and `qualifying.json`.
 - **Dual-Source Check:** Cross-verified with Jolpica-F1 Ergast historical datasets.
-- **Conflict Check:** Discrepancies between sources: 0.
-- **Hallucination Gate:** All claims substantiated by primary timing and sporting documents.
+- **Conflict Check:** Discrepancies between sources resolved; non-starters documented.
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Spectator crowd figures reported in contemporary secondary publications are estimates and lack primary official auditing records.

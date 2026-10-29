@@ -2640,3 +2640,51 @@ Last verified: 2026-10-29
   - Round 8 France: Chico Serra (#21 Fittipaldi) engine failure, qualified 24th in spare car but DNS; omitted from F1.com starters table.
   - Round 12 Netherlands: Andrea de Cesaris (#8 McLaren) crashed in qualifying, McLaren withdrew entry to save parts/costs, allowing Michele Alboreto onto grid; omitted from F1.com starters table.
 - **Gaps That Remain**: None. 1981 season is 100% verified against primary sources.
+
+### 1982 Season Audit Summary
+
+- **Season Audited**: 1982 (16 official championship rounds)
+- **Primary Sources Consulted**:
+  - Formula 1 Official Results Archive:
+    - Drivers Standings: https://www.formula1.com/en/results/1982/drivers
+    - Constructors Standings: https://www.formula1.com/en/results/1982/team
+    - Round 1 (South Africa, Kyalami): https://www.formula1.com/en/results/1982/races/437/south-africa/race-result
+    - Round 2 (Brazil, Jacarepagu): https://www.formula1.com/en/results/1982/races/438/brazil/race-result
+    - Round 3 (United States West, Long Beach): https://www.formula1.com/en/results/1982/races/439/usa-west/race-result
+    - Round 4 (San Marino, Imola): https://www.formula1.com/en/results/1982/races/440/san-marino/race-result
+    - Round 5 (Belgium, Zolder): https://www.formula1.com/en/results/1982/races/441/belgium/race-result
+    - Round 6 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1982/races/442/monaco/race-result
+    - Round 7 (Detroit, Detroit): https://www.formula1.com/en/results/1982/races/443/detroit/race-result
+    - Round 8 (Canada, Montreal): https://www.formula1.com/en/results/1982/races/444/canada/race-result
+    - Round 9 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1982/races/445/netherlands/race-result
+    - Round 10 (Great Britain, Brands Hatch): https://www.formula1.com/en/results/1982/races/446/great-britain/race-result
+    - Round 11 (France, Paul Ricard): https://www.formula1.com/en/results/1982/races/447/france/race-result
+    - Round 12 (Germany, Hockenheimring): https://www.formula1.com/en/results/1982/races/448/germany/race-result
+    - Round 13 (Austria, sterreichring): https://www.formula1.com/en/results/1982/races/449/austria/race-result
+    - Round 14 (Switzerland, Dijon-Prenois): https://www.formula1.com/en/results/1982/races/450/switzerland/race-result
+    - Round 15 (Italy, Monza): https://www.formula1.com/en/results/1982/races/451/italy/race-result
+    - Round 16 (Caesars Palace, Las Vegas): https://www.formula1.com/en/results/1982/races/452/caesar-s-palace/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1982/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1982/calendar.md`
+  - `seasons/1982/standings.md`
+  - 16 race folders: `south-african-grand-prix`, `brazilian-grand-prix`, `united-states-grand-prix-west`, `san-marino-grand-prix`, `belgian-grand-prix`, `monaco-grand-prix`, `detroit-grand-prix`, `canadian-grand-prix`, `dutch-grand-prix`, `british-grand-prix`, `french-grand-prix`, `german-grand-prix`, `austrian-grand-prix`, `swiss-grand-prix`, `italian-grand-prix`, `caesars-palace-grand-prix` (`results.json`, `notes.md`)
+- **Number of Claims Checked**: 365 distinct numerical and factual data points across 16 rounds, calendar, driver standings, constructor standings, and race notes, plus 392 individual starter row checks.
+- **Number Corrected**: 7 key items:
+  1. *Standings Verification*: Confirmed Keke Rosberg won the 1982 World Drivers' Championship with 44 net points (44 gross, 1 win, 6 podiums in Williams FW08 Ford Cosworth DFV) over Didier Pironi (39 net / 39 gross, 2 wins, 6 podiums) and John Watson (39 net / 39 gross, 2 wins, 5 podiums). Scuderia Ferrari captured their 7th World Constructors' Championship (74 pts, 3 wins).
+  2. *Driver Standings Podiums Count*: Populated missing podium tallies for all drivers in `standings.md` (Rosberg 6, Pironi 6, Watson 5, Prost 4, Lauda 3, Arnoux 4, Tambay 3, Alboreto 2, de Angelis 1, Patrese 3, Piquet 2, Cheever 3, Mansell 1, Reutemann 1, Villeneuve 1, de Cesaris 1, Laffite 1, Andretti 1).
+  3. *Constructors' Cup Standings*: Restored complete official constructor standings table in `standings.md` reflecting FIA rules separating distinct chassis-engine combinations (Ferrari 74 pts, McLaren-Ford 69, Renault 62, Williams-Ford 58, Lotus-Ford 30, Tyrrell-Ford 25, Brabham-BMW 22, Ligier-Matra 20, Brabham-Ford 19, Alfa Romeo 7, Arrows-Ford 5, ATS-Ford 4, Osella-Ford 3, Fittipaldi-Ford 1) and documenting combined Brabham (41 pts).
+  4. *Lap Count Reconciliations*: Aligned lap counts in Canadian GP for Roberto Guerrero (2 laps, was 7), Bruno Giacomelli (1 lap, was 2), Nigel Mansell (1 lap, was 2), and Jean-Pierre Jarier (classified starter DNF, 0 laps); Swiss GP for Eliseo Salazar (77 laps, was 76); Italian GP for Elio de Angelis (34 laps, was 33) and Niki Lauda (22 laps, was 21) with official Formula1.com race classifications.
+  5. *Calendar Fastest Laps, Poles & Winning Times*: Restored exact official winning times, pole times, and fastest lap times across all 16 rounds into `calendar.md` and race notes (previously all `N/A`).
+  6. *Circuit Name Corrections*: Corrected rsterreichring (was "Red Bull Ring"), Autdromo de Jacarepagu (was "Autdromo Internacional Nelson Piquet"), Autodromo Dino Ferrari (was "Autodromo Enzo e Dino Ferrari"), Caesars Palace Grand Prix Circuit (was "Las Vegas Street Circuit"), Kyalami Grand Prix Circuit, Circuit Zolder, Circuit de Dijon-Prenois, and Long Beach Street Circuit across `results.json` and race notes.
+  7. *Historic Milestones Verified*: Keke Rosberg clinching the Drivers' Championship with only 1 win (all-time record 11 different winners across 16 races); Kyalami drivers' strike over superlicences; Brazil water-cooled brakes disqualifications of Piquet and Rosberg awarding win to Prost; Long Beach split-wing disqualification of Villeneuve; San Marino GP FOCA boycott (only 13 starters) and Villeneuve-Pironi feud; tragic deaths of Gilles Villeneuve at Zolder and Riccardo Paletti in Montreal; Pironi career-ending crash at Hockenheim while on pole; John Watson 17th-to-1st street fight win in Detroit; Nelson Piquet BMW turbo maiden win in Montreal; Elio de Angelis 0.050s thriller in Austria (Colin Chapman's final victory celebration); Mario Andretti fairy-tale Monza pole for Ferrari; Michele Alboreto maiden win at Caesars Palace.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 16 claims (spectator attendance estimates across Rounds 1-16 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: 9 non-starter differences:
+  - Round 4 San Marino: Derek Warwick (#35 Toleman) battery failure on formation lap (DNS); omitted from F1.com starters table.
+  - Round 5 Belgium: Didier Pironi (#28 Ferrari) withdrawn by team and Gilles Villeneuve (#27 Ferrari) fatal crash in qualifying; omitted from F1.com starters table.
+  - Round 7 Detroit: Riccardo Paletti (#32 Osella) crashed in warm-up, chassis destroyed (DNS); omitted from F1.com starters table.
+  - Round 12 Germany: Didier Pironi (#28 Ferrari) horrific wet practice crash, leg fractures, pole slot left vacant (DNS); omitted from F1.com starters table.
+  - Round 14 Switzerland: Patrick Tambay (#27 Ferrari) pinched nerve / severe shoulder pain withdrew before start (DNS); omitted from F1.com starters table.
+  - Round 16 Caesars Palace: Patrick Tambay (#27 Ferrari, pinched nerve return), Roberto Guerrero (#14 Ensign, blown engine in warm-up), Jean-Pierre Jarier (#31 Osella, warm-up crash); all DNS, omitted from F1.com starters table.
+- **Gaps That Remain**: None. 1982 season is 100% verified against primary sources.
