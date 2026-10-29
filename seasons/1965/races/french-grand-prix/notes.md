@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jim Clark (Lotus-Climax) — 2:41:38.400  
-- **Pole Position:** Jim Clark  
+- **Winner:** Jim Clark (Lotus-Climax) — 2:14:38.400  
+- **Pole Position:** Jim Clark  (3:18.300)
+- **Fastest Lap:** Jim Clark (Lotus-Climax) — 3:18.900 (Lap 34)
 - **Weather & Track Conditions:** Warm and sunny, dry track; loose volcanic volcanic gravel stones on track margins  
-- **Spectator Attendance:** 65,000 spectators across the volcanic hillsides  
 - **Grandstand & Infrastructure:** Permanent pits grandstand and volcanic hillside natural terraces overlooking the mountain descent  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,14 +32,14 @@ Denny Hulme scored his first World Championship points, finishing 4th in the Bra
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 6 | Jim Clark | Lotus-Climax | 40 | 2:41:38.400 | 1 | 9 |
+| 1 | 6 | Jim Clark | Lotus-Climax | 40 | 2:14:38.400 | 1 | 9 |
 | 2 | 12 | Jackie Stewart | BRM | 40 | +26.300 | 2 | 6 |
 | 3 | 2 | John Surtees | Ferrari | 40 | +2:33.500 | 4 | 4 |
 | 4 | 16 | Denny Hulme | Brabham-Climax | 40 | +2:53.100 | 6 | 3 |
 | 5 | 10 | Graham Hill | BRM | 39 | +1 Lap | 13 | 2 |
-| 6 | 36 | Jo Siffert | Brabham-BRM | 39 | +1 Lap | 14 | 1 |
+| 6 | 36° | Jo Siffert | Brabham-BRM | 39 | +1 Lap | 14 | 1 |
 | 7 | 8 | Mike Spence | Lotus-Climax | 39 | +1 Lap | 10 | 0 |
-| 8 | 4 | Lorenzo Bandini | Ferrari | 36 | Accident | 3 | 0 |
+| 8 | 4 | Lorenzo Bandini | Ferrari | 36° | Accident | 3 | 0 |
 | 9 | 30 | Bob Anderson | Brabham-Climax | 34 | Fuel system | 15 | 0 |
 | R | 18 | Bruce McLaren | Cooper-Climax | 23 | Suspension | 9 | 0 |
 | R | 34 | Jo Bonnier | Brabham-Climax | 21 | Alternator | 11 | 0 |
@@ -52,8 +52,11 @@ Denny Hulme scored his first World Championship points, finishing 4th in the Bra
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 65,000 spectators across the volcanic hillsides and grandstands (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1965/4/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1965 Round 4 Results](https://www.formula1.com/en/results.html/1965/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1965 Round 4 Results](https://www.formula1.com/en/results/1965/races/228/france/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

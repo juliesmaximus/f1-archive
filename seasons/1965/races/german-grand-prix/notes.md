@@ -1,4 +1,4 @@
-# XXVII Grosser Preis von Deutschland - Race Dossier & Verification Notes
+# XXVII Großer Preis von Deutschland - Race Dossier & Verification Notes
 
 **Round:** 7 of 10  
 **Date:** 1965-08-01  
@@ -7,16 +7,16 @@
 **Track Length:** 22.81 km (14.173 miles)  
 **Altitude:** 620 m (Eifel mountains)  
 **Scheduled Distance:** 15 laps (342.150 km)  
-**Official Race Title:** XXVII Grosser Preis von Deutschland  
+**Official Race Title:** XXVII Großer Preis von Deutschland  
 
 ---
 
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jim Clark (Lotus-Climax) — 2:07:52.400  
-- **Pole Position:** Jim Clark  
+- **Pole Position:** Jim Clark  (8:22.700)
+- **Fastest Lap:** Jim Clark (Lotus-Climax) — 8:24.100 (Lap 10)
 - **Weather & Track Conditions:** Warm, sunny, dry; 26°C ambient, excellent visibility  
-- **Spectator Attendance:** 250,000 spectators camping throughout the Eifel forest  
 - **Grandstand & Infrastructure:** Start-und-Ziel covered tribüne, South curve stands, Karussell and Brünnchen natural amphitheatre banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -54,8 +54,11 @@ Clark became a two-time World Champion at the age of 29. Lotus celebrated their 
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 250,000 spectators lining the Nürburgring Nordschleife (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1965/7/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1965 Round 7 Results](https://www.formula1.com/en/results.html/1965/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1965 Round 7 Results](https://www.formula1.com/en/results/1965/races/231/germany/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

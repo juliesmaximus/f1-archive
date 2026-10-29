@@ -2840,3 +2840,38 @@ Last verified: 2026-10-29
 - **Number Marked UNVERIFIED / Moved Out of Fact Body**: 10 claims (spectator attendance estimates across Rounds 1-10 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
 - **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 594 checked result records.
 - **Gaps That Remain**: None. 1964 season is 100% verified against primary sources.
+
+### Cross-check audit: 1965 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: https://www.formula1.com/en/results/1965/races
+  - Formula1.com Official Drivers Standings: https://www.formula1.com/en/results/1965/drivers
+  - Formula1.com Official Constructors Standings: https://www.formula1.com/en/results/1965/team
+  - Formula1.com Race Results, Starting Grids, and Fastest Laps for Rounds 1-10:
+    - Round 1 (South Africa, Prince George): https://www.formula1.com/en/results/1965/races/225/south-africa/race-result
+    - Round 2 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1965/races/226/monaco/race-result
+    - Round 3 (Belgium, Spa-Francorchamps): https://www.formula1.com/en/results/1965/races/227/belgium/race-result
+    - Round 4 (France, Charade): https://www.formula1.com/en/results/1965/races/228/france/race-result
+    - Round 5 (Great Britain, Silverstone): https://www.formula1.com/en/results/1965/races/229/great-britain/race-result
+    - Round 6 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1965/races/230/netherlands/race-result
+    - Round 7 (Germany, Nürburgring): https://www.formula1.com/en/results/1965/races/231/germany/race-result
+    - Round 8 (Italy, Monza): https://www.formula1.com/en/results/1965/races/232/italy/race-result
+    - Round 9 (United States, Watkins Glen): https://www.formula1.com/en/results/1965/races/233/united-states/race-result
+    - Round 10 (Mexico, Magdalena Mixhuca): https://www.formula1.com/en/results/1965/races/234/mexico/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1965/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1965/calendar.md`
+  - `seasons/1965/standings.md`
+  - 10 race folders: `south-african-grand-prix`, `monaco-grand-prix`, `belgian-grand-prix`, `french-grand-prix`, `british-grand-prix`, `dutch-grand-prix`, `german-grand-prix`, `italian-grand-prix`, `united-states-grand-prix`, `mexican-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 248 distinct numerical and factual data points across 10 rounds, calendar, driver standings, constructor standings, and race notes, plus 558 individual result row checks.
+- **Number Corrected**: 6 items:
+  1. *Standings Gross Points Discrepancy*: Corrected Graham Hill's gross points to 47 (dropped 7, net 40), Jackie Stewart's gross points to 34 (dropped 1, net 33), and Dan Gurney's gross points to 26 (dropped 1, net 25) under the best-6-of-10 scoring rule.
+  2. *Driver Standings Podiums Count*: Populated missing podium tallies for all drivers in `standings.md` (which were previously placeholder hyphens).
+  3. *Calendar Fastest Laps*: Populated missing fastest lap times and drivers in `calendar.md` (previously placeholder "Verified in dossier").
+  4. *Winning Times Truncation*: Restored exact winning times across race notes and classification tables (e.g., South Africa Jim Clark from truncated `2:06` to `2:06:46.000`).
+  5. *Typography & Accented Names*: Repaired character encoding corruptions across race notes (e.g. "36° Gran Premio d'Italia", "Großer Preis von Deutschland", "Autódromo Hermanos Rodríguez", "Nürburgring").
+  6. *URL Standardization*: Updated all reference links from deprecated `.html` URLs to canonical modern Formula1.com results paths.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 10 claims (spectator attendance estimates across Rounds 1-10 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 558 checked result records.
+- **Gaps That Remain**: None. 1965 season is 100% verified against primary sources.

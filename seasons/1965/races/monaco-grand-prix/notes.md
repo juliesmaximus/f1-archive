@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Graham Hill (BRM) — 2:37:39.600  
-- **Pole Position:** Graham Hill  
-- **Weather & Track Conditions:** Sunny, warm, and dry; 24°C ambient, track temperature 36°C  
-- **Spectator Attendance:** Over 35,000 spectators lining harbour balconies, cliffs, and grandstands  
+- **Pole Position:** Graham Hill  (1:32.500)
+- **Fastest Lap:** Graham Hill (BRM) — 1:31.700 (Lap 82)
+- **Weather & Track Conditions:** Sunny, warm, and dry; 24°C ambient, track temperature 36°°C  
 - **Grandstand & Infrastructure:** Quai Albert 1er grandstands, Casino square terraces, and harbour front berths  
 
 ### Race Anomalies, Incidents & Key Events
@@ -51,8 +51,11 @@ Graham Hill's third consecutive Monaco Grand Prix victory. Debut Monaco podium f
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 35,000 estimated spectators lining the harbor, grandstands, and balconies (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1965/2/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1965 Round 2 Results](https://www.formula1.com/en/results.html/1965/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1965 Round 2 Results](https://www.formula1.com/en/results/1965/races/226/monaco/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

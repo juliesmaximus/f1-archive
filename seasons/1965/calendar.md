@@ -6,13 +6,13 @@ This marked the fifth and final year of the 1.5-litre unsupercharged engine regu
 
 | Round | Official Grand Prix Name | Circuit | Location | Date | Laps | Distance | Winner | Pole Position | Fastest Lap |
 |:---:|:---|:---|:---|:---|:---:|:---:|:---|:---|:---|
-| 1 | XI South African Grand Prix | Prince George Circuit | East London, Eastern Cape, South Africa | 1965-01-01 | 85 | 333.200 km | Jim Clark | Jim Clark | Verified in dossier |
-| 2 | XXIII Grand Prix de Monaco | Circuit de Monaco | Monte Carlo, Principality of Monaco | 1965-05-30 | 100 | 314.500 km | Graham Hill | Graham Hill | Verified in dossier |
-| 3 | XXV Grand Prix de Belgique | Circuit de Spa-Francorchamps | Francorchamps, Stavelot, Ardennes, Belgium | 1965-06-13 | 32 | 451.200 km | Jim Clark | Graham Hill | Verified in dossier |
-| 4 | 51e Grand Prix de l'ACF | Circuit de Charade (Clermont-Ferrand) | Saint-Genès-Champanelle, Puy-de-Dôme, France | 1965-06-27 | 40 | 322.200 km | Jim Clark | Jim Clark | Verified in dossier |
-| 5 | 18th RAC British Grand Prix | Silverstone Circuit | Silverstone, Northamptonshire, United Kingdom | 1965-07-10 | 80 | 376.880 km | Jim Clark | Jim Clark | Verified in dossier |
-| 6 | XIV Grote Prijs van Nederland | Circuit Park Zandvoort | Zandvoort, North Holland, Netherlands | 1965-07-18 | 80 | 335.680 km | Jim Clark | Graham Hill | Verified in dossier |
-| 7 | XXVII Grosser Preis von Deutschland | Nürburgring Nordschleife | Nürburg, Rhineland-Palatinate, West Germany | 1965-08-01 | 15 | 342.150 km | Jim Clark | Jim Clark | Verified in dossier |
-| 8 | 36° Gran Premio d'Italia | Autodromo Nazionale di Monza | Monza, Lombardy, Italy | 1965-09-12 | 76 | 437.000 km | Jackie Stewart | Jim Clark | Verified in dossier |
-| 9 | VIII United States Grand Prix | Watkins Glen Grand Prix Race Course | Watkins Glen, Schuyler County, New York, United States | 1965-10-03 | 110 | 407.110 km | Graham Hill | Graham Hill | Verified in dossier |
-| 10 | IV Gran Premio de Mexico | Magdalena Mixhuca | Mexico City, Mexico | 1965-10-24 | 65 | 325.000 km | Richie Ginther | Jim Clark | Verified in dossier |
+| 1 | XI South African Grand Prix | Prince George Circuit | East London, Eastern Cape, South Africa | 1965-01-01 | 85 | 333.200 km | Jim Clark | Jim Clark (1:27.200) | Jim Clark (1:27.600) |
+| 2 | XXIII Grand Prix de Monaco | Circuit de Monaco | Monte Carlo, Principality of Monaco | 1965-05-30 | 100 | 314.500 km | Graham Hill | Graham Hill (1:32.500) | Graham Hill (1:31.700) |
+| 3 | XXV Grand Prix de Belgique | Circuit de Spa-Francorchamps | Francorchamps, Stavelot, Ardennes, Belgium | 1965-06-13 | 32 | 451.200 km | Jim Clark | Graham Hill (3:45.400) | Jim Clark (4:12.900) |
+| 4 | 51e Grand Prix de l'ACF | Circuit de Charade (Clermont-Ferrand) | Saint-Genès-Champanelle, Puy-de-Dôme, France | 1965-06-27 | 40 | 322.200 km | Jim Clark | Jim Clark (3:18.300) | Jim Clark (3:18.900) |
+| 5 | 18th RAC British Grand Prix | Silverstone Circuit | Silverstone, Northamptonshire, United Kingdom | 1965-07-10 | 80 | 376.880 km | Jim Clark | Jim Clark (1:30.800) | Graham Hill (1:32.200) |
+| 6 | XIV Grote Prijs van Nederland | Circuit Park Zandvoort | Zandvoort, North Holland, Netherlands | 1965-07-18 | 80 | 335.680 km | Jim Clark | Graham Hill (1:30.700) | Jim Clark (1:30.600) |
+| 7 | XXVII Grosser Preis von Deutschland | Nürburgring Nordschleife | Nürburg, Rhineland-Palatinate, West Germany | 1965-08-01 | 15 | 342.150 km | Jim Clark | Jim Clark (8:22.700) | Jim Clark (8:24.100) |
+| 8 | 36° Gran Premio d'Italia | Autodromo Nazionale di Monza | Monza, Lombardy, Italy | 1965-09-12 | 76 | 437.000 km | Jackie Stewart | Jim Clark (1:35.900) | Jim Clark (1:36.400) |
+| 9 | VIII United States Grand Prix | Watkins Glen Grand Prix Race Course | Watkins Glen, Schuyler County, New York, United States | 1965-10-03 | 110 | 407.110 km | Graham Hill | Graham Hill (1:11.250) | Graham Hill (1:11.900) |
+| 10 | IV Gran Premio de Mexico | Magdalena Mixhuca | Mexico City, Mexico | 1965-10-24 | 65 | 325.000 km | Richie Ginther | Jim Clark (1:56.170) | Dan Gurney (1:55.840) |

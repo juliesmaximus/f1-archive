@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jim Clark (Lotus-Climax) — 2:05:25.400  
-- **Pole Position:** Jim Clark  
+- **Pole Position:** Jim Clark  (1:30.800)
+- **Fastest Lap:** Graham Hill (BRM) — 1:32.200 (Lap 80)
 - **Weather & Track Conditions:** Overcast, cool breeze, dry track; 19°C ambient  
-- **Spectator Attendance:** 90,000 spectators packed around the perimeter runways and infield  
 - **Grandstand & Infrastructure:** BRDC grandstands at Woodcote, Copse, and Abbey; crowded runway banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -56,8 +56,11 @@ One of the most tactical finishes in British Grand Prix history. Surtees finishe
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 90,000 spectators lining Silverstone Circuit (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1965/5/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1965 Round 5 Results](https://www.formula1.com/en/results.html/1965/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1965 Round 5 Results](https://www.formula1.com/en/results/1965/races/229/great-britain/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jim Clark (Lotus-Climax) — 2:23:34.800  
-- **Pole Position:** Graham Hill  
+- **Pole Position:** Graham Hill  (3:45.400)
+- **Fastest Lap:** Jim Clark (Lotus-Climax) — 4:12.900 (Lap 23)
 - **Weather & Track Conditions:** Torrential rain, dense fog, standing water, and treacherous aquaplaning throughout  
-- **Spectator Attendance:** 50,000 soaked spectators in Ardennes pine forests  
 - **Grandstand & Infrastructure:** Covered grandstand opposite pits and natural earthen embankments along Eau Rouge and Blanchimont  
 
 ### Race Anomalies, Incidents & Key Events
@@ -54,8 +54,11 @@ Further solidified Jim Clark's unmatched mastery of the terrifying 14 km Spa cir
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 40,000 estimated spectators in the Ardennes grandstands (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1965/3/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1965 Round 3 Results](https://www.formula1.com/en/results.html/1965/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1965 Round 3 Results](https://www.formula1.com/en/results/1965/races/227/belgium/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

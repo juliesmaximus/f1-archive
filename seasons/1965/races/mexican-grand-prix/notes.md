@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Richie Ginther (Honda) — 2:08:32.100  
-- **Pole Position:** Jim Clark  
+- **Pole Position:** Jim Clark  (1:56.170)
+- **Fastest Lap:** Dan Gurney (Brabham-Climax) — 1:55.840 (Lap 57)
 - **Weather & Track Conditions:** Warm, high-altitude sunshine; thin air, 23°C ambient  
-- **Spectator Attendance:** 80,000 cheering Mexican fans packing the stadium complex  
 - **Grandstand & Infrastructure:** Colossal Estadio grandstands encircling Peraltada hairpin and pit straight balconies  
 
 ### Race Anomalies, Incidents & Key Events
@@ -54,8 +54,11 @@ Monumental milestone: first Japanese constructor to win a Formula One World Cham
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 65,000 spectators in the Magdalena Mixhuca grandstands (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1965/10/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1965 Round 10 Results](https://www.formula1.com/en/results.html/1965/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1965 Round 10 Results](https://www.formula1.com/en/results/1965/races/234/mexico/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

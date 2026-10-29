@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jim Clark (Lotus-Climax) — 2:06  
-- **Pole Position:** Jim Clark  
+- **Winner:** Jim Clark (Lotus-Climax) — 2:06:46.000  
+- **Pole Position:** Jim Clark (1:27.200)
+- **Fastest Lap:** Jim Clark (Lotus-Climax) — 1:27.600 (Lap 80)
 - **Weather & Track Conditions:** Warm, clear, and sunny; strong coastal wind blowing off the Indian Ocean  
-- **Spectator Attendance:** 45,000 estimated spectators lining the sand dunes and grandstands  
 - **Grandstand & Infrastructure:** Temporary wooden grandstands facing the pit straight and natural coastal dune spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ Held on New Year's Day (January 1), 1965, marking the earliest start to a Formul
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 5 | Jim Clark | Lotus-Climax | 85 | 2:06 | 1 | 9 |
+| 1 | 5 | Jim Clark | Lotus-Climax | 85 | 2:06:46.000 | 1 | 9 |
 | 2 | 1 | John Surtees | Ferrari | 85 | +29.000 | 2 | 6 |
 | 3 | 3 | Graham Hill | BRM | 85 | +31.800 | 5 | 4 |
 | 4 | 6 | Mike Spence | Lotus-Climax | 85 | +54.400 | 4 | 3 |
@@ -58,8 +58,11 @@ Held on New Year's Day (January 1), 1965, marking the earliest start to a Formul
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 45,000 estimated spectators lining the sand dunes and grandstands (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1965/1/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1965 Round 1 Results](https://www.formula1.com/en/results.html/1965/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1965 Round 1 Results](https://www.formula1.com/en/results/1965/races/225/south-africa/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

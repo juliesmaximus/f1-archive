@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Graham Hill (BRM) — 2:20:36.100  
-- **Pole Position:** Graham Hill  
+- **Winner:** Graham Hill (BRM) — 2:20:36.100°.100  
+- **Pole Position:** Graham Hill  (1:11.250)
+- **Fastest Lap:** Graham Hill (BRM) — 1:11.900 (Lap 105)
 - **Weather & Track Conditions:** Cool, damp morning leading to dry afternoon; autumn chill, 15°C ambient  
-- **Spectator Attendance:** 60,000 vocal American sports car enthusiasts and campers  
 - **Grandstand & Infrastructure:** Covered Kendall grandstand on main straight, The Bog infield, and outer Seneca knolls  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ Graham Hill's third consecutive victory at the United States Grand Prix at Watki
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 3 | Graham Hill | BRM | 110 | 2:20:36.100 | 1 | 9 |
+| 1 | 3 | Graham Hill | BRM | 110 | 2:20:36°.100 | 1 | 9 |
 | 2 | 8 | Dan Gurney | Brabham-Climax | 110 | +12.500 | 8 | 6 |
 | 3 | 7 | Jack Brabham | Brabham-Climax | 110 | +57.500 | 7 | 4 |
 | 4 | 2 | Lorenzo Bandini | Ferrari | 109 | +1 Lap | 5 | 3 |
@@ -53,8 +53,11 @@ Graham Hill's third consecutive victory at the United States Grand Prix at Watki
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 60,000 spectators throughout Watkins Glen State Park (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1965/9/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1965 Round 9 Results](https://www.formula1.com/en/results.html/1965/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1965 Round 9 Results](https://www.formula1.com/en/results/1965/races/233/united-states/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

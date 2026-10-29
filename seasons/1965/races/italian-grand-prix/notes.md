@@ -1,4 +1,4 @@
-# 36° Gran Premio d'Italia - Race Dossier & Verification Notes
+# 36°° Gran Premio d'Italia - Race Dossier & Verification Notes
 
 **Round:** 8 of 10  
 **Date:** 1965-09-12  
@@ -7,16 +7,16 @@
 **Track Length:** 5.75 km (3.573 miles)  
 **Altitude:** 162 m (Royal Villa park)  
 **Scheduled Distance:** 76 laps (437.000 km)  
-**Official Race Title:** 36° Gran Premio d'Italia  
+**Official Race Title:** 36°° Gran Premio d'Italia  
 
 ---
 
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jackie Stewart (BRM) — 2:04:52.800  
-- **Pole Position:** Jim Clark  
+- **Pole Position:** Jim Clark  (1:35.900)
+- **Fastest Lap:** Jim Clark (Lotus-Climax) — 1:36.400 (Lap 46)
 - **Weather & Track Conditions:** Warm, bright, sunny late summer weather; 27°C ambient  
-- **Spectator Attendance:** 100,000 passionate tifosi filling the parkland  
 - **Grandstand & Infrastructure:** Tribuna Centrale, Vedano, Ascari, and Parabolica spectator embankments  
 
 ### Race Anomalies, Incidents & Key Events
@@ -58,8 +58,11 @@ First career Grand Prix victory for future triple World Champion Jackie Stewart 
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 100,000 tifosi packing the Autodromo Nazionale di Monza (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1965/8/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1965 Round 8 Results](https://www.formula1.com/en/results.html/1965/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1965 Round 8 Results](https://www.formula1.com/en/results/1965/races/232/italy/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

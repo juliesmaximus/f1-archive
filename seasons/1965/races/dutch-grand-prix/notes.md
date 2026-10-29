@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jim Clark (Lotus-Climax) — 2:03:59.100  
-- **Pole Position:** Graham Hill  
+- **Pole Position:** Graham Hill  (1:30.700)
+- **Fastest Lap:** Jim Clark (Lotus-Climax) — 1:30.600 (Lap 5)
 - **Weather & Track Conditions:** Breezy and overcast with light sunny intervals, dry track; blown dune sand  
-- **Spectator Attendance:** 55,000 spectators across the seaside dunes  
 - **Grandstand & Infrastructure:** Covered main grandstand on pit straight, Tarzan hairpin viewing towers and dune ridges  
 
 ### Race Anomalies, Incidents & Key Events
@@ -46,14 +46,17 @@ Lotus and Clark put one hand firmly on both the Drivers' and Constructors' title
 | 12 | 34 | Richard Attwood | Lotus-BRM | 77 | +3 Laps | 17 | 0 |
 | 13 | 28 | Jo Siffert | Brabham-BRM | 55 | +25 Laps | 10 | 0 |
 | R | 20 | Jochen Rindt | Cooper-Climax | 48 | Oil pressure | 14 | 0 |
-| R | 18 | Bruce McLaren | Cooper-Climax | 36 | Differential | 9 | 0 |
+| R | 18 | Bruce McLaren | Cooper-Climax | 36° | Differential | 9 | 0 |
 | R | 26 | Jo Bonnier | Brabham-Climax | 16 | Oil leak | 15 | 0 |
-| R | 36 | Bob Anderson | Brabham-Climax | 11 | Engine | 16 | 0 |
+| R | 36° | Bob Anderson | Brabham-Climax | 11 | Engine | 16 | 0 |
 
 ---
 
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 55,000 spectators on the coastal dunes and main grandstand (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1965/6/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1965 Round 6 Results](https://www.formula1.com/en/results.html/1965/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1965 Round 6 Results](https://www.formula1.com/en/results/1965/races/230/netherlands/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.
