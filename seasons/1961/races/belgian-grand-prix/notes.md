@@ -1,43 +1,31 @@
-# 1961 Round 3: XXI Grote Prijs van België / XXI Grand Prix de Belgique - Verified Race Record
+# 1961 Belgian Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: XXI Grote Prijs van België / XXI Grand Prix de Belgique
-- **Historic Name Notes**: 21st Belgian Grand Prix at Spa-Francorchamps.
-- **Circuit Full Name**: Circuit de Spa-Francorchamps
-- **Location**: Francorchamps, Stavelot, Malmedy, Belgium
-- **Host Country**: Belgium
-- **Track Length**: 14.120 km (8.774 mi)
-- **Track Altitude**: 410 m (1345 ft) above sea level
-- **Race Distance**: 30 laps / 423.600 km (263.213 mi)
-- **Official Race Date**: 1961-06-18
+## Official Race Identification
+- **Official Name**: XXI Grand Prix de Belgique
+- **Round**: 3 of 8 in the 1961 FIA Formula One World Championship
+- **Date**: Sunday, 18 June 1961
+- **Location**: Circuit de Spa-Francorchamps, Stavelot, Belgium
+- **Circuit Length**: 14.120 km (8.774 miles)
+- **Distance**: 30 laps (423.600 km / 263.213 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Warm, sunny, dry Ardennes afternoon.
-- **Spectator Attendance**: Over 70,000 spectators.
-- **Grandstand & Infrastructure Notes**: Eau Rouge and Burnenville mounds full.
+## Official Results & Key Metrics
+- **Pole Position**: Phil Hill (Ferrari 156) - 3:59.300
+- **Fastest Lap**: Richie Ginther (Ferrari 156) - 3:59.800 (Lap 20)
+- **Race Winner**: Phil Hill (Ferrari 156) - 2:03:03.800 (206.544 km/h)
+- **Podium**:
+  1. Phil Hill (Ferrari) - 30 laps
+  2. Wolfgang von Trips (Ferrari) - 30 laps (+0.700s)
+  3. Richie Ginther (Ferrari) - 30 laps (+19.500s)
 
-## Verified Key Race Results
-- **Pole Position**: Phil Hill (Ferrari 156) - 3:59.3
-- **Fastest Race Lap**: Richie Ginther (Ferrari 156) - 3:59.8 (Lap 20)
-- **Race Winner**: Phil Hill (Ferrari) - 2:03:03.800 (9 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Ferrari 1-2-3-4 Total Domination**: The aerodynamic superiority and horsepower of the Ferrari 156 Sharknose cars crushed the field on the fast sweeps of Spa-Francorchamps. Ferrari swept the top four finishing positions (Phil Hill 1st, Wolfgang von Trips 2nd, Richie Ginther 3rd, and local hero Olivier Gendebien 4th in a yellow Ecurie Nationale Belge entry).
+- **Phil Hill vs. Von Trips Slipstreaming Duel**: Hill and von Trips traded the lead multiple times in a thrilling battle, crossing the line just 0.7 seconds apart.
+- **Surtees Outpaces British Rivals**: John Surtees finished 5th in a Cooper-Climax, over a lap behind the Ferraris.
+- **Track & Weather Conditions**: Warm, dry Ardennes summer afternoon; clean, dry track.
 
-## Official Podium Finishers
-- **1st** : Phil Hill (Ferrari) — 2:03:03.800 [9 pts]
-- **2nd** : Wolfgang von Trips (Ferrari) — +0.700 [6 pts]
-- **3rd** : Richie Ginther (Ferrari) — +19.500 [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1961/races/190/belgium/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1961/3/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Ferrari 1-2-3-4 Lockout: The 120-degree V6 'Sharknose' Ferrari 156s were untouchable on Spa's long uphill sweeps, completely monopolizing the top 4 positions: Phil Hill 1st, Wolfgang von Trips 2nd (+0.7s), Richie Ginther 3rd, and Belgian guest driver Olivier Gendebien 4th (driving a yellow Ecurie Francorchamps Ferrari).
-- Hill-von Trips Wheel-to-Wheel: Hill and von Trips traded the lead multiple times before Hill clinched victory by less than a second.
-- British Mid-Engine Deficit: The British Climax 4-cylinder engines were producing barely 150 bhp against Ferrari's 190 bhp Dino V6, leaving Surtees (5th) and Brabham (6th) over a minute adrift.
-
-## Records Set or Equalled
-- Scuderia Ferrari achieved a 1-2-3-4 finishing lockout.
-- Sub-4-minute lap in a 1.5-litre car (Phil Hill, 3:59.3 in qualifying).
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1961/races/190/belgium/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1961/3/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Crowd estimates were placed at 65,000 spectators; unverified in official sporting records.

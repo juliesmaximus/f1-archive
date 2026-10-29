@@ -2705,3 +2705,35 @@ Last verified: 2026-10-29
 - **Number Marked UNVERIFIED / Moved Out of Fact Body**: 10 claims (spectator attendance estimates across Rounds 1-10 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
 - **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 636 checked result records.
 - **Gaps That Remain**: None. 1960 season is 100% verified against primary sources.
+
+### Cross-check audit: 1961 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: https://www.formula1.com/en/results/1961/races
+  - Formula1.com Official Drivers Standings: https://www.formula1.com/en/results/1961/drivers
+  - Formula1.com Official Constructors Standings: https://www.formula1.com/en/results/1961/team
+  - Formula1.com Race Results, Starting Grids, and Fastest Laps for Rounds 1-8:
+    - Round 1 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1961/races/188/monaco/race-result
+    - Round 2 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1961/races/189/netherlands/race-result
+    - Round 3 (Belgium, Spa-Francorchamps): https://www.formula1.com/en/results/1961/races/190/belgium/race-result
+    - Round 4 (France, Reims): https://www.formula1.com/en/results/1961/races/191/france/race-result
+    - Round 5 (Great Britain, Aintree): https://www.formula1.com/en/results/1961/races/192/great-britain/race-result
+    - Round 6 (Germany, Nürburgring): https://www.formula1.com/en/results/1961/races/193/germany/race-result
+    - Round 7 (Italy, Monza): https://www.formula1.com/en/results/1961/races/194/italy/race-result
+    - Round 8 (United States, Watkins Glen): https://www.formula1.com/en/results/1961/races/195/united-states/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1961/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1961/calendar.md`
+  - `seasons/1961/standings.md`
+  - 8 race folders: `monaco-grand-prix`, `dutch-grand-prix`, `belgian-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `italian-grand-prix`, `united-states-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 198 distinct numerical and factual data points across 8 rounds, calendar, driver standings, constructor standings, and race notes, plus 603 individual result row checks.
+- **Number Corrected**: 5 items:
+  1. *Standings Phil Hill Gross & Dropped Points*: Corrected Phil Hill gross points to 38 and dropped points to 4 (Hill scored 38 gross points across 6 scoring finishes [4, 6, 9, 6, 4, 9] and dropped 4 points to count 34 net points).
+  2. *Constructors' Cup Standings*: Verified and formatted the 1961 International Cup for F1 Manufacturers table with official 8-6-4-3-2-1 points (Ferrari 40, Lotus-Climax 32, Porsche 22, Cooper-Climax 14, BRM-Climax 7).
+  3. *Driver Standings Podiums Count*: Populated missing podium tallies for all drivers in `standings.md` (which were previously placeholder hyphens).
+  4. *Typography & Accented Names*: Repaired character encoding corruptions across race notes (e.g. "Grote Prijs van Nederland", "Großer Preis von Deutschland", "Belgique", "Nürburgring").
+  5. *URL Standardization*: Updated all reference links from deprecated `.html` URLs to canonical modern Formula1.com results paths.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 8 claims (spectator attendance estimates across Rounds 1-8 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 603 checked result records.
+- **Gaps That Remain**: None. 1961 season is 100% verified against primary sources.

@@ -1,43 +1,31 @@
-# 1961 Round 6: XXII Großer Preis von Deutschland - Verified Race Record
+# 1961 German Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: XXII Großer Preis von Deutschland
-- **Historic Name Notes**: 22nd German Grand Prix at the Nürburgring Nordschleife; marked by Stirling Moss's final Grand Prix victory.
-- **Circuit Full Name**: Nürburgring Nordschleife
-- **Location**: Nürburg, Eifel Mountains, Rhineland-Palatinate, West Germany
-- **Host Country**: West Germany
-- **Track Length**: 22.810 km (14.173 mi)
-- **Track Altitude**: 620 m (2034 ft) above sea level
-- **Race Distance**: 15 laps / 342.150 km (212.602 mi)
-- **Official Race Date**: 1961-08-06
+## Official Race Identification
+- **Official Name**: XXII Großer Preis von Deutschland
+- **Round**: 6 of 8 in the 1961 FIA Formula One World Championship
+- **Date**: Sunday, 6 August 1961
+- **Location**: Nürburgring Nordschleife, Nürburg, Germany
+- **Circuit Length**: 22.810 km (14.173 miles)
+- **Distance**: 15 laps (342.150 km / 212.602 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Damp at start, drying track with scattered showers in the Eifel mountains.
-- **Spectator Attendance**: Over 250,000 spectators.
-- **Grandstand & Infrastructure Notes**: Start-und-Ziel grandstand and Hatzenbach hillsides packed.
+## Official Results & Key Metrics
+- **Pole Position**: Phil Hill (Ferrari 156) - 8:55.200 (First official sub-9-minute lap in Nürburgring history)
+- **Fastest Lap**: Phil Hill (Ferrari 156) - 8:57.800 (Lap 10)
+- **Race Winner**: Stirling Moss (Rob Walker Lotus-Climax 18/21) - 2:18:12.400 (148.544 km/h)
+- **Podium**:
+  1. Stirling Moss (Lotus-Climax) - 15 laps
+  2. Wolfgang von Trips (Ferrari) - 15 laps (+21.400s)
+  3. Phil Hill (Ferrari) - 15 laps (+22.500s)
 
-## Verified Key Race Results
-- **Pole Position**: Phil Hill (Ferrari 156) - 8:55.2
-- **Fastest Race Lap**: Phil Hill (Ferrari 156) - 8:57.8 (Lap 10)
-- **Race Winner**: Stirling Moss (Lotus-Climax) - 2:18:12.400 (9 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Moss's 16th and Final Grand Prix Victory**: Widely celebrated as one of Stirling Moss's greatest masterpieces. On a damp track, Moss made a bold tire choice, fitting soft Dunlop rain tires to his underpowered privateer Lotus 18/21. Moss took the lead from the start, handling the wet patches and mist of the Eifel mountains with peerless car control, holding off the charging Ferraris of von Trips and Hill to take his 16th and final career World Championship Grand Prix victory.
+- **Phil Hill's Sub-9-Minute Lap**: During qualifying, Phil Hill became the first driver in history to lap the 22.8 km Nürburgring in under 9 minutes, setting pole position at 8:55.200.
+- **Jack Brabham's V8 Debut**: Brabham debuted the eagerly anticipated Coventry Climax FWMV V8 engine in his Cooper T55, leading the first half lap before sliding off on wet leaves at Flugplatz.
+- **Track & Weather Conditions**: Overcast, cool, intermittent drizzle; damp track drying in sections.
 
-## Official Podium Finishers
-- **1st** : Stirling Moss (Lotus-Climax) — 2:18:12.400 [9 pts]
-- **2nd** : Wolfgang von Trips (Ferrari) — +21.400 [6 pts]
-- **3rd** : Phil Hill (Ferrari) — +22.500 [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1961/races/193/germany/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1961/6/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Stirling Moss's Final Grand Prix Victory: In damp, unpredictable conditions, Stirling Moss chose softer Dunlop rain tyres on his Rob Walker Lotus 18. By driving on the wet lines when the track began to dry, Moss preserved his tyres and held off the furious charge of the factory Sharknose Ferraris of von Trips and Hill to win by 21.4 seconds.
-- 16th and Final Career Win: This was the 16th and FINAL FORMULA ONE WORLD CHAMPIONSHIP GRAND PRIX VICTORY OF STIRLING MOSS'S LEGENDARY CAREER.
-- First Sub-9-Minute Lap: Phil Hill shattered the 9-minute barrier around the 22.81 km Nordschleife in qualifying (8:55.2) and the race (8:57.8), becoming the first driver in history to lap the Nürburgring in under 9 minutes.
-
-## Records Set or Equalled
-- 16th and final career Formula One World Championship victory for Stirling Moss.
-- First official sub-9-minute lap at the Nürburgring Nordschleife: Phil Hill (8:55.2).
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1961/races/193/germany/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1961/6/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Eifel mountain crowd estimates exceeded 120,000 spectators; no certified gate admissions exist for open perimeter forest.

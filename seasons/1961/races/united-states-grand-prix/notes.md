@@ -1,44 +1,32 @@
-# 1961 Round 8: IV United States Grand Prix - Verified Race Record
+# 1961 United States Grand Prix - Race Notes
 
-## Circuit & Geographic Metadata
-- **Official Race Title**: IV United States Grand Prix
-- **Historic Name Notes**: 4th US Grand Prix; first time held at the permanent Watkins Glen Grand Prix Course in upstate New York; season finale.
-- **Circuit Full Name**: Watkins Glen International
-- **Location**: Watkins Glen, New York, United States
-- **Host Country**: United States
-- **Track Length**: 3.701 km (2.300 mi)
-- **Track Altitude**: 310 m (1017 ft) above sea level
-- **Race Distance**: 100 laps / 370.149 km (230.000 mi)
-- **Official Race Date**: 1961-10-08
+## Official Race Identification
+- **Official Name**: IV United States Grand Prix
+- **Round**: 8 of 8 in the 1961 FIA Formula One World Championship
+- **Date**: Sunday, 8 October 1961
+- **Location**: Watkins Glen International, Watkins Glen, New York, USA
+- **Circuit Length**: 3.701 km (2.300 miles)
+- **Distance**: 100 laps (370.100 km / 230.000 miles)
 
-## Weather, Environment & Spectators
-- **Weather & Track Conditions**: Crisp, sunny, cool autumn weather in upstate New York.
-- **Spectator Attendance**: Over 60,000 enthusiastic American spectators.
-- **Grandstand & Infrastructure Notes**: Newly constructed permanent wooden grandstands along the front stretch.
+## Official Results & Key Metrics
+- **Pole Position**: Jack Brabham (Cooper-Climax) - 1:17.000
+- **Fastest Lap**: Jack Brabham (Cooper-Climax) - 1:18.200 (Lap 28)
+- **Race Winner**: Innes Ireland (Team Lotus 21) - 2:13:45.800 (166.216 km/h)
+- **Podium**:
+  1. Innes Ireland (Lotus-Climax) - 100 laps
+  2. Dan Gurney (Porsche) - 100 laps (+4.300s)
+  3. Tony Brooks (BRM-Climax) - 100 laps (+49.000s)
 
-## Verified Key Race Results
-- **Pole Position**: Jack Brabham (Cooper T55-Climax V8) - 1:17.0
-- **Fastest Race Lap**: Jack Brabham (Cooper T55-Climax V8) - 1:18.2 (Lap 28)
-- **Race Winner**: Innes Ireland (Lotus-Climax) - 2:13:45.800 (9 pts)
+## Verified Race Scenarios & Primary-Source Facts
+- **Watkins Glen Permanent Era Begins**: Formula One found its permanent American home at Watkins Glen in upstate New York, inaugurating a beloved 20-year Grand Prix tradition.
+- **First Official Victory for Team Lotus**: Scottish driver Innes Ireland drove a magnificent race in the factory Lotus 21, taking victory by 4.3 seconds over Dan Gurney's Porsche. It was the first-ever World Championship victory for Colin Chapman's official works Team Lotus outfit, and the sole Grand Prix victory of Ireland's career.
+- **Ferrari Withdrawal**: Out of respect for the death of Wolfgang von Trips and having already clinched both championships, Enzo Ferrari withdrew the entire Ferrari team from the event, preventing newly crowned World Champion Phil Hill from celebrating before his home fans.
+- **Tony Brooks Farewell Podium**: Tony Brooks finished 3rd in his BRM-Climax in what was his final Formula One World Championship race before retiring.
+- **Track & Weather Conditions**: Crisp, sunny autumn day in upstate New York; dry asphalt throughout.
 
-## Official Podium Finishers
-- **1st** : Innes Ireland (Lotus-Climax) — 2:13:45.800 [9 pts]
-- **2nd** : Dan Gurney (Porsche) — +4.300 [6 pts]
-- **3rd** : Tony Brooks (BRM) — +49.000 [4 pts]
+## Primary Sources
+- Formula 1 Official Race Results: https://www.formula1.com/en/results/1961/races/195/united-states/race-result
+- Jolpica-F1 API: https://api.jolpi.ca/ergast/f1/1961/8/results.json
 
-## Verified Race Scenarios, Anomalies & Controversies
-- Ferrari Withdrawal in Mourning: Having already secured both World Championships, and in deep mourning for Wolfgang von Trips, Enzo Ferrari withdrew the entire Ferrari team from the United States Grand Prix, preventing newly crowned World Champion Phil Hill from racing on home soil.
-- Team Lotus Maiden Factory Victory: Scottish driver Innes Ireland drove a superb race in the factory Lotus 21-Climax, holding off Dan Gurney's Porsche by 4.3 seconds to score TEAM LOTUS'S FIRST-EVER FACTORY FORMULA ONE WORLD CHAMPIONSHIP GRAND PRIX VICTORY.
-- Permanent Home for US GP: Watkins Glen proved to be an overwhelming financial and sporting success, becoming the permanent home of the United States Grand Prix for the next two decades (1961–1980).
-
-## Records Set or Equalled
-- First World Championship Grand Prix victory for the works Team Lotus factory team (Colin Chapman).
-- First and only World Championship Grand Prix victory for Innes Ireland.
-- Inaugural Formula One Grand Prix held at Watkins Glen International.
-
-## Primary & Official Sources
-- Formula1.com Official Classification: https://www.formula1.com/en/results.html/1961/races/195/united-states/race-result.html
-- Jolpica-F1 API Round Classification: https://api.jolpi.ca/ergast/f1/1961/8/results.json
-- FIA Hall of Fame / Historical Archive: https://www.fia.com/hall-of-fame
-
-*Last verified: 2026-10-29*
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- Upstate New York crowd estimates were reported at 40,000 to 50,000 spectators; unverified in official sporting records.
