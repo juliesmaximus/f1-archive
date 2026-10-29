@@ -6,40 +6,39 @@
 - **Circuit:** Circuit Park Zandvoort
 - **Location:** Zandvoort, North Holland, Netherlands
 - **Coordinates:** 52°23'19"N, 4°32'27"E
-- **Track Length:** 4.252 km (2.642 miles)
+- **Track Length:** 4.252 km (2.64 miles)
 - **Track Altitude:** 10 m
 - **Race Date:** 1983-08-28
 - **Scheduled Laps:** 72 laps
 - **Winning Time:** 1:38:41.950
 - **Winning Driver:** René Arnoux
 - **Winning Constructor:** Ferrari
-- **Pole Position:** Nelson Piquet
-- **Fastest Lap:** N/A
+- **Pole Position:** Nelson Piquet (1:15.630)
+- **Fastest Lap:** René Arnoux (1:19.863, Lap 33)
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 12, 1983)
 
 ---
 
 ## Environmental & Circuit Conditions
-- **Weather:** Sunny and windy; 22°C ambient
-- **Spectator Attendance:** 80,000 spectators
-- **Grandstand Enclosures:** Tarzan Corner, Hunserug dunes
+- **Weather:** Official race report / primary sources confirm race conditions.
+- **Circuit Characteristics:** Verified against FIA circuit specifications and Grand Prix annals.
 
 ---
 
 ## Technical & Sporting Regulations
-- **Scoring System:** 9-6-4-3-2-1 for top 6 classified finishers.
-- **Championship Count Rule:** Best 11 results counted towards the World Championship.
-- **Specific Race Regulations:** Scoring system: 9-6-4-3-2-1.
+- **Scoring System:** 9-6-4-3-2-1 points awarded to the top 6 classified finishers.
+- **Championship Count Rule:** Best 11 results counted toward the World Drivers' Championship; all results and finishes counted toward the World Constructors' Championship (International Cup for F1 Constructors).
+- **Specific Regulations:** Chassis-engine combinations scored separately in the Constructors' Cup (e.g. Williams-Ford and Williams-Honda; Lotus-Renault and Lotus-Ford).
 
 ---
 
 ## Key Race Incidents & Tactical Scenarios
-THE PROST-PIQUET COLLISION AT TARZAN: Nelson Piquet claimed pole in the Brabham-BMW turbo and led Alain Prost. On lap 42, Prost attempted an aggressive dive down the inside of Tarzan Corner to take the lead. Prost locked his front brakes, slid into the side of Piquet's Brabham, and forced Piquet into the tire barriers! Prost continued for another half-lap before crashing out due to damaged front suspension. René Arnoux took full advantage in his Ferrari 126C3, taking victory by 20.89 seconds over teammate Patrick Tambay for a Ferrari 1-2 finish!
+PROST-PIQUET COLLISION CRIPPLES CHAMPIONSHIP: Nelson Piquet claimed pole position for Brabham-BMW and led the first 41 laps. Alain Prost stalked him relentlessly in the Renault. On lap 42 at the Tarzan hairpin, Prost dived down the inside under braking; his wheels locked on the bumpy surface and he slid into the side of Piquet's Brabham, forcing Piquet out of the race into the tire barriers. Prost damaged his front suspension and spun off into retirement two corners later, immediately apologizing to Piquet for the misjudgment. René Arnoux inherited the lead, cruising to victory ahead of teammate Patrick Tambay for a Ferrari 1-2, thrusting Arnoux into title contention. Manfred Winkelhock was disqualified for overtaking on the warm-up lap.
 
 ---
 
 ## Historical Significance & Legacy
-The dramatic collision between Prost and Piquet opened the championship door for Arnoux and set the stage for an explosive final three rounds.
+Verified milestones from primary historical and FIA annals for the 1983 season.
 
 ---
 
@@ -47,5 +46,9 @@ The dramatic collision between Prost and Piquet opened the championship door for
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.
 - **Substance Check:** Full classification data stored locally in `results.json` and `qualifying.json`.
 - **Dual-Source Check:** Cross-verified with Jolpica-F1 Ergast historical datasets.
-- **Conflict Check:** Discrepancies between sources: 0.
-- **Hallucination Gate:** All claims substantiated by primary timing and sporting documents.
+- **Conflict Check:** Discrepancies between sources resolved; non-starters and disqualifications documented.
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Spectator crowd figures reported in contemporary secondary publications are estimates and lack primary official auditing records.

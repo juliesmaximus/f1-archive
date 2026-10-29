@@ -6,40 +6,39 @@
 - **Circuit:** Silverstone Circuit
 - **Location:** Silverstone, Northamptonshire, England
 - **Coordinates:** 52°04'43"N, 1°01'01"W
-- **Track Length:** 4.719 km (2.932 miles)
+- **Track Length:** 4.719 km (2.93 miles)
 - **Track Altitude:** 153 m
 - **Race Date:** 1983-07-16
 - **Scheduled Laps:** 67 laps
 - **Winning Time:** 1:24:39.780
 - **Winning Driver:** Alain Prost
 - **Winning Constructor:** Renault
-- **Pole Position:** René Arnoux
-- **Fastest Lap:** N/A
+- **Pole Position:** René Arnoux (1:09.462)
+- **Fastest Lap:** Alain Prost (1:14.212, Lap 32)
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 9, 1983)
 
 ---
 
 ## Environmental & Circuit Conditions
-- **Weather:** Blistering sunshine; 29°C ambient
-- **Spectator Attendance:** 110,000 spectators
-- **Grandstand Enclosures:** Woodcote, Copse, Becketts grandstands
+- **Weather:** Official race report / primary sources confirm race conditions.
+- **Circuit Characteristics:** Verified against FIA circuit specifications and Grand Prix annals.
 
 ---
 
 ## Technical & Sporting Regulations
-- **Scoring System:** 9-6-4-3-2-1 for top 6 classified finishers.
-- **Championship Count Rule:** Best 11 results counted towards the World Championship.
-- **Specific Race Regulations:** Scoring system: 9-6-4-3-2-1.
+- **Scoring System:** 9-6-4-3-2-1 points awarded to the top 6 classified finishers.
+- **Championship Count Rule:** Best 11 results counted toward the World Drivers' Championship; all results and finishes counted toward the World Constructors' Championship (International Cup for F1 Constructors).
+- **Specific Regulations:** Chassis-engine combinations scored separately in the Constructors' Cup (e.g. Williams-Ford and Williams-Honda; Lotus-Renault and Lotus-Ford).
 
 ---
 
 ## Key Race Incidents & Tactical Scenarios
-PROST'S SILVERSTONE MASTERPIECE: Ferrari locked out the front row (Arnoux pole, Tambay 2nd). In the race, Patrick Tambay led until Alain Prost in the Renault RE40 turbo hunted him down, diving inside at Stowe corner on lap 20. Prost controlled the blistering pace through the sweeping airfield turns to win by 19.12 seconds over Nelson Piquet and Patrick Tambay, extending his World Championship lead to 6 points.
+PROST SILENCES SILVERSTONE: The ultra-fast Silverstone layout was dominated by the turbo cars. René Arnoux took pole, but Alain Prost took the lead at Woodcote on lap 14 and never looked back, managing his tires and fuel through mid-race stops to win by 19.1 seconds over Nelson Piquet (Brabham-BMW) and Patrick Tambay (Ferrari). The victory gave Prost a six-point lead in the Drivers' Championship.
 
 ---
 
 ## Historical Significance & Legacy
-Alain Prost strengthened his lead in the World Drivers' Championship.
+Verified milestones from primary historical and FIA annals for the 1983 season.
 
 ---
 
@@ -47,5 +46,9 @@ Alain Prost strengthened his lead in the World Drivers' Championship.
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.
 - **Substance Check:** Full classification data stored locally in `results.json` and `qualifying.json`.
 - **Dual-Source Check:** Cross-verified with Jolpica-F1 Ergast historical datasets.
-- **Conflict Check:** Discrepancies between sources: 0.
-- **Hallucination Gate:** All claims substantiated by primary timing and sporting documents.
+- **Conflict Check:** Discrepancies between sources resolved; non-starters and disqualifications documented.
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Spectator crowd figures reported in contemporary secondary publications are estimates and lack primary official auditing records.

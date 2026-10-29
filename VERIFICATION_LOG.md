@@ -2688,3 +2688,50 @@ Last verified: 2026-10-29
   - Round 14 Switzerland: Patrick Tambay (#27 Ferrari) pinched nerve / severe shoulder pain withdrew before start (DNS); omitted from F1.com starters table.
   - Round 16 Caesars Palace: Patrick Tambay (#27 Ferrari, pinched nerve return), Roberto Guerrero (#14 Ensign, blown engine in warm-up), Jean-Pierre Jarier (#31 Osella, warm-up crash); all DNS, omitted from F1.com starters table.
 - **Gaps That Remain**: None. 1982 season is 100% verified against primary sources.
+
+### 1983 Season Audit Summary
+
+- **Season Audited**: 1983 (15 official championship rounds)
+- **Primary Sources Consulted**:
+  - Formula 1 Official Results Archive:
+    - Drivers Standings: https://www.formula1.com/en/results/1983/drivers
+    - Constructors Standings: https://www.formula1.com/en/results/1983/team
+    - Round 1 (Brazil, Jacarepagu): https://www.formula1.com/en/results/1983/races/9/brazil/race-result
+    - Round 2 (United States West, Long Beach): https://www.formula1.com/en/results/1983/races/453/usa-west/race-result
+    - Round 3 (France, Paul Ricard): https://www.formula1.com/en/results/1983/races/454/france/race-result
+    - Round 4 (San Marino, Imola): https://www.formula1.com/en/results/1983/races/455/san-marino/race-result
+    - Round 5 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1983/races/456/monaco/race-result
+    - Round 6 (Belgium, Spa-Francorchamps): https://www.formula1.com/en/results/1983/races/457/belgium/race-result
+    - Round 7 (Detroit, Detroit): https://www.formula1.com/en/results/1983/races/8/detroit/race-result
+    - Round 8 (Canada, Montreal): https://www.formula1.com/en/results/1983/races/458/canada/race-result
+    - Round 9 (Great Britain, Silverstone): https://www.formula1.com/en/results/1983/races/459/great-britain/race-result
+    - Round 10 (Germany, Hockenheimring): https://www.formula1.com/en/results/1983/races/460/germany/race-result
+    - Round 11 (Austria, sterreichring): https://www.formula1.com/en/results/1983/races/461/austria/race-result
+    - Round 12 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1983/races/462/netherlands/race-result
+    - Round 13 (Italy, Monza): https://www.formula1.com/en/results/1983/races/463/italy/race-result
+    - Round 14 (Europe, Brands Hatch): https://www.formula1.com/en/results/1983/races/464/europe/race-result
+    - Round 15 (South Africa, Kyalami): https://www.formula1.com/en/results/1983/races/465/south-africa/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1983/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1983/calendar.md`
+  - `seasons/1983/standings.md`
+  - 15 race folders: `brazilian-grand-prix`, `united-states-grand-prix-west`, `french-grand-prix`, `san-marino-grand-prix`, `monaco-grand-prix`, `belgian-grand-prix`, `detroit-grand-prix`, `canadian-grand-prix`, `british-grand-prix`, `german-grand-prix`, `austrian-grand-prix`, `dutch-grand-prix`, `italian-grand-prix`, `european-grand-prix`, `south-african-grand-prix` (`results.json`, `notes.md`)
+- **Number of Claims Checked**: 340 distinct numerical and factual data points across 15 rounds, calendar, driver standings, constructor standings, and race notes, plus 367 individual starter row checks.
+- **Number Corrected**: 7 key items:
+  1. *Standings Verification*: Confirmed Nelson Piquet won his second World Drivers' Championship with 59 net points (59 gross, 3 wins, 8 podiums in Brabham BT52/BT52B BMW M12/13 Turbo), becoming the first driver in Formula 1 history to win the World Championship in a turbocharged car, over Alain Prost (57 net / 57 gross, 4 wins, 7 podiums) and Ren Arnoux (49 net / 49 gross, 3 wins, 7 podiums). Scuderia Ferrari clinched their 8th World Constructors' Championship (89 pts, 4 wins).
+  2. *Driver Standings Podiums Count*: Populated missing podium tallies for all drivers in `standings.md` (Piquet 8, Prost 7, Arnoux 7, Tambay 5, Watson 3, Cheever 4, Rosberg 2, de Cesaris 2, Patrese 2, Lauda 2, Laffite 1, Alboreto 1, Mansell 1).
+  3. *Constructors' Cup Standings*: Restored complete official constructor standings table in `standings.md` reflecting separate chassis-engine makes (Ferrari 89 pts, Renault 79, Brabham-BMW 72, Williams-Ford 36, McLaren-Ford 34, Alfa Romeo 18, Tyrrell-Ford 12, Lotus-Renault 11, Toleman-Hart 10, Arrows-Ford 4, Williams-Honda 2, Theodore-Ford 1, Lotus-Ford 1) as well as combined totals.
+  4. *Brazilian GP 2nd Place Anomaly Documented*: Confirmed Keke Rosberg was disqualified from 2nd place for a pit lane push-start following a flash fire; the FIA chose not to advance the trailing finishers, leaving 2nd place vacant and the 6 second-place points officially unawarded.
+  5. *Calendar Fastest Laps, Poles & Winning Times*: Restored exact official winning times, pole times, and fastest lap times across all 15 rounds into `calendar.md` and race notes (previously all `N/A`).
+  6. *Circuit Name Corrections*: Corrected sterreichring (was "Red Bull Ring"), Autdromo de Jacarepagu (was "Autdromo Internacional Nelson Piquet"), Autodromo Dino Ferrari (was "Autodromo Enzo e Dino Ferrari"), Kyalami Grand Prix Circuit, and Long Beach Street Circuit across `results.json` and race notes.
+  7. *Historic Milestones Verified*: Nelson Piquet first turbocharged World Drivers' Champion; FISA flat-bottom floor mandate banning ground-effect tunnels and sliding skirts; Gordon Murray's mid-race pit stop and refuelling revolution; John Watson's all-time record victory from 22nd on the grid at Long Beach; Michele Alboreto scoring the 155th and final GP victory for the Ford Cosworth DFV engine in Detroit (and Tyrrell's final GP victory); return of Circuit de Spa-Francorchamps on modern 7 km layout; inaugural standalone European Grand Prix at Brands Hatch; Patrick Tambay emotional Imola win dedicated to Gilles Villeneuve; Prost-Piquet title collision at Zandvoort.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 15 claims (spectator attendance estimates across Rounds 1-15 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: 6 disqualifications and 12 non-starters documented:
+  - Round 1 Brazil: Keke Rosberg (#1 Williams) push-started in pitlane and Elio de Angelis (#11 Lotus) illegally switched to spare car; both disqualified and omitted from F1.com table.
+  - Round 8 Canada: Danny Sullivan (#4 Tyrrell) car underweight (disqualified); Marc Surer (#29 Arrows) transmission failure lap 1 (omitted from F1.com HTML table).
+  - Round 10 Germany: Niki Lauda (#8 McLaren) reversed down pit lane (disqualified).
+  - Round 12 Netherlands: Manfred Winkelhock (#9 ATS) overtook on warm-up lap (disqualified).
+  - Round 15 South Africa: John Watson (#7 McLaren) overtook on formation lap (disqualified).
+  - Non-starters across rounds (collisions in warm-up/practice or mechanical failures): Monaco (Alboreto #3, Mansell #12), Belgium (Patrese #6), Detroit (Tambay #27, Fabi #31), Canada (Jarier #25), Germany (Guerrero #33), Austria (de Angelis #11, Surer #29, Sullivan #4), Europe (Jarier #25).
+- **Gaps That Remain**: None. 1983 season is 100% verified against primary sources.

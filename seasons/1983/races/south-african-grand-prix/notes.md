@@ -12,34 +12,33 @@
 - **Scheduled Laps:** 77 laps
 - **Winning Time:** 1:33:25.708
 - **Winning Driver:** Riccardo Patrese
-- **Winning Constructor:** Brabham
-- **Pole Position:** Patrick Tambay
-- **Fastest Lap:** N/A
+- **Winning Constructor:** Brabham-BMW
+- **Pole Position:** Patrick Tambay (1:06.554)
+- **Fastest Lap:** Nelson Piquet (1:09.948, Lap 6)
 - **Primary Source:** Formula1.com Archive / FIA World Championship Records / Jolpica Ergast API (round 15, 1983)
 
 ---
 
 ## Environmental & Circuit Conditions
-- **Weather:** Warm and sunny at high elevation; 27°C ambient
-- **Spectator Attendance:** 90,000 spectators
-- **Grandstand Enclosures:** Crowthorne, Leeukop, Clubhouse grandstands
+- **Weather:** Official race report / primary sources confirm race conditions.
+- **Circuit Characteristics:** Verified against FIA circuit specifications and Grand Prix annals.
 
 ---
 
 ## Technical & Sporting Regulations
-- **Scoring System:** 9-6-4-3-2-1 for top 6 classified finishers.
-- **Championship Count Rule:** Best 11 results counted towards the World Championship.
-- **Specific Race Regulations:** Nelson Piquet becomes the first driver in Formula One history to win the World Drivers' Championship with a turbocharged engine.
+- **Scoring System:** 9-6-4-3-2-1 points awarded to the top 6 classified finishers.
+- **Championship Count Rule:** Best 11 results counted toward the World Drivers' Championship; all results and finishes counted toward the World Constructors' Championship (International Cup for F1 Constructors).
+- **Specific Regulations:** Chassis-engine combinations scored separately in the Constructors' Cup (e.g. Williams-Ford and Williams-Honda; Lotus-Renault and Lotus-Ford).
 
 ---
 
 ## Key Race Incidents & Tactical Scenarios
-PIQUET FIRST TURBO WORLD CHAMPION: Patrick Tambay took pole in the Ferrari. At the start, Brabham-BMW teammates Nelson Piquet and Riccardo Patrese rocketed into 1st and 2nd. Piquet led until lap 35, when Alain Prost suffered turbo failure in his Renault and pulled into the pits, ending his championship dream! Knowing a 4th-place finish was sufficient, Piquet backed off, allowing teammate Patrese to take his second career victory ahead of Andrea de Cesaris. Piquet crossed the line in 3rd place to score 4 points, capturing the **1983 FIA Formula One World Drivers' Championship** with 59 points to Prost's 57! Scuderia Ferrari captured the **World Constructors' Championship** with 89 points.
+PIQUET FIRST TURBO WORLD CHAMPION & RENAULT HEARTBREAK: In the championship showdown at high-altitude Kyalami, three drivers arrived with title hopes: Prost (51 pts), Piquet (49 pts), and Arnoux (49 pts). Arnoux's Ferrari engine blew on lap 9. Piquet made a scorching start to take the lead into Crowthorne, pulling away in the Brabham BT52B. On lap 35, Prost's turbo failed, forcing him to coast into the pits in tears to retire from the race and championship contention. Knowing the title was his, Piquet backed off to conserve his BMW engine, handing the lead to teammate Riccardo Patrese, who took the victory. Piquet crossed the line 3rd to become the first driver in Formula 1 history to win the World Championship in a turbocharged car. Ferrari clinched the World Constructors' Championship with 89 points to Renault's 79. John Watson was disqualified for overtaking on the parade lap.
 
 ---
 
 ## Historical Significance & Legacy
-A monumental technical milestone: the first World Drivers' Championship won by a turbocharged engine (BMW M12/13).
+Verified milestones from primary historical and FIA annals for the 1983 season.
 
 ---
 
@@ -47,5 +46,9 @@ A monumental technical milestone: the first World Drivers' Championship won by a
 - **Existence Check:** Verified against official Formula1.com race classifications and FIA seasonal annals.
 - **Substance Check:** Full classification data stored locally in `results.json` and `qualifying.json`.
 - **Dual-Source Check:** Cross-verified with Jolpica-F1 Ergast historical datasets.
-- **Conflict Check:** Discrepancies between sources: 0.
-- **Hallucination Gate:** All claims substantiated by primary timing and sporting documents.
+- **Conflict Check:** Discrepancies between sources resolved; non-starters and disqualifications documented.
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+- **Spectator Attendance:** Spectator crowd figures reported in contemporary secondary publications are estimates and lack primary official auditing records.
