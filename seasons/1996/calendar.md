@@ -1,6 +1,6 @@
 # 1996 FIA Formula 1 World Championship - Season Calendar
 
-The 1996 FIA Formula 1 World Championship consisted of 16 rounds across 5 continents, running from March 10 to October 13, 1996.
+The 1996 FIA Formula 1 World Championship was the 47th season of FIA Formula One motor racing. It consisted of 16 rounds across 5 continents, running from March 10 to October 13, 1996. Damon Hill won the World Drivers' Championship with Williams-Renault, becoming the first son of a World Champion to win the title himself. Williams-Renault captured their fourth Constructors' Championship in five seasons.
 
 | Rnd | Official Grand Prix Name | Circuit | Location | Date | Winner | Pole Position | Fastest Lap |
 |:---:|:---|:---|:---|:---|:---|:---|:---|
@@ -25,5 +25,5 @@ The 1996 FIA Formula 1 World Championship consisted of 16 rounds across 5 contin
 
 ## Key Regulatory Features & Technical Specifications
 - **Engine Regulations:** 3.0-litre naturally aspirated engines (maximum 12 cylinders).
-- **107% Qualifying Rule:** Any car failing to set a lap time within 107% of the pole position time in qualifying was barred from starting the Grand Prix.
-- **Cockpit Safety Surrounds:** Mandatory high-sided cockpit surrounds (550 mm above ground level).
+- **107% Qualifying Rule:** Introduced in 1996 to guarantee minimum competitive speeds; any driver whose qualifying time exceeded 107% of the pole position time was barred from starting the race unless granted permission by the stewards in exceptional circumstances.
+- **Raised Cockpit Side Surrounds:** Mandatory high-sided cockpit surrounds (550 mm above ground level) constructed with energy-absorbing foam were introduced to provide crucial lateral head and neck impact protection.

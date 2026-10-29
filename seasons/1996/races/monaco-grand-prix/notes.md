@@ -25,6 +25,6 @@ One of the most extraordinary, chaotic races in Formula 1 history. Starting on a
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1996/races/6/monaco-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1996/races/643/monaco/race-result
 - **FIA Official Sporting Archives & Yearbooks (1996)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1996/6/results.json`

@@ -25,6 +25,6 @@ Damon Hill put on a masterclass in torrential Brazilian rain, leading from start
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1996/races/2/brazilian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1996/races/639/brazil/race-result
 - **FIA Official Sporting Archives & Yearbooks (1996)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1996/2/results.json`

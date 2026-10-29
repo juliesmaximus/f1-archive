@@ -25,6 +25,6 @@ A historic day: Jacques Villeneuve scored his maiden Formula 1 Grand Prix victor
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1996/races/4/european-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1996/races/641/europe/race-result
 - **FIA Official Sporting Archives & Yearbooks (1996)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1996/4/results.json`

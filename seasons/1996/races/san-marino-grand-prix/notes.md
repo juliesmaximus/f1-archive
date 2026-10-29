@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Michael Schumacher (Ferrari) - 1:26.890
-- **Fastest Lap:** Damon Hill (Williams-Renault) - 1:28.931 (Lap 50)
+- **Fastest Lap:** Damon Hill (Williams-Renault) - 1:28.931 (Lap 49)
 - **Race Winner:** Damon Hill (Williams-Renault)
 
 ---
@@ -25,6 +25,6 @@ Michael Schumacher thrilled the tifosi by taking his first pole position for Scu
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1996/races/5/san-marino-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1996/races/642/san-marino/race-result
 - **FIA Official Sporting Archives & Yearbooks (1996)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1996/5/results.json`

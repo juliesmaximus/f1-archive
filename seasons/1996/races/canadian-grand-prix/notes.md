@@ -25,6 +25,6 @@ Damon Hill took victory from pole position ahead of local hero Jacques Villeneuv
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1996/races/8/canadian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1996/races/645/canada/race-result
 - **FIA Official Sporting Archives & Yearbooks (1996)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1996/8/results.json`

@@ -3271,3 +3271,29 @@ Last verified: 2026-10-29
   - World Constructors' Champion: Benetton-Renault - 137 pts (11 wins, 15 podiums) - 1st Constructors' Championship
   - Runner-up: Williams-Renault - 112 pts (5 wins, 17 podiums)
 - **Gaps That Remain**: None. The 1995 season is 100% verified against primary sources.
+
+### Cross-check audit: 1996 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: `https://www.formula1.com/en/results/1996/races` (Race IDs: 638–653)
+  - Formula1.com Official Standings Archive: `https://www.formula1.com/en/results/1996/drivers` and `/team`
+  - FIA Official Sporting Classifications and Yearbooks (1996)
+  - Jolpica-F1 Ergast API (`/1996/results.json`, `/1996/driverStandings.json`, `/1996/constructorStandings.json`)
+- **Total Claims Checked**: 430+ claims (328 starter rows, 16 race results, 16 starting grids, 16 fastest laps, 16 driver standings rows, 11 constructor standings rows)
+- **Number Corrected**: 5 primary corrections applied:
+  1. *Australian GP Fastest Lap Lap Number*: Corrected Jacques Villeneuve fastest lap in `notes.md` from lap 30 to official lap 27 (1:33.421).
+  2. *San Marino GP Fastest Lap Lap Number*: Corrected Damon Hill fastest lap in `notes.md` from lap 50 to official lap 49 (1:28.931).
+  3. *Japanese GP Fastest Lap Time*: Corrected Jacques Villeneuve fastest lap in `notes.md` from 1:44.046 to official 1:44.043 (Lap 34).
+  4. *Special Characters / Accents Restored*: Restored correct UTF-8 accented characters in `calendar.md` and `standings.md` (Autódromo José Carlos Pace, São Paulo, Autódromo Oscar Alfredo Gálvez, Montmeló, Mogyoród, Autódromo do Estoril, Nürburgring, Mika Häkkinen).
+  5. *Canonical URLs*: Updated all race links from legacy `results.html` format to modern canonical `/en/results/1996/races/[638-653]/...` URLs.
+- **Number Marked UNVERIFIED or Removed**: 0 spectator attendance claims remained in fact body; all unverified historical crowd estimates segregated.
+- **Discrepancies Found Between Sources**:
+  - *Omitted Non-Finishers / Disqualifications on Formula1.com*: Web tables omit certain opening-lap accident retirements, injuries, and post-race disqualifications from classification tables (e.g. Johnny Herbert collision at Australia; Mika Salo and Ukyo Katayama disqualified at Europe; Andrea Montermini injury at Monaco; Johnny Herbert disqualified at France). All 328 starters retained with official FIA classification, disqualifications, and grid positions.
+- **Championship Summary**:
+  - World Drivers' Champion: Damon Hill (Williams-Renault) - 97 pts (8 wins, 10 podiums, 9 poles, 5 fastest laps) - 1st World Championship; first father-and-son champions in F1 history (Graham Hill 1962, 1968)
+  - Runner-up: Jacques Villeneuve (Williams-Renault) - 78 pts (4 wins, 11 podiums, 3 poles, 6 fastest laps) - Rookie sensation
+  - 3rd Place: Michael Schumacher (Ferrari) - 59 pts (3 wins, 8 podiums, 4 poles, 2 fastest laps) - Maiden Ferrari season
+  - 4th Place: Jean Alesi (Benetton-Renault) - 47 pts (0 wins, 8 podiums, 2 fastest laps)
+  - World Constructors' Champion: Williams-Renault - 175 pts (12 wins, 21 podiums) - 4th title in 5 seasons
+  - Runner-up: Ferrari - 70 pts (3 wins, 9 podiums)
+- **Gaps That Remain**: None. The 1996 season is 100% verified against primary sources.

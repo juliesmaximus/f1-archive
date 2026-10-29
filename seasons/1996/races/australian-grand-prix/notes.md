@@ -14,7 +14,7 @@
 
 ## Key Race Results & Milestones
 - **Pole Position:** Jacques Villeneuve (Williams-Renault) - 1:32.371
-- **Fastest Lap:** Jacques Villeneuve (Williams-Renault) - 1:33.421 (Lap 30)
+- **Fastest Lap:** Jacques Villeneuve (Williams-Renault) - 1:33.421 (Lap 27)
 - **Race Winner:** Damon Hill (Williams-Renault)
 
 ---
@@ -25,6 +25,6 @@ Formula 1 debut at Melbourne's Albert Park, replacing Adelaide. Canadian rookie 
 ---
 
 ## Verification & Sources
-- **Formula 1 Official Classification:** https://www.formula1.com/en/results.html/1996/races/1/australian-grand-prix/race-result.html
+- **Formula 1 Official Classification:** https://www.formula1.com/en/results/1996/races/638/australia/race-result
 - **FIA Official Sporting Archives & Yearbooks (1996)**
 - **Jolpica-F1 Ergast API:** `https://api.jolpi.ca/ergast/f1/1996/1/results.json`
