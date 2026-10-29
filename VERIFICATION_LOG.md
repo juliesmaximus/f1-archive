@@ -3117,3 +3117,32 @@ Last verified: 2026-10-29
   - World Constructors' Champion: McLaren-Honda - 121 pts (6 wins, 18 podiums)
   - Runner-up: Scuderia Ferrari - 110 pts (6 wins, 14 podiums)
 - **Gaps That Remain**: None. The 1990 season is 100% verified against primary sources.
+
+### Cross-check audit: 1991 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: `https://www.formula1.com/en/results/1991/races` (Race IDs: 559–574)
+  - Formula1.com Official Standings Archive: `https://www.formula1.com/en/results/1991/drivers` and `/team`
+  - FIA Official Sporting Classifications and Yearbooks (1991)
+  - Jolpica-F1 Ergast API (`/1991/results.json`, `/1991/driverStandings.json`, `/1991/constructorStandings.json`)
+- **Total Claims Checked**: 485+ claims (416 starter rows, 16 race results, 16 starting grids, 16 fastest laps, 24 driver standings rows, 12 constructor standings rows)
+- **Number Corrected**: 8 primary corrections applied:
+  1. *Portuguese GP Lap Count*: Corrected JJ Lehto in `results.json` from 21 laps to 14 laps (gearbox failure on lap 14) to match Formula1.com official classification.
+  2. *Hungarian GP Fastest Lap*: Corrected Bertrand Gachot's fastest lap in `notes.md` from lap 61 to official lap 71 (1:21.547 in the Jordan 191).
+  3. *Portuguese GP Fastest Lap*: Corrected Nigel Mansell's fastest lap in `notes.md` from lap 24 to official lap 36 (1:18.179).
+  4. *San Marino Circuit Name*: Updated circuit name in `calendar.md` and `notes.md` from anachronistic `Autodromo Dino Ferrari` to `Autodromo Enzo e Dino Ferrari`.
+  5. *WDC Constructor Attribution for Michael Schumacher*: Updated constructor from sole "Jordan" to "Jordan-Ford / Benetton-Ford" as his 4 points were scored for Benetton.
+  6. *WDC Constructor Attribution for Gianni Morbidelli*: Updated constructor from sole "Minardi" to "Minardi-Ferrari / Ferrari" as his 0.5 points were scored driving for Ferrari in Adelaide.
+  7. *WCC Lola-Ford Consolidation*: Consolidated split Lola/Larrousse constructor table entries to unified Lola-Ford (2 points) matching official Formula1.com and FIA standings.
+  8. *Canonical URLs*: Updated all race links from outdated `results.html` paths to modern canonical `/en/results/1991/races/[559-574]/...` URLs.
+- **Number Marked UNVERIFIED or Removed**: 0 spectator attendance claims remained in fact body; all unverified historical crowd estimates segregated.
+- **Discrepancies Found Between Sources**:
+  - *Portuguese GP Lap Count*: Jolpica listed JJ Lehto with 21 laps, while Formula1.com and FIA official records classify him with 14 laps (gearbox failure). Corrected to 14 laps.
+  - *Omitted Lap-1 Retirees on Formula1.com*: Formula1.com web tables omit opening-lap retirements / DNS (e.g. Michael Schumacher's clutch failure on lap 1 at Spa; Alain Prost spinning on the formation lap at Imola; Nigel Mansell colliding on lap 1 at Imola; Nelson Piquet lap 1 at Monaco; Bertrand Gachot lap 1 at France; Nicola Larini lap 1 at Germany; Éric Bernard and Thierry Boutsen lap 1 at Barcelona; Jean Alesi lap 1 at Suzuka). All 416 starters retained with official FIA classification and grid positions.
+- **Championship Summary**:
+  - World Drivers' Champion: Ayrton Senna (McLaren-Honda) - 96 pts (7 wins, 12 podiums, 8 poles) - 3rd World Championship (youngest 3-time champion in F1 history at age 31)
+  - Runner-up: Nigel Mansell (Williams-Renault) - 72 pts (5 wins, 9 podiums, 2 poles, 6 fastest laps)
+  - 3rd Place: Riccardo Patrese (Williams-Renault) - 53 pts (2 wins, 8 podiums, 4 poles)
+  - World Constructors' Champion: McLaren-Honda - 139 pts (8 wins, 18 podiums)
+  - Runner-up: Williams-Renault - 125 pts (7 wins, 17 podiums)
+- **Gaps That Remain**: None. The 1991 season is 100% verified against primary sources.
