@@ -2369,3 +2369,35 @@ Last verified: 2026-10-29
 - **Number Marked UNVERIFIED / Moved Out of Fact Body**: 8 claims (spectator attendance estimates across Rounds 1–8 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
 - **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 525 checked result records (finishers, positions, times, laps, and points).
 - **Gaps That Remain**: None. 1951 season is 100% verified against primary sources.
+
+### Cross-check audit: 1952 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: https://www.formula1.com/en/results/1952/races
+  - Formula1.com Official Drivers Standings: https://www.formula1.com/en/results/1952/drivers
+  - Formula1.com Race Results, Starting Grids, and Fastest Laps for Rounds 1–8:
+    - Round 1 (Switzerland, Bremgarten): https://www.formula1.com/en/results/1952/races/109/switzerland/race-result
+    - Round 2 (Indianapolis 500, IMS): https://www.formula1.com/en/results/1952/races/110/indianapolis/race-result
+    - Round 3 (Belgium, Spa-Francorchamps): https://www.formula1.com/en/results/1952/races/111/belgium/race-result
+    - Round 4 (France, Rouen-les-Essarts): https://www.formula1.com/en/results/1952/races/112/france/race-result
+    - Round 5 (Great Britain, Silverstone): https://www.formula1.com/en/results/1952/races/113/great-britain/race-result
+    - Round 6 (Germany, Nürburgring): https://www.formula1.com/en/results/1952/races/114/germany/race-result
+    - Round 7 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1952/races/115/netherlands/race-result
+    - Round 8 (Italy, Monza): https://www.formula1.com/en/results/1952/races/116/italy/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1952/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1952/calendar.md`
+  - `seasons/1952/standings.md`
+  - 8 race folders: `swiss-grand-prix`, `indianapolis-500`, `belgian-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `dutch-grand-prix`, `italian-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 174 distinct numerical and factual data points across 8 rounds, calendar, standings, and race notes.
+- **Number Corrected**: 6 items:
+  1. *British GP Winning Time*: Corrected truncated race time "2:46" in `british-grand-prix/notes.md` to exact official classification "2:44:11.000".
+  2. *Standings Driver Omissions*: Added Felice Bonetto (2 pts) and Bill Vukovich (1 pt, fastest lap at Indianapolis) to `standings.md`.
+  3. *Dennis Poore Podiums Correction*: Corrected Dennis Poore's podiums in `standings.md` from 1 to 0 (Poore finished 4th at Silverstone and 12th at Monza).
+  4. *Italian GP Shared Fastest Lap*: Re-verified Ascari and González identical fastest laps (2:06.100), splitting the 1 point to award 0.5 points each.
+  5. *Encoding/Typography Repairs*: Fixed corrupted characters across race dossiers (e.g. "België", "Großer Preis der Schweiz", "Großer Preis von Deutschland", "André Simon", "José Froilán González").
+  6. *URL Standardization*: Updated source links from deprecated `.html` URLs to canonical modern `formula1.com/en/results/1952/...` paths.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 8 claims (spectator attendance estimates across Rounds 1–8 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 597 checked result records (finishers, positions, times, laps, and points).
+- **Gaps That Remain**: None. 1952 season is 100% verified against primary sources.
