@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jackie Stewart (BRM) — 2:33:10.500  
-- **Pole Position:** Jim Clark  
+- **Pole Position:** Jim Clark  (1:29.900)
+- **Fastest Lap:** Lorenzo Bandini (Ferrari) — 1:29.800 (Lap 90)
 - **Weather & Track Conditions:** Warm, sunny, dry; 25°C ambient, track temperature 38°C  
-- **Spectator Attendance:** 40,000 spectators lining harbour balconies, cliffs, and grandstands  
 - **Grandstand & Infrastructure:** Quai Albert 1er grandstands, Casino terraces, and yachts in the harbour  
 
 ### Race Anomalies, Incidents & Key Events
@@ -51,8 +51,15 @@ Bruce McLaren gave the McLaren team its Formula One World Championship debut dri
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 40,000 estimated spectators lining the harbor, grandstands, and balconies (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1966/1/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1966 Round 1 Results](https://www.formula1.com/en/results.html/1966/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1966 Round 1 Results](https://www.formula1.com/en/results/1966/races/235/monaco/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

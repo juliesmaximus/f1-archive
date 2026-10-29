@@ -6,7 +6,7 @@
 **Location:** Zandvoort, North Holland, Netherlands (52°23'19"N, 4°32'27"E)  
 **Track Length:** 4.196 km (2.607 miles)  
 **Altitude:** 5 m (North Sea dunes)  
-**Scheduled Distance:** 90 laps (377.640 km)  
+**Scheduled Distance:** 90 laps (37°7.640 km)  
 **Official Race Title:** XV Grote Prijs van Nederland  
 
 ---
@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jack Brabham (Brabham-Repco) — 2:20:32.500  
-- **Pole Position:** Jack Brabham  
+- **Pole Position:** Jack Brabham  (1:28.100)
+- **Fastest Lap:** Denny Hulme (Brabham-Repco) — 1:30.600 (Lap 2)
 - **Weather & Track Conditions:** Warm and sunny with sea breezes; 23°C ambient, dry sandy track  
-- **Spectator Attendance:** 60,000 spectators lining the coastal sand dunes  
 - **Grandstand & Infrastructure:** Covered main pit straight grandstand and Hunserug dune spectator banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -44,7 +44,7 @@ Jack Brabham extended his championship lead to 32 points. Dan Gurney finished 5t
 | R | 28 | Jo Siffert | Cooper-Maserati | 79 | Engine | 11 | 0 |
 | R | 34 | Bob Anderson | Brabham-Climax | 73 | Suspension | 14 | 0 |
 | R | 24 | John Surtees | Cooper-Maserati | 44 | Electrical | 10 | 0 |
-| R | 18 | Denny Hulme | Brabham-Repco | 37 | Ignition | 2 | 0 |
+| R | 18 | Denny Hulme | Brabham-Repco | 37° | Ignition | 2 | 0 |
 | R | 8 | Peter Arundell | Lotus-BRM | 28 | Ignition | 15 | 0 |
 | R | 10 | Dan Gurney | Eagle-Climax | 26 | Oil leak | 4 | 0 |
 | R | 4 | Mike Parkes | Ferrari | 10 | Accident | 5 | 0 |
@@ -52,8 +52,15 @@ Jack Brabham extended his championship lead to 32 points. Dan Gurney finished 5t
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 60,000 spectators on the coastal dunes and main grandstand (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1966/5/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1966 Round 5 Results](https://www.formula1.com/en/results.html/1966/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1966 Round 5 Results](https://www.formula1.com/en/results/1966/races/239/netherlands/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

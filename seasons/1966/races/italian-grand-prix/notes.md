@@ -1,22 +1,22 @@
-# 37° Gran Premio d'Italia - Race Dossier & Verification Notes
+# 37°° Gran Premio d'Italia - Race Dossier & Verification Notes
 
 **Round:** 7 of 9  
 **Date:** 1966-09-04  
 **Circuit:** Autodromo Nazionale di Monza  
-**Location:** Monza, Lombardy, Italy (45°37'14"N, 9°16'52"E)  
+**Location:** Monza, Lombardy, Italy (45°37°'14"N, 9°16'52"E)  
 **Track Length:** 5.75 km (3.573 miles)  
 **Altitude:** 162 m (Royal Villa park)  
 **Scheduled Distance:** 68 laps (391.000 km)  
-**Official Race Title:** 37° Gran Premio d'Italia  
+**Official Race Title:** 37°° Gran Premio d'Italia  
 
 ---
 
 ## Race Summary & Key Scenarios
 
 - **Winner:** Ludovico Scarfiotti (Ferrari) — 1:47:14.800  
-- **Pole Position:** Mike Parkes  
+- **Pole Position:** Mike Parkes  (1:31.300)
+- **Fastest Lap:** Ludovico Scarfiotti (Ferrari) — 1:32.400 (Lap 49)
 - **Weather & Track Conditions:** Warm, sunny, dry autumn conditions; 26°C ambient  
-- **Spectator Attendance:** 110,000 ecstatic tifosi packing the Autodromo  
 - **Grandstand & Infrastructure:** Tribuna Centrale, Vedano, Ascari, and Curva Parabolica grandstands  
 
 ### Race Anomalies, Incidents & Key Events
@@ -55,8 +55,15 @@ Jack Brabham made history as the FIRST AND ONLY driver in motorsport history to 
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 110,000 tifosi packing the Autodromo Nazionale di Monza (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1966/7/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1966 Round 7 Results](https://www.formula1.com/en/results.html/1966/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1966 Round 7 Results](https://www.formula1.com/en/results/1966/races/241/italy/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

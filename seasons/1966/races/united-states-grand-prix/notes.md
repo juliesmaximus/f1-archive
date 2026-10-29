@@ -13,10 +13,10 @@
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jim Clark (Lotus-BRM) — 2:09:40.110  
-- **Pole Position:** Jack Brabham  
+- **Winner:** Jim Clark (Lotus-BRM) — 2:09:40.100  
+- **Pole Position:** Jack Brabham  (1:08.420)
+- **Fastest Lap:** John Surtees (Cooper-Maserati) — 1:09.670 (Lap 31)
 - **Weather & Track Conditions:** Cold, crisp, sunny autumn day; 14°C ambient  
-- **Spectator Attendance:** 75,000 spectators covering the Watkins Glen knolls  
 - **Grandstand & Infrastructure:** Kendall main grandstand, The Bog, and Fast Turn banks  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ Watkins Glen cemented its place as the richest and most popular overseas Grand P
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 1 | Jim Clark | Lotus-BRM | 108 | 2:09:40.110 | 2 | 9 |
+| 1 | 1 | Jim Clark | Lotus-BRM | 108 | 2:09:40.100 | 2 | 9 |
 | 2 | 8 | Jochen Rindt | Cooper-Maserati | 107 | Out of fuel | 9 | 6 |
 | 3 | 7 | John Surtees | Cooper-Maserati | 107 | +1 Lap | 4 | 4 |
 | 4 | 19 | Jo Siffert | Cooper-Maserati | 105 | +3 Laps | 13 | 3 |
@@ -54,8 +54,15 @@ Watkins Glen cemented its place as the richest and most popular overseas Grand P
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 75,000 spectators throughout Watkins Glen State Park (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1966/8/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1966 Round 8 Results](https://www.formula1.com/en/results.html/1966/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1966 Round 8 Results](https://www.formula1.com/en/results/1966/races/242/united-states/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

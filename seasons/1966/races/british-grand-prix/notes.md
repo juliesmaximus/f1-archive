@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** Jack Brabham (Brabham-Repco) — 2:13:13.400  
-- **Pole Position:** Jack Brabham  
+- **Pole Position:** Jack Brabham  (1:34.500)
+- **Fastest Lap:** Jack Brabham (Brabham-Repco) — 1:37.000 (Lap 60)
 - **Weather & Track Conditions:** Intermittent drizzle and greasy track conditions, cool 18°C ambient  
-- **Spectator Attendance:** 85,000 spectators packing the natural amphitheatre banks  
 - **Grandstand & Infrastructure:** Main Brabham straight grandstand, Druids hairpin grandstands, and South Bank natural terraces  
 
 ### Race Anomalies, Incidents & Key Events
@@ -55,8 +55,15 @@ Brabham took the lead of the World Drivers' Championship, proving the agility an
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 85,000 spectators lining Brands Hatch Circuit (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1966/4/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1966 Round 4 Results](https://www.formula1.com/en/results.html/1966/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1966 Round 4 Results](https://www.formula1.com/en/results/1966/races/238/great-britain/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

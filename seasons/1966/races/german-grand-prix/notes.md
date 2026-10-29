@@ -1,4 +1,4 @@
-# XXVIII Grosser Preis von Deutschland - Race Dossier & Verification Notes
+# XXVIII Großer Preis von Deutschland - Race Dossier & Verification Notes
 
 **Round:** 6 of 9  
 **Date:** 1966-08-07  
@@ -7,16 +7,16 @@
 **Track Length:** 22.81 km (14.173 miles)  
 **Altitude:** 620 m (Eifel mountains)  
 **Scheduled Distance:** 15 laps (342.150 km)  
-**Official Race Title:** XXVIII Grosser Preis von Deutschland  
+**Official Race Title:** XXVIII Großer Preis von Deutschland  
 
 ---
 
 ## Race Summary & Key Scenarios
 
-- **Winner:** Jack Brabham (Brabham-Repco) — 2:27  
-- **Pole Position:** Jim Clark  
+- **Winner:** Jack Brabham (Brabham-Repco) — 2:27:03.000  
+- **Pole Position:** Jim Clark  (8:16.500)
+- **Fastest Lap:** John Surtees (Cooper-Maserati) — 8:49.000 (Lap 4)
 - **Weather & Track Conditions:** Dense fog, torrential cold rain, standing water, and treacherous visibility across the 14-mile circuit  
-- **Spectator Attendance:** 220,000 spectators enduring the relentless rain in the Eifel forests  
 - **Grandstand & Infrastructure:** Start-und-Ziel grandstand and hillside camping terraces throughout Hatzenbach and Brünnchen  
 
 ### Race Anomalies, Incidents & Key Events
@@ -32,7 +32,7 @@ Brabham's famous beard prank remains one of the most legendary psychological ges
 
 | Pos | No | Driver | Constructor | Laps | Time/Retired | Grid | Points |
 |:---:|:---:|:---|:---|:---:|:---|:---:|:---:|
-| 1 | 3 | Jack Brabham | Brabham-Repco | 15 | 2:27 | 5 | 9 |
+| 1 | 3 | Jack Brabham | Brabham-Repco | 15 | 2:27:03.000 | 5 | 9 |
 | 2 | 7 | John Surtees | Cooper-Maserati | 15 | +44.400 | 2 | 6 |
 | 3 | 8 | Jochen Rindt | Cooper-Maserati | 15 | +2:32.600 | 9 | 4 |
 | 4 | 5 | Graham Hill | BRM | 15 | +6:41.400 | 10 | 3 |
@@ -54,8 +54,15 @@ Brabham's famous beard prank remains one of the most legendary psychological ges
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 220,000 spectators lining the Nürburgring Nordschleife (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1966/6/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1966 Round 6 Results](https://www.formula1.com/en/results.html/1966/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1966 Round 6 Results](https://www.formula1.com/en/results/1966/races/240/germany/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

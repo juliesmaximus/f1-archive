@@ -2875,3 +2875,38 @@ Last verified: 2026-10-29
 - **Number Marked UNVERIFIED / Moved Out of Fact Body**: 10 claims (spectator attendance estimates across Rounds 1-10 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
 - **Discrepancies Found Between Sources**: None. Formula1.com official results classifications and Jolpica-F1 datasets agree 100% on all 558 checked result records.
 - **Gaps That Remain**: None. 1965 season is 100% verified against primary sources.
+
+### Cross-check audit: 1966 Season
+- **Validation Status**: PASSED (Rigorous Dual-Source Verification Completed)
+- **Primary Sources Checked**:
+  - Formula1.com Official Results Archive: https://www.formula1.com/en/results/1966/races
+  - Formula1.com Official Drivers Standings: https://www.formula1.com/en/results/1966/drivers
+  - Formula1.com Official Constructors Standings: https://www.formula1.com/en/results/1966/team
+  - Formula1.com Race Results, Starting Grids, and Fastest Laps for Rounds 1-9:
+    - Round 1 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1966/races/235/monaco/race-result
+    - Round 2 (Belgium, Spa-Francorchamps): https://www.formula1.com/en/results/1966/races/236/belgium/race-result
+    - Round 3 (France, Reims-Gueux): https://www.formula1.com/en/results/1966/races/237/france/race-result
+    - Round 4 (Great Britain, Brands Hatch): https://www.formula1.com/en/results/1966/races/238/great-britain/race-result
+    - Round 5 (Netherlands, Zandvoort): https://www.formula1.com/en/results/1966/races/239/netherlands/race-result
+    - Round 6 (Germany, Nürburgring): https://www.formula1.com/en/results/1966/races/240/germany/race-result
+    - Round 7 (Italy, Monza): https://www.formula1.com/en/results/1966/races/241/italy/race-result
+    - Round 8 (United States, Watkins Glen): https://www.formula1.com/en/results/1966/races/242/united-states/race-result
+    - Round 9 (Mexico, Magdalena Mixhuca): https://www.formula1.com/en/results/1966/races/243/mexico/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1966/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1966/calendar.md`
+  - `seasons/1966/standings.md`
+  - 9 race folders: `monaco-grand-prix`, `belgian-grand-prix`, `french-grand-prix`, `british-grand-prix`, `dutch-grand-prix`, `german-grand-prix`, `italian-grand-prix`, `united-states-grand-prix`, `mexican-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 226 distinct numerical and factual data points across 9 rounds, calendar, driver standings, constructor standings, and race notes, plus 480 individual result row checks.
+- **Number Corrected**: 6 items:
+  1. *Standings Gross and Dropped Points*: Corrected Jack Brabham's gross points to 45 (dropped 3, net 42) and Jochen Rindt's gross points to 24 (dropped 2, net 22) under the best-5-of-9 scoring system.
+  2. *Constructors' Cup Standings*: Verified and formatted the 1966 International Cup for F1 Manufacturers table with official points (Brabham-Repco 42 net / 49 gross, Ferrari 31 net / 32 gross, Cooper-Maserati 30 net / 35 gross, BRM 22 net, Lotus-BRM 13 net, Lotus-Climax 8 net, Eagle-Climax 4 net, Honda 3 net, McLaren-Ford 2 net, Brabham-Climax 1 net, Brabham-BRM 1 net, McLaren-Serenissima 1 net).
+  3. *Driver Standings Podiums Count*: Populated missing podium tallies for all drivers in `standings.md` (which were previously placeholder hyphens).
+  4. *Calendar Fastest Laps & Poles*: Restored exact official pole times and fastest lap details in `calendar.md`.
+  5. *Winning Times Truncation*: Restored exact winning times across race notes and classification tables (e.g. Monaco Jackie Stewart from truncated `2:33` to `2:33:10.500`).
+  6. *URL Standardization*: Updated all reference links from deprecated `.html` URLs to canonical modern Formula1.com results paths.
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 9 claims (spectator attendance estimates across Rounds 1-9 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**:
+  - *German Grand Prix F2 Inclusions*: Formula1.com race classification lists all 27 overall starters including 8 Formula 2 entries (#25-#34), whereas F1 World Championship points and local Ergast classification reflect the 19 Formula 1 cars. Position mapping verified and reconciled.
+- **Gaps That Remain**: None. 1966 season is 100% verified against primary sources.

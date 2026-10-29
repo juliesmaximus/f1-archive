@@ -6,12 +6,12 @@ The 1966 season marked the beginning of Formula One's dramatic "Return to Power"
 
 | Round | Official Grand Prix Name | Circuit | Location | Date | Laps | Distance | Winner | Pole Position | Fastest Lap |
 |:---:|:---|:---|:---|:---|:---:|:---:|:---|:---|:---|
-| 1 | XXIV Grand Prix de Monaco | Circuit de Monaco | Monte Carlo, Principality of Monaco | 1966-05-22 | 100 | 314.500 km | Jackie Stewart | Jim Clark | Verified in dossier |
-| 2 | XXVI Grand Prix de Belgique | Circuit de Spa-Francorchamps | Francorchamps, Stavelot, Ardennes, Belgium | 1966-06-12 | 28 | 394.800 km | John Surtees | John Surtees | Verified in dossier |
-| 3 | 52e Grand Prix de l'ACF | Reims-Gueux | Gueux, Marne, Champagne, France | 1966-07-03 | 48 | 398.496 km | Jack Brabham | Lorenzo Bandini | Verified in dossier |
-| 4 | 19th RAC British Grand Prix | Brands Hatch Circuit | Fawkham, Longfield, Kent, United Kingdom | 1966-07-16 | 80 | 341.200 km | Jack Brabham | Jack Brabham | Verified in dossier |
-| 5 | XV Grote Prijs van Nederland | Circuit Park Zandvoort | Zandvoort, North Holland, Netherlands | 1966-07-24 | 90 | 377.640 km | Jack Brabham | Jack Brabham | Verified in dossier |
-| 6 | XXVIII Grosser Preis von Deutschland | Nürburgring Nordschleife | Nürburg, Rhineland-Palatinate, West Germany | 1966-08-07 | 15 | 342.150 km | Jack Brabham | Jim Clark | Verified in dossier |
-| 7 | 37° Gran Premio d'Italia | Autodromo Nazionale di Monza | Monza, Lombardy, Italy | 1966-09-04 | 68 | 391.000 km | Ludovico Scarfiotti | Mike Parkes | Verified in dossier |
-| 8 | IX United States Grand Prix | Watkins Glen Grand Prix Race Course | Watkins Glen, Schuyler County, New York, United States | 1966-10-02 | 108 | 399.708 km | Jim Clark | Jack Brabham | Verified in dossier |
-| 9 | V Gran Premio de Mexico | Magdalena Mixhuca | Mexico City, Mexico | 1966-10-23 | 65 | 325.000 km | John Surtees | John Surtees | Verified in dossier |
+| 1 | XXIV Grand Prix de Monaco | Circuit de Monaco | Monte Carlo, Principality of Monaco | 1966-05-22 | 100 | 314.500 km | Jackie Stewart | Jim Clark (1:29.900) | Lorenzo Bandini (1:29.800) |
+| 2 | XXVI Grand Prix de Belgique | Circuit de Spa-Francorchamps | Francorchamps, Stavelot, Ardennes, Belgium | 1966-06-12 | 28 | 394.800 km | John Surtees | John Surtees (3:38.000) | John Surtees (4:18.700) |
+| 3 | 52e Grand Prix de l'ACF | Reims-Gueux | Gueux, Marne, Champagne, France | 1966-07-03 | 48 | 398.496 km | Jack Brabham | Lorenzo Bandini (2:07.800) | Lorenzo Bandini (2:11.300) |
+| 4 | 19th RAC British Grand Prix | Brands Hatch Circuit | Fawkham, Longfield, Kent, United Kingdom | 1966-07-16 | 80 | 341.200 km | Jack Brabham | Jack Brabham (1:34.500) | Jack Brabham (1:37.000) |
+| 5 | XV Grote Prijs van Nederland | Circuit Park Zandvoort | Zandvoort, North Holland, Netherlands | 1966-07-24 | 90 | 377.640 km | Jack Brabham | Jack Brabham (1:28.100) | Denny Hulme (1:30.600) |
+| 6 | XXVIII Grosser Preis von Deutschland | Nürburgring Nordschleife | Nürburg, Rhineland-Palatinate, West Germany | 1966-08-07 | 15 | 342.150 km | Jack Brabham | Jim Clark (8:16.500) | John Surtees (8:49.000) |
+| 7 | 37° Gran Premio d'Italia | Autodromo Nazionale di Monza | Monza, Lombardy, Italy | 1966-09-04 | 68 | 391.000 km | Ludovico Scarfiotti | Mike Parkes (1:31.300) | Ludovico Scarfiotti (1:32.400) |
+| 8 | IX United States Grand Prix | Watkins Glen Grand Prix Race Course | Watkins Glen, Schuyler County, New York, United States | 1966-10-02 | 108 | 399.708 km | Jim Clark | Jack Brabham (1:08.420) | John Surtees (1:09.670) |
+| 9 | V Gran Premio de Mexico | Magdalena Mixhuca | Mexico City, Mexico | 1966-10-23 | 65 | 325.000 km | John Surtees | John Surtees (1:53.180) | Richie Ginther (1:53.750) |

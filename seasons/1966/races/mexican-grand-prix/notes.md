@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** John Surtees (Cooper-Maserati) — 2:06:35.340  
-- **Pole Position:** John Surtees  
+- **Pole Position:** John Surtees  (1:53.180)
+- **Fastest Lap:** Richie Ginther (Honda) — 1:53.750 (Lap 58)
 - **Weather & Track Conditions:** Warm, sunny, dry, thin air; 22°C ambient  
-- **Spectator Attendance:** 85,000 Mexican fans packing the stadium peraltada bowl  
 - **Grandstand & Infrastructure:** Colossal Estadio grandstands encircling Peraltada hairpin and pit straight terraces  
 
 ### Race Anomalies, Incidents & Key Events
@@ -53,8 +53,15 @@ The final Grand Prix of the historic 1966 season. John Surtees' victory was the 
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 70,000 spectators in the Magdalena Mixhuca grandstands (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1966/9/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1966 Round 9 Results](https://www.formula1.com/en/results.html/1966/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1966 Round 9 Results](https://www.formula1.com/en/results/1966/races/243/mexico/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.

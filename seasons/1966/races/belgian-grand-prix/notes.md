@@ -14,9 +14,9 @@
 ## Race Summary & Key Scenarios
 
 - **Winner:** John Surtees (Ferrari) — 2:09:11.300  
-- **Pole Position:** John Surtees  
+- **Pole Position:** John Surtees  (3:38.000)
+- **Fastest Lap:** John Surtees (Ferrari) — 4:18.700 (Lap 18)
 - **Weather & Track Conditions:** Dry start, then a catastrophic torrential downpour, hail, and flash flooding on lap 1 at the far end of the circuit (Burnenville to Masta)  
-- **Spectator Attendance:** 55,000 spectators in the Ardennes pine forests  
 - **Grandstand & Infrastructure:** Grandstand opposite pits, Burnenville embankments, and Blanchimont slopes  
 
 ### Race Anomalies, Incidents & Key Events
@@ -53,8 +53,15 @@ Last race for John Surtees with Scuderia Ferrari. Following a bitter dispute wit
 
 ---
 
+
+---
+
+## Unverified Claims / Historical Estimates (Needs Primary Source)
+
+- **Spectator Attendance:** 55,000 estimated spectators in the Ardennes grandstands (reported in contemporary periodicals; lacking official FIA sanctioning documentation).
+
 ## Verification & Sources
 
 - **Primary Source (Jolpica API):** `https://api.jolpi.ca/ergast/f1/1966/2/results.json` (Checked: 2026-10-29)
-- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1966 Round 2 Results](https://www.formula1.com/en/results.html/1966/races.html)
+- **Primary Source (Official Formula 1 Archive):** [Formula1.com 1966 Round 2 Results](https://www.formula1.com/en/results/1966/races/236/belgium/race-result)
 - **FIA Heritage Record:** All classified positions, points allocation, and distance cross-verified against official FIA World Championship records.
