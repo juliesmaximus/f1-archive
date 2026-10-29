@@ -1,30 +1,28 @@
-# 1988 FIA Formula 1 World Championship - Season Calendar
+# Formula 1 World Championship Season 1988 - Calendar
 
-The 1988 FIA Formula 1 World Championship consisted of 16 rounds across 5 continents, running from April 3 to November 13, 1988.
+The 1988 Formula One season was the 39th season of FIA Formula One motor racing. It consisted of 16 championship rounds between April 3 and November 13, 1988.
 
-| Rnd | Official Grand Prix Name | Circuit | Location | Date | Winner | Pole Position | Fastest Lap |
-|:---:|:---|:---|:---|:---|:---|:---|:---|
-| 1 | [Brazilian Grand Prix](races/brazilian-grand-prix/notes.md) | Autódromo Internacional Nelson Piquet (Jacarepaguá) | Rio de Janeiro, Brazil | 1988-04-03 | Alain Prost | Ayrton Senna | Gerhard Berger |
-| 2 | [San Marino Grand Prix](races/san-marino-grand-prix/notes.md) | Autodromo Dino Ferrari | Imola, Italy | 1988-05-01 | Ayrton Senna | Ayrton Senna | Alain Prost |
-| 3 | [Monaco Grand Prix](races/monaco-grand-prix/notes.md) | Circuit de Monaco | Monte Carlo, Monaco | 1988-05-15 | Alain Prost | Ayrton Senna | Ayrton Senna |
-| 4 | [Mexican Grand Prix](races/mexican-grand-prix/notes.md) | Autódromo Hermanos Rodríguez | Mexico City, Mexico | 1988-05-29 | Alain Prost | Ayrton Senna | Alain Prost |
-| 5 | [Canadian Grand Prix](races/canadian-grand-prix/notes.md) | Circuit Gilles Villeneuve | Montreal, Canada | 1988-06-12 | Ayrton Senna | Ayrton Senna | Ayrton Senna |
-| 6 | [Detroit Grand Prix](races/detroit-grand-prix/notes.md) | Detroit street circuit | Detroit, Michigan, USA | 1988-06-19 | Ayrton Senna | Ayrton Senna | Alain Prost |
-| 7 | [French Grand Prix](races/french-grand-prix/notes.md) | Circuit Paul Ricard | Le Castellet, France | 1988-07-03 | Alain Prost | Alain Prost | Alain Prost |
-| 8 | [British Grand Prix](races/british-grand-prix/notes.md) | Silverstone Circuit | Silverstone, United Kingdom | 1988-07-10 | Ayrton Senna | Gerhard Berger | Nigel Mansell |
-| 9 | [German Grand Prix](races/german-grand-prix/notes.md) | Hockenheimring | Hockenheim, Germany | 1988-07-24 | Ayrton Senna | Ayrton Senna | Alessandro Nannini |
-| 10 | [Hungarian Grand Prix](races/hungarian-grand-prix/notes.md) | Hungaroring | Mogyoród, Hungary | 1988-08-07 | Ayrton Senna | Ayrton Senna | Alain Prost |
-| 11 | [Belgian Grand Prix](races/belgian-grand-prix/notes.md) | Circuit de Spa-Francorchamps | Stavelot, Belgium | 1988-08-28 | Ayrton Senna | Ayrton Senna | Gerhard Berger |
-| 12 | [Italian Grand Prix](races/italian-grand-prix/notes.md) | Autodromo Nazionale di Monza | Monza, Italy | 1988-09-11 | Gerhard Berger | Ayrton Senna | Michele Alboreto |
-| 13 | [Portuguese Grand Prix](races/portuguese-grand-prix/notes.md) | Autódromo do Estoril | Estoril, Portugal | 1988-09-25 | Alain Prost | Alain Prost | Gerhard Berger |
-| 14 | [Spanish Grand Prix](races/spanish-grand-prix/notes.md) | Circuito de Jerez | Jerez de la Frontera, Spain | 1988-10-02 | Alain Prost | Ayrton Senna | Alain Prost |
-| 15 | [Japanese Grand Prix](races/japanese-grand-prix/notes.md) | Suzuka International Racing Course | Suzuka, Japan | 1988-10-30 | Ayrton Senna | Ayrton Senna | Ayrton Senna |
-| 16 | [Australian Grand Prix](races/australian-grand-prix/notes.md) | Adelaide Street Circuit | Adelaide, Australia | 1988-11-13 | Alain Prost | Ayrton Senna | Ferrari / Alain Prost |
+The 1988 season stands as the most dominant campaign in Formula One history:
+- **McLaren-Honda MP4/4 Supremacy:** The Steve Nichols and Gordon Murray-designed McLaren MP4/4, powered by the Honda RA168E 1.5-litre twin-turbo V6, won **15 of the 16 Grands Prix** (a staggering 93.75% win rate that stood as an all-time record for 35 years until 2023). McLaren also secured 15 pole positions and 10 1-2 finishes.
+- **Ayrton Senna's Maiden World Championship:** Ayrton Senna claimed his **first World Drivers' Championship** after a legendary 14th-to-1st charge at Suzuka, scoring 90 net points (8 wins, 11 podiums, 13 poles). Teammate Alain Prost scored more total points across the season (105 gross), but under the best 11 results rule, had to drop 18 points, finishing runner-up with 87 net points (7 wins, 14 podiums).
+- **The Miracle of Monza (Enzo Ferrari's Legacy):** Following the passing of Enzo Ferrari on August 14 at age 90, Ferrari scored an emotional, miraculous 1-2 finish at the Italian Grand Prix (Gerhard Berger 1st, Michele Alboreto 2nd) after Ayrton Senna collided with Jean-Louis Schlesser with two laps remaining—the only race McLaren did not win in 1988.
+- **The Twilight of the Turbo Era:** 1988 was the final year of the 1.5-litre turbocharged engines that revolutionized Formula One. Turbo boost was capped at 2.5 bar and fuel capacity was limited to 150 litres ahead of the 1989 ban.
 
----
-
-## Key Regulatory Features & Technical Specifications
-- **Engine Rules:** 1.5-litre turbocharged engines or 3.5-litre naturally aspirated engines. Turbos fitted with a mandatory 2.5-bar pop-off valve (down from 4.0 bar in 1987).
-- **Fuel Limit:** Turbo cars limited to 150 litres per race without refuelling. Naturally aspirated cars had no fuel quantity restrictions.
-- **Minimum Weight:** 540 kg for turbo cars; 500 kg for naturally aspirated cars.
-- **Atmospheric Trophies:** Unlike 1987, the separate Jim Clark and Colin Chapman trophies for naturally aspirated cars were not awarded in 1988.
+| Round | Official Grand Prix Name | Circuit | Location | Date | Laps | Distance | Winner | Pole Position | Fastest Lap |
+|:---:|:---|:---|:---|:---|:---:|:---:|:---|:---|:---|
+| 1 | [XVII Grande Prêmio do Brasil](races/brazilian-grand-prix/notes.md) | Autódromo Internacional Nelson Piquet | Rio de Janeiro, Brazil | 1988-04-03 | 60 | 5.031 km | Alain Prost (McLaren-Honda) | Ayrton Senna (1:28.096) | Gerhard Berger (1:32.943, lap 45) |
+| 2 | [VIII Gran Premio di San Marino](races/san-marino-grand-prix/notes.md) | Autodromo Dino Ferrari | Imola, Emilia-Romagna, Italy | 1988-05-01 | 60 | 5.040 km | Ayrton Senna (McLaren-Honda) | Ayrton Senna (1:27.148) | Alain Prost (1:29.685, lap 53) |
+| 3 | [XLVI Grand Prix de Monaco](races/monaco-grand-prix/notes.md) | Circuit de Monaco | Monte Carlo, Monaco | 1988-05-15 | 78 | 3.328 km | Alain Prost (McLaren-Honda) | Ayrton Senna (1:23.998) | Ayrton Senna (1:26.321, lap 59) |
+| 4 | [XII Gran Premio de Mexico](races/mexican-grand-prix/notes.md) | Autódromo Hermanos Rodríguez | Mexico City, Mexico | 1988-05-29 | 67 | 4.421 km | Alain Prost (McLaren-Honda) | Ayrton Senna (1:17.468) | Alain Prost (1:18.608, lap 52) |
+| 5 | [XXVII Grand Prix du Canada](races/canadian-grand-prix/notes.md) | Circuit Gilles Villeneuve | Montreal, Quebec, Canada | 1988-06-12 | 69 | 4.410 km | Ayrton Senna (McLaren-Honda) | Ayrton Senna (1:21.681) | Ayrton Senna (1:24.973, lap 53) |
+| 6 | [VII Detroit Grand Prix](races/detroit-grand-prix/notes.md) | Detroit Street Circuit | Detroit, Michigan, United States | 1988-06-19 | 63 | 4.023 km | Ayrton Senna (McLaren-Honda) | Ayrton Senna (1:40.606) | Alain Prost (1:44.836, lap 4) |
+| 7 | [LXXIV Grand Prix de France](races/french-grand-prix/notes.md) | Circuit Paul Ricard | Le Castellet, Var, France | 1988-07-03 | 80 | 3.813 km | Alain Prost (McLaren-Honda) | Alain Prost (1:07.589) | Alain Prost (1:11.737, lap 45) |
+| 8 | [XLI Shell Oils British Grand Prix](races/british-grand-prix/notes.md) | Silverstone Circuit | Silverstone, Northamptonshire, England | 1988-07-10 | 65 | 4.778 km | Ayrton Senna (McLaren-Honda) | Gerhard Berger (1:10.133) | Nigel Mansell (1:23.308, lap 48) |
+| 9 | [L Großer Preis von Deutschland](races/german-grand-prix/notes.md) | Hockenheimring | Hockenheim, Baden-Württemberg, West Germany | 1988-07-24 | 44 | 6.797 km | Ayrton Senna (McLaren-Honda) | Ayrton Senna (1:44.596) | Alessandro Nannini (2:03.032, lap 40) |
+| 10 | [III Magyar Nagydij](races/hungarian-grand-prix/notes.md) | Hungaroring | Mogyoród, Pest County, Hungary | 1988-08-07 | 76 | 4.014 km | Ayrton Senna (McLaren-Honda) | Ayrton Senna (1:27.635) | Alain Prost (1:30.639, lap 51) |
+| 11 | [XLVI Grote Prijs van Belgie](races/belgian-grand-prix/notes.md) | Circuit de Spa-Francorchamps | Stavelot, Liège, Belgium | 1988-08-28 | 43 | 6.949 km | Ayrton Senna (McLaren-Honda) | Ayrton Senna (1:53.718) | Gerhard Berger (2:00.772, lap 10) |
+| 12 | [LIX Gran Premio d'Italia](races/italian-grand-prix/notes.md) | Autodromo Nazionale di Monza | Monza, Lombardy, Italy | 1988-09-11 | 51 | 5.800 km | Gerhard Berger (Ferrari) | Ayrton Senna (1:25.974) | Michele Alboreto (1:29.070, lap 44) |
+| 13 | [XIII Grande Prémio de Portugal](races/portuguese-grand-prix/notes.md) | Autódromo do Estoril | Alcabideche, Cascais, Portugal | 1988-09-25 | 70 | 4.350 km | Alain Prost (McLaren-Honda) | Alain Prost (1:17.411) | Gerhard Berger (1:21.961, lap 31) |
+| 14 | [XXIX Gran Premio Tio Pepe de España](races/spanish-grand-prix/notes.md) | Circuito Permanente de Jerez | Jerez de la Frontera, Andalusia, Spain | 1988-10-02 | 72 | 4.218 km | Alain Prost (McLaren-Honda) | Ayrton Senna (1:24.067) | Alain Prost (1:27.845, lap 60) |
+| 15 | [XIV Fuji Television Japanese Grand Prix](races/japanese-grand-prix/notes.md) | Suzuka International Racing Course | Suzuka, Mie Prefecture, Japan | 1988-10-30 | 51 | 5.859 km | Ayrton Senna (McLaren-Honda) | Ayrton Senna (1:41.853) | Ayrton Senna (1:46.326, lap 33) |
+| 16 | [IV Foster's Australian Grand Prix](races/australian-grand-prix/notes.md) | Adelaide Street Circuit | Adelaide, South Australia, Australia | 1988-11-13 | 82 | 3.780 km | Alain Prost (McLaren-Honda) | Ayrton Senna (1:17.748) | Alain Prost (1:21.216, lap 59) |

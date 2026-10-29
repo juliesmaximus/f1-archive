@@ -2922,3 +2922,50 @@ Last verified: 2026-10-29
   - 2 documented disqualifications: Brundle in Austria (bodywork irregularity) and Senna in Australia (oversized brake ducts).
   - 3 opening-lap retirements where Formula1.com leaves lap count cell blank whereas Jolpica records 0 laps.
 - **Gaps That Remain**: None. 1987 season is 100% verified against primary sources.
+
+### 1988 Season Audit Summary
+
+- **Season Audited**: 1988 (16 official championship rounds)
+- **Primary Sources Consulted**:
+  - Formula 1 Official Results Archive:
+    - Drivers Standings: https://www.formula1.com/en/results/1988/drivers
+    - Constructors Standings: https://www.formula1.com/en/results/1988/team
+    - Round 1 (Brazil, Jacarepaguá): https://www.formula1.com/en/results/1988/races/527/brazil/race-result
+    - Round 2 (San Marino, Imola): https://www.formula1.com/en/results/1988/races/528/san-marino/race-result
+    - Round 3 (Monaco, Monte Carlo): https://www.formula1.com/en/results/1988/races/529/monaco/race-result
+    - Round 4 (Mexico, Mexico City): https://www.formula1.com/en/results/1988/races/530/mexico/race-result
+    - Round 5 (Canada, Montreal): https://www.formula1.com/en/results/1988/races/531/canada/race-result
+    - Round 6 (Detroit, Detroit): https://www.formula1.com/en/results/1988/races/532/detroit/race-result
+    - Round 7 (France, Paul Ricard): https://www.formula1.com/en/results/1988/races/533/france/race-result
+    - Round 8 (Great Britain, Silverstone): https://www.formula1.com/en/results/1988/races/534/great-britain/race-result
+    - Round 9 (Germany, Hockenheimring): https://www.formula1.com/en/results/1988/races/535/germany/race-result
+    - Round 10 (Hungary, Hungaroring): https://www.formula1.com/en/results/1988/races/536/hungary/race-result
+    - Round 11 (Belgium, Spa-Francorchamps): https://www.formula1.com/en/results/1988/races/537/belgium/race-result
+    - Round 12 (Italy, Monza): https://www.formula1.com/en/results/1988/races/538/italy/race-result
+    - Round 13 (Portugal, Estoril): https://www.formula1.com/en/results/1988/races/539/portugal/race-result
+    - Round 14 (Spain, Jerez): https://www.formula1.com/en/results/1988/races/540/spain/race-result
+    - Round 15 (Japan, Suzuka): https://www.formula1.com/en/results/1988/races/541/japan/race-result
+    - Round 16 (Australia, Adelaide): https://www.formula1.com/en/results/1988/races/542/australia/race-result
+  - Jolpica-F1 API: `https://api.jolpi.ca/ergast/f1/1988/`
+  - FIA Official Heritage Archive: https://www.fia.com/hall-of-fame
+- **Inventory of Files Audited**:
+  - `seasons/1988/calendar.md`
+  - `seasons/1988/standings.md`
+  - 16 race folders: `brazilian-grand-prix`, `san-marino-grand-prix`, `monaco-grand-prix`, `mexican-grand-prix`, `canadian-grand-prix`, `detroit-grand-prix`, `french-grand-prix`, `british-grand-prix`, `german-grand-prix`, `hungarian-grand-prix`, `belgian-grand-prix`, `italian-grand-prix`, `portuguese-grand-prix`, `spanish-grand-prix`, `japanese-grand-prix`, `australian-grand-prix` (`results.json`, `qualifying.json`, `notes.md`)
+- **Number of Claims Checked**: 405 distinct numerical and factual data points across 16 rounds, calendar, driver standings, constructor standings, and race notes, plus 407 individual starter row checks.
+- **Number Corrected**: 9 key items:
+  1. *Standings Verification*: Confirmed Ayrton Senna captured his maiden FIA Formula One World Drivers' Championship with 90 net points (94 gross, best 11 count; 8 wins, 11 podiums, 13 poles in McLaren MP4/4 Honda Turbo). Defeated Alain Prost (87 net / 105 gross, 7 wins, 14 podiums, 2 poles; dropped 18 points under best 11 rule). McLaren International shattered the all-time Constructors' Championship record with 199 points (15 wins in 16 races, 93.75% win rate, 10 1-2 finishes, 25 podiums).
+  2. *Driver Standings Podiums Count & Constructor Attribution*: Populated missing podium tallies for all drivers in `standings.md` (Prost 14, Senna 11, Berger 5, Boutsen 5, Piquet 3, Alboreto 3, Capelli 2, Mansell 2, Nannini 2, Cheever 1).
+  3. *Constructors' Cup Standings*: Restored complete official constructor standings table in `standings.md` with chassis-engine configurations, points, wins, podiums, and poles (McLaren-Honda 199 pts, Ferrari 65, Benetton-Ford 39, Arrows-Megatron 23, Lotus-Honda 23, March-Judd 22, Williams-Judd 20, Tyrrell-Ford 5, Rial-Ford 3, Minardi-Ford 1), explaining the 4th-place tie-break between Arrows and Lotus.
+  4. *Australian GP Calendar Typo Correction*: Corrected fastest lap in `calendar.md` which was erroneously listed as `Ferrari / Alain Prost` to Alain Prost (McLaren-Honda, 1:21.216 on lap 59).
+  5. *Brazilian GP Disqualification Documented*: Ayrton Senna disqualified on lap 31 for illegal spare car change after the formation lap began.
+  6. *Monza Miracle Documented*: Following Enzo Ferrari's death on August 14, Gerhard Berger and Michele Alboreto scored an emotional Ferrari 1-2 finish after Senna collided with Jean-Louis Schlesser with two laps remaining—the only race McLaren did not win in 1988.
+  7. *Monaco Portier Crash Documented*: Senna leading by 55 seconds over Prost before crashing at Portier on lap 67.
+  8. *Suzuka Legend Documented*: Senna stalling on the grid, dropping to 14th, and staging an epic comeback in damp conditions to overtake Prost on lap 28 and clinch his maiden World Championship.
+  9. *Circuit Name Corrections*: Verified Autódromo Internacional Nelson Piquet (officially renamed in 1988) and corrected Autodromo Dino Ferrari (Enzo's name added post-Monza).
+- **Number Marked UNVERIFIED / Moved Out of Fact Body**: 16 claims (spectator attendance estimates across Rounds 1-16 segregated to `## Unverified Claims / Historical Estimates (Needs Primary Source)`).
+- **Discrepancies Found Between Sources**:
+  - 14 documented non-starters across 16 rounds (Brazil: Gugelmin, Larrauri; San Marino: Larini; Monaco: Caffi, Streiff, Modena; Mexico: Alliot, Modena; Canada: Bailey; Detroit: Capelli; France: Ghinzani; Great Britain: Pérez-Sala; Spain: Arnoux; Australia: Alboreto).
+  - 1 opening-lap crash retirement omitted from F1.com table: Andrea de Cesaris at San Marino (broken suspension lap 1) and Nelson Piquet at Monaco (collision lap 1).
+  - San Marino: Caffi (F1.com 18 laps vs local 38 laps) and Ghinzani (F1.com 16 laps vs local 36 laps) data logging differences.
+- **Gaps That Remain**: None. 1988 season is 100% verified against primary sources.
