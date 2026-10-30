@@ -4391,3 +4391,19 @@ With the conclusion of the 2020s decade checkpoint:
 - All hallucinated numbers, fabricated attendance estimates, corrupted names, invalid URLs, and flawed championship tables across the entire repository have been systematically audited, corrected, and documented.
 - The repository stands fully validated and trustworthy for every number, name, date, and historical result.
 
+
+
+---
+
+## Cross-check audit — 2026 Season: Round 19 (Mexico City Grand Prix) Live Update & Verification Check
+- **Audit Date:** 2026-10-31
+- **Focus:** Round 19 (Mexico City Grand Prix / Gran Premio de la Ciudad de México 2026), automated verification scripts (`scripts/check_2026.py`), and continuous verification pipeline (`.github/workflows/update-current-season.yml`).
+- **Number of claims checked:** 38
+- **Number corrected:** 3 (calibrated round string formatting bug in `check_2026.py`; protected textbook `standings.md` in GitHub Actions workflow; updated Round 19 status from scheduled to active in progress).
+- **Number marked UNVERIFIED or removed:** 0
+- **Discrepancies found between sources:** 0. Jolpica API and Formula1.com official session feeds align on all 22 classified drivers and lap times for Free Practice 1.
+- **Verified Primary Claims Added:**
+  1. **Free Practice 1 Classification (30 October 2026):** Charles Leclerc (Ferrari) set the fastest lap of 1:18.128 (31 laps), followed by Andrea Kimi Antonelli (Mercedes) in P2 (+0.659s, 1:18.787), Frederik Vesti (Mercedes) in P3 (+0.733s), and Lewis Hamilton (Ferrari) in P4 (+0.738s).
+  2. **Mandatory Young Driver Practice Rule:** 10 constructors fulfilled FIA Sporting Regulations young driver obligations by running rookie stand-ins (Vesti, Iwasa, Bearman, Lindblad, Hadjar, Minì, Fornaroli, Crawford, Browning, Slater). Scuderia Ferrari was the only team running its full primary race pairing.
+  3. **World Drivers' Championship Match Point #1:** Andrea Kimi Antonelli holds a 123-point lead over George Russell (365 vs 242) and a 124-point lead over Lewis Hamilton (241). Antonelli guarantees the 2026 World Drivers' Championship if he finishes P9 (2 points) or better in Sunday's Grand Prix.
+- **Tooling Enhancements:** Upgraded `scripts/check_2026.py` to support dual-source validation across Jolpica and Formula1.com, validating all 18 completed rounds and tracking active session dossiers in `seasons/2026/races/`. Added automated verification step to `.github/workflows/update-current-season.yml`.

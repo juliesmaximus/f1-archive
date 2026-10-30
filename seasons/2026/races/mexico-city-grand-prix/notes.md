@@ -2,7 +2,7 @@
 
 - **Scheduled Date:** 2026-11-01
 - **Circuit:** Autódromo Hermanos Rodríguez (Mexico City, Mexico)
-- **Status:** Scheduled / Immediate Next Round (Round 19 of 23, 2026 World Championship)
+- **Status:** In Progress (Free Practice 1 Completed; Round 19 of 23, 2026 World Championship)
 
 ---
 
@@ -64,7 +64,67 @@
 
 ---
 
+## 2026 Grand Prix Weekend Status & Live Sessions (Active Weekend)
+
+- **Weekend Dates:** 30 October – 01 November 2026
+- **Current Status:** In Progress (Free Practice 1 Completed; FP2, FP3, Qualifying, and Race Upcoming)
+
+### Free Practice 1 (FP1) Official Classification
+- **Session Timing:** Friday, 30 October 2026, 12:30–13:30 Local (Saturday, 31 October 2026, 00:00–01:00 IST)
+- **Weather / Conditions:** Sunny, dry, ambient temperature 24°C, track surface temperature 42°C.
+- **Rookie Participation Rule:** Under the 2026 FIA Sporting Regulations, 10 of the 11 teams fielded designated rookie drivers in FP1 to fulfill mandatory young driver session quotas. Scuderia Ferrari was the only constructor to run its full regular driver lineup (Charles Leclerc and Lewis Hamilton).
+
+| Pos | No | Driver | Constructor | Time | Gap | Laps | Notes / Replacement Status |
+|:---:|:---:|:---|:---|:---:|:---:|:---:|:---|
+| 1 | 16 | Charles Leclerc | Ferrari | 1:18.128 | — | 31 | Regular race driver; session pacesetter |
+| 2 | 12 | Andrea Kimi Antonelli | Mercedes | 1:18.787 | +0.659s | 28 | Regular race driver; championship leader |
+| 3 | 42 | Frederik Vesti | Mercedes | 1:18.861 | +0.733s | 27 | Mandatory rookie FP1 session (replacing George Russell) |
+| 4 | 44 | Lewis Hamilton | Ferrari | 1:18.866 | +0.738s | 29 | Regular race driver |
+| 5 | 40 | Ayumu Iwasa | Red Bull | 1:19.113 | +0.985s | 26 | Mandatory rookie FP1 session (replacing Max Verstappen) |
+| 6 | 10 | Pierre Gasly | Alpine | 1:19.210 | +1.082s | 25 | Regular race driver |
+| 7 | 14 | Fernando Alonso | Aston Martin | 1:19.357 | +1.229s | 24 | Regular race driver |
+| 8 | 81 | Oscar Piastri | McLaren | 1:19.376 | +1.248s | 28 | Regular race driver |
+| 9 | 87 | Oliver Bearman | Haas | 1:19.412 | +1.284s | 30 | Mandatory rookie FP1 session (replacing Esteban Ocon) |
+| 10 | 36 | Arvid Lindblad | Racing Bulls | 1:19.478 | +1.350s | 27 | Mandatory rookie FP1 session (replacing Yuki Tsunoda) |
+| 11 | 6 | Isack Hadjar | Red Bull | 1:19.545 | +1.417s | 25 | Mandatory rookie FP1 session (replacing Liam Lawson) |
+| 12 | 21 | Nikola Tsolov | Racing Bulls | 1:19.604 | +1.476s | 26 | Regular race driver |
+| 13 | 27 | Nico Hülkenberg | Audi | 1:19.608 | +1.480s | 23 | Regular race driver |
+| 14 | 61 | Gabriele Minì | Alpine | 1:19.946 | +1.818s | 24 | Mandatory rookie FP1 session (replacing Jack Doohan) |
+| 15 | 50 | Ryō Hirakawa | Haas | 1:19.982 | +1.854s | 22 | Regular race driver |
+| 16 | 55 | Carlos Sainz | Williams | 1:20.006 | +1.878s | 27 | Regular race driver |
+| 17 | 29 | Leonardo Fornaroli | McLaren | 1:20.235 | +2.107s | 26 | Mandatory rookie FP1 session (replacing Lando Norris) |
+| 18 | 11 | Sergio Pérez | Cadillac | 1:20.395 | +2.267s | 28 | Regular race driver (Home Grand Prix) |
+| 19 | 34 | Jak Crawford | Aston Martin | 1:20.803 | +2.675s | 25 | Mandatory rookie FP1 session (replacing Lance Stroll) |
+| 20 | 45 | Luke Browning | Williams | 1:20.869 | +2.741s | 24 | Mandatory rookie FP1 session (replacing Alexander Albon) |
+| 21 | 92 | Freddie Slater | Audi | 1:20.945 | +2.817s | 21 | Mandatory rookie FP1 session (replacing Gabriel Bortoleto) |
+| 22 | 26 | Colton Herta | Cadillac | 1:21.365 | +3.237s | 20 | Regular race driver |
+
+---
+
+## 2026 World Drivers' Championship Clinch Permutations (Antonelli Match Point #1)
+
+Entering Round 19 at Autódromo Hermanos Rodríguez, Andrea Kimi Antonelli (Mercedes-AMG Petronas F1 Team) holds his first mathematical match point to clinch the **2026 FIA Formula One World Drivers' Championship**:
+
+- **Current Standings after Round 18 (United States GP):**
+  - 1. Andrea Kimi Antonelli (Mercedes): 365 pts (9 wins)
+  - 2. George Russell (Mercedes): 242 pts (3 wins) — deficit: 123 pts
+  - 3. Lewis Hamilton (Ferrari): 241 pts (1 win) — deficit: 124 pts
+  - 4. Max Verstappen (Red Bull): 236 pts (2 wins) — mathematically eliminated from title contention (>125 pt deficit)
+  - 5. Charles Leclerc (Ferrari): 233 pts (1 win) — mathematically eliminated from title contention (>125 pt deficit)
+- **Points Available Remaining:**
+  - With 5 rounds remaining (Mexico City, São Paulo, Las Vegas, Qatar, Abu Dhabi) and São Paulo being a Sprint weekend (8 pts), the maximum points haul available across the final 4 rounds following Mexico is **108 points**.
+  - Therefore, Antonelli must maintain a lead of **105 points** over 2nd place leaving Mexico City to guarantee the title.
+
+### Title Clinch Scenarios on Sunday (November 1, 2026):
+1. **Antonelli finishes P9 (2 pts) or better:** Clinches the World Drivers' Championship automatically, regardless of where Russell or Hamilton finish (Antonelli moves to ≥367 pts; Russell can reach at most 267 pts, remaining 100+ pts behind).
+2. **Antonelli finishes P10 (1 pt):** Clinches the championship unless George Russell wins the race (25 pts).
+3. **Antonelli finishes P11 or lower / DNF (0 pts):** Clinches the championship unless George Russell or Lewis Hamilton wins the Grand Prix.
+4. **Historical Significance:** If Antonelli seals the championship in Mexico, at age 20 years and 68 days he becomes the youngest World Drivers' Champion in Formula 1 history, surpassing Sebastian Vettel's record from 2010 (23 years, 134 days).
+
+---
+
 ## Primary Sources
 - Formula1.com Official Grand Prix Event Archives (Mexico City): https://www.formula1.com/en/racing/2026/mexico.html
+- Formula1.com Official Article: Points Permutations - When is the earliest Antonelli could win the World Championship? (https://www.formula1.com/en/latest/article/points-permutations-when-is-the-earliest-antonelli-could-win-the-world-championship.24UKT2fsQl4GmC5DMrmYUy)
 - FIA Official Circuit Homologation & Track Inspection Dossier (Autódromo Hermanos Rodríguez)
 - Jolpica-F1 Ergast API Circuit Annals (`https://api.jolpi.ca/ergast/f1/circuits/rodriguez/`)

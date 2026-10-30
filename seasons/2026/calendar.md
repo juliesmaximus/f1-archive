@@ -2,7 +2,7 @@
 
 Verified official schedule for the 2026 Formula 1 season, representing the inaugural year of the revolutionary 2026 FIA Power Unit and Active Aerodynamics Technical Regulations.
 
-Status: Active Season (18 of 23 rounds completed through the United States Grand Prix; 5 rounds remaining).
+Status: Active Season (18 of 23 rounds completed through the United States Grand Prix; Round 19 Mexico City Grand Prix in progress with FP1 completed; 5 rounds remaining).
 
 | Rnd | Official Grand Prix Name | Circuit | Location | Date | Status | Winner | Pole Position | Fastest Lap |
 |:---:|:---|:---|:---|:---|:---:|:---|:---|:---|
@@ -24,7 +24,7 @@ Status: Active Season (18 of 23 rounds completed through the United States Grand
 | 16 | [Grand Prix of Malaysia](races/bahrain-grand-prix-in-malaysia/notes.md) | Sepang International Circuit | Kuala Lumpur, Malaysia | 2026-10-04 | Completed | Max Verstappen | Max Verstappen | Max Verstappen |
 | 17 | [Singapore Grand Prix](races/singapore-grand-prix/notes.md) | Marina Bay Street Circuit | Marina Bay, Singapore | 2026-10-11 | Completed | Max Verstappen | Max Verstappen | Charles Leclerc |
 | 18 | [United States Grand Prix](races/united-states-grand-prix/notes.md) | Circuit of the Americas | Austin, USA | 2026-10-25 | Completed | Kimi Antonelli | Kimi Antonelli | Charles Leclerc |
-| 19 | [Mexico City Grand Prix](races/mexico-city-grand-prix/notes.md) | Autódromo Hermanos Rodríguez | Mexico City, Mexico | 2026-11-01 | Upcoming | - | - | - |
+| 19 | [Mexico City Grand Prix](races/mexico-city-grand-prix/notes.md) | Autódromo Hermanos Rodríguez | Mexico City, Mexico | 2026-11-01 | In Progress (FP1 Completed) | Pending (Nov 1) | Pending (Oct 31) | Pending (Nov 1) |
 | 20 | [São Paulo Grand Prix](races/brazilian-grand-prix/notes.md) | Autódromo José Carlos Pace | São Paulo, Brazil | 2026-11-08 | Upcoming | - | - | - |
 | 21 | [Las Vegas Grand Prix](races/las-vegas-grand-prix/notes.md) | Las Vegas Strip Circuit | Las Vegas, USA | 2026-11-22 | Upcoming | - | - | - |
 | 22 | [Qatar Grand Prix](races/qatar-grand-prix/notes.md) | Lusail International Circuit | Lusail, Qatar | 2026-11-29 | Upcoming | - | - | - |

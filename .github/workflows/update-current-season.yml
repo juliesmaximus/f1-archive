@@ -62,7 +62,7 @@ jobs:
               md += f"- {s['position']}. {s['Constructor']['name']} — {s['points']} pts\n"
           md += "\nSource: https://api.jolpi.ca/ergast/f1/\nVerify critical numbers against https://www.formula1.com/en/results before use.\n"
 
-          with open(f"seasons/{year}/standings.md", "w") as f:
+          with open(f"seasons/{year}/standings_raw.md", "w") as f:
               f.write(md)
 
           # Per-race data
@@ -103,6 +103,10 @@ jobs:
 
           print(f"Updated seasons/{year}/ including race-level files")
           PY
+
+      - name: Run dual-source verification check
+        run: |
+          python scripts/check_2026.py
 
       - name: Commit and push if changed
         run: |
