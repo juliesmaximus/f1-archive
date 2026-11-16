@@ -1,6 +1,6 @@
 # 2026 Season
 
-Last pulled from Jolpica: 2026-11-09T15:11:15.579913Z
+Last pulled from Jolpica: 2026-11-16T14:47:17.524216Z
 
 ## Driver Standings
 
